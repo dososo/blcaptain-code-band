@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>代码乐团 · 试听</title>
+<meta name="description" content="代码乐团：用 Agent 写谱、本地真实采样演奏的无人声配乐。八段试听。">
+<style>
+  :root {
+    --paper: #f4e9dc;      /* 米纸暖底 */
+    --ink: #2b2622;        /* 墨 */
+    --ink-soft: #5e554d;
+    --line: #d9cbb8;
+    --cinnabar: #9e4b3b;   /* 朱砂：唯一的强调色 */
+    --celadon: #7e8c6b;    /* 青瓷：只用于说明性标签 */
+    --serif: "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
+    --sans: -apple-system, "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.8 var(--sans); }
+  main { max-width: 760px; margin: 0 auto; padding: 96px 24px 120px; }
+  h1, h2 { font-family: var(--serif); font-weight: 400; margin: 0; }
+  h1 { font-size: 44px; letter-spacing: .08em; line-height: 1.3; }
+  .lead { margin: 24px 0 0; color: var(--ink-soft); max-width: 34em; }
+  .meta { margin: 16px 0 0; font-size: 14px; color: var(--ink-soft); }
+  .meta a { color: var(--cinnabar); text-decoration: none; border-bottom: 1px solid currentColor; }
+  section { margin-top: 88px; }
+  section > h2 { font-size: 22px; letter-spacing: .12em; padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+  .work { padding: 40px 0; border-bottom: 1px solid var(--line); }
+  .work h3 { margin: 0; font: 400 26px/1.4 var(--serif); letter-spacing: .06em; }
+  .work .spec { margin: 8px 0 0; font-size: 14px; color: var(--ink-soft); }
+  .work p { margin: 16px 0 0; max-width: 36em; }
+  .tag { display: inline-block; margin-right: 8px; font-size: 13px; color: var(--celadon); }
+  .note { font-size: 14px; color: var(--ink-soft); }
+  audio { display: block; width: 100%; margin-top: 20px; }
+  .ab { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 20px; }
+  .ab figure { margin: 0; }
+  .ab figcaption { font-size: 14px; color: var(--ink-soft); }
+  .ab audio { margin-top: 8px; }
+  footer { margin-top: 96px; font-size: 13px; color: var(--ink-soft); }
+  footer p { margin: 8px 0; }
+  @media (max-width: 560px) {
+    main { padding: 64px 16px 96px; }
+    h1 { font-size: 34px; }
+    .ab { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>代码乐团</h1>
+  <p class="lead">给编码 Agent 用的配乐技能：Agent 读需求、写乐谱，本地的真实乐器采样逐音演奏，交付可编辑的工程和 WAV。下面八段都是这样做出来的，没有使用生成式音频模型。</p>
+  <p class="meta">无人声配乐 · Claude Code / Codex · 代码 Apache-2.0 · <a href="https://github.com/dososo/blcaptain-code-band">GitHub 仓库</a></p>
+
+  <section>
+    <h2>中西合奏与民族乐器</h2>
+
+    <article class="work">
+      <h3>远山回声</h3>
+      <p class="spec">29 秒 · D 宫五声 · 72 BPM</p>
+      <p>古琴起句，二胡唱主题，古筝八分音符流动；圆号应答，弦乐组托住高潮，定音鼓收尾。先写编排计划，再用 <code>arrange-check</code> 核对声部关系和唯一高峰。</p>
+      <audio controls preload="none" src="audio/yuanshan-huisheng.mp3"></audio>
+    </article>
+
+    <article class="work">
+      <h3>松下</h3>
+      <p class="spec">36 秒 · 古琴独奏</p>
+      <p>古琴两声部：按音走旋律，散音作低音。采样来自 GuqinSonGest 古琴录音集（CC BY 4.0）。</p>
+      <audio controls preload="none" src="audio/songxia-guqin.mp3"></audio>
+      <p class="note">这段用的是古琴音色第一版；公开版附带的是第二版，补了泛音和吟猱绰注。</p>
+    </article>
+
+    <article class="work">
+      <h3>古筝：修复前后</h3>
+      <p class="spec">各 12 秒 · 等响度对照（−23 LUFS）</p>
+      <p>同一段《霜河》。旧版古筝切片混进了前一个音的余振，听起来发浑；重新切片后，每个音的起止干净了。</p>
+      <div class="ab">
+        <figure><figcaption>修复前</figcaption><audio controls preload="none" src="audio/guzheng-ab-before.mp3"></audio></figure>
+        <figure><figcaption>修复后</figcaption><audio controls preload="none" src="audio/guzheng-ab-after.mp3"></audio></figure>
+      </div>
+    </article>
+  </section>
+
+  <section>
+    <h2>管弦与键盘</h2>
+
+    <article class="work">
+      <h3>晨光启程</h3>
+      <p class="spec">60 秒 · F 大调 · 84 BPM</p>
+      <p>圆号唱主题，长笛应答，弦乐组和低音提琴铺底，竖琴点缀，定音鼓推进。从一句中文需求写起，A–A′–尾声。</p>
+      <audio controls preload="none" src="audio/chenguang-qicheng.mp3"></audio>
+    </article>
+
+    <article class="work">
+      <h3>灯火未眠</h3>
+      <p class="spec">3 分钟 · D 大调 · 抒情</p>
+      <p>钢琴新主题，尼龙吉他分解和弦，弦乐在后半句作答，后段轻鼓推进。</p>
+      <p class="note"><span class="tag">参考说明</span>参考了一首现有伴奏的速度和能量起伏；旋律、和声与配器都是新写的，没有使用参考的音频或旋律。</p>
+      <audio controls preload="none" src="audio/denghuo-weimian.mp3"></audio>
+    </article>
+
+    <article class="work">
+      <h3>向光行进</h3>
+      <p class="spec">3 分钟 · 有节奏、昂扬</p>
+      <p>钢琴主题贯穿七段，配器进退、短句接力，打击乐密度逐段变化。</p>
+      <p class="note"><span class="tag">参考说明</span>参考了一首现有曲目的节奏和层次关系，主题为自写。<span class="tag">版本说明</span>其中一个声部用 Surge XT 合成器渲染，这条插件路径不在公开版 v1 里。</p>
+      <audio controls preload="none" src="audio/xiangguang-xingjin.mp3"></audio>
+    </article>
+  </section>
+
+  <section>
+    <h2>电子</h2>
+
+    <article class="work">
+      <h3>折线脉冲</h3>
+      <p class="spec">60 秒 · E 小调 · 电子脉冲</p>
+      <p>十六分音型和方波新主题，稳定的低频；桥段用减法抽掉声部，制造回归的层次。</p>
+      <audio controls preload="none" src="audio/zhexian-maichong.mp3"></audio>
+    </article>
+  </section>
+
+  <footer>
+    <p>每段音频都由代码乐团从乐谱渲染，用到的音色按各自许可署名，清单见仓库 docs/third-party-soundfonts.md。</p>
+    <p>演示音频的版权归项目作者所有，仅供试听。</p>
+  </footer>
+</main>
+</body>
+</html>

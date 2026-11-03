@@ -1,0 +1,14 @@
+Iowa MIS作者公开授权声明（非CC0/公有领域标记）
+
+作者：Lawrence Fritts，University of Iowa Electronic Music Studios。
+来源：https://theremin.music.uiowa.edu/MIS.html
+取得日期：2026-10-31。取得版本HTML随包保存在授权证据/MIS官方授权页.html。
+
+作者明确允许这些录音下载并用于任何项目，不设置使用限制；官网也明确列应用开发者为使用者。原意不是仅限教学或非商业作品。
+本包使用LicenseRef-Iowa-MIS标记该作者声明，不擅自改称CC0或公有领域。
+
+本包改作：从作者逐音半音阶录音中按实际静音分界取单音，保留pp/mf/ff真实力度层；重新编排为SF2，不添加采样循环、模型续音或未录制奏法。
+作者原始录音、来源、取得HTML与哈希清单随包保留。具体演奏者/技师/器材请见每件乐器原始官网页。
+致谢：Lawrence Fritts与University of Iowa MIS演奏者和录音人员。
+
+作者原文关键授权句："may be downloaded and used for any projects, without restrictions."

@@ -1,0 +1,119 @@
+{
+  "author": "Clint Goss",
+  "source": "https://www.flutopedia.com/soundlib.htm",
+  "archive": "https://www.flutopedia.com/zip/ClintGoss_NativeFluteSoundLibraries_CC-BY_v2021_0805.zip",
+  "source_archive_sha256": "bbe70ddca82c8880221a1a21133100512fd4067542f324924bb3929a1568a9ac",
+  "license": "CC-BY-4.0",
+  "changes": "选取Beltrami NAF 9个 WAV转换PCM16、按最近根音映射 MIDI 64–80；不读取或依赖 Kontakt。",
+  "samples": [
+    {
+      "filename": "CG_NBEM_64_E.wav",
+      "midi": 64,
+      "keys": [
+        64,
+        65
+      ],
+      "source_sha256": "f933a7a51e7e7f2c1dc7f2f7b29aca0b3c576f7ab4849ffdc78d2bdac7a91a66",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_66_F#.wav",
+      "midi": 66,
+      "keys": [
+        66,
+        67
+      ],
+      "source_sha256": "a9cc4ca2bcbe6219692948b635037a8ac8a13cce0e649901c7c7b3f1a2a8b4d7",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_68_G#.wav",
+      "midi": 68,
+      "keys": [
+        68,
+        68
+      ],
+      "source_sha256": "279d397fc22717e34604991c2d9ad490cc478a0cd1e39ff19493422a7cd9a5e5",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_69_A.wav",
+      "midi": 69,
+      "keys": [
+        69,
+        70
+      ],
+      "source_sha256": "d9f54a9ce0f4dd7adbb36717a69c380b83b72f2a126f16851d7b1fadbe8997dc",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_71_B.wav",
+      "midi": 71,
+      "keys": [
+        71,
+        72
+      ],
+      "source_sha256": "7bb8230259cffee5851f460884e8cd0f867d84e4925dc5bee1ccc86cd4a0ae56",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_73_C#.wav",
+      "midi": 73,
+      "keys": [
+        73,
+        74
+      ],
+      "source_sha256": "47a012113a817f90c1acf8783d503ed3819028dafc6403cf057893105e2fcc2c",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_76_e.wav",
+      "midi": 76,
+      "keys": [
+        75,
+        77
+      ],
+      "source_sha256": "362d51158f636d285de38c5525e673a405ea7b6ec6dd250a75000ee9deca1167",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_78_f#.wav",
+      "midi": 78,
+      "keys": [
+        78,
+        79
+      ],
+      "source_sha256": "8c428d0e81ae30af15d64d32d367f2894018e0ca4147681461f56c7f84e65ebb",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 96000
+    },
+    {
+      "filename": "CG_NBEM_80_g#.wav",
+      "midi": 80,
+      "keys": [
+        80,
+        80
+      ],
+      "source_sha256": "d16e610d36e7a48bac1b1dea399ca9788108f04403549a0fa98f7bf9143e14bb",
+      "sample_rate": 48000,
+      "channels": 1,
+      "frames": 95115
+    }
+  ],
+  "font_sha256": "cfe3e7d04b54df2ee328d58f8036f0738bdf8663e5a197f7e7f190b46947d149"
+}

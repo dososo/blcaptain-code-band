@@ -1,0 +1,579 @@
+{
+  "kind": "xiao",
+  "zones": [
+    {
+      "sample_name": "xiao_m60",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 2.3509747891156465,
+        "source_end_seconds": 3.784036,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.001579220689095939,
+        "onset_threshold_rms": 0.006316882756383756,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 60,
+      "key_range": [
+        60,
+        61
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 60,
+        "median_midi": 60.207165806663355,
+        "median_cents_offset": 20.71658066633546,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 264.48235574592644,
+            "midi": 60.18801547372232,
+            "periodicity": 0.9788542359744845
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 264.1693149050189,
+            "midi": 60.16751248258627,
+            "periodicity": 0.9769149427563866
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 264.46255729823406,
+            "midi": 60.18671946932055,
+            "periodicity": 0.9749430699293448
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 265.51535833706396,
+            "midi": 60.25550148264773,
+            "periodicity": 0.9754776330927032
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 265.90016421030987,
+            "midi": 60.280573732825445,
+            "periodicity": 0.9749777699840662
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 265.3416444654226,
+            "midi": 60.24417114779192,
+            "periodicity": 0.9782154023890284
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 264.7750791666007,
+            "midi": 60.207165806663355,
+            "periodicity": 0.9749493096840279
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 264.8415591848841,
+            "midi": 60.211512062558846,
+            "periodicity": 0.9744453866286399
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 264.58103119445366,
+            "midi": 60.194473312328995,
+            "periodicity": 0.9771624683352411
+          }
+        ],
+        "pitch_correction_cents": -21
+      },
+      "frames": 63198,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "dd46cfe94b664bbc9f2b16ffc4deac16f5cf5857a77f97cf085687e240dd1c96",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    },
+    {
+      "sample_name": "xiao_m62",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 18.062993462585034,
+        "source_end_seconds": 19.326984,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.0014630591733078592,
+        "onset_threshold_rms": 0.005852236693231437,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 62,
+      "key_range": [
+        62,
+        63
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 62,
+        "median_midi": 62.38469815604,
+        "median_cents_offset": 38.469815604000246,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 300.2895676893697,
+            "midi": 62.386209979006495,
+            "periodicity": 0.9846957689899773
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 300.3857362862909,
+            "midi": 62.39175341819108,
+            "periodicity": 0.9765231668445621
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 301.65897296900164,
+            "midi": 62.46497967365122,
+            "periodicity": 0.979838334752169
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 301.09181252846304,
+            "midi": 62.432399450469276,
+            "periodicity": 0.982753876734008
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 299.2743155034094,
+            "midi": 62.32757933490316,
+            "periodicity": 0.9734559442897427
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 297.88799133521655,
+            "midi": 62.247197305186795,
+            "periodicity": 0.9771427968096
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 299.00248126831644,
+            "midi": 62.31184719491648,
+            "periodicity": 0.9729689481179679
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 300.2633456517747,
+            "midi": 62.38469815604,
+            "periodicity": 0.9809699129456606
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 299.98294602164714,
+            "midi": 62.36852354808099,
+            "periodicity": 0.9826228214060945
+          }
+        ],
+        "pitch_correction_cents": -38
+      },
+      "frames": 55741,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "6a3326c0cd9d25b62a6e394546b87d0c3abab673552f1083f07c491d8eb2eb4f",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    },
+    {
+      "sample_name": "xiao_m64",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 14.058729689342403,
+        "source_end_seconds": 17.177959,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.0015024270308974098,
+        "onset_threshold_rms": 0.006009708123589639,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 64,
+      "key_range": [
+        64,
+        65
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 64,
+        "median_midi": 64.23313679545448,
+        "median_cents_offset": 23.31367954544845,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 332.29842373872816,
+            "midi": 64.13971111027506,
+            "periodicity": 0.9851133206434198
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 333.25722786339463,
+            "midi": 64.18959170226806,
+            "periodicity": 0.9792993317834413
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 334.09651257798066,
+            "midi": 64.23313679545448,
+            "periodicity": 0.982211882056932
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 333.920733476811,
+            "midi": 64.22402580995582,
+            "periodicity": 0.9821798097179224
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 333.90825936439046,
+            "midi": 64.22337906929651,
+            "periodicity": 0.9800605560083184
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 335.5943744923489,
+            "midi": 64.31058010314126,
+            "periodicity": 0.9788721446468573
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 336.04401378062084,
+            "midi": 64.33376016477978,
+            "periodicity": 0.9831917766641286
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 334.5679396828949,
+            "midi": 64.2575481661546,
+            "periodicity": 0.9799533058732047
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 334.78429221894004,
+            "midi": 64.26873978910574,
+            "periodicity": 0.9803880347212597
+          }
+        ],
+        "pitch_correction_cents": -23
+      },
+      "frames": 137558,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "fd769d15568f5d8eb688abee1d13647deb39fb9473f2dda19ac109dd38966f45",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    },
+    {
+      "sample_name": "xiao_m67",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 30.019455873015872,
+        "source_end_seconds": 32.021224,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.0014091347723418108,
+        "onset_threshold_rms": 0.005636539089367243,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 67,
+      "key_range": [
+        66,
+        68
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 67,
+        "median_midi": 67.35598267615025,
+        "median_cents_offset": 35.59826761502478,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 398.86883150572464,
+            "midi": 67.30093042431007,
+            "periodicity": 0.9834820740293394
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 399.6614252220931,
+            "midi": 67.33529770514647,
+            "periodicity": 0.9832346818918191
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 399.6935403390978,
+            "midi": 67.33668879637561,
+            "periodicity": 0.9838979209516875
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 399.97024495977587,
+            "midi": 67.34866984363018,
+            "periodicity": 0.9841894214833384
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 400.3055654337906,
+            "midi": 67.36317779822275,
+            "periodicity": 0.9836011178010081
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 400.13923038687875,
+            "midi": 67.35598267615025,
+            "periodicity": 0.9847532088592112
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 400.1885914517297,
+            "midi": 67.35811818997207,
+            "periodicity": 0.9821251213900443
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 400.80683538077824,
+            "midi": 67.38484306547797,
+            "periodicity": 0.9836437112347408
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 401.45456738411457,
+            "midi": 67.41279844108607,
+            "periodicity": 0.985339448372583
+          }
+        ],
+        "pitch_correction_cents": -36
+      },
+      "frames": 88277,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "11e8a7415db904581639f88b8088e5ee975b4dd1490bb12852278a3a06afb808",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    },
+    {
+      "sample_name": "xiao_m69",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 10.041496394557822,
+        "source_end_seconds": 11.980317000000001,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.0017066115179153766,
+        "onset_threshold_rms": 0.0068264460716615065,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 69,
+      "key_range": [
+        69,
+        70
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 69,
+        "median_midi": 69.38872941238608,
+        "median_cents_offset": 38.872941238608405,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 450.1666514679656,
+            "midi": 69.39546793865188,
+            "periodicity": 0.985146621006522
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 450.85061544412827,
+            "midi": 69.42175160700745,
+            "periodicity": 0.9852601996282967
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 450.5524972942514,
+            "midi": 69.41030029730516,
+            "periodicity": 0.986309141171838
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 449.6109354836277,
+            "midi": 69.37408321936178,
+            "periodicity": 0.9842312771388665
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 449.99146605485,
+            "midi": 69.38872941238608,
+            "periodicity": 0.9850376161119764
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 450.2124952073166,
+            "midi": 69.39723089024538,
+            "periodicity": 0.9850026130013757
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 449.5991942268262,
+            "midi": 69.37363111450036,
+            "periodicity": 0.9860340482830818
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 448.3707647390111,
+            "midi": 69.32626426750025,
+            "periodicity": 0.9839239274144514
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 447.4785333310137,
+            "midi": 69.29177940699444,
+            "periodicity": 0.9826238424466441
+          }
+        ],
+        "pitch_correction_cents": -39
+      },
+      "frames": 85502,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "e65e04e63b4930750109552bcc133074b4ec65de9a83f1373fbaad1ec6dc2f56",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    },
+    {
+      "sample_name": "xiao_m72",
+      "source": {
+        "file": "xiao-427845-hq.mp3",
+        "sha256": "631b4d96f1050a931bad09730bbc5ed5e48f34d847c71e3bc48bfd9c220fc818",
+        "source_start_seconds": 108.04702939455782,
+        "source_end_seconds": 109.036281,
+        "detected_onset_after_crop_seconds": 0.004988662131519274,
+        "noise_baseline_p95": 0.0016728405811847692,
+        "onset_threshold_rms": 0.006691362324739077,
+        "selection": "先以完整录音连续F0稳定段筛选，再核独立呼吸起点；没有把完整旋律句采为单音"
+      },
+      "root_midi": 72,
+      "key_range": [
+        71,
+        72
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "bank": 0,
+      "program": 0,
+      "preset_name": "Xiao-CC0-HQ",
+      "measurement": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 72,
+        "median_midi": 72.31281687611938,
+        "median_cents_offset": 31.28168761193848,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 532.5146879082153,
+            "midi": 72.3038135374874,
+            "periodicity": 0.9936667576887349
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 532.8786882760035,
+            "midi": 72.3156433436265,
+            "periodicity": 0.9812674614105372
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 534.1304125480192,
+            "midi": 72.35626209134236,
+            "periodicity": 0.9900322811269529
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 533.6783077988596,
+            "midi": 72.34160217768282,
+            "periodicity": 0.9870744844049082
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 533.0539263878313,
+            "midi": 72.32133560192595,
+            "periodicity": 0.9860131091765134
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 532.7916959161562,
+            "midi": 72.31281687611938,
+            "periodicity": 0.9899148044034195
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 531.5948221935563,
+            "midi": 72.27388234662133,
+            "periodicity": 0.984592821213812
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 532.0563496927244,
+            "midi": 72.28890629793929,
+            "periodicity": 0.9876328232414858
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 531.7054041165918,
+            "midi": 72.27748327110764,
+            "periodicity": 0.9883946867129927
+          }
+        ],
+        "pitch_correction_cents": -31
+      },
+      "frames": 43626,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "raw_pcm_sha256": "e8839c7d1b3a0e45391220dab3f043ec3ecf6b9e28af3305122d0afc801f5b65",
+      "automatic_round_robin": false,
+      "loop_enabled": false
+    }
+  ],
+  "rejected": [],
+  "status": "准备完成；须独立加载和真实WAV验收后才能注册",
+  "human_listening": "未执行",
+  "scope": "真实独立单音；单力度；未启用RR；没有多奏法/全覆盖承诺"
+}

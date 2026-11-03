@@ -1,0 +1,172 @@
+{
+  "说明": "公开HQ MP3试听派生、源页作者及CC0逐条核对；非原始WAV；宝思兰切分附5ms淡化，不标具体技法",
+  "samples": [
+    {
+      "instrument": "djembe",
+      "logical_hit": "bass",
+      "midi": 60,
+      "label": "djembe_bass",
+      "source_url": "https://freesound.org/people/PanPiper5/sounds/659911/",
+      "sound_id": 659911,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/659/659911_8499836-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "ffc378ee6cb514ff2d06b933c68ede42791b7e7e53202b201cc6fb50e6bd2c1d",
+      "bytes": 27264,
+      "page_sha256": "d6fda9dd97e89f8c30b3753541e4fec3b93644218681e5bce67138840c72518b",
+      "截取秒": null,
+      "采样率": 48000,
+      "声道": 2,
+      "输出帧": 51827,
+      "PCM16单声道SHA256": [
+        "5616855c6ce9b873bfd348b035f121e1066d02d9a740ea1ed5d8fb39b5a2bf1c",
+        "2867c6d00b45bc909d1d52ddd4c1121a4477823be9d19d3e1a33f919835cdbee"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "djembe",
+      "logical_hit": "slap",
+      "midi": 61,
+      "label": "djembe_slap",
+      "source_url": "https://freesound.org/people/PanPiper5/sounds/659910/",
+      "sound_id": 659910,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/659/659910_8499836-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "1eaa9a6ff8637bd4426932a3122896390cc47579c24781720ea40b32590d564b",
+      "bytes": 20064,
+      "page_sha256": "7409f9d991b4c076ccaf064880b76bd8dc2c46ca241ea9e68b5ecaafdcb0adf7",
+      "截取秒": null,
+      "采样率": 48000,
+      "声道": 1,
+      "输出帧": 38104,
+      "PCM16单声道SHA256": [
+        "92cd3f07be2a7b6f6455140474e6a41b3a9f68ef46c8c4db672496bc894c4c58"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "udu",
+      "logical_hit": "hit1",
+      "midi": 60,
+      "label": "udu_1",
+      "source_url": "https://freesound.org/people/iyankc/sounds/479245/",
+      "sound_id": 479245,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/479/479245_10274254-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "9ed3b50712f023f325c4053db9a5a2eade6f6bdb801d067b6da585915db7e342",
+      "bytes": 17687,
+      "page_sha256": "18c19abf210e98a9370724fab99a661689a5c8b63a5bfafba79f7b0bee65dff7",
+      "截取秒": null,
+      "采样率": 44100,
+      "声道": 2,
+      "输出帧": 44100,
+      "PCM16单声道SHA256": [
+        "98f17cbfb6af5c8ed363fd42114d4c2d9d3e871d8aabc73148876770704b6df7",
+        "6b9311bd5d0879dcbb7985683a557772e87b2eb44a3dd002c461fb3f33c524e7"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "udu",
+      "logical_hit": "hit6",
+      "midi": 61,
+      "label": "udu_6",
+      "source_url": "https://freesound.org/people/iyankc/sounds/479252/",
+      "sound_id": 479252,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/479/479252_10274254-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "64f49a782afe81ced1d7b5b76897530ee1efcf25d7e849bed439ddabcd26e0f7",
+      "bytes": 6570,
+      "page_sha256": "e46f498ebab6590028cede7ae15dabec2eade868784298cd9db8296288188dea",
+      "截取秒": null,
+      "采样率": 44100,
+      "声道": 2,
+      "输出帧": 22050,
+      "PCM16单声道SHA256": [
+        "42ef15b92d15a61833f5524e2da745c805020d0d4572bbc7ff508e807016931a",
+        "f100205196bca1abd26fd9b53446960b5f1bbd8b2d1b08b74478f407cebcb386"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "bodhran",
+      "logical_hit": "hit1",
+      "midi": 60,
+      "label": "bodhran_hits",
+      "source_url": "https://freesound.org/people/Teh_Bucket/sounds/521586/",
+      "sound_id": 521586,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/521/521586_2492921-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "eb064c83eea29f52b119e368cc5dcc870b93389ad6e9610fe1dbe4fa196761eb",
+      "bytes": 810960,
+      "page_sha256": "75316efe922ef54fb8f84d82795f94cf8b17ff698126510e5513904d95e3c696",
+      "截取秒": [
+        1.26,
+        1.95
+      ],
+      "采样率": 48000,
+      "声道": 1,
+      "输出帧": 33120,
+      "PCM16单声道SHA256": [
+        "138d26b9025967dc1915d5cbb7761b5240898e376a0c9237b29c59b165060081"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "bodhran",
+      "logical_hit": "hit2",
+      "midi": 61,
+      "label": "bodhran_hits",
+      "source_url": "https://freesound.org/people/Teh_Bucket/sounds/521586/",
+      "sound_id": 521586,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/521/521586_2492921-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "eb064c83eea29f52b119e368cc5dcc870b93389ad6e9610fe1dbe4fa196761eb",
+      "bytes": 810960,
+      "page_sha256": "75316efe922ef54fb8f84d82795f94cf8b17ff698126510e5513904d95e3c696",
+      "截取秒": [
+        2.52,
+        3.08
+      ],
+      "采样率": 48000,
+      "声道": 1,
+      "输出帧": 26880,
+      "PCM16单声道SHA256": [
+        "d2732403f9c367f9b83954df32206536bc4abf4fe83e8bd8aaacac16e63220ff"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    },
+    {
+      "instrument": "bodhran",
+      "logical_hit": "hit3",
+      "midi": 62,
+      "label": "bodhran_hits",
+      "source_url": "https://freesound.org/people/Teh_Bucket/sounds/521586/",
+      "sound_id": 521586,
+      "license": "CC0-1.0",
+      "preview_url": "https://cdn.freesound.org/previews/521/521586_2492921-hq.mp3",
+      "source_kind": "公开HQ MP3试听，有损；不是登录后原始WAV",
+      "sha256": "eb064c83eea29f52b119e368cc5dcc870b93389ad6e9610fe1dbe4fa196761eb",
+      "bytes": 810960,
+      "page_sha256": "75316efe922ef54fb8f84d82795f94cf8b17ff698126510e5513904d95e3c696",
+      "截取秒": [
+        6.13,
+        6.85
+      ],
+      "采样率": 48000,
+      "声道": 1,
+      "输出帧": 34560,
+      "PCM16单声道SHA256": [
+        "27b13d6576fbe7d1fbe32f8a4e2223ed58c0557e083524a7d52c99d02c8fa6b3"
+      ],
+      "限定": "原文件WAV需登录，仅使用官网公开有损HQ MP3试听；不是无损采样"
+    }
+  ],
+  "asset_sha256": "42287db5ef9984c5127f972f7f8de2465da72c718984293d3b9815b71c1961c3"
+}

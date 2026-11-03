@@ -1,0 +1,61 @@
+{
+  "来源": "https://freesound.org/people/iluppai/sounds/180239/",
+  "作者": "iluppai",
+  "license": "CC0-1.0",
+  "source_public_preview": "https://cdn.freesound.org/previews/180/180239_1558892-hq.mp3",
+  "source_sha256": "482319f8cf143db918898d830aecdaafb1eb1ee55c32b48dbccfd1206352fb94",
+  "source_format": "MP3公开有损预览，44100Hz双声道",
+  "转换": "五段稳定单音，单声道、16bit，起终点抗click淡化，不跨键映射",
+  "音高测量": "work/128音色补齐_20261102/中国/葫芦丝/音高候选.json",
+  "segments": [
+    {
+      "midi": 69,
+      "source_start_seconds": 11.36,
+      "source_end_seconds": 11.87,
+      "pcm_sha256": "2abd359657dc276bd2d3e16810e674a872887c585406c373ee86ccb8921a0d46",
+      "peak": 0.08741679042577744
+    },
+    {
+      "midi": 72,
+      "source_start_seconds": 5.78,
+      "source_end_seconds": 6.08,
+      "pcm_sha256": "60a0b8f09fa91edae5cfa51b70e70fd7dc8b3617897a17de37e89f125508b7ca",
+      "peak": 0.20323900133371353
+    },
+    {
+      "midi": 74,
+      "source_start_seconds": 6.5,
+      "source_end_seconds": 7.8,
+      "pcm_sha256": "9603656fa443aedf531228b169e737545ee8900264c8e6af554b508568ea15c4",
+      "peak": 0.09705017134547234
+    },
+    {
+      "midi": 77,
+      "source_start_seconds": 1.6,
+      "source_end_seconds": 1.83,
+      "pcm_sha256": "0a7919fb471653e3bd86fc88bb53be2d1712923d9564827fc42a4aebce0ee71b",
+      "peak": 0.12006893008947372
+    },
+    {
+      "midi": 79,
+      "source_start_seconds": 0.45,
+      "source_end_seconds": 1.25,
+      "pcm_sha256": "e3d55efb35d1b48b6aed6faf70f368989aa4041ddac8df4b01c48761c8168ff3",
+      "peak": 0.03155399952083826
+    }
+  ],
+  "sf2_sha256": "016b802e9cee29e58d0086751ed290be48204c05b90ea184be0f54495fcb5bca",
+  "builder": "SF2cute zlib wrapper work/世界音色扩展_20261031/write_sf2",
+  "未知": [
+    "录音者与演奏者关系未独立核实",
+    "音质与单音听感待人工验收",
+    "录音可能存在伴随管、环境噪声，pYIN不证明声源唯一"
+  ],
+  "命令": [
+    "work/世界音色扩展_20261031/write_sf2",
+    "work/128音色补齐_20261102/中国/葫芦丝/regions.txt",
+    "work/128音色补齐_20261102/中国/葫芦丝/names.txt",
+    "code-band-bgm/assets/china-hulusi-cc0/Hulusi-CC0-5keys.sf2",
+    "Hulusi CC0 5 keys"
+  ]
+}

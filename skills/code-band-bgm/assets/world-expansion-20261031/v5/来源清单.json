@@ -1,0 +1,144 @@
+{
+  "license_id": "LicenseRef-Iowa-MIS",
+  "license_source": "https://theremin.music.uiowa.edu/MIS.html",
+  "authorization_html_sha256": "231fe88b1b9ea6d8999e7671c904932045bd2edddec0e11a6b6f6f7a8a239874",
+  "作者": "Lawrence Fritts / University of Iowa Electronic Music Studios",
+  "files": [
+    {
+      "instrument": "Alto Flute",
+      "filename": "AltoFlute.pp.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/altoflute/AltoFlute.pp.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISaltoflute.html",
+      "path": "sources/Alto Flute/AltoFlute.pp.C4B4.aiff",
+      "bytes": 4488764,
+      "sha256": "b7213c819107356d88a3501bb0ec56fe0e30ee87fad2a08d13b5c70ec2551e0b"
+    },
+    {
+      "instrument": "Alto Flute",
+      "filename": "AltoFlute.mf.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/altoflute/AltoFlute.mf.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISaltoflute.html",
+      "path": "sources/Alto Flute/AltoFlute.mf.C4B4.aiff",
+      "bytes": 4391498,
+      "sha256": "d767164a55ce7cb333004dddb414325e00473724e9229520631bc82373ffeb68"
+    },
+    {
+      "instrument": "Alto Flute",
+      "filename": "AltoFlute.ff.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/altoflute/AltoFlute.ff.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISaltoflute.html",
+      "path": "sources/Alto Flute/AltoFlute.ff.C4B4.aiff",
+      "bytes": 4434982,
+      "sha256": "bfb3b64fa1f1851ff559439a2b3ae44c2bdd885396547e7279d276b0685ec430"
+    },
+    {
+      "instrument": "Bass Flute",
+      "filename": "BassFlute.pp.C3B3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassflute/BassFlute.pp.C3B3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassflute.html",
+      "path": "sources/Bass Flute/BassFlute.pp.C3B3.aiff",
+      "bytes": 5703908,
+      "sha256": "0a04da34d27ebf93fac676e78a1c4ed227f4b486b9e3bd0daaa855161bc4c2fd"
+    },
+    {
+      "instrument": "Bass Flute",
+      "filename": "BassFlute.mf.C3B3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassflute/BassFlute.mf.C3B3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassflute.html",
+      "path": "sources/Bass Flute/BassFlute.mf.C3B3.aiff",
+      "bytes": 5149624,
+      "sha256": "19c9af2e5a4fe4a021dfb93213455695dbdc8bee5836e5892a4f17352b980d19"
+    },
+    {
+      "instrument": "Bass Flute",
+      "filename": "BassFlute.ff.C3B3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassflute/BassFlute.ff.C3B3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassflute.html",
+      "path": "sources/Bass Flute/BassFlute.ff.C3B3.aiff",
+      "bytes": 4714460,
+      "sha256": "10439277b1349e386f49e0ac3a5d98f03e3c68017924c064aef5934f07fb4a30"
+    },
+    {
+      "instrument": "Eb Clarinet",
+      "filename": "EbClar.pp.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/Ebclarinet/EbClar.pp.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISEbclarinet.html",
+      "path": "sources/Eb Clarinet/EbClar.pp.C4B4.aiff",
+      "bytes": 2992652,
+      "sha256": "77f468823b5400c00218dc711f243c226f318bc76fc9ce1b0d1fdf18c62c28ee"
+    },
+    {
+      "instrument": "Eb Clarinet",
+      "filename": "EbClar.mf.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/Ebclarinet/EbClar.mf.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISEbclarinet.html",
+      "path": "sources/Eb Clarinet/EbClar.mf.C4B4.aiff",
+      "bytes": 2884302,
+      "sha256": "550ef136580f221836535d9d6489e28c880e1f2ebe81289f75fadef3c7096924"
+    },
+    {
+      "instrument": "Eb Clarinet",
+      "filename": "EbClar.ff.C4B4.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/Ebclarinet/EbClar.ff.C4B4.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISEbclarinet.html",
+      "path": "sources/Eb Clarinet/EbClar.ff.C4B4.aiff",
+      "bytes": 2838540,
+      "sha256": "fe96aaf4c4d291e01a87608b001f096ace4f8a44d6ea4c9067a3b4424903f76c"
+    },
+    {
+      "instrument": "Bass Clarinet",
+      "filename": "BassClarinet.pp.Db3B3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassclarinet/BassClarinet.pp.Db3B3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassclarinet.html",
+      "path": "sources/Bass Clarinet/BassClarinet.pp.Db3B3.aiff",
+      "bytes": 5260824,
+      "sha256": "8c2649cfe9efd1586c39ed3c599613f4f94c4730ed5f362bfed1810a6e98ebdb"
+    },
+    {
+      "instrument": "Bass Clarinet",
+      "filename": "BassClarinet.mf.B2Bb3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassclarinet/BassClarinet.mf.B2Bb3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassclarinet.html",
+      "path": "sources/Bass Clarinet/BassClarinet.mf.B2Bb3.aiff",
+      "bytes": 5139830,
+      "sha256": "ceae5e94c6794879007fbe367918162ec5ca3f523ea9d6d680f296bfcec75be9"
+    },
+    {
+      "instrument": "Bass Clarinet",
+      "filename": "BassClarinet.ff.C3B3.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Woodwinds/bassclarinet/BassClarinet.ff.C3B3.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbassclarinet.html",
+      "path": "sources/Bass Clarinet/BassClarinet.ff.C3B3.aiff",
+      "bytes": 5356866,
+      "sha256": "f5c15b140bda4fe78d621eeb3410363195e6d8b65ad0fa3607a091590d737419"
+    },
+    {
+      "instrument": "Bass Trombone",
+      "filename": "BassTrombone.pp.C2B2.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Brass/basstrombone/BassTrombone.pp.C2B2.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbasstrombone.html",
+      "path": "sources/Bass Trombone/BassTrombone.pp.C2B2.aiff",
+      "bytes": 4666380,
+      "sha256": "0648ef93d14a8f6a9eb4169ae3bce7bf0de1e9864ce440fe25ab6c45d53dcfef"
+    },
+    {
+      "instrument": "Bass Trombone",
+      "filename": "BassTrombone.mf.C2B2.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Brass/basstrombone/BassTrombone.mf.C2B2.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbasstrombone.html",
+      "path": "sources/Bass Trombone/BassTrombone.mf.C2B2.aiff",
+      "bytes": 4951308,
+      "sha256": "3279e33b6730f4a0b23d25a1161424f8048052590be45e2cbbfc5792a32925b1"
+    },
+    {
+      "instrument": "Bass Trombone",
+      "filename": "BassTrombone.ff.C2B2.aiff",
+      "url": "https://theremin.music.uiowa.edu/sound files/MIS/Brass/basstrombone/BassTrombone.ff.C2B2.aiff",
+      "instrument_source_url": "https://theremin.music.uiowa.edu/MISbasstrombone.html",
+      "path": "sources/Bass Trombone/BassTrombone.ff.C2B2.aiff",
+      "bytes": 4704268,
+      "sha256": "cda768aa391084d063f8ee809ffc54b5f5a80c088281895eaa6e3cd406becd94"
+    }
+  ],
+  "selection_notes": "只取五件各三力度的有限音区，共15个半音阶文件；不宣称整库或完整自然音域"
+}

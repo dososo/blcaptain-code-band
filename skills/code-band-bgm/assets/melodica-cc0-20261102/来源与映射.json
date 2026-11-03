@@ -1,0 +1,18 @@
+{
+  "作者": "dfeltch",
+  "来源页面": "https://freesound.org/people/dfeltch/sounds/185530/",
+  "授权": "CC0-1.0",
+  "源与限制": "公开HQ MP3预览；原始WAV需登录；16位48k单声道；单键MIDI75、单力度、短音、无RR；未经人工听感或音准仪校准。",
+  "下载": "https://cdn.freesound.org/previews/185/185530_1119572-hq.mp3",
+  "预览SHA256": "a2113a9bb6a19c17e3a0038209fd435c2c1c59423b5ea4caa654d96d14f9e23b",
+  "PCM_SHA256": "c07731e96090843c7c6509ba5d2550116eafa7821ad211e69292ebe851756ff3",
+  "SF2_SHA256": "32c03fa84be663c86979278fab85d78942fd7ac520a220f95878900d6c6d8fe0",
+  "PYIN": "librosa 0.11.0, 60有声帧，MIDI中位75.15，5—95% 74.95—75.15；制作时微调-15 cents",
+  "构建命令": [
+    "work/世界音色扩展_20261031/write_sf2",
+    "work/128音色补齐_20261102/口风琴/区域.tsv",
+    "work/128音色补齐_20261102/口风琴/预设.tsv",
+    "code-band-bgm/assets/melodica-cc0-20261102/Melodica-DFeltch-CC0.sf2",
+    "Melodica CC0 limited"
+  ]
+}

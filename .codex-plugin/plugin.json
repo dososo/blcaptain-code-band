@@ -1,0 +1,6 @@
+{
+  "name": "code-band",
+  "version": "0.1.0",
+  "description": "代码乐团 · Code Band：Agent 写谱、本地真实采样演奏的无人声配乐 skill，交付可编辑乐谱工程与 WAV。",
+  "skills": "./skills/"
+}

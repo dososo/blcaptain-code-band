@@ -1,0 +1,4110 @@
+{
+  "schema_version": "1.0.0",
+  "packs": [
+    {
+      "pack_id": "vcsl-world-selected-20261031",
+      "path": "world-expansion-20261031/VCSL-World-Selected.sf2",
+      "sha256": "a5f223c7a587cf646fa4aef094bc132ee2d1eb1291bceb18527e78dcebe03052",
+      "license_id": "CC0-1.0",
+      "license_file": "world-expansion-20261031/LICENSE-VCSL-CC0.txt",
+      "source_url": "https://github.com/sgossner/VCSL/tree/b6e6ac82d22248edee98a0bde185eb9ef6d439ad",
+      "limitations": "9种乐器的限定奏法；12预设。卡洪/框鼓/姆比拉双轮换拆为固定预设，无自动RR。竖笛无采样循环，最长持续受录音限制。16位SF2离线转换，微调/offset/力度层/相对区域音量保留；SF2/FluidSynth包络形状和力度响应不宣称与原SFZ位等价。迪吉里杜为固定键短语/演奏录音，不是全音域旋律库。",
+      "resources": [
+        {
+          "instrument_id": "vcsl_soprano_recorder",
+          "label": "高音巴洛克竖笛",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "vcsl_alto_recorder",
+          "label": "中音巴洛克竖笛",
+          "bank": 0,
+          "program": 1
+        },
+        {
+          "instrument_id": "vcsl_tenor_recorder",
+          "label": "次中音巴洛克竖笛",
+          "bank": 0,
+          "program": 2
+        },
+        {
+          "instrument_id": "vcsl_bass_recorder",
+          "label": "低音巴洛克竖笛",
+          "bank": 0,
+          "program": 3
+        },
+        {
+          "instrument_id": "vcsl_cajon_rr1",
+          "label": "卡洪鼓・固定轮换位1",
+          "bank": 0,
+          "program": 4,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62"
+          }
+        },
+        {
+          "instrument_id": "vcsl_cajon_rr2",
+          "label": "卡洪鼓・固定轮换位2",
+          "bank": 0,
+          "program": 5,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62"
+          }
+        },
+        {
+          "instrument_id": "vcsl_frame_drum_rr1",
+          "label": "框鼓・固定轮换位1",
+          "bank": 0,
+          "program": 6,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65"
+          }
+        },
+        {
+          "instrument_id": "vcsl_frame_drum_rr2",
+          "label": "框鼓・固定轮换位2",
+          "bank": 0,
+          "program": 7,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65"
+          }
+        },
+        {
+          "instrument_id": "vcsl_balafon",
+          "label": "传统槌巴拉丰",
+          "bank": 0,
+          "program": 8
+        },
+        {
+          "instrument_id": "vcsl_mbira_rr1",
+          "label": "津巴布韦Mavembe姆比拉Low G・固定轮换位1",
+          "bank": 0,
+          "program": 9
+        },
+        {
+          "instrument_id": "vcsl_mbira_rr2",
+          "label": "津巴布韦Mavembe姆比拉Low G・固定轮换位2",
+          "bank": 0,
+          "program": 10
+        },
+        {
+          "instrument_id": "vcsl_didgeridoo",
+          "label": "迪吉里杜固定键录音",
+          "bank": 0,
+          "program": 11,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_69": "69",
+            "hit_70": "70",
+            "hit_71": "71"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "chinese_erhu_guqin_20261031_v1",
+      "path": "chinese-expansion-20261031/Chinese-Erhu-Guqin-v1.sf2",
+      "sha256": "cc31a55f6be0aa257a39618018754ecaadb33454e5a71cfb8b2cd5275e918d2f",
+      "license_id": "CC0-1.0 AND CC-BY-4.0",
+      "license_file": "chinese-expansion-20261031/许可与署名.md",
+      "source_url": "https://github.com/sfzinstruments/aliexpress-erhu",
+      "limitations": "二胡实录有限音区，固定RR1，长弓/短弓/靠指板/长短叠层分为显式预设，无自动轮换和CC奏法控制；古琴仅七根空弦，HQ有损预览转换，非全音域或完整奏法。人工听感未验收。",
+      "resources": [
+        {
+          "instrument_id": "erhu_long_cc0",
+          "label": "二胡长音（实录RR1）",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "erhu_short_cc0",
+          "label": "二胡短弓（实录RR1）",
+          "bank": 0,
+          "program": 1
+        },
+        {
+          "instrument_id": "erhu_sul_tasto_cc0",
+          "label": "二胡靠指板奏法（实录RR1）",
+          "bank": 0,
+          "program": 2
+        },
+        {
+          "instrument_id": "erhu_marcato_cc0",
+          "label": "二胡marcato（真实双层RR1）",
+          "bank": 0,
+          "program": 3
+        },
+        {
+          "instrument_id": "guqin_open_strings_ccby4",
+          "label": "古琴七根空弦（有限原型）",
+          "bank": 0,
+          "program": 4
+        }
+      ]
+    },
+    {
+      "pack_id": "vcsl-world-second-20261031",
+      "path": "world-expansion-20261031/v2/VCSL-World-Selected-v2.sf2",
+      "sha256": "a592dd0d001a63a37f6bf8e7a1a42722eed7f7a5c5102ebc22aff86c074700dd",
+      "license_id": "CC0-1.0",
+      "license_file": "world-expansion-20261031/v2/LICENSE-VCSL-CC0.txt",
+      "source_url": "https://github.com/sgossner/VCSL/tree/b6e6ac82d22248edee98a0bde185eb9ef6d439ad",
+      "limitations": "五件专用采样、八预设；双轮换拆成固定预设，不自动RR。Yamaha立式琴仅attack持续采样，MIDI21..100，两或三力度；明确排除源SFZ68个release触发区域，无独立录制释音噪声/踏板触发。悬吊镲/弯音钢片器含固定演奏录音，按键不表示旋律音高；无人工循环。16位受限SF2转换，SF2默认包络曲线/力度响应不宣称与SFZ一致。",
+      "resources": [
+        {
+          "instrument_id": "vcsl_upright_piano_rr1",
+          "label": "Yamaha立式钢琴持续采样・固定轮换位1",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "vcsl_upright_piano_rr2",
+          "label": "Yamaha立式钢琴持续采样・固定轮换位2",
+          "bank": 0,
+          "program": 1
+        },
+        {
+          "instrument_id": "vcsl_pair_cymbals_rr1",
+          "label": "对击钹・固定轮换位1",
+          "bank": 0,
+          "program": 2,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62"
+          }
+        },
+        {
+          "instrument_id": "vcsl_pair_cymbals_rr2",
+          "label": "对击钹・固定轮换位2",
+          "bank": 0,
+          "program": 3,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62"
+          }
+        },
+        {
+          "instrument_id": "vcsl_suspended_cymbal",
+          "label": "悬吊镲击奏弓奏渐强",
+          "bank": 0,
+          "program": 4,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_69": "69",
+            "hit_70": "70",
+            "hit_71": "71",
+            "hit_72": "72"
+          }
+        },
+        {
+          "instrument_id": "vcsl_sleigh_bells_rr1",
+          "label": "雪橇铃・固定轮换位1",
+          "bank": 0,
+          "program": 5,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64"
+          }
+        },
+        {
+          "instrument_id": "vcsl_sleigh_bells_rr2",
+          "label": "雪橇铃・固定轮换位2",
+          "bank": 0,
+          "program": 6,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64"
+          }
+        },
+        {
+          "instrument_id": "vcsl_flexatone",
+          "label": "弯音钢片器固定键录音",
+          "bank": 0,
+          "program": 7,
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "pipaset_20261031_v1",
+      "path": "chinese-expansion-20261031/PipaSet-CCBY4-v1.sf2",
+      "sha256": "7602e84289151904a5f56df5209408c3fbb3d89bbd34cf603152709279e8bfea",
+      "license_id": "CC-BY-4.0",
+      "license_file": "chinese-expansion-20261031/第二批许可与署名.md",
+      "source_url": "https://zenodo.org/records/6760047",
+      "source_manifest": "chinese-expansion-20261031/琵琶来源.json",
+      "limitations": "真实单音、单力度、无自动RR；弦变体不是五件乐器；key87无素材不开放",
+      "resources": [
+        {
+          "instrument_id": "pipa_normal_ccby4",
+          "label": "琵琶普通拨弦（跨弦选择）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            88
+          ]
+        },
+        {
+          "instrument_id": "pipa_string1_ccby4",
+          "label": "琵琶第一弦",
+          "bank": 0,
+          "program": 1,
+          "supported_keys": [
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            88
+          ]
+        },
+        {
+          "instrument_id": "pipa_string2_ccby4",
+          "label": "琵琶第二弦",
+          "bank": 0,
+          "program": 2,
+          "supported_keys": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            83
+          ]
+        },
+        {
+          "instrument_id": "pipa_string3_ccby4",
+          "label": "琵琶第三弦",
+          "bank": 0,
+          "program": 3,
+          "supported_keys": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "instrument_id": "pipa_string4_ccby4",
+          "label": "琵琶第四弦",
+          "bank": 0,
+          "program": 4,
+          "supported_keys": [
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "xiao_20261031_hq_v1",
+      "path": "chinese-expansion-20261031/Xiao-CC0-HQ-v1.sf2",
+      "sha256": "4e941fc93fc15150d19fd21f5625e54756432cfdc7cb815b334b1592c1fcbe3e",
+      "license_id": "CC0-1.0",
+      "license_file": "chinese-expansion-20261031/第二批许可与署名.md",
+      "source_url": "https://freesound.org/",
+      "source_manifest": "chinese-expansion-20261031/箫来源.json",
+      "limitations": "六份真实稳定单音，最多移调1半音；有损预览，单力度、无循环、非专业全奏法库",
+      "resources": [
+        {
+          "instrument_id": "xiao_cc0_hq",
+          "label": "箫（作者实录HQ有限原型）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "freepats-ukulele-20261031",
+      "path": "world-expansion-20261031/v3/FreePats-Ukulele-v1.sf2",
+      "sha256": "dba85fc2a2366514590968070abd4cbff06c0bf022e83e35105efc68741a84f3",
+      "license_id": "CC0-1.0",
+      "license_file": "world-expansion-20261031/v3/LICENSE-FreePats-CC0.txt",
+      "source_url": "https://github.com/freepats/ukulele1/tree/86d345f6f7b79a106ace98eca0da19b087786dba",
+      "limitations": "专用尤克里里原录13音，旋律MIDI58..86，单力度、无RR、无循环；原录琴身敲击47和闷弦48拆独立打击预设。原FLAC24位保留，SF2cute转换16位并固定TPDF，最终PCM24不升级原音有效位深。原微调/无循环/释音0.35s保留，SF2包络形状及默认力度响应不宣称与SFZ完全相同。",
+      "resources": [
+        {
+          "instrument_id": "fp_ukulele",
+          "label": "尤克里里专用原录旋律",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "fp_ukulele_percussion",
+          "label": "尤克里里琴身敲击与闷弦",
+          "bank": 0,
+          "program": 1,
+          "unpitched_hits": {
+            "body_tap": "47",
+            "chuck": "48"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "sheng_old_ccby4_20261031_v1",
+      "path": "chinese-expansion-20261031/Sheng-Old-CCBY4-v1.sf2",
+      "sha256": "a587f0aa07de4322cf805f169f01291ee21cd38cefc42c959a057996f489c0d9",
+      "license_id": "CC-BY-4.0",
+      "license_file": "chinese-expansion-20261031/笙旧版许可与署名.md",
+      "source_url": "https://zenodo.org/records/5654924",
+      "source_manifest": "chinese-expansion-20261031/笙旧版来源.json",
+      "limitations": "仅20稀疏实录根音；三真实力度p1–55/mf56–95/f96–127；稳定持续音裁切20ms淡入、无完整自然起音/循环/RR；2021特定CCBY4源，不使用新版NCND",
+      "resources": [
+        {
+          "instrument_id": "sheng_old_ccby4",
+          "label": "传统笙（旧版实录三力度持续音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            57,
+            59,
+            61,
+            62,
+            64,
+            66,
+            67,
+            69,
+            71,
+            73,
+            74,
+            76,
+            78,
+            79,
+            81,
+            83,
+            85,
+            86,
+            88,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "owner-mandolin-short-20261031",
+      "path": "world-expansion-20261031/v4/Mandolin-Short-CC0-v1.sf2",
+      "sha256": "d638c8c030ba74f07e2682cb8fafbd6c76c99600ccfe1bf969ba81c5465ef2c2",
+      "license_id": "CC0-1.0",
+      "license_file": "world-expansion-20261031/v4/LICENSE-Mandolin-CC0.txt",
+      "source_url": "https://github.com/0x4D44/ferrosintesis/tree/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin",
+      "limitations": "作者自录CC0曼陀林短拨音partial，仅0.9秒烘焙起音，无原Rust物理模型续音，不支持专业完整长尾/持续颤音。10根音映射MIDI55..88，单真实力度，四有序take拆4个固定预设，无自动RR；音区最大两半音移调。作者根频率已按take转SF2微调，分辨率约1音分。源16位44.1kHz单声道，48kPCM24输出不提升源分辨率。",
+      "resources": [
+        {
+          "instrument_id": "ferro_mandolin_rr1",
+          "label": "曼陀林专用短拨音（部分覆盖）・固定轮换位1",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "ferro_mandolin_rr2",
+          "label": "曼陀林专用短拨音（部分覆盖）・固定轮换位2",
+          "bank": 0,
+          "program": 1
+        },
+        {
+          "instrument_id": "ferro_mandolin_rr3",
+          "label": "曼陀林专用短拨音（部分覆盖）・固定轮换位3",
+          "bank": 0,
+          "program": 2
+        },
+        {
+          "instrument_id": "ferro_mandolin_rr4",
+          "label": "曼陀林专用短拨音（部分覆盖）・固定轮换位4",
+          "bank": 0,
+          "program": 3
+        }
+      ]
+    },
+    {
+      "pack_id": "jingju_percussion_20261031_v2",
+      "path": "chinese-expansion-20261031/Jingju-Percussion-CCBY3-v2.sf2",
+      "sha256": "4d4e15484ef2f30ee34ac451a33d361cb93973c5c3c6d6091a589cc11d6b49b8",
+      "license_id": "CC-BY-3.0",
+      "license_file": "chinese-expansion-20261031/京剧打击许可与署名.md",
+      "source_manifest": "chinese-expansion-20261031/京剧打击来源.json",
+      "source_url": "https://zenodo.org/records/1285212",
+      "limitations": "真实55种独立击打实例；音高键只作原速触发，无调音含义；未知具体奏法/力度，不拆子类、无RR；完整余音需gate至少源frames/44100，最长0.541秒；真实30种独立击打实例；音高键只作原速触发，无调音含义；未知具体奏法/力度，不拆子类、无RR；完整余音需gate至少源frames/44100，最长5.979秒；真实30种独立击打实例；音高键只作原速触发，无调音含义；未知具体奏法/力度，不拆子类、无RR；完整余音需gate至少源frames/44100，最长6.339秒；真实59种独立击打实例；音高键只作原速触发，无调音含义；未知具体奏法/力度，不拆子类、无RR；完整余音需gate至少源frames/44100，最长3.158秒；原库236源录音保留，174起音清楚实例开放，62拒映射；40原音存在恰满幅点，未宣称修复上游归一化/削波。许可优先随包CCBY3，官网现版本CCBY4分别留证。",
+      "resources": [
+        {
+          "instrument_id": "jingju_bangu_ccby3",
+          "label": "板鼓类（板与单皮鼓分组）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94
+          ],
+          "unpitched_hits": {
+            "hit_39": "39",
+            "hit_40": "40",
+            "hit_41": "41",
+            "hit_42": "42",
+            "hit_43": "43",
+            "hit_44": "44",
+            "hit_45": "45",
+            "hit_47": "47",
+            "hit_48": "48",
+            "hit_49": "49",
+            "hit_50": "50",
+            "hit_51": "51",
+            "hit_52": "52",
+            "hit_53": "53",
+            "hit_54": "54",
+            "hit_55": "55",
+            "hit_56": "56",
+            "hit_57": "57",
+            "hit_58": "58",
+            "hit_59": "59",
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_69": "69",
+            "hit_70": "70",
+            "hit_71": "71",
+            "hit_72": "72",
+            "hit_73": "73",
+            "hit_74": "74",
+            "hit_75": "75",
+            "hit_76": "76",
+            "hit_77": "77",
+            "hit_78": "78",
+            "hit_79": "79",
+            "hit_80": "80",
+            "hit_81": "81",
+            "hit_82": "82",
+            "hit_83": "83",
+            "hit_84": "84",
+            "hit_85": "85",
+            "hit_86": "86",
+            "hit_87": "87",
+            "hit_88": "88",
+            "hit_89": "89",
+            "hit_90": "90",
+            "hit_91": "91",
+            "hit_92": "92",
+            "hit_93": "93",
+            "hit_94": "94"
+          }
+        },
+        {
+          "instrument_id": "jingju_daluo_ccby3",
+          "label": "京剧大锣",
+          "bank": 0,
+          "program": 1,
+          "supported_keys": [
+            38,
+            44,
+            45,
+            46,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            72,
+            74,
+            77,
+            78,
+            79,
+            80,
+            83,
+            84,
+            85
+          ],
+          "unpitched_hits": {
+            "hit_38": "38",
+            "hit_44": "44",
+            "hit_45": "45",
+            "hit_46": "46",
+            "hit_48": "48",
+            "hit_49": "49",
+            "hit_50": "50",
+            "hit_51": "51",
+            "hit_52": "52",
+            "hit_53": "53",
+            "hit_54": "54",
+            "hit_55": "55",
+            "hit_56": "56",
+            "hit_57": "57",
+            "hit_58": "58",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_69": "69",
+            "hit_70": "70",
+            "hit_72": "72",
+            "hit_74": "74",
+            "hit_77": "77",
+            "hit_78": "78",
+            "hit_79": "79",
+            "hit_80": "80",
+            "hit_83": "83",
+            "hit_84": "84",
+            "hit_85": "85"
+          }
+        },
+        {
+          "instrument_id": "jingju_naobo_ccby3",
+          "label": "铙钹类（齐钹与大铙分组）",
+          "bank": 0,
+          "program": 2,
+          "supported_keys": [
+            37,
+            39,
+            40,
+            41,
+            43,
+            44,
+            45,
+            46,
+            50,
+            51,
+            52,
+            53,
+            55,
+            59,
+            62,
+            65,
+            66,
+            67,
+            68,
+            71,
+            82,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            97
+          ],
+          "unpitched_hits": {
+            "hit_37": "37",
+            "hit_39": "39",
+            "hit_40": "40",
+            "hit_41": "41",
+            "hit_43": "43",
+            "hit_44": "44",
+            "hit_45": "45",
+            "hit_46": "46",
+            "hit_50": "50",
+            "hit_51": "51",
+            "hit_52": "52",
+            "hit_53": "53",
+            "hit_55": "55",
+            "hit_59": "59",
+            "hit_62": "62",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_71": "71",
+            "hit_82": "82",
+            "hit_85": "85",
+            "hit_86": "86",
+            "hit_87": "87",
+            "hit_88": "88",
+            "hit_89": "89",
+            "hit_90": "90",
+            "hit_91": "91",
+            "hit_92": "92",
+            "hit_97": "97"
+          }
+        },
+        {
+          "instrument_id": "jingju_xiaoluo_ccby3",
+          "label": "京剧小锣",
+          "bank": 0,
+          "program": 3,
+          "supported_keys": [
+            36,
+            37,
+            38,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            87,
+            88,
+            89,
+            90,
+            92,
+            94,
+            95,
+            96,
+            97,
+            98,
+            100
+          ],
+          "unpitched_hits": {
+            "hit_36": "36",
+            "hit_37": "37",
+            "hit_38": "38",
+            "hit_40": "40",
+            "hit_41": "41",
+            "hit_42": "42",
+            "hit_43": "43",
+            "hit_44": "44",
+            "hit_45": "45",
+            "hit_46": "46",
+            "hit_47": "47",
+            "hit_48": "48",
+            "hit_49": "49",
+            "hit_50": "50",
+            "hit_51": "51",
+            "hit_52": "52",
+            "hit_53": "53",
+            "hit_54": "54",
+            "hit_55": "55",
+            "hit_56": "56",
+            "hit_57": "57",
+            "hit_58": "58",
+            "hit_59": "59",
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63",
+            "hit_64": "64",
+            "hit_65": "65",
+            "hit_66": "66",
+            "hit_67": "67",
+            "hit_68": "68",
+            "hit_69": "69",
+            "hit_70": "70",
+            "hit_71": "71",
+            "hit_72": "72",
+            "hit_73": "73",
+            "hit_74": "74",
+            "hit_75": "75",
+            "hit_76": "76",
+            "hit_77": "77",
+            "hit_78": "78",
+            "hit_79": "79",
+            "hit_80": "80",
+            "hit_81": "81",
+            "hit_82": "82",
+            "hit_83": "83",
+            "hit_84": "84",
+            "hit_87": "87",
+            "hit_88": "88",
+            "hit_89": "89",
+            "hit_90": "90",
+            "hit_92": "92",
+            "hit_94": "94",
+            "hit_95": "95",
+            "hit_96": "96",
+            "hit_97": "97",
+            "hit_98": "98",
+            "hit_100": "100"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "iowa-mis-selected-20261031",
+      "path": "world-expansion-20261031/v5/Iowa-MIS-Selected-v1.sf2",
+      "sha256": "a50a03e7ed8cb7e73b036684dbf9b60e3f0ad3b7d8ee3eb0098297b1b49be43c",
+      "license_id": "LicenseRef-Iowa-MIS",
+      "license_file": "world-expansion-20261031/v5/LICENSE-Iowa-MIS.txt",
+      "source_url": "https://theremin.music.uiowa.edu/MIS.html",
+      "limitations": "Iowa作者广泛项目使用声明，LicenseRef-Iowa-MIS，非CC0/公有领域。每件仅有限音区、普通持续录音及真实pp/mf/ff三层，无RR/无采样循环/无额外奏法。实际MIDI键：中音长笛60..71，低音长笛48..59，降E调单簧管60..71，低音单簧管49..56及58（缺57），低音长号37..47（缺36）。低音长号原C2ff满幅与低音单簧管A3pp不稳定段已排除，不补音。源16位44.1k单声道，不宣传24/96或原生立体声；最终PCM24仅为交付格式。YIN中位微调并记录原帧裁切/淡入淡出，技术测量不代替人工听感。",
+      "resources": [
+        {
+          "instrument_id": "iowa_alto_flute",
+          "label": "中音长笛原录三力度",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "instrument_id": "iowa_bass_flute",
+          "label": "低音长笛原录三力度",
+          "bank": 0,
+          "program": 1,
+          "supported_keys": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59
+          ]
+        },
+        {
+          "instrument_id": "iowa_eflat_clarinet",
+          "label": "降E调高音单簧管原录三力度",
+          "bank": 0,
+          "program": 2,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "instrument_id": "iowa_bass_clarinet",
+          "label": "低音单簧管原录三力度（离散键）",
+          "bank": 0,
+          "program": 3,
+          "supported_keys": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            58
+          ]
+        },
+        {
+          "instrument_id": "iowa_bass_trombone",
+          "label": "低音长号原录三力度",
+          "bank": 0,
+          "program": 4,
+          "supported_keys": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "musescore-dedicated-percussion-20261031",
+      "path": "soundfonts/MuseScore_General.sf3",
+      "sha256": "5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "license_id": "MIT",
+      "license_file": "soundfonts/MuseScore_General_License.md",
+      "source_url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/",
+      "limitations": "直接引用既有官方MuseScore_General.sf3，不复制或下载、不改变采样及DSP。响板8/115为单Castanet采样，仅固定逻辑键60；寺庙木块1/115为58..62五键×四真实力度，不改称中国木鱼。两资源无外部RR或完整演奏法保证，不计寺庙木块为第三个原missing概念。整个库同SHA可以同时承担primary与pack；只一个物理音色文件。",
+      "resources": [
+        {
+          "instrument_id": "ms_castanets",
+          "label": "响板专用采样",
+          "bank": 8,
+          "program": 115,
+          "unpitched_hits": {
+            "castanet": "60"
+          }
+        },
+        {
+          "instrument_id": "ms_temple_blocks",
+          "label": "寺庙木块组专用采样（非中国木鱼）",
+          "bank": 1,
+          "program": 115,
+          "unpitched_hits": {
+            "block_1": "58",
+            "block_2": "59",
+            "block_3": "60",
+            "block_4": "61",
+            "block_5": "62"
+          },
+          "supported_keys": [
+            58,
+            59,
+            60,
+            61,
+            62
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "dizi_sutd_membrane_20261031_v2",
+      "path": "chinese-expansion-20261031/Dizi-SUTD-Membrane-v2.sf2",
+      "sha256": "a9469ecfe876066aac9f914ffca1f1a2295aff67dc07bdc39d9d7560c4317ff0",
+      "license_id": "CC-BY-4.0",
+      "license_file": "chinese-expansion-20261031/笛子SUTD许可与署名.md",
+      "source_manifest": "chinese-expansion-20261031/笛子SUTD来源.json",
+      "source_url": "https://zenodo.org/records/6333932",
+      "limitations": "作者G调有膜实录48k24位mono；仅开放实测稀疏根音，替代孔位不作RR/力度层，不推梆笛/曲笛。F#7/G7过载/错标风险拒映；C#7仅替代条目。原单声道双通道复制；源时长有限，无人工循环。 SF2制库44.1kHz/PCM16，最终48kPCM24不恢复制库信息。",
+      "resources": [
+        {
+          "instrument_id": "dizi_sutd_g_membrane",
+          "label": "G调有膜笛子（默认指法条目）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            74,
+            76,
+            77,
+            78,
+            79,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            88,
+            89,
+            90,
+            91,
+            93,
+            94,
+            95,
+            96,
+            98,
+            100
+          ]
+        },
+        {
+          "instrument_id": "dizi_sutd_g_alt1",
+          "label": "G调有膜笛子（第一替代指法条目）",
+          "bank": 0,
+          "program": 1,
+          "supported_keys": [
+            82,
+            83,
+            84,
+            86,
+            95,
+            96,
+            97,
+            98,
+            100
+          ]
+        },
+        {
+          "instrument_id": "dizi_sutd_g_alt2",
+          "label": "G调有膜笛子（第二替代指法条目）",
+          "bank": 0,
+          "program": 2,
+          "supported_keys": [
+            96,
+            97
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "meta-piano-v1-cc0-48k16",
+      "path": "meta-piano/MetaPiano-v1-48k16.sf2",
+      "sha256": "51854f2afaf4f73e338101992bd4402158d0505f0990242a4776e0a3d91f7402",
+      "license_id": "CC0-1.0",
+      "license_file": "meta-piano/音源许可与转换说明.md",
+      "source_manifest": "meta-piano/逐源映射.json",
+      "source_url": "https://github.com/facebookincubator/Meta-open-sound/releases/tag/meta-piano-v1.0.0",
+      "limitations": "官方88键×4层真录，48kHz 24位立体声转换16位，两单声道硬声像；力度分段无交叉淡化，未复制amp_veltrack=0与随机音高/幅度；无踏板释音和自动RR，非官方SFZ逐样等价。",
+      "resources": [
+        {
+          "instrument_id": "meta_piano_upright_cc0",
+          "label": "Meta Piano 有限SF2转换版",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "melodica_dfeltch_cc0_single",
+      "path": "melodica-cc0-20261102/Melodica-DFeltch-CC0.sf2",
+      "sha256": "32c03fa84be663c86979278fab85d78942fd7ac520a220f95878900d6c6d8fe0",
+      "license_id": "CC0-1.0",
+      "license_file": "melodica-cc0-20261102/许可与限制.md",
+      "source_manifest": "melodica-cc0-20261102/来源与映射.json",
+      "source_url": "https://freesound.org/people/dfeltch/sounds/185530/",
+      "limitations": "仅公开有损HQ预览；单个MIDI75短音、单力度、无循环及轮换；音准与听感待人工验收。",
+      "resources": [
+        {
+          "instrument_id": "melodica_dfeltch_cc0_single",
+          "label": "口风琴单键有限采样",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            75
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "hulusi_cc0_five_keys_v1",
+      "path": "china-hulusi-cc0/Hulusi-CC0-5keys.sf2",
+      "sha256": "016b802e9cee29e58d0086751ed290be48204c05b90ea184be0f54495fcb5bca",
+      "license_id": "CC0-1.0",
+      "license_file": "china-hulusi-cc0/音源许可与转换说明.md",
+      "source_manifest": "china-hulusi-cc0/来源与区域.json",
+      "source_url": "https://freesound.org/people/iluppai/sounds/180239/",
+      "limitations": "公开有损MP3预览的五个稳定音切片；MIDI 69/72/74/77/79，单力度、非原起音、无自动轮换及循环，人工音质待核；不能冒充完整葫芦丝。",
+      "resources": [
+        {
+          "instrument_id": "hulusi_cc0_five_keys",
+          "label": "葫芦丝五音有限原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            69,
+            72,
+            74,
+            77,
+            79
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "sonicpi-tabla-cc0-20261102",
+      "path": "sonicpi-tabla-20261102/SonicPi-Tabla-CC0.sf2",
+      "sha256": "a7bc37d14eb3dc0af07ede41a3875f5c442e910cf66a29ae82eb1066e874c1dc",
+      "license_id": "CC0-1.0",
+      "license_file": "sonicpi-tabla-20261102/许可说明.md",
+      "source_manifest": "sonicpi-tabla-20261102/来源与映射.json",
+      "source_url": "https://github.com/sonic-pi-net/sonic-pi/tree/df6f17e4625b0451fa2af8accf2e1e641c7ad458/etc/samples",
+      "limitations": "塔布拉26个CC0固定击法/变体，44.1kHz/16位单声道；非完整传统技法、无多力度层和自动轮换。",
+      "resources": [
+        {
+          "instrument_id": "sonicpi_tabla_cc0",
+          "label": "塔布拉鼓组26个固定单击",
+          "bank": 0,
+          "program": 0,
+          "unpitched_hits": {
+            "dhec": "60",
+            "ghe1": "61",
+            "ghe2": "62",
+            "ghe3": "63",
+            "ghe4": "64",
+            "ghe5": "65",
+            "ghe6": "66",
+            "ghe7": "67",
+            "ghe8": "68",
+            "ke1": "69",
+            "ke2": "70",
+            "ke3": "71",
+            "na": "72",
+            "na_o": "73",
+            "na_s": "74",
+            "re": "75",
+            "tas1": "76",
+            "tas2": "77",
+            "tas3": "78",
+            "te1": "79",
+            "te2": "80",
+            "te_m": "81",
+            "te_ne": "82",
+            "tun1": "83",
+            "tun2": "84",
+            "tun3": "85"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "xun_ccby4_three_keys_v1",
+      "path": "china-xun-ccby4/Xun-CCBY4-3keys.sf2",
+      "sha256": "caf0a71ca57c31d7ca6368ad66151379a36b15972aca63663336c4a1a9d6d636",
+      "license_id": "CC-BY-4.0",
+      "license_file": "china-xun-ccby4/音源许可与转换说明.md",
+      "source_manifest": "china-xun-ccby4/来源与区域.json",
+      "source_url": "https://freesound.org/people/franeknflute/sounds/200419/",
+      "limitations": "公开有损MP3预览的三个稳定音切片；MIDI 67/68/72，单力度、非原起音、无自动轮换及循环，人工音质待核；不能冒充完整埙。",
+      "resources": [
+        {
+          "instrument_id": "xun_ccby4_three_keys",
+          "label": "埙三音有限原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            67,
+            68,
+            72
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "freesound-world-perc-cc0-hq-20261102",
+      "path": "freesound-world-perc-20261102/Freesound-World-Perc-CC0.sf2",
+      "sha256": "42287db5ef9984c5127f972f7f8de2465da72c718984293d3b9815b71c1961c3",
+      "license_id": "CC0-1.0",
+      "license_file": "freesound-world-perc-20261102/许可说明.md",
+      "source_manifest": "freesound-world-perc-20261102/来源与映射.json",
+      "source_url": "https://freesound.org/",
+      "limitations": "三件打击各2—3固定击法；公开HQ MP3有损试听，非原始WAV，无多力度及自动RR；宝思兰为切分单击、未证技法。",
+      "resources": [
+        {
+          "instrument_id": "freesound_djembe_cc0_hq",
+          "label": "非洲杯鼓公开试听原型",
+          "bank": 0,
+          "program": 0,
+          "unpitched_hits": {
+            "bass": "60",
+            "slap": "61"
+          }
+        },
+        {
+          "instrument_id": "freesound_udu_cc0_hq",
+          "label": "乌杜鼓公开试听原型",
+          "bank": 0,
+          "program": 1,
+          "unpitched_hits": {
+            "hit1": "60",
+            "hit6": "61"
+          }
+        },
+        {
+          "instrument_id": "freesound_bodhran_cc0_hq",
+          "label": "宝思兰鼓公开试听原型",
+          "bank": 0,
+          "program": 2,
+          "unpitched_hits": {
+            "hit1": "60",
+            "hit2": "61",
+            "hit3": "62"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "muyu_ccby4_four_hits_v1",
+      "path": "china-muyu-ccby4/Muyu-CCBY4-4hits.sf2",
+      "sha256": "f4e8a682453836e5171e1edb50856133f60c12a8cc9a93426cafd58cf35d77f9",
+      "license_id": "CC-BY-4.0",
+      "license_file": "china-muyu-ccby4/音源许可与转换说明.md",
+      "source_manifest": "china-muyu-ccby4/来源与区域.json",
+      "source_url": "https://freesound.org/people/the_very_Real_Horst/sounds/205999/",
+      "limitations": "作者标木鱼，公开有损MP3预览截取四次固定击打；各键为独立击打，不含力度层/自动轮换；人工听感待核。",
+      "resources": [
+        {
+          "instrument_id": "muyu_ccby4_four_hits",
+          "label": "木鱼四击有限原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63
+          ],
+          "unpitched_hits": {
+            "hit_60": "60",
+            "hit_61": "61",
+            "hit_62": "62",
+            "hit_63": "63"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "sp-kora-cc0-20261102",
+      "path": "sp-kora-20261102/SP-Kora-CC0.sf2",
+      "sha256": "cf0ab01774b7a91c1e13d53d55fa6cd3f385a56d0193babeba9555190e92a891",
+      "license_id": "CC0-1.0",
+      "license_file": "sp-kora-20261102/许可说明.md",
+      "source_manifest": "sp-kora-20261102/来源与映射.json",
+      "source_url": "https://github.com/NeoSoundFonts/SP-Kora",
+      "limitations": "单个C3采样，音域46—50以最多两个半音移调；无力度层与轮换，音色待人工验收。",
+      "resources": [
+        {
+          "instrument_id": "sp_kora_cc0",
+          "label": "科拉琴单采样有限原型",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "aurora-world-cc0-20261102",
+      "path": "aurora-world-cc0-20261102/Aurora-Oud-Ney-CC0.sf2",
+      "sha256": "284eccd992af8f66ac887e169a36655737ed17cb1b2fb7c0c79783fa3d72d95e",
+      "license_id": "CC0-1.0",
+      "license_file": "aurora-world-cc0-20261102/许可说明.md",
+      "source_manifest": "aurora-world-cc0-20261102/来源与映射.json",
+      "source_url": "https://aurorasynth.baltavista.com/",
+      "limitations": "乌德15键、奈伊3键无轮换力度层与循环；逐FLAC原始来源未分配；人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "aurora_oud_cc0",
+          "label": "乌德琴有限音区",
+          "bank": 0,
+          "program": 0
+        },
+        {
+          "instrument_id": "aurora_ney_cc0",
+          "label": "奈伊笛有限音区",
+          "bank": 0,
+          "program": 1
+        }
+      ]
+    },
+    {
+      "pack_id": "justmog-bouzouki-cc0-20261102",
+      "path": "justmog-bouzouki-20261102/JustMog-Bouzouki-Verified.sf2",
+      "sha256": "7538ccf92fef40422c48975da1a2cbce88c202365f92adddae1db60ff7f9c08d",
+      "license_id": "CC0-1.0",
+      "license_file": "justmog-bouzouki-20261102/许可说明.md",
+      "source_manifest": "justmog-bouzouki-20261102/来源与映射.json",
+      "source_url": "https://freesound.org/people/JustMog/packs/31055/",
+      "limitations": "四个分散真实音高，单力度层、无轮换；未验证全部传统演奏法。",
+      "resources": [
+        {
+          "instrument_id": "justmog_bouzouki_cc0",
+          "label": "布祖基琴四键实录",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "piermic-sopranino-cc0-20261102",
+      "path": "piermic-sopranino-20261102/Piermic-Sopranino-CC0.sf2",
+      "sha256": "76e89d50eec847d3e3bdbb5c04c0af1835d38241c2bff4eead5f02e1380c603e",
+      "license_id": "CC0-1.0",
+      "license_file": "piermic-sopranino-20261102/许可说明.md",
+      "source_manifest": "piermic-sopranino-20261102/来源与映射.json",
+      "source_url": "https://freesound.org/people/piermic/sounds/324085/",
+      "limitations": "仅4个独立原音MIDI 86、88、89、91；录音为有损MP3且有混响；起音不完整、无循环或力度层，人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "piermic_sopranino_cc0",
+          "label": "超高音竖笛4键有限原型",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "edinburgh-clavichord-by-20261102",
+      "path": "edinburgh-clavichord-20261102/Edinburgh-Clavichord-BY.sf2",
+      "sha256": "50fde354a227abc78ee0948abd1c1ba5f81fb724e76b2303bedbebae21a3360a",
+      "license_id": "CC-BY-4.0",
+      "license_file": "edinburgh-clavichord-20261102/许可说明.md",
+      "source_manifest": "edinburgh-clavichord-20261102/来源与映射.json",
+      "source_url": "https://doi.org/10.7488/ds/8090",
+      "limitations": "保留历史乐器约A415原调；11个稀疏原音键，无力度层及独立释放尾；录音降噪改变衰减，24位转16位；人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "edinburgh_clavichord_415_by",
+          "label": "1740年代击弦古钢琴有限原音 A415",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "clintgoss-nativeflute-20261102",
+      "path": "clintgoss-nativeflute-20261102/ClintGoss-NativeFlute-CC-BY-4.0.sf2",
+      "sha256": "cfe3e7d04b54df2ee328d58f8036f0738bdf8663e5a197f7e7f190b46947d149",
+      "license_id": "CC-BY-4.0",
+      "license_file": "clintgoss-nativeflute-20261102/许可说明.md",
+      "source_manifest": "clintgoss-nativeflute-20261102/来源与映射.json",
+      "source_url": "https://www.flutopedia.com/soundlib.htm",
+      "limitations": "9个真实采样覆盖 MIDI 64–80、最多半音移调，无循环/力度层/轮换；CC BY 4.0 须署名和说明修改。",
+      "resources": [
+        {
+          "instrument_id": "clintgoss_native_flute",
+          "label": "北美原住民笛 Beltrami",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "etherealwinds-lever-harp-by-20261102",
+      "path": "etherealwinds-lever-harp-20261102/Etherealwinds-Lever-Harp-CC-BY.sf2",
+      "sha256": "418618e91389558f35afcd11d751c7f8ef270c81a921befda5f7cc5bdcdb8aaf",
+      "license_id": "CC-BY-4.0",
+      "license_file": "etherealwinds-lever-harp-20261102/许可说明.md",
+      "source_manifest": "etherealwinds-lever-harp-20261102/来源与映射.json",
+      "source_url": "https://versilian-studios.com/etherealwinds-harp/",
+      "limitations": "MIDI 36–93逐键双力度，立体声。仅RR1，未复刻原SFZ音量/释放包络；人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "etherealwinds_lever_harp_by",
+          "label": "Etherealwinds拨杆竖琴",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "orchidea-bass-viol-by-20261102",
+      "path": "orchidea-bass-viol-20261102/Orchidea-Bass-Viol-BY.sf2",
+      "sha256": "8c6bcf8c5d44cc1797c606e3335a0da20cf7318fcb64f521b2da48b9d3a5bba5",
+      "license_id": "CC-BY-4.0",
+      "license_file": "orchidea-bass-viol-20261102/许可说明.md",
+      "source_manifest": "orchidea-bass-viol-20261102/来源与映射.json",
+      "source_url": "https://www.orch-idea.org/datasets/",
+      "limitations": "11稀疏原音、p/f两层，无循环；A415来源声明与音高自动测量存在冲突，保留原调、待人工核对。",
+      "resources": [
+        {
+          "instrument_id": "orchidea_bass_viol_by",
+          "label": "Orchidea低音古大提琴有限原音",
+          "bank": 0,
+          "program": 0
+        }
+      ]
+    },
+    {
+      "pack_id": "meta-nylon-cc0-20261102",
+      "path": "meta-nylon-guitar-20261102/MetaNylon-v1-48k16.sf2",
+      "sha256": "f183c860e08d3d14ba5d056b8b4da6b60a481a8fcf5a5aea1b72d329039c5688",
+      "license_id": "CC0-1.0",
+      "license_file": "meta-nylon-guitar-20261102/许可与限制.md",
+      "source_manifest": "meta-nylon-guitar-20261102/逐源映射.json",
+      "source_url": "https://github.com/facebookincubator/Meta-open-sound/releases/tag/meta-nylon-guitar-v1.0.0",
+      "limitations": "44键、三录音层；24转16位。只取官方默认第一通道，硬力度切换，不支持原SFZ交叉淡化、弦切音、键开关、单弦通道、随机调制和完整one-shot；人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "meta_nylon_guitar_cc0",
+          "label": "Meta尼龙弦吉他三录音层有限原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "pjcohen-orchestral-tamtam-bya-20261102",
+      "path": "pjcohen-orchestral-tamtam-bya-20261102/PJCohen-Orchestral-TamTam.sf2",
+      "sha256": "bbbec10e3f9ffcd17ad64b8d784bba85140787ba5fb7ec71aa333360312088e3",
+      "license_id": "CC-BY-3.0",
+      "license_file": "pjcohen-orchestral-tamtam-bya-20261102/许可说明.md",
+      "source_manifest": "pjcohen-orchestral-tamtam-bya-20261102/来源与映射.json",
+      "source_url": "https://zenodo.org/records/4060432",
+      "limitations": "两次实际录音固定键60、61；FSD50K单声道版本，原始立体声不可用，无自动轮换或多力度映射，人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "pjcohen_tamtam_bya",
+          "label": "交响大锣两击有限原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61
+          ],
+          "unpitched_hits": {
+            "hit_13": "60",
+            "hit_06": "61"
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "fsd-sarangi-by3-20261102",
+      "path": "fsd-sarangi-by3-20261102/FSD-Sarangi-CCBY3.sf2",
+      "sha256": "792b839dbc2a7b740ae465589ef0f8a93f0564cc508bacbf88f7b5a5d3e594f9",
+      "license_id": "CC-BY-3.0",
+      "license_file": "fsd-sarangi-by3-20261102/许可说明.md",
+      "source_manifest": "fsd-sarangi-by3-20261102/来源与映射.json",
+      "source_url": "https://freesound.org/people/Johnnydhol/sounds/170313/",
+      "limitations": "单键0.21秒持续截音，无自然起音，可能含共鸣弦；无轮换/力度层/循环，人工听感待验。",
+      "resources": [
+        {
+          "instrument_id": "fsd_sarangi_by3_single",
+          "label": "萨朗吉单键短持续原型",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            63
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "erhu_aliexpress_v2",
+      "path": "erhu-20261103/Erhu-Aliexpress-CC0-v2.sf2",
+      "sha256": "783140064a368521b38886992a4b42f49bf5fa86716bdd3623817432fefb5a7a",
+      "license_id": "CC0-1.0",
+      "license_file": "erhu-20261103/许可与说明.md",
+      "source_manifest": "erhu-20261103/采样测量.json",
+      "source_url": "https://github.com/sfzinstruments/aliexpress-erhu",
+      "limitations": "小提琴手演奏的廉价二胡实录，三种弓法含全部轮换；无录制的连弓、滑音，单力度层；长音为烘入交叉淡化循环。",
+      "resources": [
+        {
+          "instrument_id": "erhu_aliexpress_v2",
+          "label": "二胡（长弓/短弓/靠指板，全轮换）",
+          "bank": 0,
+          "program": 0,
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1
+              ],
+              "recorded": true
+            },
+            "sul_tasto": {
+              "bank": 0,
+              "programs": [
+                2,
+                3
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                4,
+                5,
+                6,
+                7
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_violin_section",
+      "path": "vsco2-20261103/vsco_violin_section.sf2",
+      "sha256": "bb12660bbe047b3e8f33a15893d29aa440b42ae853b52c39b464d8520189ff51",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_violin_section.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_violin_section",
+          "label": "小提琴组（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16,
+                17
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_viola_section",
+      "path": "vsco2-20261103/vsco_viola_section.sf2",
+      "sha256": "c82cec240ea0ec22e37cfc3a42b9e61d2aaca40b7d8e593f48523696cc6baad5",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_viola_section.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_viola_section",
+          "label": "中提琴组（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16,
+                17
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_cello_section",
+      "path": "vsco2-20261103/vsco_cello_section.sf2",
+      "sha256": "e64703541411486bfd39dfeb33ad2eddb05f195e4913f8b2326b709398ac6d39",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_cello_section.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_cello_section",
+          "label": "大提琴组（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16,
+                17
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32,
+                33
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_contrabass_solo",
+      "path": "vsco2-20261103/vsco_contrabass_solo.sf2",
+      "sha256": "92cb9487dd1b4e1109da0b2a9938d1bef5335f83590e96b152c57dab396bc6b1",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_contrabass_solo.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_contrabass_solo",
+          "label": "低音提琴独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_violin_solo",
+      "path": "vsco2-20261103/vsco_violin_solo.sf2",
+      "sha256": "725f6e5df3681d3c6af053ac1fae89c10bf1b90bf5c69ff4f329a7ea01de040f",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_violin_solo.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_violin_solo",
+          "label": "小提琴独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16,
+                17
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_french_horn",
+      "path": "vsco2-20261103/vsco_french_horn.sf2",
+      "sha256": "baca05ae5a022a649eabb63608baa3cb38007fda667d09d3823ecda08a13aad4",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_french_horn.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_french_horn",
+          "label": "圆号独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_trombone",
+      "path": "vsco2-20261103/vsco_trombone.sf2",
+      "sha256": "9d0de58442e6bcef2e5003f29ea93bb7b6f3595a99ff801a8e6783c7ed39cfd4",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_trombone.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_trombone",
+          "label": "长号独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_trumpet",
+      "path": "vsco2-20261103/vsco_trumpet.sf2",
+      "sha256": "9b645303d80f8866fd1fce816db0debdc72da67b0b16e71cec690220ed93c322",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_trumpet.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_trumpet",
+          "label": "小号独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_tuba",
+      "path": "vsco2-20261103/vsco_tuba.sf2",
+      "sha256": "ce9948b984d9f4375deecb0feef14a9a20092f02fba123b20349c09e1dcf28a7",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_tuba.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_tuba",
+          "label": "大号独奏（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16,
+                17,
+                18,
+                19
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_flute",
+      "path": "vsco2-20261103/vsco_flute.sf2",
+      "sha256": "289703aa736e95e8fd9f6f951c73f0cccd3fa5c6150bce3e2ddf29a0006805c2",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_flute.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_flute",
+          "label": "长笛（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_oboe",
+      "path": "vsco2-20261103/vsco_oboe.sf2",
+      "sha256": "8fb3c8ff8324d734c59d6bc9721189f195fbf12b189c90f0373b35d13dbab41a",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_oboe.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_oboe",
+          "label": "双簧管（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_clarinet",
+      "path": "vsco2-20261103/vsco_clarinet.sf2",
+      "sha256": "95b3b801e516cb18e9504bc4b90631e6b4598c9949d7e5391893d2e67c22dadc",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_clarinet.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_clarinet",
+          "label": "单簧管（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_bassoon",
+      "path": "vsco2-20261103/vsco_bassoon.sf2",
+      "sha256": "ca64ab5e0e91c8bfd4d67d96ce7a01a34ce27a793d4b5b358b67bed7d69601de",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_bassoon.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_bassoon",
+          "label": "大管（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_piccolo",
+      "path": "vsco2-20261103/vsco_piccolo.sf2",
+      "sha256": "b3808e816bc768b283a95a32afff3a309f6c3344e205179d38b0a150ad5eed4b",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_piccolo.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_piccolo",
+          "label": "短笛（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_harp",
+      "path": "vsco2-20261103/vsco_harp.sf2",
+      "sha256": "d9dd5f94610cb839c560083aed512edb396a6c464631e2bde998fa20e379edd0",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_harp.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_harp",
+          "label": "竖琴（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_timpani",
+      "path": "vsco2-20261103/vsco_timpani.sf2",
+      "sha256": "3a2ba34a8eba1c6e7a2d4ddec524e6fc35c79fb3579cac5434607fe445d91763",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_timpani.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_timpani",
+          "label": "定音鼓（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_marimba",
+      "path": "vsco2-20261103/vsco_marimba.sf2",
+      "sha256": "43710b89e867d24123b7104c7f6d2d8798b2fe676af44afca0b14a0916815d26",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_marimba.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_marimba",
+          "label": "马林巴（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_glockenspiel",
+      "path": "vsco2-20261103/vsco_glockenspiel.sf2",
+      "sha256": "13abe6d4f63c99b60c687341242991044082dbc661ae82d023ff9c14ad093adb",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_glockenspiel.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；循环为烘入交叉淡化；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_glockenspiel",
+          "label": "钟琴（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vcsl_bassdrum_gong_v1",
+      "path": "vcsl-bassdrum-gong-20261103/VCSL-BassDrum-Gong-v1.sf2",
+      "sha256": "8a73d496d23a3259ab1738b30a984d6ea83e68a34e733b4de9e80ec525e7f23f",
+      "license_id": "CC0-1.0",
+      "license_file": "vcsl-bassdrum-gong-20261103/许可与说明.md",
+      "source_manifest": "vcsl-bassdrum-gong-20261103/采样测量.json",
+      "source_url": "https://github.com/sgossner/VCSL",
+      "limitations": "西洋音乐会大鼓与锣的实录，不是中国大鼓或京锣；滚奏为固定长度录音。",
+      "resources": [
+        {
+          "instrument_id": "vcsl_concert_bass_drum",
+          "label": "音乐会大鼓（VCSL，非中国大鼓）",
+          "bank": 0,
+          "program": 0,
+          "unpitched_hits": {
+            "hit": "36",
+            "hit_deep": "35",
+            "roll": "37",
+            "roll_fast": "38"
+          },
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1
+              ],
+              "recorded": true
+            }
+          }
+        },
+        {
+          "instrument_id": "vcsl_gong",
+          "label": "锣（VCSL Gong 1，非京锣）",
+          "bank": 0,
+          "program": 2,
+          "unpitched_hits": {
+            "hit": "60",
+            "scrape": "61"
+          },
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                2,
+                3
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "guzheng_pufermufin_sliced_v3",
+      "path": "guzheng-20261103/Guzheng-Pufermufin-Sliced-v3.sf2",
+      "sha256": "b4b732618321d4725739595b713a58dc94b13e8e061ea4824f2da88b92a21ca2",
+      "license_id": "CC0-1.0",
+      "license_file": "guzheng-20261103/许可与说明.md",
+      "source_manifest": "guzheng-20261103/采样测量_v3.json",
+      "source_url": "https://freesound.org/people/Pufermufin/sounds/396868/",
+      "limitations": "14个实录根音，作者公开有损预览切片；普通拨弦+部分双力度层；移调不超过3半音；真实滑音/吟揉/摇指未录制，只能由演奏控制近似；尾音受下一起音限制；非全21弦。 v3 剔除 4 条混入前音余振的切片（见采样测量_v3.json 的 excluded），键域缩到 42–77。",
+      "resources": [
+        {
+          "instrument_id": "guzheng_pufermufin_sliced_v3",
+          "label": "古筝切片版 v3（12根音，拨弦）",
+          "bank": 0,
+          "program": 0,
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1
+              ],
+              "recorded": true
+            },
+            "ring": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "guqin_songest_v2",
+      "path": "guqin-20261103/Guqin-GuqinSonGest-v2.sf2",
+      "sha256": "54978f017696d07e42c90475870a352a20ce3d2b7ae3beeea6448956dc0265a1",
+      "license_id": "CC-BY-4.0",
+      "license_file": "guqin-20261103/许可与说明.md",
+      "source_manifest": "guqin-20261103/采样测量_v2.json",
+      "source_url": "https://zenodo.org/records/14962054",
+      "limitations": "拨弦同 v1（11 根音、三组轮换、单力度）；泛音只有 8 个半音（C3 G3 C4 D4 G4 C5 D5 B5，覆盖 46–50、53–76、81–85），须与标注音名一致、起音后两秒音高稳定并通过区域音高门禁；起音裁切跳过录音开头底噪；吟猱以摆动下沿对准谱面音高（古琴吟实测往上摆）；承声吟只有 D3、D5，声后吟只有 D5，绰只有 D3、D5，各覆盖 ±3 半音，超出范围须用 idiomatic.guqin_yin/guqin_chuo 的实测参数在拨弦上模拟；人工听感未验收。",
+      "resources": [
+        {
+          "instrument_id": "guqin_songest_v2",
+          "label": "古琴 GuqinSonGest v2（拨弦、泛音、吟猱、绰）",
+          "bank": 0,
+          "program": 0,
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1,
+                2
+              ],
+              "recorded": true
+            },
+            "ring": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "harmonic": {
+              "bank": 0,
+              "programs": [
+                3
+              ],
+              "recorded": true
+            },
+            "yin_chengsheng": {
+              "bank": 0,
+              "programs": [
+                4
+              ],
+              "recorded": true
+            },
+            "yin_shenghou": {
+              "bank": 0,
+              "programs": [
+                5
+              ],
+              "recorded": true
+            },
+            "chuo": {
+              "bank": 0,
+              "programs": [
+                6
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_xylophone",
+      "path": "vsco2-20261103/vsco_xylophone.sf2",
+      "sha256": "a415958b4ef986b4ab179c29219ed404dd5a3d14036aa8bd2a3756df24e3a6d7",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_xylophone.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_xylophone",
+          "label": "木琴（VSCO）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_timpani_v2",
+      "path": "vsco2-20261103/vsco_timpani_v2.sf2",
+      "sha256": "d3d5ea14dea35c07a19109ea475642b2c33946f8b115e5b7b18a94e4d19cc71e",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_timpani_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_timpani_v2",
+          "label": "定音鼓（VSCO，含滚奏）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0,
+                1
+              ],
+              "recorded": true
+            },
+            "roll": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_trumpet_v2",
+      "path": "vsco2-20261103/vsco_trumpet_v2.sf2",
+      "sha256": "98d8f2e03b6ab6f864522abff3c3e1f6e3a98d743d2e3cf4e6f069b4e01a842e",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_trumpet_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_trumpet_v2",
+          "label": "小号独奏（VSCO，含弱音器与揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "vibrato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "straight_mute": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            },
+            "harmon_mute": {
+              "bank": 0,
+              "programs": [
+                64
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_french_horn_v2",
+      "path": "vsco2-20261103/vsco_french_horn_v2.sf2",
+      "sha256": "a917b2613eaf9cc33b478035e1d9b7aae593e6123f46606208fd593d6062328d",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_french_horn_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_french_horn_v2",
+          "label": "圆号独奏（VSCO，含弱音器）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "mute": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_flute_v2",
+      "path": "vsco2-20261103/vsco_flute_v2.sf2",
+      "sha256": "c05021e77a7e7330c0e2953dfbd7423806c57fb42367d0eb4e172bd21a47ad67",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_flute_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_flute_v2",
+          "label": "长笛（VSCO，含非揉音与表情揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "non_vibrato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "espressivo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_oboe_v2",
+      "path": "vsco2-20261103/vsco_oboe_v2.sf2",
+      "sha256": "2d106aa7fae30ce66415aae30cd7c92afab35e93e5489a9370ca4be4923fdac0",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_oboe_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_oboe_v2",
+          "label": "双簧管（VSCO，含非揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "non_vibrato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_trombone_v2",
+      "path": "vsco2-20261103/vsco_trombone_v2.sf2",
+      "sha256": "0f155296e4f1a8b6187fb02be17732733e8c64791a76dafe4bdf6208cae6b4e7",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_trombone_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_trombone_v2",
+          "label": "长号独奏（VSCO，含揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "vibrato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_bassoon_v2",
+      "path": "vsco2-20261103/vsco_bassoon_v2.sf2",
+      "sha256": "d270fdc4ea1d588a9718e50969a19d8b3c24470a1cdd05937f8fb2a183233ff7",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_bassoon_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_bassoon_v2",
+          "label": "大管（VSCO，含揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "vibrato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pack_id": "vsco_contrabass_solo_v2",
+      "path": "vsco2-20261103/vsco_contrabass_solo_v2.sf2",
+      "sha256": "0deca109b1d070fcbb3df4134c067e8b698e8f4fb625e1f6120012f69d39f993",
+      "license_id": "CC0-1.0",
+      "license_file": "vsco2-20261103/许可与说明.md",
+      "source_manifest": "vsco2-20261103/vsco_contrabass_solo_v2.采样测量.json",
+      "source_url": "https://github.com/sgossner/VSCO-2-CE",
+      "limitations": "VSCO-2-CE 实录，16位SF2；持续奏法为烘入交叉淡化循环；无真实连奏录音；奏法只含列出的项。",
+      "resources": [
+        {
+          "instrument_id": "vsco_contrabass_solo_v2",
+          "label": "低音提琴独奏（VSCO，含非揉音）",
+          "bank": 0,
+          "program": 0,
+          "supported_keys": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ],
+          "articulations": {
+            "normal": {
+              "bank": 0,
+              "programs": [
+                0
+              ],
+              "recorded": true
+            },
+            "staccato": {
+              "bank": 0,
+              "programs": [
+                16
+              ],
+              "recorded": true
+            },
+            "pizzicato": {
+              "bank": 0,
+              "programs": [
+                32
+              ],
+              "recorded": true
+            },
+            "tremolo": {
+              "bank": 0,
+              "programs": [
+                48
+              ],
+              "recorded": true
+            },
+            "non_vibrato": {
+              "bank": 0,
+              "programs": [
+                64
+              ],
+              "recorded": true
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

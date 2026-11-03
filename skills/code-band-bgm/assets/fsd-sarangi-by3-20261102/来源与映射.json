@@ -1,0 +1,18 @@
+{
+  "作者及录音来源": "Johnnydhol，Dhol Foundation Archive",
+  "来源": "https://freesound.org/people/Johnnydhol/sounds/170313/",
+  "数据集再分发来源": "https://zenodo.org/records/4060432",
+  "许可": "CC BY 3.0",
+  "来源音频sha256": "c0a3865132cd4489d8ebb09af4bf945e1f0095c0502f7a40099af8991749dbf2",
+  "源音频条件": "FSD50K转换至44.1kHz/16位单声道；与源主文件是否完全相同未知",
+  "选取秒数": [
+    2.316,
+    2.526
+  ],
+  "用途": "短持续片段，并非独立起音，不声称无共鸣弦残留",
+  "音高": "pYIN 63.1，转换时校正 -10 cents",
+  "映射": [
+    63
+  ],
+  "音源sha256": "792b839dbc2a7b740ae465589ef0f8a93f0564cc508bacbf88f7b5a5d3e594f9"
+}

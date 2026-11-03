@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "source_urls": ["https://midi.org/general-midi-level-1", "https://musescore.org/sites/musescore.org/files/2024-10/General%20MIDI%20Standard%20Percussion%20Set%20Key%20Map.pdf"],
+  "notes_zh": "标准号只说明键位身份，不保证音色声学真实性。须逐预设实测真实采样区域和发声；中国式镲片52不等同中国民乐对击钹。旧逻辑键别名保持。",
+  "hits": {
+    "acoustic_kick": "35", "kick": "36", "rim": "37", "snare": "38", "hand_clap": "39", "electric_snare": "40",
+    "floor_tom_low": "41", "closed_hat": "42", "floor_tom_high": "43", "pedal_hat": "44", "low_tom": "45", "open_hat": "46",
+    "tom_low_mid": "47", "tom_high_mid": "48", "crash": "49", "high_tom": "50", "ride": "51", "china_cymbal": "52",
+    "ride_bell": "53", "tambourine": "54", "splash_cymbal": "55", "cowbell": "56", "crash_2": "57", "vibraslap": "58", "ride_2": "59",
+    "bongo_high": "60", "bongo_low": "61", "conga_mute_high": "62", "conga_open_high": "63", "conga_low": "64",
+    "timbale_high": "65", "timbale_low": "66", "agogo_high": "67", "agogo_low": "68", "cabasa": "69", "shaker": "70",
+    "whistle_short": "71", "whistle_long": "72", "guiro_short": "73", "guiro_long": "74", "claves": "75",
+    "woodblock_high": "76", "woodblock_low": "77", "cuica_mute": "78", "cuica_open": "79", "triangle_mute": "80", "triangle_open": "81"
+  }
+}

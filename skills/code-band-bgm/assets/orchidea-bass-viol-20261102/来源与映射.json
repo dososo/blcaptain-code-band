@@ -1,0 +1,386 @@
+{
+  "来源": "https://www.orch-idea.org/datasets/",
+  "原始压缩包": "https://www.orch-idea.org/data/db/Orchidea_VdG_0.1.zip",
+  "作者": "Kristina Wolfe",
+  "许可": "CC BY 4.0",
+  "获取": "HTTP Range 从官方ZIP提取；每项按ZIP中央目录CRC32和大小校验",
+  "调律警示": "作者随包说明为 A415；本次所用双力度样本对同名A440键pYIN估测在30音分内，两者不一致，保留音频原调，人工核对",
+  "处理": "每个实录原键，p和f两层分配1–80和81–127，未移调，无循环；从16位44100单声道WAV转SF2",
+  "样本": [
+    {
+      "midi": 69,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-A4-p.wav",
+      "source_sha256": "39352bbfd639cf4dc798b9904f40ca0b967f5409d9163a6fcd3cf6c3b041008e",
+      "source_frames": 204809,
+      "音高检测": {
+        "name": "A4",
+        "midi": 69,
+        "measured_midi": 68.925,
+        "offset_cents": -7.5,
+        "confidence": 0.985
+      }
+    },
+    {
+      "midi": 69,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-A4-f.wav",
+      "source_sha256": "e7f2eb5b2379a947d40a9d2d86a1e5a528f660ccd6c0c70fe36c953a91546034",
+      "source_frames": 169293,
+      "音高检测": {
+        "name": "A4",
+        "midi": 69,
+        "measured_midi": 69.125,
+        "offset_cents": 12.5,
+        "confidence": 0.985
+      }
+    },
+    {
+      "midi": 47,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-B2-p.wav",
+      "source_sha256": "15ff0f8e2841b103758956509ddc0d54974c74957287d7a5360e08d86e2ef638",
+      "source_frames": 232771,
+      "音高检测": {
+        "name": "B2",
+        "midi": 47,
+        "measured_midi": 47.025,
+        "offset_cents": 2.5,
+        "confidence": 0.757
+      }
+    },
+    {
+      "midi": 47,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-B2-f.wav",
+      "source_sha256": "6fe4de94ce65996b6e3e642cc4b55011aad073b216596ca34bb0589d09983612",
+      "source_frames": 202077,
+      "音高检测": {
+        "name": "B2",
+        "midi": 47,
+        "measured_midi": 47.025,
+        "offset_cents": 2.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 48,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-C3-p.wav",
+      "source_sha256": "957e8197285c2947985e87d73a4a4d9a0bdd51c07c2c3421f110dee6b748bf7d",
+      "source_frames": 195896,
+      "音高检测": {
+        "name": "C3",
+        "midi": 48,
+        "measured_midi": 48.025,
+        "offset_cents": 2.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 48,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-C3-f.wav",
+      "source_sha256": "04aeeda659db9f3987dc84d825acd4a8ed0aa37cb8ef664af21ed32e559a7764",
+      "source_frames": 154479,
+      "音高检测": {
+        "name": "C3",
+        "midi": 48,
+        "measured_midi": 48.025,
+        "offset_cents": 2.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 72,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-C5-p.wav",
+      "source_sha256": "2eef5dc469c19d4cba5e3d73e0181acf8f3aa7af1c76be998ce3533f5e0d0cba",
+      "source_frames": 126743,
+      "音高检测": {
+        "name": "C5",
+        "midi": 72,
+        "measured_midi": 72.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 72,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-C5-f.wav",
+      "source_sha256": "9854451509c426f58d97f913c9cfc316215a375f835632fd3d475f6e5a1d8c14",
+      "source_frames": 141090,
+      "音高检测": {
+        "name": "C5",
+        "midi": 72,
+        "measured_midi": 72.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 51,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-D#3-p.wav",
+      "source_sha256": "54d7f8ec14466ae3bde88d19dd9a06e11c5eb6d7791b8ac1fbc08112513bb211",
+      "source_frames": 252228,
+      "音高检测": {
+        "name": "D#3",
+        "midi": 51,
+        "measured_midi": 51.025,
+        "offset_cents": 2.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 51,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-D#3-f.wav",
+      "source_sha256": "322071e7e7d976430179d35dbbb87542b462096d5d9aa1cbdcef17b6b72457fc",
+      "source_frames": 357903,
+      "音高检测": {
+        "name": "D#3",
+        "midi": 51,
+        "measured_midi": 50.925,
+        "offset_cents": -7.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 62,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-D4-p.wav",
+      "source_sha256": "5627fb5e79b7d7b266a78b702c1e417d10fa3a8076f8b4c2f465a87b1902cba1",
+      "source_frames": 203168,
+      "音高检测": {
+        "name": "D4",
+        "midi": 62,
+        "measured_midi": 62.025,
+        "offset_cents": 2.5,
+        "confidence": 0.891
+      }
+    },
+    {
+      "midi": 62,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-D4-f.wav",
+      "source_sha256": "189f6c0e5ccad7357bfecd02320c49dc93f7445434e9e2339b2a43aaa9d067af",
+      "source_frames": 175834,
+      "音高检测": {
+        "name": "D4",
+        "midi": 62,
+        "measured_midi": 62.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 52,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-E3-p.wav",
+      "source_sha256": "bb2d0d25683456d7378d5d1affa7d0cd50378f61a042398b0682d49612bfab0f",
+      "source_frames": 197698,
+      "音高检测": {
+        "name": "E3",
+        "midi": 52,
+        "measured_midi": 52.025,
+        "offset_cents": 2.5,
+        "confidence": 0.891
+      }
+    },
+    {
+      "midi": 52,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-E3-f.wav",
+      "source_sha256": "94fd2ad11227d225a1ff38becc4e41f549822d77733f6aeb285171bda1747243",
+      "source_frames": 183685,
+      "音高检测": {
+        "name": "E3",
+        "midi": 52,
+        "measured_midi": 51.925,
+        "offset_cents": -7.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 64,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-E4-p.wav",
+      "source_sha256": "9c10cc430d53cbeab4ea200a174fc437a84e71912957185e153715aa8d81df2c",
+      "source_frames": 218134,
+      "音高检测": {
+        "name": "E4",
+        "midi": 64,
+        "measured_midi": 64.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 64,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-E4-f.wav",
+      "source_sha256": "53174017ab7b3fd6b94cb0e6356b702ef41d745494b2de11101d79303e812136",
+      "source_frames": 141673,
+      "音高检测": {
+        "name": "E4",
+        "midi": 64,
+        "measured_midi": 64.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 54,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-F#3-p.wav",
+      "source_sha256": "cad101103266e945c34d22704ec6f58dc0770f57cf3ff4a4c4b9ef03aa25b27f",
+      "source_frames": 258184,
+      "音高检测": {
+        "name": "F#3",
+        "midi": 54,
+        "measured_midi": 53.925,
+        "offset_cents": -7.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 54,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-F#3-f.wav",
+      "source_sha256": "3dcad3e1dbe83858357c2e554d7d931c3c85833b24c7b8c278c32a211b04d1c9",
+      "source_frames": 196446,
+      "音高检测": {
+        "name": "F#3",
+        "midi": 54,
+        "measured_midi": 53.925,
+        "offset_cents": -7.5,
+        "confidence": 0.891
+      }
+    },
+    {
+      "midi": 68,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-G#4-p.wav",
+      "source_sha256": "a642c012330f04b903137302b2ff65f8ddbb1fe0cef322ee6e48a4d3cd48db75",
+      "source_frames": 202103,
+      "音高检测": {
+        "name": "G#4",
+        "midi": 68,
+        "measured_midi": 68.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 68,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-G#4-f.wav",
+      "source_sha256": "52cdad4ca5b05e735b8bc9a8c65c19d59d51dd3a23637021798a9be4ab88c20b",
+      "source_frames": 170848,
+      "音高检测": {
+        "name": "G#4",
+        "midi": 68,
+        "measured_midi": 68.025,
+        "offset_cents": 2.5,
+        "confidence": 0.946
+      }
+    },
+    {
+      "midi": 67,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "BVdG-ord-G4-p.wav",
+      "source_sha256": "09a279dff0d769a581fa38545b4ff2e9ea84f387533225b3d3e82077ce7e575e",
+      "source_frames": 181296,
+      "音高检测": {
+        "name": "G4",
+        "midi": 67,
+        "measured_midi": 67.025,
+        "offset_cents": 2.5,
+        "confidence": 0.827
+      }
+    },
+    {
+      "midi": 67,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "BVdG-ord-G4-f.wav",
+      "source_sha256": "408a9c34344f46c6418a8d3c9663c40059676874deee42e9e52935a4c77d150f",
+      "source_frames": 179014,
+      "音高检测": {
+        "name": "G4",
+        "midi": 67,
+        "measured_midi": 67.025,
+        "offset_cents": 2.5,
+        "confidence": 0.891
+      }
+    }
+  ],
+  "sf2_sha256": "8c6bcf8c5d44cc1797c606e3335a0da20cf7318fcb64f521b2da48b9d3a5bba5"
+}

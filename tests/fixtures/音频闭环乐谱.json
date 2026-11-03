@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0.0",
+  "score_id": "engine_closure_001",
+  "document_state": "composition_candidate",
+  "intent": {
+    "title": "真实采样音频闭环",
+    "brief": "使用官方钢琴音色演奏三个校验音，仅验证引擎链路，不计入样曲。",
+    "use_case": "契约说明",
+    "mood_tags": [
+      "结构演示"
+    ],
+    "notes": "主体4秒加尾音1秒；不是原视频音轨。",
+    "reference_policy": {
+      "mode": "none",
+      "source_ids": [],
+      "reuse_reference_audio": false,
+      "reuse_transcribed_melody": false
+    }
+  },
+  "timeline": {
+    "ppq": 960,
+    "tempo_map": [
+      {
+        "start_tick": 0,
+        "bpm": {
+          "numerator": 120,
+          "denominator": 1
+        }
+      }
+    ],
+    "meter_map": [
+      {
+        "start_tick": 0,
+        "numerator": 4,
+        "denominator": 4
+      }
+    ],
+    "music_end_tick": 7680
+  },
+  "randomness": {
+    "master_seed": "20261030",
+    "algorithm": "sha256_counter_v1",
+    "namespace_version": "1",
+    "sample_selection": "seeded_choice",
+    "notes": "此数值仅展示种子字段。微偏移已关闭，资源未绑定，因此不能进行正式渲染。"
+  },
+  "sections": [
+    {
+      "section_id": "structure_a",
+      "label": "结构演示段",
+      "start_tick": 0,
+      "end_tick": 7680,
+      "function": "main",
+      "notes": "两个 4/4 小节，仅用于演示段落边界。"
+    }
+  ],
+  "parts": [
+    {
+      "part_id": "piano",
+      "label": "真实钢琴",
+      "instrument_role": "钢琴校验音",
+      "musical_function": "melody",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "piano",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": -12,
+      "pan": 0,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "demo_note_001",
+          "onset_tick": 0,
+          "duration_ticks": 960,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 60,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "demo_note_002",
+          "onset_tick": 1920,
+          "duration_ticks": 960,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 64,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "demo_note_003",
+          "onset_tick": 3840,
+          "duration_ticks": 1920,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 67,
+            "cents": 0
+          },
+          "velocity": 74,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    }
+  ],
+  "mix": {
+    "master_gain_db": -6,
+    "effects": [],
+    "notes": "这里只填写增益字段，没有声称任何混响、限制器或音色已经存在。"
+  },
+  "render": {
+    "sample_rate_hz": 48000,
+    "sample_format": "pcm_s24",
+    "channels": 2,
+    "duration_mode": "exact_file",
+    "target_file_frames": 240000,
+    "tail_policy": "append",
+    "tail_frames": 48000,
+    "end_fade_frames": 2400,
+    "loop": {
+      "enabled": false
+    }
+  }
+}

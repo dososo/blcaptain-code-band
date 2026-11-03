@@ -1,0 +1,196 @@
+{
+  "schema_version": "1.0.0",
+  "capability_id": "workspace_engine_missing",
+  "probe_state": "unprobed",
+  "observed_at": null,
+  "engine": null,
+  "execution": {
+    "headless": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "offline_render": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "realtime_capture": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "timing": {
+    "tempo_step_map": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "meter_changes": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "sample_frame_scheduling": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "note_gate_release": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "pitch_cents": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "performance": {
+    "per_note_velocity": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "per_note_pan": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "articulations": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "explicit_sample_selection": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "seeded_sample_selection": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "engine_humanize_bypass": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "mixing": {
+    "part_gain": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "part_pan": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "reverb": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "stem_export": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "export": {
+    "wav": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "exact_frame_count": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "loop_tail_wrap": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "reproducibility": {
+    "deterministic_event_resolution": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    },
+    "bit_exact_audio": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": [
+        "尚未检查现有乐团源码与运行结果。"
+      ]
+    }
+  },
+  "format_limits": {
+    "sample_rates_hz": [],
+    "sample_formats": [],
+    "channel_counts": [],
+    "max_render_frames": null,
+    "notes": "空数组表示未获得证据，不表示支持任意格式。"
+  },
+  "resources": [],
+  "resource_manifest_sha256": null,
+  "evidence": [],
+  "unresolved": [
+    "当前工作区只有执行包、契约、说明与演示视频，没有乐团源码、原始采样和启动入口。",
+    "需要队长提供真实源码路径或仓库，以及资产路径与已有许可依据。",
+    "现有引擎的语言、音符事件、音区、力度层、轮换、演奏法、混音、导出和确定性均未确认。"
+  ],
+  "adapter_config_reference": null
+}

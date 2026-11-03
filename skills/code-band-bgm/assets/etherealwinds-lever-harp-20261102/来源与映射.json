@@ -1,0 +1,1175 @@
+{
+  "来源": "https://versilian-studios.com/etherealwinds-harp/",
+  "作者": [
+    "Jordi Francis (Etherealwinds)",
+    "Versilian Studios LLC"
+  ],
+  "许可": "CC BY 4.0（官网，不采用第三方误标CC0）",
+  "原库sha256": "18b78e3c309f5fb6097e1af04482f61a86bab5d9c4d2403f4adfa8bc684af578",
+  "原SFZ_sha256": "4a2191cf4949a8c3bbb7d6086de18fba2f543daa00083be7b2e8f9f6fe0f9d53",
+  "乐器": "34弦 Iona Celtic lever harp",
+  "处理": "按作者 SFZ 的原音高和力度区域，选择每层 RR1，16位44.1kHz立体声转SF2；未复刻 RR2、原音量与释放包络",
+  "样本": [
+    {
+      "midi": 46,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A#1_v2_RR1.wav",
+      "source_sha256": "0d5ccbfc71b85e5724106f711be54e24315298f79a104bef4d494f1737edc287",
+      "source_frames": 354735
+    },
+    {
+      "midi": 58,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A#2_v2_RR1.wav",
+      "source_sha256": "cd8f81c7991dd71dae19d701f9dc69bd52e33f497114ce95b61dbfbb63a8db29",
+      "source_frames": 277435
+    },
+    {
+      "midi": 70,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A#3_v2_RR1.wav",
+      "source_sha256": "2f10237e6926a8b4726046020abe14c80969d705fb0db66e83c6d0ac22d978f8",
+      "source_frames": 172762
+    },
+    {
+      "midi": 82,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A#4_v2_RR1.wav",
+      "source_sha256": "1a1e41eed114648f4950ff2638475aedc85dea31ea0c924f4d392658dee78ee4",
+      "source_frames": 84749
+    },
+    {
+      "midi": 45,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A1_v2_RR1.wav",
+      "source_sha256": "8b3d41beee8a062e37687978b6a4e65c40051fd5984b90775de67795a67f93f4",
+      "source_frames": 656239
+    },
+    {
+      "midi": 57,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A2_v2_RR1.wav",
+      "source_sha256": "1e8140d1e2075f124dc16280a74e0804834695be84a22782e0e595ea0a7d8686",
+      "source_frames": 311141
+    },
+    {
+      "midi": 69,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A3_v2_RR1.wav",
+      "source_sha256": "1081f3636634221b2a44d3bb0895c013ae5f8e4edffd487feb71aff9529552d8",
+      "source_frames": 521300
+    },
+    {
+      "midi": 81,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A4_v2_RR1.wav",
+      "source_sha256": "b08715a98c128d8c9cb95cff9a8b0c15a82743cdc97fe14c714e651d4777b757",
+      "source_frames": 167284
+    },
+    {
+      "midi": 93,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_A5_v2_RR1.wav",
+      "source_sha256": "4cd79b141ac14e269863ca66ba7becb91369aed2950ff86e46122b2f14d362c1",
+      "source_frames": 69995
+    },
+    {
+      "midi": 47,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_B1_v2_RR1.wav",
+      "source_sha256": "d52dd9c37bd15c20e34c2ecb334efea304149b5fbd3e9853799943da18b97dd5",
+      "source_frames": 309195
+    },
+    {
+      "midi": 59,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_B2_v2_RR1.wav",
+      "source_sha256": "46d3135940c33f40a7d743c2edcbafc6dbd7a80126b1b4c83b42f269a1ec8b60",
+      "source_frames": 211909
+    },
+    {
+      "midi": 71,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_B3_v2_RR1.wav",
+      "source_sha256": "764e5152a68278f752542faef82a0fa19108b0beba0bbece949f18a9f1697d6e",
+      "source_frames": 168751
+    },
+    {
+      "midi": 83,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_B4_v2_RR1.wav",
+      "source_sha256": "8617fc5f2b086583e145289a0e32043597ba0bd13074f96f9acede2c33379ed1",
+      "source_frames": 106369
+    },
+    {
+      "midi": 37,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C#1_v2_RR1.wav",
+      "source_sha256": "c72913ceb6e8bf33c47f5f9f0b84c3c768f7efd1c1592ec9f3041b990b73d40f",
+      "source_frames": 490585
+    },
+    {
+      "midi": 49,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C#2_v2_RR1.wav",
+      "source_sha256": "4896f65d194498e049a7b942fd7dc2c2ab819d7ef532c21538d0f809d35f2bb2",
+      "source_frames": 279548
+    },
+    {
+      "midi": 61,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C#3_v2_RR1.wav",
+      "source_sha256": "27dfc6be3bad89d2c70b4a5250b4c7e6c3a0589def8ffdcbb3e3e7ac98762def",
+      "source_frames": 181092
+    },
+    {
+      "midi": 73,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C#4_v2_RR1.wav",
+      "source_sha256": "af64787b4638f5e75a7887f2f99f0791ef4e36fd1ac80c0e1e43aa01a08d3246",
+      "source_frames": 148707
+    },
+    {
+      "midi": 85,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C#5_v2_RR1.wav",
+      "source_sha256": "3a8d5f515c0d944b698120bef838f29cf5ea267034861398c4e75044467ca82f",
+      "source_frames": 63604
+    },
+    {
+      "midi": 36,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C1_v2_RR1.wav",
+      "source_sha256": "c0a493380a5c12bff2e114882d90bd0844e14b9255ba2a4d1420475b75299fa8",
+      "source_frames": 878858
+    },
+    {
+      "midi": 48,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C2_v2_RR1.wav",
+      "source_sha256": "086c0b5fcc3e41bee173e53620d38f21a7dee4f59dfd75d8c8bbdf409ecbc5ee",
+      "source_frames": 451869
+    },
+    {
+      "midi": 60,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C3_v2_RR1.wav",
+      "source_sha256": "bfc5a2cae93793ac46bfe50c1b71d1e64e29eba34e71164c47c29e67488abd96",
+      "source_frames": 345688
+    },
+    {
+      "midi": 72,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C4_v2_RR1.wav",
+      "source_sha256": "79774644727f61bd535e4b49f7eae0c31b0cac4d2714d33d8f6cd84e5db081d3",
+      "source_frames": 193772
+    },
+    {
+      "midi": 84,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_C5_v2_RR1.wav",
+      "source_sha256": "75ce02fddc09d6c8c258a5c1ff79a901c5c60e434eaadc98b9dc67a741105c55",
+      "source_frames": 91626
+    },
+    {
+      "midi": 39,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D#1_v2_RR1.wav",
+      "source_sha256": "8727f049caad01a6869b8dcd261c6b1f3d349ee20c51fa51b090348c00a12d7e",
+      "source_frames": 646564
+    },
+    {
+      "midi": 51,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D#2_v2_RR1.wav",
+      "source_sha256": "8fcd588c506dcc746492cce0b2f2d6ad43ac1cf0d0e21295c2cfed9cb143ab8b",
+      "source_frames": 335710
+    },
+    {
+      "midi": 63,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D#3_v2_RR1.wav",
+      "source_sha256": "a7fefc257d74c679032807004ef3408901015c3662f35cad9fc3477ed58c011a",
+      "source_frames": 268508
+    },
+    {
+      "midi": 75,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D#4_v2_RR1.wav",
+      "source_sha256": "a2baaabb9dd6c15f02e5891002d189c435429681cbb75281cdb3c5cf75d66620",
+      "source_frames": 133705
+    },
+    {
+      "midi": 87,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D#5_v2_RR1.wav",
+      "source_sha256": "8c3596441a308ce207d9821ddf46644dd5b4718c0d5dbe08b526c5a1bb2f8c45",
+      "source_frames": 65425
+    },
+    {
+      "midi": 38,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D1_v2_RR1.wav",
+      "source_sha256": "2ec64ce4e72ae5bdd9af11b4bb4dc01b93a451c5fc9d4236af747560a3bde5ec",
+      "source_frames": 795596
+    },
+    {
+      "midi": 50,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D2_v2_RR1.wav",
+      "source_sha256": "e1c5d39e0b41430df0d277249be01f2a5d4ffc58ac70508a7a14097b8a39808d",
+      "source_frames": 294417
+    },
+    {
+      "midi": 62,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D3_v2_RR1.wav",
+      "source_sha256": "362b3e4c876a6723501f7176ebce88e6eadcfad7471bd1cf2fdd0039bc789416",
+      "source_frames": 252085
+    },
+    {
+      "midi": 74,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D4_v2_RR1.wav",
+      "source_sha256": "9ee0b906221272c8a51389742048158306da5f69573e57962eb62ee3c1a6ae5a",
+      "source_frames": 238819
+    },
+    {
+      "midi": 86,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_D5_v2_RR1.wav",
+      "source_sha256": "42ecde4166669c643fb6939572e18ec3898af139c9966de3833bbd5e839454f1",
+      "source_frames": 115055
+    },
+    {
+      "midi": 40,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_E1_v2_RR1.wav",
+      "source_sha256": "6f31f10f306049ce09246d51217577161518a4d850e2a738032969c6b5ccb4e3",
+      "source_frames": 629068
+    },
+    {
+      "midi": 52,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_E2_v2_RR1.wav",
+      "source_sha256": "b5ec62efd11ef2d3c1dab1bc54f24ad57dc0c61e0113a7d5cff639c6a90728b5",
+      "source_frames": 342786
+    },
+    {
+      "midi": 64,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_E3_v2_RR1.wav",
+      "source_sha256": "ed514f90376b971b75d7ff605e6b97a1767599d312ef60bf18e91f2d6c9b43c3",
+      "source_frames": 294361
+    },
+    {
+      "midi": 76,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_E4_v2_RR1.wav",
+      "source_sha256": "42cddd3ab551907e72893de8493b9a5aab1617dc43c3210bfed9335a5b1992e5",
+      "source_frames": 180826
+    },
+    {
+      "midi": 88,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_E5_v2_RR1.wav",
+      "source_sha256": "1d9c5aa6b2f15c14b2582591c3d7384f9352686a1fed44ab70ba655a31b702ce",
+      "source_frames": 71237
+    },
+    {
+      "midi": 42,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F#1_v2_RR1.wav",
+      "source_sha256": "4d1274e275ea90a367e446da44c73eee7df517430c03121f318d4a3e309d18d1",
+      "source_frames": 368484
+    },
+    {
+      "midi": 54,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F#2_v2_RR1.wav",
+      "source_sha256": "c872acf29a7863663a8bcdb6e4511fdfb53117e2793a5effcae2f5a264c33615",
+      "source_frames": 396757
+    },
+    {
+      "midi": 66,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F#3_v2_RR1.wav",
+      "source_sha256": "4a6ed3a36a0dcefb0ddd1b8b9543a7034d0bb9b6cc01fdebcda0f010cdd4733e",
+      "source_frames": 291714
+    },
+    {
+      "midi": 78,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F#4_v2_RR1.wav",
+      "source_sha256": "fe09d1ff1d6da6a77904e84b2edc9e17c80bdbb46e3648ed19eb63b745adf14d",
+      "source_frames": 129342
+    },
+    {
+      "midi": 90,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F#5_v2_RR1.wav",
+      "source_sha256": "d66634ede6b512a90457f2b0b15585772af3768c22a776f55f3862f540c8e948",
+      "source_frames": 69019
+    },
+    {
+      "midi": 41,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F1_v2_RR1.wav",
+      "source_sha256": "1133c0efe1fa13fdbe00d7f24ee79bef2a0727b7ce6c2f899de11bfeedbefea5",
+      "source_frames": 438638
+    },
+    {
+      "midi": 53,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F2_v2_RR1.wav",
+      "source_sha256": "bda0de968962e7a41dea4c2562ae62774744353fd294a1eaf8d3cce38a00458e",
+      "source_frames": 336107
+    },
+    {
+      "midi": 65,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F3_v2_RR1.wav",
+      "source_sha256": "c834e3fe26ce241c6998acd4152574d7fe2f8be36e6d65cbbf93d3f1523bc922",
+      "source_frames": 466168
+    },
+    {
+      "midi": 77,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F4_v2_RR1.wav",
+      "source_sha256": "27103a8b2a912c34c7378bc299d3c9bbd3288cfed5be50f4c71cb901cb38a2a1",
+      "source_frames": 127198
+    },
+    {
+      "midi": 89,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_F5_v2_RR1.wav",
+      "source_sha256": "49498aac17af6a82e042e3109afa24e5a4316d92caef2ef2f34cfc4ba214ea8f",
+      "source_frames": 62286
+    },
+    {
+      "midi": 44,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G#1_v2_RR1.wav",
+      "source_sha256": "a4695f91324e87e41929503f76f1d70aedaf2fd200dba7a66ad3b0bb7c74ea42",
+      "source_frames": 807968
+    },
+    {
+      "midi": 56,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G#2_v2_RR1.wav",
+      "source_sha256": "46efdad2a05dcfa4226ad8d8b5438979f6778d20d14647e732faf369eb6d17e3",
+      "source_frames": 331898
+    },
+    {
+      "midi": 68,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G#3_v2_RR1.wav",
+      "source_sha256": "48b5d5e32c5504ed0c47d0645c01e6722773d0af6360bcdfd94f3d9250d690ef",
+      "source_frames": 179521
+    },
+    {
+      "midi": 80,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G#4_v2_RR1.wav",
+      "source_sha256": "bd48c4e67fc45ca92f3a29b7ac8727f8e2f53bf079dac553c6fce0768e19ce11",
+      "source_frames": 87155
+    },
+    {
+      "midi": 92,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G#5_v2_RR1.wav",
+      "source_sha256": "b5ef446bef963ccf197162fcf40a940dfb84619005845061d6eefc91c0c5833e",
+      "source_frames": 55711
+    },
+    {
+      "midi": 43,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G1_v2_RR1.wav",
+      "source_sha256": "a7aa3a21d9b0bee64b7df7c60525c55e3867ccaeca55e5d92c23a507588fbc26",
+      "source_frames": 597331
+    },
+    {
+      "midi": 55,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G2_v2_RR1.wav",
+      "source_sha256": "d9d8c694d81b1f16c71cf8a4ad95998c58094fe7d92c4ecf7e9c701c92a59aed",
+      "source_frames": 301117
+    },
+    {
+      "midi": 67,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G3_v2_RR1.wav",
+      "source_sha256": "7d9057da9dcf57f8a04a0a26846f9df409eca2ffaab3c5445386ee4b7042cb3a",
+      "source_frames": 188177
+    },
+    {
+      "midi": 79,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G4_v2_RR1.wav",
+      "source_sha256": "39560d740e64028769f917b2e73abacbf478cf668091c6c915f325df2be134f6",
+      "source_frames": 97407
+    },
+    {
+      "midi": 91,
+      "velocity": [
+        1,
+        80
+      ],
+      "source": "EWHarp_Normal_G5_v2_RR1.wav",
+      "source_sha256": "78e3b206bd05fd26b4c387ba3218e2989dae36df03a2ca754b08e18afcc96305",
+      "source_frames": 61658
+    },
+    {
+      "midi": 46,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A#1_v3_RR1.wav",
+      "source_sha256": "58ec00782be27a6eb18304a498249878ba239ac3c1d6b9165c51eb837d73213e",
+      "source_frames": 505410
+    },
+    {
+      "midi": 58,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A#2_v3_RR1.wav",
+      "source_sha256": "9ec236a75152489d80d341083f3a23ddc5b6e2e433f7c1711282346d99bd9a80",
+      "source_frames": 355256
+    },
+    {
+      "midi": 70,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A#3_v3_RR1.wav",
+      "source_sha256": "8d3a89b6361bc2d21d54fad291cf1babfe1df4ff6ddf9b9233cc6b9a42e26741",
+      "source_frames": 232050
+    },
+    {
+      "midi": 82,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A#4_v3_RR1.wav",
+      "source_sha256": "7be7994c38110106950c535879ac77cfc261db92a7ae2c7a595d2bdb87589a68",
+      "source_frames": 121768
+    },
+    {
+      "midi": 45,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A1_v3_RR1.wav",
+      "source_sha256": "b9e0d9640d476693b0299ae70550530f9ea6a69fa12e470acc0791256322ca20",
+      "source_frames": 896397
+    },
+    {
+      "midi": 57,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A2_v3_RR1.wav",
+      "source_sha256": "0173ac77d937caf8c24e68eb6d3a0d82d9e70610f573c7c41dfe7446da4e9fbd",
+      "source_frames": 633959
+    },
+    {
+      "midi": 69,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A3_v3_RR1.wav",
+      "source_sha256": "2816764cd21f9aeaa298c4e011bb37c00b958296359328e2ef9cad619ac1a28f",
+      "source_frames": 609734
+    },
+    {
+      "midi": 81,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A4_v3_RR1.wav",
+      "source_sha256": "5111a4b6b3fa25fddc6a39b0dc14f02ae4f9e5c34f82b7e28e054e1a9b2a8ae7",
+      "source_frames": 297129
+    },
+    {
+      "midi": 93,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_A5_v3_RR1.wav",
+      "source_sha256": "efe6332c87366f0b281d5010a3fbc1bab1019e13aa12c09f3fb34bf1c982f6cc",
+      "source_frames": 89380
+    },
+    {
+      "midi": 47,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_B1_v3_RR1.wav",
+      "source_sha256": "beea98f649004b539bb5555cfdc0cace709400fdc3a3835ba68131e4a425f419",
+      "source_frames": 438475
+    },
+    {
+      "midi": 59,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_B2_v3_RR1.wav",
+      "source_sha256": "606a51b3d119bd75d83da0920f386a0d656be09b86144fb5203a1beade0f5f78",
+      "source_frames": 400987
+    },
+    {
+      "midi": 71,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_B3_v3_RR1.wav",
+      "source_sha256": "7089b3c22e1b2bb8bb07bd1c9a5c7a41b58c9a249518c4f53459c97773628195",
+      "source_frames": 210971
+    },
+    {
+      "midi": 83,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_B4_v3_RR1.wav",
+      "source_sha256": "00077e6d27cf581cf494c0dd0dc85caa6af8931593d24504c4a09c38c5d4c2c7",
+      "source_frames": 179778
+    },
+    {
+      "midi": 37,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C#1_v3_RR1.wav",
+      "source_sha256": "bbb3b3f1f8155fb5edb5cc780353b490dd3a347e21f2d8b3b11fba6b372eab5e",
+      "source_frames": 884756
+    },
+    {
+      "midi": 49,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C#2_v3_RR1.wav",
+      "source_sha256": "cf2594b9a00e70762cd1c94702aac62e2c7b9cfcc7ca3297434d96c473db1c0c",
+      "source_frames": 421616
+    },
+    {
+      "midi": 61,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C#3_v3_RR1.wav",
+      "source_sha256": "1ef836a6352b8c4d15667bb0c8a55f165146f0090149dc845137da53e8253642",
+      "source_frames": 299820
+    },
+    {
+      "midi": 73,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C#4_v3_RR1.wav",
+      "source_sha256": "a321a31111309cae1a62ea1982ef92882d0e596f37e0249a9366f1332eeb12e2",
+      "source_frames": 218897
+    },
+    {
+      "midi": 85,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C#5_v3_RR1.wav",
+      "source_sha256": "82eea96c6b6146175befed06fda49eaced8308a95a8f34b212c25e70b830754a",
+      "source_frames": 105353
+    },
+    {
+      "midi": 36,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C1_v3_RR1.wav",
+      "source_sha256": "7237e03c627b9fd25ce8554c89391ca10ac81ed86dc01430ab89f8df0964319b",
+      "source_frames": 1328174
+    },
+    {
+      "midi": 48,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C2_v3_RR1.wav",
+      "source_sha256": "c09832e4c32664e05e69b62c8b5baf378a8959708cd8f81c6ba0ee4e52414e89",
+      "source_frames": 567276
+    },
+    {
+      "midi": 60,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C3_v3_RR1.wav",
+      "source_sha256": "f5263188078d1e297d6c8500e9238b61dbe0b9ac848da901880c408c38b1d37b",
+      "source_frames": 423527
+    },
+    {
+      "midi": 72,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C4_v3_RR1.wav",
+      "source_sha256": "acfaa686ee6ca4c85f2bb537f753ab4ed4d9244972d51ac8bdfb678d05375e66",
+      "source_frames": 480061
+    },
+    {
+      "midi": 84,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_C5_v3_RR1.wav",
+      "source_sha256": "2fe2392574397fda7f834b98c8fbe6a4271ceb75d525d74c3583788bd4f0a0e4",
+      "source_frames": 133948
+    },
+    {
+      "midi": 39,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D#1_v3_RR1.wav",
+      "source_sha256": "757ec4f59a5d187c4bdbe7ae6c03fe2c5121871ede37a70608e30a9ca64e3e0b",
+      "source_frames": 752043
+    },
+    {
+      "midi": 51,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D#2_v3_RR1.wav",
+      "source_sha256": "36e08e96ae5c3899cb23d9192c48a4b4b91e5c8a102ad3c5996f575f0835e393",
+      "source_frames": 298807
+    },
+    {
+      "midi": 63,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D#3_v3_RR1.wav",
+      "source_sha256": "134f500757ca44c05e05b712e78d88b425f630b0d31887d4bda563fc23f02c3c",
+      "source_frames": 386766
+    },
+    {
+      "midi": 75,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D#4_v3_RR1.wav",
+      "source_sha256": "6b4567cba436e385d566c0634b6a9b07b5bd04a0a52199544630e3b2f2e4c198",
+      "source_frames": 172879
+    },
+    {
+      "midi": 87,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D#5_v3_RR1.wav",
+      "source_sha256": "87d0936c079c9f79d479cb68b8c1957cf770f99a6bf46e756c766730878194a1",
+      "source_frames": 175950
+    },
+    {
+      "midi": 38,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D1_v3_RR1.wav",
+      "source_sha256": "53fd5d396f62f08bd1a1fa3dce34f2ea0da0a5c461a3d5ff3b4f9dcc2e2025e3",
+      "source_frames": 971252
+    },
+    {
+      "midi": 50,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D2_v3_RR1.wav",
+      "source_sha256": "9446554126ab4c499669c108ed5a7b183ed341b95c8595f1426ea7dccdaffbfa",
+      "source_frames": 560616
+    },
+    {
+      "midi": 62,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D3_v3_RR1.wav",
+      "source_sha256": "e13712a407795367a9a2840b706ce804deb47875e3db5490440026c491f758cd",
+      "source_frames": 421438
+    },
+    {
+      "midi": 74,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D4_v3_RR1.wav",
+      "source_sha256": "ab8eb5df96cdf61c92b473911b9be4a991f9b1e87f17d8beba8f33ade04c30cb",
+      "source_frames": 355123
+    },
+    {
+      "midi": 86,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_D5_v3_RR1.wav",
+      "source_sha256": "be52d046557971e4ac5db3b93b36f842d3d50255eb82bb77f34a18bcc8db805f",
+      "source_frames": 111357
+    },
+    {
+      "midi": 40,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_E1_v3_RR1.wav",
+      "source_sha256": "12f75b69b1e3ffb5bc3bf66f135a7c8017d57a2d745467551e2f5ca3d3803c14",
+      "source_frames": 716693
+    },
+    {
+      "midi": 52,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_E2_v3_RR1.wav",
+      "source_sha256": "c924c04712d32447e8af11ef2485987594d91c106c3edf36bf381b97d5060667",
+      "source_frames": 372090
+    },
+    {
+      "midi": 64,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_E3_v3_RR1.wav",
+      "source_sha256": "63994faec3fc7c041943babed92ac36c43dbbed56946a356eafb39b2389dcf15",
+      "source_frames": 420618
+    },
+    {
+      "midi": 76,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_E4_v3_RR1.wav",
+      "source_sha256": "ecd0adbb8f5f98563bcc11dbf841d7815a069804116a6f9b9874962f92c792eb",
+      "source_frames": 311956
+    },
+    {
+      "midi": 88,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_E5_v3_RR1.wav",
+      "source_sha256": "dabf113a1c2b1ea9faa9c24db256ab24ac3a803437b7c16cdb8c02007d99bf0d",
+      "source_frames": 83022
+    },
+    {
+      "midi": 42,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F#1_v3_RR1.wav",
+      "source_sha256": "697a37fdfca90a00f4ea77e5048d5fb984b16fb61b0f3e179c050aff0c2d46a9",
+      "source_frames": 687339
+    },
+    {
+      "midi": 54,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F#2_v3_RR1.wav",
+      "source_sha256": "3176bdfe956457b5502686ef785f98ad5182186382697b6214b34e624cf0c883",
+      "source_frames": 417314
+    },
+    {
+      "midi": 66,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F#3_v3_RR1.wav",
+      "source_sha256": "a8c00777b28e3bb7d5841d6585a8cdf56c3003bba2304c9df8ddbb3a796492c6",
+      "source_frames": 458184
+    },
+    {
+      "midi": 78,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F#4_v3_RR1.wav",
+      "source_sha256": "0bd3f62e130a9a51c97a4ca89dde54e63f3975c648fea39023794d8b912266ef",
+      "source_frames": 256728
+    },
+    {
+      "midi": 90,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F#5_v3_RR1.wav",
+      "source_sha256": "431efd5406e57f52319d41c24c03f7027ff1f1b5db7e6d525c06236060dc9422",
+      "source_frames": 100140
+    },
+    {
+      "midi": 41,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F1_v3_RR1.wav",
+      "source_sha256": "d22c49bbe44a0c06e7b7bbebce645630a99f60b67dbed7e70807dc554bbda83d",
+      "source_frames": 656656
+    },
+    {
+      "midi": 53,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F2_v3_RR1.wav",
+      "source_sha256": "9807d8bd89095f81b781920e02f813dac166417cc48ffcf65bebb2aae7bdcce7",
+      "source_frames": 380038
+    },
+    {
+      "midi": 65,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F3_v3_RR1.wav",
+      "source_sha256": "08f396afebc611d7ee85a9833547f0193110d1a8c30dc60f63998e3ad594e5ad",
+      "source_frames": 641022
+    },
+    {
+      "midi": 77,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F4_v3_RR1.wav",
+      "source_sha256": "7ffa909e509c83fd05eaa95decdd68abb624f0cb749b2b5c6e4cd967f516ce6d",
+      "source_frames": 261841
+    },
+    {
+      "midi": 89,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_F5_v3_RR1.wav",
+      "source_sha256": "873301247fbee036ab21b281cffd2d135b4252d34b010ec1d5e64c3bb404b479",
+      "source_frames": 95451
+    },
+    {
+      "midi": 44,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G#1_v3_RR1.wav",
+      "source_sha256": "b2de23394daa06c1204e5a01030f264ffdba820c84d26c910d4911199fb9d638",
+      "source_frames": 856152
+    },
+    {
+      "midi": 56,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G#2_v3_RR1.wav",
+      "source_sha256": "73e291d511bfe7825cb9fcb63449315a3de5655c00aa9531ca07136036bcef21",
+      "source_frames": 288942
+    },
+    {
+      "midi": 68,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G#3_v3_RR1.wav",
+      "source_sha256": "115fd745e91b8116336b67f61a3af696514d0d0ed060c0b11c677a96c0e34f86",
+      "source_frames": 257340
+    },
+    {
+      "midi": 80,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G#4_v3_RR1.wav",
+      "source_sha256": "9d3224127d429ca446b7e6478bd76a55d4c6d24aa5de90022d20842bea577694",
+      "source_frames": 151546
+    },
+    {
+      "midi": 92,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G#5_v3_RR1.wav",
+      "source_sha256": "0433bfd6ec96e85743cfcf404d1239c2fe6582d969051270d92f612e9cfab1a8",
+      "source_frames": 67462
+    },
+    {
+      "midi": 43,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G1_v3_RR1.wav",
+      "source_sha256": "dfac914ab3a7791404bc303ea1997cb58cbdc88875540ed399d5cff80d30eb60",
+      "source_frames": 925110
+    },
+    {
+      "midi": 55,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G2_v3_RR1.wav",
+      "source_sha256": "046ef8c7a5a62e300bf6fe10aa3aae37ab8967617d7fa2b6541fa88e1c8f5224",
+      "source_frames": 337284
+    },
+    {
+      "midi": 67,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G3_v3_RR1.wav",
+      "source_sha256": "383453b22d8bf97e67b87db60cf54b98dcc0021a5ebc2f847afdad1580ba9194",
+      "source_frames": 352453
+    },
+    {
+      "midi": 79,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G4_v3_RR1.wav",
+      "source_sha256": "ebe44e47f2590ed5eddf6f71916ff775151f29202cfacfbf3428c2da70c7cdfc",
+      "source_frames": 177816
+    },
+    {
+      "midi": 91,
+      "velocity": [
+        81,
+        127
+      ],
+      "source": "EWHarp_Normal_G5_v3_RR1.wav",
+      "source_sha256": "05bc24b82e8104e0f4a3d3f81ed175c2e3ecc1d643ff373410d32fe3b9bfc2ad",
+      "source_frames": 77663
+    }
+  ],
+  "sf2_sha256": "418618e91389558f35afcd11d751c7f8ef270c81a921befda5f7cc5bdcdb8aaf"
+}

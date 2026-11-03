@@ -1,0 +1,675 @@
+{
+  "固定提交": "2f26075ea93291535a869f5d356d2e3d934c7868",
+  "作者声明": "ferrosintesis仓库所有者2026-07-24自录曼陀林并CC0；原始连续录音未公开，本包使用其公开烘焙FLAC",
+  "许可": "CC0-1.0",
+  "files": [
+    {
+      "path": "sources/LICENSE-CC0",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/LICENSE-CC0",
+      "bytes": 7012,
+      "sha256": "c5d5a1585b99b0eda4852fe53895a7752c97894320fdebce08138821bec38073",
+      "git_blob_sha1": "941bb017c13f3e10c817ebda4676c19c5c0655bd"
+    },
+    {
+      "path": "sources/PROVENANCE.md",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/PROVENANCE.md",
+      "bytes": 9621,
+      "sha256": "0f2f08aac2ce4922b375ba45a3d5f8f2bc706297741687d41ca62d463d66418e",
+      "git_blob_sha1": "223e246ca02566f04991212d26e209d5ec9921e2"
+    },
+    {
+      "path": "sources/README.md",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/README.md",
+      "bytes": 1154,
+      "sha256": "9e64d368d480e5e683eb5151f9b9a7a758d9878cde1b9e8ec0b8254e94a45b57",
+      "git_blob_sha1": "134d6c769b165b864834e13e2e6a9f76d69e825d"
+    },
+    {
+      "path": "sources/samples/mandolin_A4_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A4_rr1.flac",
+      "bytes": 47819,
+      "sha256": "5d3086f072f81cf44cbf09396d8dcaf66031045c6081c458aebc2c74583e896f",
+      "git_blob_sha1": "a14a7f4d21f40dfd4f676f738407c882f41830b6"
+    },
+    {
+      "path": "sources/samples/mandolin_A4_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A4_rr2.flac",
+      "bytes": 49571,
+      "sha256": "643041453a229cdefc3607a2321c6bf2b1d0965f579cbc0fc34c231eb8a2f5a7",
+      "git_blob_sha1": "d195216017f3ec0c125565ab8d4e690f285ed8b9"
+    },
+    {
+      "path": "sources/samples/mandolin_A4_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A4_rr3.flac",
+      "bytes": 49229,
+      "sha256": "33a44109f8a580d01c5ff5b63509f4fdfdfadde92a8769b43b7f70e13c15c38c",
+      "git_blob_sha1": "b5c79b399805f7f1a6900e25849ae72e220e713c"
+    },
+    {
+      "path": "sources/samples/mandolin_A4_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A4_rr4.flac",
+      "bytes": 48971,
+      "sha256": "07a78c4766afcfc12f04b06f560ca1890f6c390c044cd5cf5869a5c0d56f8d3c",
+      "git_blob_sha1": "f72f3975686cdd94b4c6694ed01133fcf8acb64e"
+    },
+    {
+      "path": "sources/samples/mandolin_A5_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A5_rr1.flac",
+      "bytes": 41840,
+      "sha256": "1f4c6b626fcdfd688f1af5dd14658dabae87263c6af20b6aff105b64fd916754",
+      "git_blob_sha1": "94e2ffe335985699815f7b31740c17597ab3986e"
+    },
+    {
+      "path": "sources/samples/mandolin_A5_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A5_rr2.flac",
+      "bytes": 45312,
+      "sha256": "de6b8b639e2611b56b2213d84094056d27aa0a3ca7404fe2b4309ee5fb9823db",
+      "git_blob_sha1": "dcc96b21e8e23b23286916f463f17f697e3d3128"
+    },
+    {
+      "path": "sources/samples/mandolin_A5_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A5_rr3.flac",
+      "bytes": 43486,
+      "sha256": "48ee9d25699244c9f9e5618ed7e13b42cd9161a8ba832a6484475e8e5a861ef1",
+      "git_blob_sha1": "1a7a90c03aa8edea154668718b0d0a0d573aacf1"
+    },
+    {
+      "path": "sources/samples/mandolin_A5_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_A5_rr4.flac",
+      "bytes": 45064,
+      "sha256": "f5333f0c15ca4dad363f46f464d8dd0fb8567517d4511bd06b4f2db6cb83a827",
+      "git_blob_sha1": "e6d249b9d8d25e802d01da0ac3303439bc0afc0e"
+    },
+    {
+      "path": "sources/samples/mandolin_C4_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_C4_rr1.flac",
+      "bytes": 37715,
+      "sha256": "47413916d80e973b45e69664345d5f08e8e03bd1734d6e7d00dbff2208e6414c",
+      "git_blob_sha1": "2a4fc8aa9cb87a72d03ddfb929bd3c381c6037e7"
+    },
+    {
+      "path": "sources/samples/mandolin_C4_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_C4_rr2.flac",
+      "bytes": 37439,
+      "sha256": "e9a17a7412d1b63af095507baaffcc372d9415f5357603c4ebc5da215c1fa433",
+      "git_blob_sha1": "16f8e6f5f33bdfd63f4650ca903f65db90019a9a"
+    },
+    {
+      "path": "sources/samples/mandolin_C4_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_C4_rr3.flac",
+      "bytes": 39437,
+      "sha256": "a70b0811b1915855e54c8e3f7dfab5c6a998064e201d5eb78ef2e70904baf256",
+      "git_blob_sha1": "6d5869af9bb445beec4754a3d385def9548916e6"
+    },
+    {
+      "path": "sources/samples/mandolin_C4_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_C4_rr4.flac",
+      "bytes": 40715,
+      "sha256": "15ca7f6b6a97a890ed8e0c1a4cb688bf556d3681d1eaee2b70722151b26b1c75",
+      "git_blob_sha1": "68eba0812f545a7c1c3f9964f90d175ee69b008e"
+    },
+    {
+      "path": "sources/samples/mandolin_D4_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D4_rr1.flac",
+      "bytes": 44639,
+      "sha256": "d562ea24c01ae6cd5b73f5b14ad379c3695a1e55e419de19e642b5340142a78f",
+      "git_blob_sha1": "80f69df5c1518800e77a96585343153fa4d85f43"
+    },
+    {
+      "path": "sources/samples/mandolin_D4_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D4_rr2.flac",
+      "bytes": 42892,
+      "sha256": "55dfdcce898c07e397fd0ea828de2a3f1d53ffdbb3f095c67ee2bfdebe3f003b",
+      "git_blob_sha1": "eb3fa9acbdd8a5069dd74de94ea218adc67f5afe"
+    },
+    {
+      "path": "sources/samples/mandolin_D4_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D4_rr3.flac",
+      "bytes": 42361,
+      "sha256": "e4e7b270058e15b9b89668a7d61493b1f8099306c1272f9a0a0d4ee991889a42",
+      "git_blob_sha1": "65974dd4f04b87492bbf6bf57fffa4d2904609b1"
+    },
+    {
+      "path": "sources/samples/mandolin_D4_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D4_rr4.flac",
+      "bytes": 41908,
+      "sha256": "bc567d531e56de5dd58ec97f10c6c2f1bc887e0a162f56e6359a076a42280db2",
+      "git_blob_sha1": "a30f5cfa3c393e0ee571dd681499c631a64ab4ae"
+    },
+    {
+      "path": "sources/samples/mandolin_D5_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D5_rr1.flac",
+      "bytes": 39877,
+      "sha256": "787af5e117623b8a499838e6b34d8296b901186e73c9e6c593e78e35f792c163",
+      "git_blob_sha1": "9914101009da5766cf4c72150c38d8c21a39d9cd"
+    },
+    {
+      "path": "sources/samples/mandolin_D5_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D5_rr2.flac",
+      "bytes": 43878,
+      "sha256": "dc98db3cdbec671df51aaa9a27d2b4ebb139ef21cbbf01135a73d04eb50fc867",
+      "git_blob_sha1": "b55ca46a7bf3f526b83320632794e9378e45a15c"
+    },
+    {
+      "path": "sources/samples/mandolin_D5_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D5_rr3.flac",
+      "bytes": 41005,
+      "sha256": "567460b15eb1ec065a66af98544e4dd98d72d61ab4d17be6fdc8f7b29b2e5ec8",
+      "git_blob_sha1": "2e705639f499548c73a39bc448e9cedf610e19de"
+    },
+    {
+      "path": "sources/samples/mandolin_D5_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D5_rr4.flac",
+      "bytes": 41723,
+      "sha256": "0ba977fef9d1e1cdecc33f7165538d50715f709457a934d5203dac93b2e0e451",
+      "git_blob_sha1": "9d59b21c621fae81045cd6234e4b3df8a4945805"
+    },
+    {
+      "path": "sources/samples/mandolin_D6_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D6_rr1.flac",
+      "bytes": 40069,
+      "sha256": "46b67a977ebafce6d69aee0992c0df88973e0470c693a70c27abd34435f3ddbc",
+      "git_blob_sha1": "d349eba8dbd7b11f17dbd548d8297d9a504de865"
+    },
+    {
+      "path": "sources/samples/mandolin_D6_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D6_rr2.flac",
+      "bytes": 37068,
+      "sha256": "9f56e27d73801ec29670a263567897a72047dd84685e59d84cc474fc16c04527",
+      "git_blob_sha1": "8623612d453c853bc823cb702b04175fc2e99269"
+    },
+    {
+      "path": "sources/samples/mandolin_D6_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D6_rr3.flac",
+      "bytes": 37617,
+      "sha256": "73ffe80107ae90f53e503d89a75fb0d87d63d681f0e811609b077eb40984017f",
+      "git_blob_sha1": "d80e7cbbc247586431c201d3c7353882fa16edac"
+    },
+    {
+      "path": "sources/samples/mandolin_D6_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_D6_rr4.flac",
+      "bytes": 37908,
+      "sha256": "761dafa18a6c244b96a3b8e34ffab005ab3f17173afd8a9b9038da8c7933a784",
+      "git_blob_sha1": "32f1de642163fb0b729518ca2d9e42d8b7899a3a"
+    },
+    {
+      "path": "sources/samples/mandolin_E5_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E5_rr1.flac",
+      "bytes": 45781,
+      "sha256": "feec096182168cd7a5ba843d7dcb5ddadde0a1b2189ca1ab1b1cc983ddc97704",
+      "git_blob_sha1": "b01d522bbca807d3dbaa6f1e084e89e0efad62e3"
+    },
+    {
+      "path": "sources/samples/mandolin_E5_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E5_rr2.flac",
+      "bytes": 45804,
+      "sha256": "c96bf7b8aca3054ff3f3dafa506cf71888fedd4e4b4c6593df0a6f3ab1fac84a",
+      "git_blob_sha1": "6641a9f17d0c4e07f88770c579861c081d21faad"
+    },
+    {
+      "path": "sources/samples/mandolin_E5_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E5_rr3.flac",
+      "bytes": 48372,
+      "sha256": "196bc4180797a9462a3c8abe3f37ab6e3c62c14406f96ba4036fede8d75409e4",
+      "git_blob_sha1": "ce79ba4726253e01657d0916c274cec813e5fc55"
+    },
+    {
+      "path": "sources/samples/mandolin_E5_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E5_rr4.flac",
+      "bytes": 47127,
+      "sha256": "a04daad1de14099583c3d2e28467868bfd3a08b10f449fbd0163fedbcd1facaa",
+      "git_blob_sha1": "7216a22474d7d77f4510d7c1862b6fadc9193d37"
+    },
+    {
+      "path": "sources/samples/mandolin_E6_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E6_rr1.flac",
+      "bytes": 36298,
+      "sha256": "d08acf99b65d882406e3ed68eb590ab0c9d48275633fab710fc21cd24a65c47c",
+      "git_blob_sha1": "8560d6fccda4730d914fa7fc38dc110832340e66"
+    },
+    {
+      "path": "sources/samples/mandolin_E6_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E6_rr2.flac",
+      "bytes": 38138,
+      "sha256": "3e92e8a992cf11c6e63c511b205ae8c3fb49afc3fa57536dca49f06df39940ce",
+      "git_blob_sha1": "6dc03722bd21014030b9232b0783f2ac5431301a"
+    },
+    {
+      "path": "sources/samples/mandolin_E6_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E6_rr3.flac",
+      "bytes": 35561,
+      "sha256": "d745232046eb845bddefccfccf64e874b8cacc5a11bd058c501bd70b03a65149",
+      "git_blob_sha1": "517255f7d02d76071b79aac9a73306b456bede44"
+    },
+    {
+      "path": "sources/samples/mandolin_E6_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_E6_rr4.flac",
+      "bytes": 35322,
+      "sha256": "07eca20f6d3075f6ca081b7de10c12d71b44af47be6f77d3cbb9bda61ee555bc",
+      "git_blob_sha1": "3035626457d733ef42f5f3accdd5b2d3da8702ba"
+    },
+    {
+      "path": "sources/samples/mandolin_G3_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G3_rr1.flac",
+      "bytes": 39142,
+      "sha256": "32d1717b3a23d500b272ec2fa0ccdc90bcd0676cd6372480d927f1051f87b75b",
+      "git_blob_sha1": "fea39c5664dc56bb31a41004589624d7f4f42c50"
+    },
+    {
+      "path": "sources/samples/mandolin_G3_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G3_rr2.flac",
+      "bytes": 41750,
+      "sha256": "036a16d8c43d20d272ee14e79521afba23768f792419c91a6b548203ac3d8426",
+      "git_blob_sha1": "88a275b078e5f4fa44c99efedd5ec8011bb1f92c"
+    },
+    {
+      "path": "sources/samples/mandolin_G3_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G3_rr3.flac",
+      "bytes": 39346,
+      "sha256": "9856f0481e2cded76a7d18d267a8b3ea65d3db609c6363d204da4817af6f137b",
+      "git_blob_sha1": "71adc84e066e11e01b09bbd74850fd4b1557885b"
+    },
+    {
+      "path": "sources/samples/mandolin_G3_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G3_rr4.flac",
+      "bytes": 40753,
+      "sha256": "34887f7d128a7f51e0bba306661d5793cdb9c9f3a2a09f8568f2203369e68094",
+      "git_blob_sha1": "571c23873396821ed121736487f77901ad2b6c78"
+    },
+    {
+      "path": "sources/samples/mandolin_G4_rr1.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G4_rr1.flac",
+      "bytes": 39489,
+      "sha256": "2d25e54d362cd2caecdc9a721746edd7ae7d9bfd4c2b60abd7e9873a6864dfc2",
+      "git_blob_sha1": "6a3fe2e321076585664daa7fe7f89b93fd33f0df"
+    },
+    {
+      "path": "sources/samples/mandolin_G4_rr2.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G4_rr2.flac",
+      "bytes": 37417,
+      "sha256": "bd339322ac51ad6f941f657b5ea0e707fbf3c1c431f62fc3ee24675bf1998e69",
+      "git_blob_sha1": "776e02f94a10f683b8fda218ab6927da441be9fa"
+    },
+    {
+      "path": "sources/samples/mandolin_G4_rr3.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G4_rr3.flac",
+      "bytes": 36771,
+      "sha256": "58124ba8a328e9ea8d21830a6a791a6c358d2d0a244087e40edf10fe901f3766",
+      "git_blob_sha1": "26528aee0012a08effbfd58fbc73e6f12aa03ec6"
+    },
+    {
+      "path": "sources/samples/mandolin_G4_rr4.flac",
+      "source_url": "https://raw.githubusercontent.com/0x4D44/ferrosintesis/2f26075ea93291535a869f5d356d2e3d934c7868/crates/ferrosintesis-samples-mandolin/samples/mandolin_G4_rr4.flac",
+      "bytes": 37923,
+      "sha256": "b710544c5c6c20fc5f288af89d3de7c1f0ab503899d9bbaa5bfb4eb2e44e2c34",
+      "git_blob_sha1": "ca6f483d423ac11413e889658f0ee3b02f2de8cc"
+    }
+  ],
+  "measured_roots": [
+    {
+      "sample": "samples/mandolin_G3_rr1.flac",
+      "root_midi": 55,
+      "upstream_measured_root_hz": 195.57,
+      "correction_cents_exact": 3.7821312109468885,
+      "sf2_correction_cents": 4,
+      "rounding_residual_cents": 0.21786878905311147,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G3_rr2.flac",
+      "root_midi": 55,
+      "upstream_measured_root_hz": 195.74,
+      "correction_cents_exact": 2.2779028147542917,
+      "sf2_correction_cents": 2,
+      "rounding_residual_cents": -0.2779028147542917,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G3_rr3.flac",
+      "root_midi": 55,
+      "upstream_measured_root_hz": 195.84,
+      "correction_cents_exact": 1.3936727280788959,
+      "sf2_correction_cents": 1,
+      "rounding_residual_cents": -0.39367272807889586,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G3_rr4.flac",
+      "root_midi": 55,
+      "upstream_measured_root_hz": 195.61,
+      "correction_cents_exact": 3.4280775159516894,
+      "sf2_correction_cents": 3,
+      "rounding_residual_cents": -0.4280775159516894,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_C4_rr1.flac",
+      "root_midi": 60,
+      "upstream_measured_root_hz": 264.95,
+      "correction_cents_exact": -21.859924357576624,
+      "sf2_correction_cents": -22,
+      "rounding_residual_cents": -0.14007564242337622,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_C4_rr2.flac",
+      "root_midi": 60,
+      "upstream_measured_root_hz": 264.82,
+      "correction_cents_exact": -21.010270995188844,
+      "sf2_correction_cents": -21,
+      "rounding_residual_cents": 0.010270995188843557,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_C4_rr3.flac",
+      "root_midi": 60,
+      "upstream_measured_root_hz": 264.59,
+      "correction_cents_exact": -19.506015857065645,
+      "sf2_correction_cents": -20,
+      "rounding_residual_cents": -0.4939841429343552,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_C4_rr4.flac",
+      "root_midi": 60,
+      "upstream_measured_root_hz": 264.64,
+      "correction_cents_exact": -19.8331390462684,
+      "sf2_correction_cents": -20,
+      "rounding_residual_cents": -0.16686095373160015,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D4_rr1.flac",
+      "root_midi": 62,
+      "upstream_measured_root_hz": 292.93,
+      "correction_cents_exact": 4.337085741767591,
+      "sf2_correction_cents": 4,
+      "rounding_residual_cents": -0.33708574176759143,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D4_rr2.flac",
+      "root_midi": 62,
+      "upstream_measured_root_hz": 292.65,
+      "correction_cents_exact": 5.992694098207529,
+      "sf2_correction_cents": 6,
+      "rounding_residual_cents": 0.007305901792470593,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D4_rr3.flac",
+      "root_midi": 62,
+      "upstream_measured_root_hz": 293.03,
+      "correction_cents_exact": 3.7461805380423767,
+      "sf2_correction_cents": 4,
+      "rounding_residual_cents": 0.2538194619576233,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D4_rr4.flac",
+      "root_midi": 62,
+      "upstream_measured_root_hz": 293.33,
+      "correction_cents_exact": 1.9746740913612884,
+      "sf2_correction_cents": 2,
+      "rounding_residual_cents": 0.025325908638711647,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G4_rr1.flac",
+      "root_midi": 67,
+      "upstream_measured_root_hz": 394.37,
+      "correction_cents_exact": -10.455542390546988,
+      "sf2_correction_cents": -10,
+      "rounding_residual_cents": 0.455542390546988,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G4_rr2.flac",
+      "root_midi": 67,
+      "upstream_measured_root_hz": 395.11,
+      "correction_cents_exact": -13.701004141310243,
+      "sf2_correction_cents": -14,
+      "rounding_residual_cents": -0.2989958586897572,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G4_rr3.flac",
+      "root_midi": 67,
+      "upstream_measured_root_hz": 394.68,
+      "correction_cents_exact": -11.815868308609158,
+      "sf2_correction_cents": -12,
+      "rounding_residual_cents": -0.18413169139084218,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_G4_rr4.flac",
+      "root_midi": 67,
+      "upstream_measured_root_hz": 394.98,
+      "correction_cents_exact": -13.131295808311016,
+      "sf2_correction_cents": -13,
+      "rounding_residual_cents": 0.13129580831101606,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A4_rr1.flac",
+      "root_midi": 69,
+      "upstream_measured_root_hz": 440.41,
+      "correction_cents_exact": -1.6124442280961981,
+      "sf2_correction_cents": -2,
+      "rounding_residual_cents": -0.38755577190380186,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A4_rr2.flac",
+      "root_midi": 69,
+      "upstream_measured_root_hz": 439.28,
+      "correction_cents_exact": 2.83524882614393,
+      "sf2_correction_cents": 3,
+      "rounding_residual_cents": 0.16475117385606985,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A4_rr3.flac",
+      "root_midi": 69,
+      "upstream_measured_root_hz": 440.4,
+      "correction_cents_exact": -1.5731341828162306,
+      "sf2_correction_cents": -2,
+      "rounding_residual_cents": -0.42686581718376937,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A4_rr4.flac",
+      "root_midi": 69,
+      "upstream_measured_root_hz": 439.17,
+      "correction_cents_exact": 3.2688210189668077,
+      "sf2_correction_cents": 3,
+      "rounding_residual_cents": -0.26882101896680766,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D5_rr1.flac",
+      "root_midi": 74,
+      "upstream_measured_root_hz": 591.6,
+      "correction_cents_exact": -12.542234424454902,
+      "sf2_correction_cents": -13,
+      "rounding_residual_cents": -0.457765575545098,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D5_rr2.flac",
+      "root_midi": 74,
+      "upstream_measured_root_hz": 591.17,
+      "correction_cents_exact": -11.283442480296253,
+      "sf2_correction_cents": -11,
+      "rounding_residual_cents": 0.2834424802962534,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D5_rr3.flac",
+      "root_midi": 74,
+      "upstream_measured_root_hz": 591.36,
+      "correction_cents_exact": -11.839765740007765,
+      "sf2_correction_cents": -12,
+      "rounding_residual_cents": -0.16023425999223484,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D5_rr4.flac",
+      "root_midi": 74,
+      "upstream_measured_root_hz": 590.84,
+      "correction_cents_exact": -10.316771722798014,
+      "sf2_correction_cents": -10,
+      "rounding_residual_cents": 0.31677172279801447,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E5_rr1.flac",
+      "root_midi": 76,
+      "upstream_measured_root_hz": 658.52,
+      "correction_cents_exact": 1.931519579814256,
+      "sf2_correction_cents": 2,
+      "rounding_residual_cents": 0.06848042018574407,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E5_rr2.flac",
+      "root_midi": 76,
+      "upstream_measured_root_hz": 656.88,
+      "correction_cents_exact": 6.2484198559261666,
+      "sf2_correction_cents": 6,
+      "rounding_residual_cents": -0.24841985592616656,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E5_rr3.flac",
+      "root_midi": 76,
+      "upstream_measured_root_hz": 657.51,
+      "correction_cents_exact": 4.588824858344674,
+      "sf2_correction_cents": 5,
+      "rounding_residual_cents": 0.41117514165532576,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E5_rr4.flac",
+      "root_midi": 76,
+      "upstream_measured_root_hz": 656.93,
+      "correction_cents_exact": 6.116647830298326,
+      "sf2_correction_cents": 6,
+      "rounding_residual_cents": -0.1166478302983256,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A5_rr1.flac",
+      "root_midi": 81,
+      "upstream_measured_root_hz": 883.17,
+      "correction_cents_exact": -6.2251715362349715,
+      "sf2_correction_cents": -6,
+      "rounding_residual_cents": 0.22517153623497155,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A5_rr2.flac",
+      "root_midi": 81,
+      "upstream_measured_root_hz": 883.72,
+      "correction_cents_exact": -7.302973502108391,
+      "sf2_correction_cents": -7,
+      "rounding_residual_cents": 0.302973502108391,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A5_rr3.flac",
+      "root_midi": 81,
+      "upstream_measured_root_hz": 882.6,
+      "correction_cents_exact": -5.107468276757255,
+      "sf2_correction_cents": -5,
+      "rounding_residual_cents": 0.10746827675725523,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_A5_rr4.flac",
+      "root_midi": 81,
+      "upstream_measured_root_hz": 883.22,
+      "correction_cents_exact": -6.323181265090593,
+      "sf2_correction_cents": -6,
+      "rounding_residual_cents": 0.323181265090593,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D6_rr1.flac",
+      "root_midi": 86,
+      "upstream_measured_root_hz": 1182.91,
+      "correction_cents_exact": -12.117860344853185,
+      "sf2_correction_cents": -12,
+      "rounding_residual_cents": 0.11786034485318453,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D6_rr2.flac",
+      "root_midi": 86,
+      "upstream_measured_root_hz": 1181.88,
+      "correction_cents_exact": -10.609759259090513,
+      "sf2_correction_cents": -11,
+      "rounding_residual_cents": -0.390240740909487,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D6_rr3.flac",
+      "root_midi": 86,
+      "upstream_measured_root_hz": 1181.48,
+      "correction_cents_exact": -10.023734594004214,
+      "sf2_correction_cents": -10,
+      "rounding_residual_cents": 0.02373459400421396,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_D6_rr4.flac",
+      "root_midi": 86,
+      "upstream_measured_root_hz": 1181.42,
+      "correction_cents_exact": -9.935813782318393,
+      "sf2_correction_cents": -10,
+      "rounding_residual_cents": -0.06418621768160726,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E6_rr1.flac",
+      "root_midi": 88,
+      "upstream_measured_root_hz": 1328.92,
+      "correction_cents_exact": -13.614595030785672,
+      "sf2_correction_cents": -14,
+      "rounding_residual_cents": -0.38540496921432776,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E6_rr2.flac",
+      "root_midi": 88,
+      "upstream_measured_root_hz": 1328.13,
+      "correction_cents_exact": -12.585126304895052,
+      "sf2_correction_cents": -13,
+      "rounding_residual_cents": -0.41487369510494787,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E6_rr3.flac",
+      "root_midi": 88,
+      "upstream_measured_root_hz": 1327.97,
+      "correction_cents_exact": -12.376551742050479,
+      "sf2_correction_cents": -12,
+      "rounding_residual_cents": 0.3765517420504789,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    },
+    {
+      "sample": "samples/mandolin_E6_rr4.flac",
+      "root_midi": 88,
+      "upstream_measured_root_hz": 1327.72,
+      "correction_cents_exact": -12.05060367315286,
+      "sf2_correction_cents": -12,
+      "rounding_residual_cents": 0.050603673152860296,
+      "source": "作者PROVENANCE的实测根频率表，非本项目人工听音"
+    }
+  ],
+  "limitations": [
+    "每样本只保留约0.9秒起音，未接入原Rust物理续音，只有短拨音partial",
+    "单真实力度、四takes；本引擎不自动RR，固定预设显式选择",
+    "源16位44.1k单声道，最终48k/PCM24不增加源分辨率"
+  ]
+}

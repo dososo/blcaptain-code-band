@@ -1,0 +1,782 @@
+[
+  {
+    "instrument_id": "piano",
+    "label": "原声钢琴",
+    "bank": 0,
+    "program": 0
+  },
+  {
+    "instrument_id": "electric_piano",
+    "label": "电钢琴",
+    "bank": 0,
+    "program": 4
+  },
+  {
+    "instrument_id": "vibraphone",
+    "label": "颤音琴",
+    "bank": 0,
+    "program": 11
+  },
+  {
+    "instrument_id": "nylon_guitar",
+    "label": "尼龙吉他",
+    "bank": 0,
+    "program": 24
+  },
+  {
+    "instrument_id": "acoustic_bass",
+    "label": "原声贝斯",
+    "bank": 0,
+    "program": 32
+  },
+  {
+    "instrument_id": "synth_bass",
+    "label": "合成贝斯",
+    "bank": 0,
+    "program": 38
+  },
+  {
+    "instrument_id": "strings",
+    "label": "弦乐合奏",
+    "bank": 0,
+    "program": 48
+  },
+  {
+    "instrument_id": "flute",
+    "label": "长笛",
+    "bank": 0,
+    "program": 73
+  },
+  {
+    "instrument_id": "synth_lead",
+    "label": "方波主奏",
+    "bank": 0,
+    "program": 80
+  },
+  {
+    "instrument_id": "warm_pad",
+    "label": "温暖铺底",
+    "bank": 0,
+    "program": 89
+  },
+  {
+    "instrument_id": "drums",
+    "label": "标准鼓组",
+    "bank": 128,
+    "program": 0
+  },
+  {
+    "instrument_id": "gm_001",
+    "label": "明亮钢琴",
+    "bank": 0,
+    "program": 1
+  },
+  {
+    "instrument_id": "gm_002",
+    "label": "电大钢琴",
+    "bank": 0,
+    "program": 2
+  },
+  {
+    "instrument_id": "gm_003",
+    "label": "酒吧钢琴",
+    "bank": 0,
+    "program": 3
+  },
+  {
+    "instrument_id": "gm_005",
+    "label": "调频电钢琴",
+    "bank": 0,
+    "program": 5
+  },
+  {
+    "instrument_id": "gm_006",
+    "label": "羽管键琴",
+    "bank": 0,
+    "program": 6
+  },
+  {
+    "instrument_id": "gm_007",
+    "label": "击弦古钢琴",
+    "bank": 0,
+    "program": 7
+  },
+  {
+    "instrument_id": "gm_008",
+    "label": "钢片琴",
+    "bank": 0,
+    "program": 8
+  },
+  {
+    "instrument_id": "gm_009",
+    "label": "钟琴",
+    "bank": 0,
+    "program": 9
+  },
+  {
+    "instrument_id": "gm_010",
+    "label": "八音盒",
+    "bank": 0,
+    "program": 10
+  },
+  {
+    "instrument_id": "gm_012",
+    "label": "马林巴琴",
+    "bank": 0,
+    "program": 12
+  },
+  {
+    "instrument_id": "gm_013",
+    "label": "木琴",
+    "bank": 0,
+    "program": 13
+  },
+  {
+    "instrument_id": "gm_014",
+    "label": "管钟",
+    "bank": 0,
+    "program": 14
+  },
+  {
+    "instrument_id": "gm_015",
+    "label": "洋琴音色",
+    "bank": 0,
+    "program": 15
+  },
+  {
+    "instrument_id": "gm_016",
+    "label": "拉杆风琴",
+    "bank": 0,
+    "program": 16
+  },
+  {
+    "instrument_id": "gm_017",
+    "label": "打击式风琴",
+    "bank": 0,
+    "program": 17
+  },
+  {
+    "instrument_id": "gm_018",
+    "label": "摇滚风琴",
+    "bank": 0,
+    "program": 18
+  },
+  {
+    "instrument_id": "gm_019",
+    "label": "教堂管风琴",
+    "bank": 0,
+    "program": 19
+  },
+  {
+    "instrument_id": "gm_020",
+    "label": "簧风琴",
+    "bank": 0,
+    "program": 20
+  },
+  {
+    "instrument_id": "gm_021",
+    "label": "手风琴",
+    "bank": 0,
+    "program": 21
+  },
+  {
+    "instrument_id": "gm_022",
+    "label": "口琴",
+    "bank": 0,
+    "program": 22
+  },
+  {
+    "instrument_id": "gm_023",
+    "label": "探戈手风琴",
+    "bank": 0,
+    "program": 23
+  },
+  {
+    "instrument_id": "gm_025",
+    "label": "钢弦木吉他",
+    "bank": 0,
+    "program": 25
+  },
+  {
+    "instrument_id": "gm_026",
+    "label": "爵士电吉他",
+    "bank": 0,
+    "program": 26
+  },
+  {
+    "instrument_id": "gm_027",
+    "label": "清音电吉他",
+    "bank": 0,
+    "program": 27
+  },
+  {
+    "instrument_id": "gm_028",
+    "label": "闷音电吉他",
+    "bank": 0,
+    "program": 28
+  },
+  {
+    "instrument_id": "gm_029",
+    "label": "过载电吉他",
+    "bank": 0,
+    "program": 29
+  },
+  {
+    "instrument_id": "gm_030",
+    "label": "失真电吉他",
+    "bank": 0,
+    "program": 30
+  },
+  {
+    "instrument_id": "gm_031",
+    "label": "吉他泛音",
+    "bank": 0,
+    "program": 31
+  },
+  {
+    "instrument_id": "gm_033",
+    "label": "指弹电贝斯",
+    "bank": 0,
+    "program": 33
+  },
+  {
+    "instrument_id": "gm_034",
+    "label": "拨片电贝斯",
+    "bank": 0,
+    "program": 34
+  },
+  {
+    "instrument_id": "gm_035",
+    "label": "无品电贝斯",
+    "bank": 0,
+    "program": 35
+  },
+  {
+    "instrument_id": "gm_036",
+    "label": "拍弦贝斯一",
+    "bank": 0,
+    "program": 36
+  },
+  {
+    "instrument_id": "gm_037",
+    "label": "拍弦贝斯二",
+    "bank": 0,
+    "program": 37
+  },
+  {
+    "instrument_id": "gm_039",
+    "label": "合成贝斯二",
+    "bank": 0,
+    "program": 39
+  },
+  {
+    "instrument_id": "gm_040",
+    "label": "小提琴",
+    "bank": 0,
+    "program": 40
+  },
+  {
+    "instrument_id": "gm_041",
+    "label": "中提琴",
+    "bank": 0,
+    "program": 41
+  },
+  {
+    "instrument_id": "gm_042",
+    "label": "大提琴",
+    "bank": 0,
+    "program": 42
+  },
+  {
+    "instrument_id": "gm_043",
+    "label": "低音提琴",
+    "bank": 0,
+    "program": 43
+  },
+  {
+    "instrument_id": "gm_044",
+    "label": "震音弦乐",
+    "bank": 0,
+    "program": 44
+  },
+  {
+    "instrument_id": "gm_045",
+    "label": "拨弦弦乐",
+    "bank": 0,
+    "program": 45
+  },
+  {
+    "instrument_id": "gm_046",
+    "label": "管弦竖琴",
+    "bank": 0,
+    "program": 46
+  },
+  {
+    "instrument_id": "gm_047",
+    "label": "定音鼓",
+    "bank": 0,
+    "program": 47
+  },
+  {
+    "instrument_id": "gm_049",
+    "label": "弦乐合奏二",
+    "bank": 0,
+    "program": 49
+  },
+  {
+    "instrument_id": "gm_050",
+    "label": "合成弦乐一",
+    "bank": 0,
+    "program": 50
+  },
+  {
+    "instrument_id": "gm_051",
+    "label": "合成弦乐二",
+    "bank": 0,
+    "program": 51
+  },
+  {
+    "instrument_id": "gm_052",
+    "label": "合唱啊声",
+    "bank": 0,
+    "program": 52
+  },
+  {
+    "instrument_id": "gm_053",
+    "label": "合成人声呜声",
+    "bank": 0,
+    "program": 53
+  },
+  {
+    "instrument_id": "gm_054",
+    "label": "合成声乐",
+    "bank": 0,
+    "program": 54
+  },
+  {
+    "instrument_id": "gm_055",
+    "label": "管弦齐奏重音",
+    "bank": 0,
+    "program": 55
+  },
+  {
+    "instrument_id": "gm_056",
+    "label": "小号",
+    "bank": 0,
+    "program": 56
+  },
+  {
+    "instrument_id": "gm_057",
+    "label": "长号",
+    "bank": 0,
+    "program": 57
+  },
+  {
+    "instrument_id": "gm_058",
+    "label": "大号",
+    "bank": 0,
+    "program": 58
+  },
+  {
+    "instrument_id": "gm_059",
+    "label": "弱音小号",
+    "bank": 0,
+    "program": 59
+  },
+  {
+    "instrument_id": "gm_060",
+    "label": "圆号",
+    "bank": 0,
+    "program": 60
+  },
+  {
+    "instrument_id": "gm_061",
+    "label": "铜管合奏",
+    "bank": 0,
+    "program": 61
+  },
+  {
+    "instrument_id": "gm_062",
+    "label": "合成铜管一",
+    "bank": 0,
+    "program": 62
+  },
+  {
+    "instrument_id": "gm_063",
+    "label": "合成铜管二",
+    "bank": 0,
+    "program": 63
+  },
+  {
+    "instrument_id": "gm_064",
+    "label": "高音萨克斯",
+    "bank": 0,
+    "program": 64
+  },
+  {
+    "instrument_id": "gm_065",
+    "label": "中音萨克斯",
+    "bank": 0,
+    "program": 65
+  },
+  {
+    "instrument_id": "gm_066",
+    "label": "次中音萨克斯",
+    "bank": 0,
+    "program": 66
+  },
+  {
+    "instrument_id": "gm_067",
+    "label": "上低音萨克斯",
+    "bank": 0,
+    "program": 67
+  },
+  {
+    "instrument_id": "gm_068",
+    "label": "双簧管",
+    "bank": 0,
+    "program": 68
+  },
+  {
+    "instrument_id": "gm_069",
+    "label": "英国管",
+    "bank": 0,
+    "program": 69
+  },
+  {
+    "instrument_id": "gm_070",
+    "label": "巴松管",
+    "bank": 0,
+    "program": 70
+  },
+  {
+    "instrument_id": "gm_071",
+    "label": "单簧管",
+    "bank": 0,
+    "program": 71
+  },
+  {
+    "instrument_id": "gm_072",
+    "label": "短笛",
+    "bank": 0,
+    "program": 72
+  },
+  {
+    "instrument_id": "gm_074",
+    "label": "竖笛",
+    "bank": 0,
+    "program": 74
+  },
+  {
+    "instrument_id": "gm_075",
+    "label": "排箫",
+    "bank": 0,
+    "program": 75
+  },
+  {
+    "instrument_id": "gm_076",
+    "label": "吹瓶音色",
+    "bank": 0,
+    "program": 76
+  },
+  {
+    "instrument_id": "gm_077",
+    "label": "日本尺八",
+    "bank": 0,
+    "program": 77
+  },
+  {
+    "instrument_id": "gm_078",
+    "label": "哨音",
+    "bank": 0,
+    "program": 78
+  },
+  {
+    "instrument_id": "gm_079",
+    "label": "陶笛",
+    "bank": 0,
+    "program": 79
+  },
+  {
+    "instrument_id": "gm_081",
+    "label": "锯齿波主奏",
+    "bank": 0,
+    "program": 81
+  },
+  {
+    "instrument_id": "gm_082",
+    "label": "汽笛风琴主奏",
+    "bank": 0,
+    "program": 82
+  },
+  {
+    "instrument_id": "gm_083",
+    "label": "气声主奏",
+    "bank": 0,
+    "program": 83
+  },
+  {
+    "instrument_id": "gm_084",
+    "label": "拨弦合成主奏",
+    "bank": 0,
+    "program": 84
+  },
+  {
+    "instrument_id": "gm_085",
+    "label": "人声合成主奏",
+    "bank": 0,
+    "program": 85
+  },
+  {
+    "instrument_id": "gm_086",
+    "label": "五度合成主奏",
+    "bank": 0,
+    "program": 86
+  },
+  {
+    "instrument_id": "gm_087",
+    "label": "低音合成主奏",
+    "bank": 0,
+    "program": 87
+  },
+  {
+    "instrument_id": "gm_088",
+    "label": "新世纪铺底",
+    "bank": 0,
+    "program": 88
+  },
+  {
+    "instrument_id": "gm_090",
+    "label": "复音合成铺底",
+    "bank": 0,
+    "program": 90
+  },
+  {
+    "instrument_id": "gm_091",
+    "label": "合唱铺底",
+    "bank": 0,
+    "program": 91
+  },
+  {
+    "instrument_id": "gm_092",
+    "label": "弓弦合成铺底",
+    "bank": 0,
+    "program": 92
+  },
+  {
+    "instrument_id": "gm_093",
+    "label": "金属合成铺底",
+    "bank": 0,
+    "program": 93
+  },
+  {
+    "instrument_id": "gm_094",
+    "label": "光晕铺底",
+    "bank": 0,
+    "program": 94
+  },
+  {
+    "instrument_id": "gm_095",
+    "label": "扫频铺底",
+    "bank": 0,
+    "program": 95
+  },
+  {
+    "instrument_id": "gm_096",
+    "label": "雨景合成效果",
+    "bank": 0,
+    "program": 96
+  },
+  {
+    "instrument_id": "gm_097",
+    "label": "配乐合成效果",
+    "bank": 0,
+    "program": 97
+  },
+  {
+    "instrument_id": "gm_098",
+    "label": "水晶合成效果",
+    "bank": 0,
+    "program": 98
+  },
+  {
+    "instrument_id": "gm_099",
+    "label": "大气合成效果",
+    "bank": 0,
+    "program": 99
+  },
+  {
+    "instrument_id": "gm_100",
+    "label": "明亮合成效果",
+    "bank": 0,
+    "program": 100
+  },
+  {
+    "instrument_id": "gm_101",
+    "label": "怪诞合成效果",
+    "bank": 0,
+    "program": 101
+  },
+  {
+    "instrument_id": "gm_102",
+    "label": "回声合成效果",
+    "bank": 0,
+    "program": 102
+  },
+  {
+    "instrument_id": "gm_103",
+    "label": "科幻合成效果",
+    "bank": 0,
+    "program": 103
+  },
+  {
+    "instrument_id": "gm_104",
+    "label": "印度西塔琴",
+    "bank": 0,
+    "program": 104
+  },
+  {
+    "instrument_id": "gm_105",
+    "label": "班卓琴",
+    "bank": 0,
+    "program": 105
+  },
+  {
+    "instrument_id": "gm_106",
+    "label": "日本三味线",
+    "bank": 0,
+    "program": 106
+  },
+  {
+    "instrument_id": "gm_107",
+    "label": "日本筝",
+    "bank": 0,
+    "program": 107
+  },
+  {
+    "instrument_id": "gm_108",
+    "label": "卡林巴拇指琴",
+    "bank": 0,
+    "program": 108
+  },
+  {
+    "instrument_id": "gm_109",
+    "label": "风笛",
+    "bank": 0,
+    "program": 109
+  },
+  {
+    "instrument_id": "gm_110",
+    "label": "民间小提琴",
+    "bank": 0,
+    "program": 110
+  },
+  {
+    "instrument_id": "gm_111",
+    "label": "印度谢奈管",
+    "bank": 0,
+    "program": 111
+  },
+  {
+    "instrument_id": "gm_112",
+    "label": "叮当铃",
+    "bank": 0,
+    "program": 112
+  },
+  {
+    "instrument_id": "gm_113",
+    "label": "阿戈戈钟",
+    "bank": 0,
+    "program": 113
+  },
+  {
+    "instrument_id": "gm_114",
+    "label": "钢鼓",
+    "bank": 0,
+    "program": 114
+  },
+  {
+    "instrument_id": "gm_115",
+    "label": "木块打击",
+    "bank": 0,
+    "program": 115
+  },
+  {
+    "instrument_id": "gm_116",
+    "label": "日本太鼓",
+    "bank": 0,
+    "program": 116
+  },
+  {
+    "instrument_id": "gm_117",
+    "label": "有调通鼓",
+    "bank": 0,
+    "program": 117
+  },
+  {
+    "instrument_id": "gm_118",
+    "label": "合成鼓",
+    "bank": 0,
+    "program": 118
+  },
+  {
+    "instrument_id": "gm_119",
+    "label": "反向镲",
+    "bank": 0,
+    "program": 119
+  },
+  {
+    "instrument_id": "sine_wave",
+    "label": "正弦波音色",
+    "bank": 8,
+    "program": 80
+  },
+  {
+    "instrument_id": "concert_bass_drum",
+    "label": "管弦音乐会大鼓",
+    "bank": 8,
+    "program": 116
+  },
+  {
+    "instrument_id": "room_drums",
+    "label": "房间鼓组",
+    "bank": 128,
+    "program": 8
+  },
+  {
+    "instrument_id": "power_drums",
+    "label": "强力鼓组",
+    "bank": 128,
+    "program": 16
+  },
+  {
+    "instrument_id": "electronic_drums",
+    "label": "电子鼓组",
+    "bank": 128,
+    "program": 24
+  },
+  {
+    "instrument_id": "tr808_drums",
+    "label": "八零八电子鼓组",
+    "bank": 128,
+    "program": 25
+  },
+  {
+    "instrument_id": "jazz_drums",
+    "label": "爵士鼓组",
+    "bank": 128,
+    "program": 32
+  },
+  {
+    "instrument_id": "brush_drums",
+    "label": "鼓刷鼓组",
+    "bank": 128,
+    "program": 40
+  },
+  {
+    "instrument_id": "orchestral_drums",
+    "label": "管弦打击乐组",
+    "bank": 128,
+    "program": 48
+  }
+]

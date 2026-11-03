@@ -1,0 +1,171 @@
+{
+  "来源": "https://aurorasynth.baltavista.com/",
+  "包": "Aurora-World-Pack-0.3.2.zip",
+  "包sha256": "8289d268ce2c84fd1ae55882352df7f3b1011d545cde9850228cc2bf243e34e8",
+  "限制": "Aurora列出乌德两处、奈伊两处来源，未提供逐个FLAC与来源音频的对应表；奈伊原SFZ循环在本转换中没有实现，严格只映射18个经pYIN验证的单键，无扩展音域",
+  "samples": [
+    {
+      "乐器": "oud",
+      "midi": 45,
+      "source_file": "oud/samples/A2.flac",
+      "sha256": "14d85974b51985e275b261d02b18196df5e161297273c0db78601176e89d24fb",
+      "frames": 126268,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 46,
+      "source_file": "oud/samples/A#2.flac",
+      "sha256": "6f4765af8b056d70716c6f51e758fca5cb52aa2f02813fb51710d8cf7837f38d",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 48,
+      "source_file": "oud/samples/C3.flac",
+      "sha256": "4fcfdbe311dbe83aa2a682c79c89be48066e80658de7282d9798b9d1e15cd552",
+      "frames": 176001,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 50,
+      "source_file": "oud/samples/D3.flac",
+      "sha256": "3fa72ebfc59551e83c7b73f178825e61a672ab4d1d8dc4044377db7595712edc",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 52,
+      "source_file": "oud/samples/E3.flac",
+      "sha256": "fb3aa17a6a270a2b25f16a37f880edc90d8daa4ee30ee31b2ce921a2711d4a38",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 53,
+      "source_file": "oud/samples/F3.flac",
+      "sha256": "108891eb13126cc9c59cbb6a58d9b0708836c1092718ec80730dfb5d9fd71e1a",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 54,
+      "source_file": "oud/samples/F#3.flac",
+      "sha256": "4795b3ee7264363f1a060ba42dc9792fddf2fdc9fa1c655ae69ec08a683e75e8",
+      "frames": 172040,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 55,
+      "source_file": "oud/samples/G3.flac",
+      "sha256": "1b089ef586e7e25337f9cc0ac8e6afffe49d19ac1e11bb0056abb92a2624ba4b",
+      "frames": 175781,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 58,
+      "source_file": "oud/samples/A#3.flac",
+      "sha256": "571bc9e3b02fb1fae69e847339aea493203da0115447c04d5fc30673e115ae4f",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 59,
+      "source_file": "oud/samples/B3.flac",
+      "sha256": "d3c0b5596807ceae396c1b7950ca6168ce260b406844fad68ff3634ab6f15afa",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 60,
+      "source_file": "oud/samples/C4.flac",
+      "sha256": "6dc3f1167c3506d087773574b6e5a302c593fd373e895412a49e19bd97a3efa9",
+      "frames": 172041,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 62,
+      "source_file": "oud/samples/D4.flac",
+      "sha256": "07c2bed1e171c99735fe0d50960ece27bda642fc13f205172b21e761119a8e97",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 63,
+      "source_file": "oud/samples/D#4.flac",
+      "sha256": "0c3378b77a7068fc0a2a7ed65d31ea40b84ea9611c7539fc671fbc79ea8b4ae1",
+      "frames": 176661,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 64,
+      "source_file": "oud/samples/E4.flac",
+      "sha256": "db988749283449fb4edbeeed20e34110b764fec49686be2cddc79f5f29cd53ea",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "oud",
+      "midi": 65,
+      "source_file": "oud/samples/F4.flac",
+      "sha256": "2f1fc4fcbdacfc32a29a240b9f359208d390cc4b89a26bf2a2fb583f1256113c",
+      "frames": 176841,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "ney",
+      "midi": 60,
+      "source_file": "ney/samples/C4.flac",
+      "sha256": "570c550d2bca5502a3b1bf9a801ef302c18ee8d2b80c7e3f3e8011315a482ff8",
+      "frames": 26901,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "ney",
+      "midi": 65,
+      "source_file": "ney/samples/F4.flac",
+      "sha256": "f5048664a8597308eddb4b3c6e692714651e03ee6dd8943d68d977e3e5e7b8b6",
+      "frames": 41013,
+      "sample_rate": 44100,
+      "channels": 1
+    },
+    {
+      "乐器": "ney",
+      "midi": 78,
+      "source_file": "ney/samples/F#5.flac",
+      "sha256": "3e7c06e98cb2f94cc0ec37a0ba3be22de734b5d67dea0129c61dc335f914ea7c",
+      "frames": 18963,
+      "sample_rate": 44100,
+      "channels": 1
+    }
+  ],
+  "font_sha256": "284eccd992af8f66ac887e169a36655737ed17cb1b2fb7c0c79783fa3d72d95e"
+}

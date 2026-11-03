@@ -1,0 +1,20 @@
+{
+  "name": "blcaptain-code-band",
+  "interface": {
+    "displayName": "BLCaptain 代码乐团 · Code Band"
+  },
+  "plugins": [
+    {
+      "name": "code-band",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

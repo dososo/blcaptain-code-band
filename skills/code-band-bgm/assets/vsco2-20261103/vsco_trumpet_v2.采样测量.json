@@ -1,0 +1,2089 @@
+{
+ "bank": "vsco_trumpet_v2",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "staccato",
+   "programs": [
+    16
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "vibrato",
+   "programs": [
+    32
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "straight_mute",
+   "programs": [
+    48
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "harmon_mute",
+   "programs": [
+    64
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "Sum_SHTrumpet_sus_A#3_v1_rr1.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -3.4,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    217071,
+    254016
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_A2_v1_rr1.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -1.5,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    209908,
+    261072
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_A4_v1_rr1.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 0.2,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    182256,
+    254016
+   ],
+   "loop_similarity": 0.999
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_C3_v1_rr1.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 2.6,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    184388,
+    254016
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_C5_v1_rr1.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -2.3,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    190895,
+    331632
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_D#3_v1_rr1.wav",
+   "name": "s0005",
+   "instrument": "normal",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": 2.8,
+   "seconds": 6.4,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    187080,
+    282240
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_D4_v1_rr1.wav",
+   "name": "s0006",
+   "instrument": "normal",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -0.8,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117835,
+    261072
+   ],
+   "loop_similarity": 0.999
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_F2_v1_rr1.wav",
+   "name": "s0007",
+   "instrument": "normal",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 7.3,
+   "seconds": 6.4,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    154977,
+    282240
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_F4_v1_rr1.wav",
+   "name": "s0008",
+   "instrument": "normal",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 1.9,
+   "seconds": 6.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    120384,
+    289296
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_G3_v1_rr1.wav",
+   "name": "s0009",
+   "instrument": "normal",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 8.6,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    161936,
+    254016
+   ],
+   "loop_similarity": 0.997
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_A#3_v3_rr1.wav",
+   "name": "s0010",
+   "instrument": "normal",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 3.0,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    207878,
+    254016
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_A2_v3_rr1.wav",
+   "name": "s0011",
+   "instrument": "normal",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": 1.5,
+   "seconds": 4.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    156992,
+    197830
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_A4_v3_rr1.wav",
+   "name": "s0012",
+   "instrument": "normal",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 2.1,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    198222,
+    254016
+   ],
+   "loop_similarity": 0.997
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_C3_v3_rr1.wav",
+   "name": "s0013",
+   "instrument": "normal",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 1.8,
+   "seconds": 5.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    144146,
+    240647
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_C5_v3_rr1.wav",
+   "name": "s0014",
+   "instrument": "normal",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -4.1,
+   "seconds": 6.23,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    120099,
+    274656
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_D#3_v3_rr1.wav",
+   "name": "s0015",
+   "instrument": "normal",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -1.6,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    143400,
+    310464
+   ],
+   "loop_similarity": 0.997
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_D4_v3_rr1.wav",
+   "name": "s0016",
+   "instrument": "normal",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -0.7,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    172563,
+    261072
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_F2_v3_rr1.wav",
+   "name": "s0017",
+   "instrument": "normal",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": -9.1,
+   "seconds": 4.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    149299,
+    176546
+   ],
+   "loop_similarity": 0.969
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_F4_v3_rr1.wav",
+   "name": "s0018",
+   "instrument": "normal",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -3.5,
+   "seconds": 5.61,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    191067,
+    247518
+   ],
+   "loop_similarity": 0.997
+  },
+  {
+   "sample": "Sum_SHTrumpet_sus_G3_v3_rr1.wav",
+   "name": "s0019",
+   "instrument": "normal",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 4.8,
+   "seconds": 6.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    213522,
+    275184
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v1_rr1.wav",
+   "name": "s0020",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -1.0,
+   "seconds": 1.14,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v1_rr1.wav",
+   "name": "s0021",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -11.4,
+   "seconds": 0.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v1_rr1.wav",
+   "name": "s0022",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": -1.5,
+   "seconds": 1.48,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v1_rr1.wav",
+   "name": "s0023",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 1.5,
+   "seconds": 1.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v1_rr1.wav",
+   "name": "s0024",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 1.66,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v1_rr1.wav",
+   "name": "s0025",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -7.9,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v1_rr1.wav",
+   "name": "s0026",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 3.4,
+   "seconds": 1.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v1_rr1.wav",
+   "name": "s0027",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 8.7,
+   "seconds": 0.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v1_rr1.wav",
+   "name": "s0028",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 1.18,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v1_rr1.wav",
+   "name": "s0029",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 8.8,
+   "seconds": 1.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v1_rr1.wav",
+   "name": "s0030",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 0.3,
+   "seconds": 1.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v2_rr1.wav",
+   "name": "s0031",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 1.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v2_rr1.wav",
+   "name": "s0032",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": 4.8,
+   "seconds": 0.94,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v2_rr1.wav",
+   "name": "s0033",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 1.3,
+   "seconds": 1.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v2_rr1.wav",
+   "name": "s0034",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 8.5,
+   "seconds": 1.14,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v2_rr1.wav",
+   "name": "s0035",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -3.0,
+   "seconds": 0.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v2_rr1.wav",
+   "name": "s0036",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -1.1,
+   "seconds": 1.29,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v2_rr1.wav",
+   "name": "s0037",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 0.3,
+   "seconds": 1.34,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v2_rr1.wav",
+   "name": "s0038",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 1.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v2_rr1.wav",
+   "name": "s0039",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 3.3,
+   "seconds": 1.35,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v2_rr1.wav",
+   "name": "s0040",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 9.9,
+   "seconds": 1.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v2_rr1.wav",
+   "name": "s0041",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 5.0,
+   "seconds": 1.19,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v3_rr1.wav",
+   "name": "s0042",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 5.6,
+   "seconds": 1.53,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v3_rr1.wav",
+   "name": "s0043",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -13.1,
+   "seconds": 1.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v3_rr1.wav",
+   "name": "s0044",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 3.1,
+   "seconds": 1.35,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v3_rr1.wav",
+   "name": "s0045",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 17.5,
+   "seconds": 1.22,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v3_rr1.wav",
+   "name": "s0046",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": 4.6,
+   "seconds": 1.44,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v3_rr1.wav",
+   "name": "s0047",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": 4.1,
+   "seconds": 1.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v3_rr1.wav",
+   "name": "s0048",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 1.9,
+   "seconds": 1.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v3_rr1.wav",
+   "name": "s0049",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 8.9,
+   "seconds": 1.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v3_rr1.wav",
+   "name": "s0050",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 0.8,
+   "seconds": 1.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v3_rr1.wav",
+   "name": "s0051",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 0.9,
+   "seconds": 1.54,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v3_rr1.wav",
+   "name": "s0052",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 8.6,
+   "seconds": 1.29,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v1_rr2.wav",
+   "name": "s0053",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 1.8,
+   "seconds": 1.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v1_rr2.wav",
+   "name": "s0054",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": 2.4,
+   "seconds": 0.83,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v1_rr2.wav",
+   "name": "s0055",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 3.2,
+   "seconds": 1.22,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v1_rr2.wav",
+   "name": "s0056",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 8.1,
+   "seconds": 0.94,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v1_rr2.wav",
+   "name": "s0057",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -4.7,
+   "seconds": 1.37,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v1_rr2.wav",
+   "name": "s0058",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -3.7,
+   "seconds": 1.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v1_rr2.wav",
+   "name": "s0059",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -6.4,
+   "seconds": 1.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v1_rr2.wav",
+   "name": "s0060",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 10.4,
+   "seconds": 0.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v1_rr2.wav",
+   "name": "s0061",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": -8.9,
+   "seconds": 1.3,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v1_rr2.wav",
+   "name": "s0062",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 5.7,
+   "seconds": 1.38,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v1_rr2.wav",
+   "name": "s0063",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": -5.5,
+   "seconds": 1.22,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v2_rr2.wav",
+   "name": "s0064",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 1.4,
+   "seconds": 1.34,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v2_rr2.wav",
+   "name": "s0065",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -0.9,
+   "seconds": 0.97,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v2_rr2.wav",
+   "name": "s0066",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 6.5,
+   "seconds": 1.25,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v2_rr2.wav",
+   "name": "s0067",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 14.1,
+   "seconds": 1.17,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v2_rr2.wav",
+   "name": "s0068",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": 3.2,
+   "seconds": 1.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v2_rr2.wav",
+   "name": "s0069",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -4.3,
+   "seconds": 1.26,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v2_rr2.wav",
+   "name": "s0070",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 2.7,
+   "seconds": 1.17,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v2_rr2.wav",
+   "name": "s0071",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 0.7,
+   "seconds": 0.97,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v2_rr2.wav",
+   "name": "s0072",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": -2.5,
+   "seconds": 1.34,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v2_rr2.wav",
+   "name": "s0073",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -1.7,
+   "seconds": 1.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v2_rr2.wav",
+   "name": "s0074",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 2.2,
+   "seconds": 1.15,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A#3_v3_rr2.wav",
+   "name": "s0075",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 12.7,
+   "seconds": 1.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A2_v3_rr2.wav",
+   "name": "s0076",
+   "instrument": "staccato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": 1.5,
+   "seconds": 1.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_A4_v3_rr2.wav",
+   "name": "s0077",
+   "instrument": "staccato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 8.7,
+   "seconds": 1.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C3_v3_rr2.wav",
+   "name": "s0078",
+   "instrument": "staccato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 7.2,
+   "seconds": 1.32,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_C5_v3_rr2.wav",
+   "name": "s0079",
+   "instrument": "staccato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": 2.8,
+   "seconds": 1.7,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D#3_v3_rr2.wav",
+   "name": "s0080",
+   "instrument": "staccato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -1.1,
+   "seconds": 1.4,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_D4_v3_rr2.wav",
+   "name": "s0081",
+   "instrument": "staccato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 4.3,
+   "seconds": 1.44,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F2_v3_rr2.wav",
+   "name": "s0082",
+   "instrument": "staccato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 7.6,
+   "seconds": 0.93,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F3_v3_rr2.wav",
+   "name": "s0083",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": -1.7,
+   "seconds": 1.4,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_F4_v3_rr2.wav",
+   "name": "s0084",
+   "instrument": "staccato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 12.8,
+   "seconds": 1.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_stac_G3_v3_rr2.wav",
+   "name": "s0085",
+   "instrument": "staccato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 1.2,
+   "seconds": 1.44,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A#3_v1_rr1.wav",
+   "name": "s0086",
+   "instrument": "vibrato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 0.0,
+   "seconds": 4.58,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    172001,
+    201997
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A2_v1_rr1.wav",
+   "name": "s0087",
+   "instrument": "vibrato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -1.1,
+   "seconds": 3.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    89544,
+    156927
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A4_v1_rr1.wav",
+   "name": "s0088",
+   "instrument": "vibrato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 1.1,
+   "seconds": 5.53,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    160822,
+    243597
+   ],
+   "loop_similarity": 0.99
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_C3_v1_rr1.wav",
+   "name": "s0089",
+   "instrument": "vibrato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": -6.5,
+   "seconds": 3.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    107395,
+    166400
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_C5_v1_rr1.wav",
+   "name": "s0090",
+   "instrument": "vibrato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -2.2,
+   "seconds": 4.47,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    103314,
+    197056
+   ],
+   "loop_similarity": 0.949
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_D#3_v1_rr1.wav",
+   "name": "s0091",
+   "instrument": "vibrato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -3.3,
+   "seconds": 5.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    176044,
+    223753
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_D4_v1_rr1.wav",
+   "name": "s0092",
+   "instrument": "vibrato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -12.7,
+   "seconds": 4.06,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    114489,
+    178934
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F2_v1_rr1.wav",
+   "name": "s0093",
+   "instrument": "vibrato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": -10.8,
+   "seconds": 3.35,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    109118,
+    147631
+   ],
+   "loop_similarity": 0.962
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F3_v1_rr1.wav",
+   "name": "s0094",
+   "instrument": "vibrato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 2.9,
+   "seconds": 4.55,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    139362,
+    200437
+   ],
+   "loop_similarity": 0.966
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F4_v1_rr1.wav",
+   "name": "s0095",
+   "instrument": "vibrato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 3.2,
+   "seconds": 4.23,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    76343,
+    186400
+   ],
+   "loop_similarity": 0.981
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_G3_v1_rr1.wav",
+   "name": "s0096",
+   "instrument": "vibrato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": -5.8,
+   "seconds": 6.48,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    162142,
+    285704
+   ],
+   "loop_similarity": 0.991
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A#3_v2_rr1.wav",
+   "name": "s0097",
+   "instrument": "vibrato",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -2.1,
+   "seconds": 4.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    101782,
+    185272
+   ],
+   "loop_similarity": 0.953
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A2_v2_rr1.wav",
+   "name": "s0098",
+   "instrument": "vibrato",
+   "sfz_key": 57,
+   "octave_shift": 0,
+   "measured_cents": -8.4,
+   "seconds": 3.12,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    100709,
+    137652
+   ],
+   "loop_similarity": 0.894
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_A4_v2_rr1.wav",
+   "name": "s0099",
+   "instrument": "vibrato",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": -2.8,
+   "seconds": 4.25,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    145843,
+    187379
+   ],
+   "loop_similarity": 0.979
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_C3_v2_rr1.wav",
+   "name": "s0100",
+   "instrument": "vibrato",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": -9.1,
+   "seconds": 3.74,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    109227,
+    164929
+   ],
+   "loop_similarity": 0.954
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_C5_v2_rr1.wav",
+   "name": "s0101",
+   "instrument": "vibrato",
+   "sfz_key": 84,
+   "octave_shift": 0,
+   "measured_cents": -3.6,
+   "seconds": 5.63,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    187618,
+    248334
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_D#3_v2_rr1.wav",
+   "name": "s0102",
+   "instrument": "vibrato",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -1.0,
+   "seconds": 4.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    134358,
+    179482
+   ],
+   "loop_similarity": 0.948
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_D4_v2_rr1.wav",
+   "name": "s0103",
+   "instrument": "vibrato",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -4.8,
+   "seconds": 3.73,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    98197,
+    164316
+   ],
+   "loop_similarity": 0.971
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F2_v2_rr1.wav",
+   "name": "s0104",
+   "instrument": "vibrato",
+   "sfz_key": 53,
+   "octave_shift": 0,
+   "measured_cents": 3.8,
+   "seconds": 4.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    152762,
+    188766
+   ],
+   "loop_similarity": 0.956
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F3_v2_rr1.wav",
+   "name": "s0105",
+   "instrument": "vibrato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 2.0,
+   "seconds": 3.29,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    114943,
+    144907
+   ],
+   "loop_similarity": 0.939
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_F4_v2_rr1.wav",
+   "name": "s0106",
+   "instrument": "vibrato",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": 2.0,
+   "seconds": 4.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117097,
+    198009
+   ],
+   "loop_similarity": 0.962
+  },
+  {
+   "sample": "Sum_SHTrumpet_susvib_G3_v2_rr1.wav",
+   "name": "s0107",
+   "instrument": "vibrato",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": -1.5,
+   "seconds": 3.68,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    126861,
+    162359
+   ],
+   "loop_similarity": 0.979
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A#2_v1_rr1.wav",
+   "name": "s0108",
+   "instrument": "straight_mute",
+   "sfz_key": 58,
+   "octave_shift": 0,
+   "measured_cents": -3.9,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    193656,
+    254016
+   ],
+   "loop_similarity": 0.939
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A#3_v1_rr1.wav",
+   "name": "s0109",
+   "instrument": "straight_mute",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": 2.7,
+   "seconds": 6.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    187081,
+    289296
+   ],
+   "loop_similarity": 0.985
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A4_v1_rr1.wav",
+   "name": "s0110",
+   "instrument": "straight_mute",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": -1.3,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    218545,
+    254016
+   ],
+   "loop_similarity": 0.917
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_C3_v1_rr1.wav",
+   "name": "s0111",
+   "instrument": "straight_mute",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 10.1,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    149679,
+    310464
+   ],
+   "loop_similarity": 0.956
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_D3_v1_rr1.wav",
+   "name": "s0112",
+   "instrument": "straight_mute",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -6.7,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    205350,
+    317520
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_D4_v1_rr1.wav",
+   "name": "s0113",
+   "instrument": "straight_mute",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -3.6,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    199676,
+    303408
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_F4_v1_rr1.wav",
+   "name": "s0114",
+   "instrument": "straight_mute",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -3.6,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    218470,
+    331632
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_G3_v1_rr1.wav",
+   "name": "s0115",
+   "instrument": "straight_mute",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": 9.2,
+   "seconds": 6.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    198499,
+    268128
+   ],
+   "loop_similarity": 0.985
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A#2_v3_rr1.wav",
+   "name": "s0116",
+   "instrument": "straight_mute",
+   "sfz_key": 58,
+   "octave_shift": 0,
+   "measured_cents": -0.3,
+   "seconds": 4.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    87658,
+    196506
+   ],
+   "loop_similarity": 0.957
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A#3_v3_rr1.wav",
+   "name": "s0117",
+   "instrument": "straight_mute",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -0.0,
+   "seconds": 6.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    139621,
+    275184
+   ],
+   "loop_similarity": 0.984
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_A4_v3_rr1.wav",
+   "name": "s0118",
+   "instrument": "straight_mute",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 0.8,
+   "seconds": 5.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    174939,
+    232939
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_C3_v3_rr1.wav",
+   "name": "s0119",
+   "instrument": "straight_mute",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": -0.8,
+   "seconds": 5.48,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    180689,
+    241619
+   ],
+   "loop_similarity": 0.953
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_D3_v3_rr1.wav",
+   "name": "s0120",
+   "instrument": "straight_mute",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": 0.5,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    192892,
+    261072
+   ],
+   "loop_similarity": 0.974
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_D4_v3_rr1.wav",
+   "name": "s0121",
+   "instrument": "straight_mute",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -0.5,
+   "seconds": 5.91,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    196415,
+    260449
+   ],
+   "loop_similarity": 0.981
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_F4_v3_rr1.wav",
+   "name": "s0122",
+   "instrument": "straight_mute",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -5.0,
+   "seconds": 5.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    178904,
+    240584
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "Sum_SHTrumpet_straightM-sus_G3_v3_rr1.wav",
+   "name": "s0123",
+   "instrument": "straight_mute",
+   "sfz_key": 67,
+   "octave_shift": 0,
+   "measured_cents": -0.0,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    200122,
+    261072
+   ],
+   "loop_similarity": 0.958
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A#2_v1_rr1.wav",
+   "name": "s0124",
+   "instrument": "harmon_mute",
+   "sfz_key": 58,
+   "octave_shift": 0,
+   "measured_cents": 7.4,
+   "seconds": 4.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    133288,
+    193391
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A#3_v1_rr1.wav",
+   "name": "s0125",
+   "instrument": "harmon_mute",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -3.1,
+   "seconds": 5.82,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    208205,
+    256558
+   ],
+   "loop_similarity": 0.989
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A4_v1_rr1.wav",
+   "name": "s0126",
+   "instrument": "harmon_mute",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 1.0,
+   "seconds": 6.72,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    201894,
+    296352
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_C3_v1_rr1.wav",
+   "name": "s0127",
+   "instrument": "harmon_mute",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": -3.9,
+   "seconds": 5.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    160574,
+    220857
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_D#3_v1_rr1.wav",
+   "name": "s0128",
+   "instrument": "harmon_mute",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": 6.0,
+   "seconds": 4.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    147205,
+    176405
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_D4_v1_rr1.wav",
+   "name": "s0129",
+   "instrument": "harmon_mute",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": -4.6,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    218707,
+    317520
+   ],
+   "loop_similarity": 0.983
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_F4_v1_rr1.wav",
+   "name": "s0130",
+   "instrument": "harmon_mute",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -2.2,
+   "seconds": 6.02,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117477,
+    265299
+   ],
+   "loop_similarity": 0.981
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_G#3_v1_rr1.wav",
+   "name": "s0131",
+   "instrument": "harmon_mute",
+   "sfz_key": 68,
+   "octave_shift": 0,
+   "measured_cents": -4.0,
+   "seconds": 4.65,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    135209,
+    205076
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A#2_v3_rr1.wav",
+   "name": "s0132",
+   "instrument": "harmon_mute",
+   "sfz_key": 58,
+   "octave_shift": 0,
+   "measured_cents": -1.6,
+   "seconds": 4.3,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    144519,
+    189734
+   ],
+   "loop_similarity": 0.97
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A#3_v3_rr1.wav",
+   "name": "s0133",
+   "instrument": "harmon_mute",
+   "sfz_key": 70,
+   "octave_shift": 0,
+   "measured_cents": -2.2,
+   "seconds": 5.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    125201,
+    242720
+   ],
+   "loop_similarity": 0.965
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_A4_v3_rr1.wav",
+   "name": "s0134",
+   "instrument": "harmon_mute",
+   "sfz_key": 81,
+   "octave_shift": 0,
+   "measured_cents": 1.0,
+   "seconds": 3.96,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    120413,
+    174624
+   ],
+   "loop_similarity": 0.96
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_C3_v3_rr1.wav",
+   "name": "s0135",
+   "instrument": "harmon_mute",
+   "sfz_key": 60,
+   "octave_shift": 0,
+   "measured_cents": 7.5,
+   "seconds": 5.16,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    79677,
+    227695
+   ],
+   "loop_similarity": 0.971
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_D#3_v3_rr1.wav",
+   "name": "s0136",
+   "instrument": "harmon_mute",
+   "sfz_key": 63,
+   "octave_shift": 0,
+   "measured_cents": -0.9,
+   "seconds": 3.96,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    146231,
+    174692
+   ],
+   "loop_similarity": 0.982
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_D4_v3_rr1.wav",
+   "name": "s0137",
+   "instrument": "harmon_mute",
+   "sfz_key": 74,
+   "octave_shift": 0,
+   "measured_cents": 3.0,
+   "seconds": 5.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    138632,
+    247851
+   ],
+   "loop_similarity": 0.98
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_F4_v3_rr1.wav",
+   "name": "s0138",
+   "instrument": "harmon_mute",
+   "sfz_key": 77,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 5.68,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    183267,
+    250614
+   ],
+   "loop_similarity": 0.969
+  },
+  {
+   "sample": "Sum_SHTrumpet_harmonM-sus_G#3_v3_rr1.wav",
+   "name": "s0139",
+   "instrument": "harmon_mute",
+   "sfz_key": 68,
+   "octave_shift": 0,
+   "measured_cents": -0.9,
+   "seconds": 4.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    134022,
+    199021
+   ],
+   "loop_similarity": 0.921
+  }
+ ]
+}

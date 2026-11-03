@@ -1,0 +1,756 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:code-orchestra-bgm:engine-capabilities:1.0.0",
+  "title": "代码乐团引擎能力清单",
+  "description": "由现有工程探测所得的能力与资源事实。未知不是支持；每项已判定能力必须关联证据。宿主路径和进程配置属于适配层。",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "capability_id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+    },
+    "probe_state": {
+      "enum": [
+        "unprobed",
+        "partially_probed",
+        "probed"
+      ]
+    },
+    "observed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "engine": {
+      "oneOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "engine_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "display_name": {
+              "type": "string",
+              "minLength": 1
+            },
+            "version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "adapter_id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+            },
+            "adapter_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "platform_notes": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "engine_id",
+            "display_name",
+            "version",
+            "adapter_id",
+            "adapter_version",
+            "platform_notes"
+          ]
+        }
+      ]
+    },
+    "execution": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "headless": {
+          "$ref": "#/$defs/feature"
+        },
+        "offline_render": {
+          "$ref": "#/$defs/feature"
+        },
+        "realtime_capture": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "headless",
+        "offline_render",
+        "realtime_capture"
+      ]
+    },
+    "timing": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "tempo_step_map": {
+          "$ref": "#/$defs/feature"
+        },
+        "meter_changes": {
+          "$ref": "#/$defs/feature"
+        },
+        "sample_frame_scheduling": {
+          "$ref": "#/$defs/feature"
+        },
+        "note_gate_release": {
+          "$ref": "#/$defs/feature"
+        },
+        "pitch_cents": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "tempo_step_map",
+        "meter_changes",
+        "sample_frame_scheduling",
+        "note_gate_release",
+        "pitch_cents"
+      ]
+    },
+    "performance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "per_note_velocity": {
+          "$ref": "#/$defs/feature"
+        },
+        "per_note_pan": {
+          "$ref": "#/$defs/feature"
+        },
+        "articulations": {
+          "$ref": "#/$defs/feature"
+        },
+        "explicit_sample_selection": {
+          "$ref": "#/$defs/feature"
+        },
+        "seeded_sample_selection": {
+          "$ref": "#/$defs/feature"
+        },
+        "engine_humanize_bypass": {
+          "$ref": "#/$defs/feature"
+        },
+        "sound_shaping": {
+          "$ref": "#/$defs/feature"
+        },
+        "note_expression": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "per_note_velocity",
+        "per_note_pan",
+        "articulations",
+        "explicit_sample_selection",
+        "seeded_sample_selection",
+        "engine_humanize_bypass"
+      ]
+    },
+    "mixing": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "part_gain": {
+          "$ref": "#/$defs/feature"
+        },
+        "part_pan": {
+          "$ref": "#/$defs/feature"
+        },
+        "reverb": {
+          "$ref": "#/$defs/feature"
+        },
+        "chorus": {
+          "$ref": "#/$defs/feature"
+        },
+        "stem_export": {
+          "$ref": "#/$defs/feature"
+        },
+        "delay": {
+          "$ref": "#/$defs/feature"
+        },
+        "duck": {
+          "$ref": "#/$defs/feature"
+        },
+        "eq": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "part_gain",
+        "part_pan",
+        "reverb",
+        "stem_export"
+      ]
+    },
+    "export": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "wav": {
+          "$ref": "#/$defs/feature"
+        },
+        "exact_frame_count": {
+          "$ref": "#/$defs/feature"
+        },
+        "loop_tail_wrap": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "wav",
+        "exact_frame_count",
+        "loop_tail_wrap"
+      ]
+    },
+    "reproducibility": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "deterministic_event_resolution": {
+          "$ref": "#/$defs/feature"
+        },
+        "bit_exact_audio": {
+          "$ref": "#/$defs/feature"
+        }
+      },
+      "required": [
+        "deterministic_event_resolution",
+        "bit_exact_audio"
+      ]
+    },
+    "format_limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sample_rates_hz": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 8000,
+            "maximum": 384000
+          },
+          "uniqueItems": true
+        },
+        "sample_formats": {
+          "type": "array",
+          "items": {
+            "enum": [
+              "pcm_s16",
+              "pcm_s24",
+              "pcm_f32"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "channel_counts": {
+          "type": "array",
+          "items": {
+            "enum": [
+              1,
+              2
+            ]
+          },
+          "uniqueItems": true
+        },
+        "max_render_frames": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "sample_rates_hz",
+        "sample_formats",
+        "channel_counts",
+        "max_render_frames",
+        "notes"
+      ]
+    },
+    "resources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/instrumentResource"
+      }
+    },
+    "resource_manifest_sha256": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidence"
+      }
+    },
+    "unresolved": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "adapter_config_reference": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "可选适配层配置的相对引用；乐谱和核心协议不包含 Codex/Claude 专用路径。"
+    }
+  },
+  "required": [
+    "schema_version",
+    "capability_id",
+    "probe_state",
+    "observed_at",
+    "engine",
+    "execution",
+    "timing",
+    "performance",
+    "mixing",
+    "export",
+    "reproducibility",
+    "format_limits",
+    "resources",
+    "resource_manifest_sha256",
+    "evidence",
+    "unresolved",
+    "adapter_config_reference"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "probe_state": {
+            "const": "unprobed"
+          }
+        },
+        "required": [
+          "probe_state"
+        ]
+      },
+      "then": {
+        "properties": {
+          "engine": {
+            "type": "null"
+          },
+          "observed_at": {
+            "type": "null"
+          },
+          "resources": {
+            "maxItems": 0
+          },
+          "evidence": {
+            "maxItems": 0
+          },
+          "resource_manifest_sha256": {
+            "type": "null"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "probe_state": {
+            "enum": [
+              "partially_probed",
+              "probed"
+            ]
+          }
+        },
+        "required": [
+          "probe_state"
+        ]
+      },
+      "then": {
+        "properties": {
+          "engine": {
+            "type": "object"
+          },
+          "observed_at": {
+            "type": "string"
+          },
+          "evidence": {
+            "minItems": 1
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "feature": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "state": {
+          "enum": [
+            "unknown",
+            "supported",
+            "unsupported"
+          ]
+        },
+        "evidence_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+          },
+          "uniqueItems": true
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "state",
+        "evidence_ids",
+        "limitations"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "state": {
+                "enum": [
+                  "supported",
+                  "unsupported"
+                ]
+              }
+            },
+            "required": [
+              "state"
+            ]
+          },
+          "then": {
+            "properties": {
+              "evidence_ids": {
+                "minItems": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "evidence_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "kind": {
+          "enum": [
+            "source_inspection",
+            "command_output",
+            "render_measurement",
+            "manual_audition"
+          ]
+        },
+        "reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "evidence_id",
+        "kind",
+        "reference",
+        "description"
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "enum": [
+            "unverified",
+            "documented"
+          ]
+        },
+        "source": {
+          "type": "string"
+        },
+        "license_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "license_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "distribution_notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "status",
+        "source",
+        "license_id",
+        "license_reference",
+        "distribution_notes"
+      ]
+    },
+    "sampleAsset": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sample_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "asset_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        },
+        "articulation_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "root_midi": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 127
+        },
+        "velocity_min": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 127
+        },
+        "velocity_max": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 127
+        },
+        "round_robin_group": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sample_rate_hz": {
+          "type": "integer",
+          "minimum": 8000,
+          "maximum": 384000
+        },
+        "frames": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991
+        },
+        "channels": {
+          "enum": [
+            1,
+            2
+          ]
+        },
+        "provenance": {
+          "$ref": "#/$defs/provenance"
+        }
+      },
+      "required": [
+        "sample_id",
+        "asset_id",
+        "sha256",
+        "articulation_id",
+        "root_midi",
+        "velocity_min",
+        "velocity_max",
+        "round_robin_group",
+        "sample_rate_hz",
+        "frames",
+        "channels",
+        "provenance"
+      ]
+    },
+    "instrumentResource": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "instrument_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": [
+            "sampler",
+            "synth",
+            "midi_device"
+          ]
+        },
+        "availability": {
+          "enum": [
+            "available",
+            "unavailable",
+            "unknown"
+          ]
+        },
+        "engine_resource_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "pitch_range": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "min_midi": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 127
+            },
+            "max_midi": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 127
+            }
+          },
+          "required": [
+            "min_midi",
+            "max_midi"
+          ]
+        },
+        "articulation_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "unpitched_hits": {
+          "type": "object",
+          "patternProperties": {
+            "^[a-z][a-z0-9_-]{0,63}$": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "additionalProperties": false
+        },
+        "sample_assets": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/sampleAsset"
+          }
+        },
+        "provenance": {
+          "$ref": "#/$defs/provenance"
+        },
+        "limitations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "playable_midi_keys": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 127
+          },
+          "uniqueItems": true,
+          "minItems": 1,
+          "description": "存在真实可用采样区域的MIDI键集合；每个音符仍须按最终力度核真实区域。"
+        },
+        "articulation_programs": {
+          "type": "object",
+          "description": "奏法到同库真实预设的映射；programs 多于一个时按种子轮换。",
+          "patternProperties": {
+            "^[a-z][a-z0-9_-]{0,63}$": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "bank": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "programs": {
+                  "type": "array",
+                  "minItems": 1,
+                  "items": {
+                    "type": "integer",
+                    "minimum": 0,
+                    "maximum": 127
+                  }
+                },
+                "recorded": {
+                  "type": "boolean",
+                  "description": "true=该奏法有真实录音；false=控制近似"
+                }
+              },
+              "required": [
+                "bank",
+                "programs",
+                "recorded"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "quality": {
+          "type": "object",
+          "description": "音色资源诚实分级，见 instrument_readiness.py。",
+          "additionalProperties": true
+        }
+      },
+      "required": [
+        "instrument_id",
+        "label",
+        "kind",
+        "availability",
+        "engine_resource_id",
+        "pitch_range",
+        "articulation_ids",
+        "unpitched_hits",
+        "sample_assets",
+        "provenance",
+        "limitations"
+      ]
+    }
+  }
+}

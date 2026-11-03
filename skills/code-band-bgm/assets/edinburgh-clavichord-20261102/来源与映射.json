@@ -1,0 +1,126 @@
+{
+  "来源": "https://doi.org/10.7488/ds/8090",
+  "作者": [
+    "Martin Parker",
+    "Jenny Nex"
+  ],
+  "出版机构": "University of Edinburgh",
+  "许可": "CC BY 4.0",
+  "原库md5": "ddc254efc50512d1a2fd7a60faa4871e",
+  "原库sha256": "5018294c5f308a6c7693f695d834fc5d3a9ceda31a29b6ad7c25361a3e153548",
+  "音频": "48kHz 24位立体声，降噪，无颤音",
+  "处理": "原音直接映射；转16位PCM构建SF2，保留原始约A=415Hz调律，不作440Hz修正；未复刻SFZ release层",
+  "音符": [
+    {
+      "file": "A3_057_A3_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg017.wav",
+      "key": 57,
+      "measured_midi": 56.025,
+      "offset_cents": -97.5,
+      "confidence": 0.757,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "6d624d85791d0d36a8e7987c8955bad0c6153a613a6c20d7e9235e7a488b3539"
+    },
+    {
+      "file": "A4_069_A4_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg027.wav",
+      "key": 69,
+      "measured_midi": 68.125,
+      "offset_cents": -87.5,
+      "confidence": 0.792,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "207e60138b66152921ff39b1b6cff2536b0229207224772f5d9a5b0f0297fb49"
+    },
+    {
+      "file": "A5_081_A5_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg039.wav",
+      "key": 81,
+      "measured_midi": 80.025,
+      "offset_cents": -97.5,
+      "confidence": 0.827,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "72a48a98004d5fd06a36daf478ab0c54a5afe0da989b1139c0efee5c36dcb10d"
+    },
+    {
+      "file": "C5_072_C5_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg030.wav",
+      "key": 72,
+      "measured_midi": 71.125,
+      "offset_cents": -87.5,
+      "confidence": 0.757,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "a92ee54fc8422e1c12c3f510a54b98223b38c5e5ae1ac6756f42285cb0f35153"
+    },
+    {
+      "file": "Cs6_085_C#6_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg043.wav",
+      "key": 85,
+      "measured_midi": 84.125,
+      "offset_cents": -87.5,
+      "confidence": 0.891,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "f5828d49d1fc1f6be5b0a9dcd7c3428ca94e5792c0db059826a70618dfc77ec9"
+    },
+    {
+      "file": "D6_086_D6_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg044.wav",
+      "key": 86,
+      "measured_midi": 85.125,
+      "offset_cents": -87.5,
+      "confidence": 0.891,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "f9b826c40b7a277530e4cd587c7479fb66d84bec26797b8b4b09256b0a7add93"
+    },
+    {
+      "file": "Ds5_075_D#5_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg033.wav",
+      "key": 75,
+      "measured_midi": 74.025,
+      "offset_cents": -97.5,
+      "confidence": 0.827,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "8086e94643df71940aba79e97138aa97fa17634aae58aedf882431d40a0b3366"
+    },
+    {
+      "file": "E5_076_E5_Mixed_Dull_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg034.wav",
+      "key": 76,
+      "measured_midi": 74.925,
+      "offset_cents": -107.5,
+      "confidence": 0.757,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "f23482a5a4bd31f40632417c08ac685767c4244cb493a3fa869e551a07967ceb"
+    },
+    {
+      "file": "F5_077_F5_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg035.wav",
+      "key": 77,
+      "measured_midi": 76.125,
+      "offset_cents": -87.5,
+      "confidence": 0.891,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "a5b4bc1d89734e15a557c2ff0219f6ec8ea358b8e1e819248f5ec6fe6326f7d0"
+    },
+    {
+      "file": "G4_067_G4_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg025.wav",
+      "key": 67,
+      "measured_midi": 66.025,
+      "offset_cents": -97.5,
+      "confidence": 0.757,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "e4510947babc40ed19732be4a1075fbd2b9d214680de3b3c34c2102425a70b1d"
+    },
+    {
+      "file": "G5_079_G5_Unfretted-Clavichord_1740s_noVibrato_noiseReduced_seg037.wav",
+      "key": 79,
+      "measured_midi": 78.125,
+      "offset_cents": -87.5,
+      "confidence": 0.891,
+      "frames": 48000,
+      "source_rate": 48000,
+      "source_sha256": "7989911c94b6df7957899c9ca613707311c4d597066972f4256456a163de45d9"
+    }
+  ],
+  "sf2_sha256": "50fde354a227abc78ee0948abd1c1ba5f81fb724e76b2303bedbebae21a3360a"
+}

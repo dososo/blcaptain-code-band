@@ -1,0 +1,364 @@
+{
+  "source_file": "chinese-expansion-20261031/Pufermufin-Guzheng/公开HQ.mp3",
+  "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+  "sample_rate_hz": 44100,
+  "max_transpose_semitones": 3,
+  "high_pass_hz": 70,
+  "takes": [
+    {
+      "root_midi": 45,
+      "layer": "main",
+      "source_onset_seconds": 104.02,
+      "source_start_frame": 4587314,
+      "source_stop_frame": 4717598,
+      "frames": 130284,
+      "seconds": 2.954,
+      "measured_cents_from_root": 1.7,
+      "measured_harmonic": 2,
+      "applied_gain": 0.426,
+      "peak_after_gain": 0.3953,
+      "pcm_sha256": "7cc2aa340bf3bde6577fd95d54d4174290b4f32c3d226f0e8a4454cced4348ec",
+      "sample_name": "gz45m"
+    },
+    {
+      "root_midi": 48,
+      "layer": "main",
+      "source_onset_seconds": 96.235,
+      "source_start_frame": 4244597,
+      "source_stop_frame": 4345394,
+      "frames": 100797,
+      "seconds": 2.286,
+      "measured_cents_from_root": 3.7,
+      "measured_harmonic": 2,
+      "applied_gain": 0.4669,
+      "peak_after_gain": 0.4752,
+      "pcm_sha256": "a0bc24d9865404c4f12326464e96bd1d56deafc5181c1985a3e8d9fba780f003",
+      "sample_name": "gz48m"
+    },
+    {
+      "root_midi": 50,
+      "layer": "main",
+      "source_onset_seconds": 502.259,
+      "source_start_frame": 22149863,
+      "source_stop_frame": 22189356,
+      "frames": 39493,
+      "seconds": 0.896,
+      "measured_cents_from_root": 4.8,
+      "measured_harmonic": 2,
+      "applied_gain": 0.3906,
+      "peak_after_gain": 0.3895,
+      "pcm_sha256": "65e9066b5b7c88000177a9a2448effdfb84c6b8fbf0a43474492123781c964c2",
+      "sample_name": "gz50m"
+    },
+    {
+      "root_midi": 53,
+      "layer": "main",
+      "source_onset_seconds": 80.881,
+      "source_start_frame": 3567663,
+      "source_stop_frame": 3689759,
+      "frames": 122096,
+      "seconds": 2.769,
+      "measured_cents_from_root": 13.4,
+      "measured_harmonic": 1,
+      "applied_gain": 0.6632,
+      "peak_after_gain": 0.661,
+      "pcm_sha256": "0641bc4039a01a4043171213e08bb83079364ea43fb078d62658d74c5f697cff",
+      "sample_name": "gz53m"
+    },
+    {
+      "root_midi": 55,
+      "layer": "main",
+      "source_onset_seconds": 77.955,
+      "source_start_frame": 3438053,
+      "source_stop_frame": 3566632,
+      "frames": 128579,
+      "seconds": 2.916,
+      "measured_cents_from_root": 5.8,
+      "measured_harmonic": 1,
+      "applied_gain": 0.617,
+      "peak_after_gain": 0.6308,
+      "pcm_sha256": "e5dd0329b0ff4c68606f56edc39ef2eaa87564d0129c5fc319385bb579036be6",
+      "sample_name": "gz55m"
+    },
+    {
+      "root_midi": 55,
+      "layer": "soft",
+      "source_onset_seconds": 74.513,
+      "source_start_frame": 3285860,
+      "source_stop_frame": 3385910,
+      "frames": 100050,
+      "seconds": 2.269,
+      "measured_cents_from_root": 6.6,
+      "measured_harmonic": 1,
+      "applied_gain": 0.4393,
+      "peak_after_gain": 0.3856,
+      "pcm_sha256": "e74f278bbe22fc7443273e262fcd422b48bbd0e5bdb99d88a24fb4379bc184bf",
+      "sample_name": "gz55s"
+    },
+    {
+      "root_midi": 57,
+      "layer": "main",
+      "source_onset_seconds": 53.847,
+      "source_start_frame": 2374731,
+      "source_stop_frame": 2610985,
+      "frames": 236254,
+      "seconds": 5.357,
+      "measured_cents_from_root": 6.9,
+      "measured_harmonic": 1,
+      "applied_gain": 0.4688,
+      "peak_after_gain": 0.4692,
+      "pcm_sha256": "21e7a541fce80434553825c040c050b404f57a52e94d4dc197b278477cc3e031",
+      "sample_name": "gz57m"
+    },
+    {
+      "root_midi": 57,
+      "layer": "soft",
+      "source_onset_seconds": 59.211,
+      "source_start_frame": 2611457,
+      "source_stop_frame": 2827825,
+      "frames": 216368,
+      "seconds": 4.906,
+      "measured_cents_from_root": 8.9,
+      "measured_harmonic": 1,
+      "applied_gain": 0.3146,
+      "peak_after_gain": 0.2905,
+      "pcm_sha256": "314bf50b3e607397242f001463e01a67a3932fa3c5bdb53c2c8b5808d1784334",
+      "sample_name": "gz57s"
+    },
+    {
+      "root_midi": 60,
+      "layer": "main",
+      "source_onset_seconds": 50.991,
+      "source_start_frame": 2248538,
+      "source_stop_frame": 2374433,
+      "frames": 125895,
+      "seconds": 2.855,
+      "measured_cents_from_root": 5.9,
+      "measured_harmonic": 1,
+      "applied_gain": 0.6108,
+      "peak_after_gain": 0.629,
+      "pcm_sha256": "5011aff88ebaf06ccb31997883abf4a528af45b142189a293c6ff46ef9e0b449",
+      "sample_name": "gz60m"
+    },
+    {
+      "root_midi": 60,
+      "layer": "soft",
+      "source_onset_seconds": 43.979,
+      "source_start_frame": 1940223,
+      "source_stop_frame": 2053958,
+      "frames": 113735,
+      "seconds": 2.579,
+      "measured_cents_from_root": 7.6,
+      "measured_harmonic": 1,
+      "applied_gain": 0.5335,
+      "peak_after_gain": 0.4688,
+      "pcm_sha256": "19fda5e35a245d2031f30efc9a3b30145cebdff3091336289240b144778f6d43",
+      "sample_name": "gz60s"
+    },
+    {
+      "root_midi": 62,
+      "layer": "main",
+      "source_onset_seconds": 38.197,
+      "source_start_frame": 1684886,
+      "source_stop_frame": 1811496,
+      "frames": 126610,
+      "seconds": 2.871,
+      "measured_cents_from_root": -7.1,
+      "measured_harmonic": 2,
+      "applied_gain": 1.1053,
+      "peak_after_gain": 0.8677,
+      "pcm_sha256": "cdcc30e9a5d17e676a850c84d3f71118deedaa29ca058a4bf8cb940c9db3d421",
+      "sample_name": "gz62m"
+    },
+    {
+      "root_midi": 65,
+      "layer": "main",
+      "source_onset_seconds": 29.977,
+      "source_start_frame": 1322010,
+      "source_stop_frame": 1448244,
+      "frames": 126234,
+      "seconds": 2.862,
+      "measured_cents_from_root": -10.4,
+      "measured_harmonic": 1,
+      "applied_gain": 0.7272,
+      "peak_after_gain": 0.6465,
+      "pcm_sha256": "35028d5851b4edb22504052e0471ed625c70b9d769ca6619c424a4ec349bf09c",
+      "sample_name": "gz65m"
+    },
+    {
+      "root_midi": 65,
+      "layer": "soft",
+      "source_onset_seconds": 512.702,
+      "source_start_frame": 22609479,
+      "source_stop_frame": 22786250,
+      "frames": 176771,
+      "seconds": 4.008,
+      "measured_cents_from_root": -6.6,
+      "measured_harmonic": 2,
+      "applied_gain": 1.3089,
+      "peak_after_gain": 0.95,
+      "pcm_sha256": "312caaf4ddba36c96957f7e5863a2fdb8ac3fc1ae7fd10ea64d80cd5452ef9e4",
+      "sample_name": "gz65s"
+    },
+    {
+      "root_midi": 67,
+      "layer": "main",
+      "source_onset_seconds": 24.276,
+      "source_start_frame": 1070771,
+      "source_stop_frame": 1180161,
+      "frames": 109390,
+      "seconds": 2.48,
+      "measured_cents_from_root": -4.2,
+      "measured_harmonic": 1,
+      "applied_gain": 0.8064,
+      "peak_after_gain": 0.7464,
+      "pcm_sha256": "0ac68b360cba83dfa326114a412f9813405c61277dd8d3ed78a3292c396e8896",
+      "sample_name": "gz67m"
+    },
+    {
+      "root_midi": 67,
+      "layer": "alt",
+      "source_onset_seconds": 268.376,
+      "source_start_frame": 11834555,
+      "source_stop_frame": 11905810,
+      "frames": 71255,
+      "seconds": 1.616,
+      "measured_cents_from_root": -6.1,
+      "measured_harmonic": 1,
+      "applied_gain": 1.1435,
+      "peak_after_gain": 0.7261,
+      "pcm_sha256": "5b44635ec93fbe2c65f7282cb483172922fad8d542a614d1c3e574d3b7015e53",
+      "sample_name": "gz67a"
+    },
+    {
+      "root_midi": 72,
+      "layer": "main",
+      "source_onset_seconds": 17.247,
+      "source_start_frame": 760295,
+      "source_stop_frame": 840502,
+      "frames": 80207,
+      "seconds": 1.819,
+      "measured_cents_from_root": -3.3,
+      "measured_harmonic": 1,
+      "applied_gain": 0.6354,
+      "peak_after_gain": 0.6101,
+      "pcm_sha256": "a86b02d0bf5af9d3c35a2b1a1c5ef90e8c10b6badf8f324d76934d0411882555",
+      "sample_name": "gz72m"
+    },
+    {
+      "root_midi": 72,
+      "layer": "alt",
+      "source_onset_seconds": 548.821,
+      "source_start_frame": 24201994,
+      "source_stop_frame": 24399384,
+      "frames": 197390,
+      "seconds": 4.476,
+      "measured_cents_from_root": 5.9,
+      "measured_harmonic": 1,
+      "applied_gain": 0.5499,
+      "peak_after_gain": 0.4936,
+      "pcm_sha256": "9f0859d013828cc41ae453869785616dabccc56f329275db43a272c5daf938c5",
+      "sample_name": "gz72a"
+    },
+    {
+      "root_midi": 74,
+      "layer": "main",
+      "source_onset_seconds": 11.964,
+      "source_start_frame": 527820,
+      "source_stop_frame": 652063,
+      "frames": 124243,
+      "seconds": 2.817,
+      "measured_cents_from_root": 5.3,
+      "measured_harmonic": 1,
+      "applied_gain": 1.1487,
+      "peak_after_gain": 0.8558,
+      "pcm_sha256": "f68fc35910a94d9bf6dde6456d540d7bb6ca4c2e84c0c5112e32360fb5674787",
+      "sample_name": "gz74m"
+    },
+    {
+      "root_midi": 74,
+      "layer": "soft",
+      "source_onset_seconds": 543.028,
+      "source_start_frame": 23947411,
+      "source_stop_frame": 24018492,
+      "frames": 71081,
+      "seconds": 1.612,
+      "measured_cents_from_root": 0.1,
+      "measured_harmonic": 1,
+      "applied_gain": 1.2111,
+      "peak_after_gain": 0.4757,
+      "pcm_sha256": "6b52b9ec070ef517d8d05da58052e92b2c1ce093fb7cedcd61ce3ed9231d43cb",
+      "sample_name": "gz74s"
+    }
+  ],
+  "roots": [
+    45,
+    48,
+    50,
+    53,
+    55,
+    57,
+    60,
+    62,
+    65,
+    67,
+    72,
+    74
+  ],
+  "key_ranges": {
+    "45": [
+      42,
+      46
+    ],
+    "48": [
+      47,
+      49
+    ],
+    "50": [
+      50,
+      51
+    ],
+    "53": [
+      52,
+      54
+    ],
+    "55": [
+      55,
+      56
+    ],
+    "57": [
+      57,
+      58
+    ],
+    "60": [
+      59,
+      61
+    ],
+    "62": [
+      62,
+      63
+    ],
+    "65": [
+      64,
+      66
+    ],
+    "67": [
+      67,
+      69
+    ],
+    "72": [
+      70,
+      73
+    ],
+    "74": [
+      74,
+      77
+    ]
+  },
+  "excluded": {
+    "gz74a": "实际主峰 523 Hz（C5），比 D5 低 200 音分，是另一个音",
+    "gz79m": "A5 余振（约 896 Hz）比 G5 基频高约 8 dB",
+    "gz69m": "D5 余振（约 584 Hz）在 -14 至 -19 dB，且尾音不足 1 秒",
+    "gz62s": "F4 余振（约 351 Hz）在起音后 0.15 秒内高于 -15 dB"
+  }
+}

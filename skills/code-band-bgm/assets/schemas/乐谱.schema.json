@@ -1,0 +1,1240 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:code-orchestra-bgm:score:1.0.0",
+  "title": "代码乐团 BGM 中间乐谱",
+  "description": "宿主无关的音乐意图与离散乐谱契约。它不是已解析演奏事件，也不能单凭结构校验宣称可以渲染。结构示例、未解析资源、缺失能力必须阻止正式渲染。",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "score_id": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+    },
+    "document_state": {
+      "enum": [
+        "structure_example",
+        "draft",
+        "composition_candidate",
+        "approved"
+      ],
+      "description": "approved 仅表示用户或项目指定审核者认可该编排；不能代替资源解析、能力校验或音频验收。"
+    },
+    "intent": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "brief": {
+          "type": "string",
+          "minLength": 1
+        },
+        "use_case": {
+          "type": "string",
+          "minLength": 1
+        },
+        "mood_tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "uniqueItems": true
+        },
+        "notes": {
+          "type": "string"
+        },
+        "reference_policy": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "mode": {
+              "enum": [
+                "none",
+                "abstract_features_only"
+              ]
+            },
+            "source_ids": {
+              "type": "array",
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+              },
+              "uniqueItems": true
+            },
+            "reuse_reference_audio": {
+              "const": false
+            },
+            "reuse_transcribed_melody": {
+              "const": false
+            }
+          },
+          "required": [
+            "mode",
+            "source_ids",
+            "reuse_reference_audio",
+            "reuse_transcribed_melody"
+          ]
+        }
+      },
+      "required": [
+        "title",
+        "brief",
+        "use_case",
+        "mood_tags",
+        "notes",
+        "reference_policy"
+      ]
+    },
+    "timeline": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ppq": {
+          "type": "integer",
+          "minimum": 24,
+          "maximum": 15360,
+          "description": "每个四分音符的 tick 数。拍号的分母不改变 BPM 的四分音符单位。"
+        },
+        "tempo_map": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/tempo"
+          }
+        },
+        "meter_map": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/meter"
+          }
+        },
+        "music_end_tick": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991,
+          "description": "编排主体结束点。所有音符的逻辑门控结束不晚于此点；释放和混响可进入独立尾音区。"
+        }
+      },
+      "required": [
+        "ppq",
+        "tempo_map",
+        "meter_map",
+        "music_end_tick"
+      ]
+    },
+    "randomness": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "master_seed": {
+          "type": "string",
+          "pattern": "^(0|[1-9][0-9]{0,19})$",
+          "description": "无前导零的十进制无符号 64 位整数文本；数值上限由语义校验执行。"
+        },
+        "algorithm": {
+          "const": "sha256_counter_v1"
+        },
+        "namespace_version": {
+          "const": "1"
+        },
+        "sample_selection": {
+          "enum": [
+            "seeded_choice",
+            "seeded_round_robin"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "master_seed",
+        "algorithm",
+        "namespace_version",
+        "sample_selection",
+        "notes"
+      ]
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/section"
+      }
+    },
+    "parts": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/part"
+      }
+    },
+    "mix": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "master_gain_db": {
+          "type": "number",
+          "minimum": -96,
+          "maximum": 0
+        },
+        "effects": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/effect"
+          }
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "master_gain_db",
+        "effects",
+        "notes"
+      ]
+    },
+    "render": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sample_rate_hz": {
+          "type": "integer",
+          "minimum": 8000,
+          "maximum": 384000
+        },
+        "sample_format": {
+          "enum": [
+            "pcm_s16",
+            "pcm_s24",
+            "pcm_f32"
+          ]
+        },
+        "channels": {
+          "enum": [
+            1,
+            2
+          ]
+        },
+        "duration_mode": {
+          "enum": [
+            "exact_file",
+            "musical_length"
+          ],
+          "description": "用户给定秒数时必须使用 exact_file；用户时长指最终 WAV 总长，包含追加尾音。"
+        },
+        "target_file_frames": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991,
+          "description": "exact_file 模式下最终 WAV 必须具有的总采样帧数，一帧包含所有声道同一时刻的数据。"
+        },
+        "tail_policy": {
+          "enum": [
+            "none",
+            "append",
+            "wrap_into_loop"
+          ]
+        },
+        "tail_frames": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "append 时增加文件长度；wrap_into_loop 时只规定捕获并折回循环起点的释放区长度，不延长循环文件。"
+        },
+        "end_fade_frames": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "非循环末端淡出占用已有文件帧数，不额外延长。循环时必须为 0；循环边界处理另见 loop。"
+        },
+        "loop": {
+          "$ref": "#/$defs/loop"
+        }
+      },
+      "required": [
+        "sample_rate_hz",
+        "sample_format",
+        "channels",
+        "duration_mode",
+        "tail_policy",
+        "tail_frames",
+        "end_fade_frames",
+        "loop"
+      ]
+    }
+  },
+  "required": [
+    "schema_version",
+    "score_id",
+    "document_state",
+    "intent",
+    "timeline",
+    "randomness",
+    "sections",
+    "parts",
+    "mix",
+    "render"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "render": {
+            "properties": {
+              "duration_mode": {
+                "const": "exact_file"
+              }
+            },
+            "required": [
+              "duration_mode"
+            ]
+          }
+        },
+        "required": [
+          "render"
+        ]
+      },
+      "then": {
+        "properties": {
+          "render": {
+            "required": [
+              "target_file_frames"
+            ]
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "render": {
+            "not": {
+              "required": [
+                "target_file_frames"
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_policy": {
+                "const": "none"
+              }
+            },
+            "required": [
+              "tail_policy"
+            ]
+          }
+        },
+        "required": [
+          "render"
+        ]
+      },
+      "then": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_frames": {
+                "const": 0
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_policy": {
+                "enum": [
+                  "append",
+                  "wrap_into_loop"
+                ]
+              }
+            },
+            "required": [
+              "tail_policy"
+            ]
+          }
+        },
+        "required": [
+          "render"
+        ]
+      },
+      "then": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_frames": {
+                "minimum": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "render": {
+            "properties": {
+              "loop": {
+                "properties": {
+                  "enabled": {
+                    "const": true
+                  }
+                },
+                "required": [
+                  "enabled"
+                ]
+              }
+            },
+            "required": [
+              "loop"
+            ]
+          }
+        },
+        "required": [
+          "render"
+        ]
+      },
+      "then": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_policy": {
+                "enum": [
+                  "none",
+                  "wrap_into_loop"
+                ]
+              },
+              "end_fade_frames": {
+                "const": 0
+              }
+            }
+          }
+        }
+      },
+      "else": {
+        "properties": {
+          "render": {
+            "properties": {
+              "tail_policy": {
+                "enum": [
+                  "none",
+                  "append"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "tempo": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "start_tick": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "相对于作品起点的整数 tick；四分音符包含 timeline.ppq 个 tick。"
+        },
+        "bpm": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "numerator": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10000000
+            },
+            "denominator": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 1000000
+            }
+          },
+          "required": [
+            "numerator",
+            "denominator"
+          ]
+        }
+      },
+      "required": [
+        "start_tick",
+        "bpm"
+      ]
+    },
+    "meter": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "start_tick": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "相对于作品起点的整数 tick；四分音符包含 timeline.ppq 个 tick。"
+        },
+        "numerator": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 32
+        },
+        "denominator": {
+          "enum": [
+            1,
+            2,
+            4,
+            8,
+            16,
+            32
+          ]
+        }
+      },
+      "required": [
+        "start_tick",
+        "numerator",
+        "denominator"
+      ]
+    },
+    "section": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "section_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start_tick": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "相对于作品起点的整数 tick；四分音符包含 timeline.ppq 个 tick。"
+        },
+        "end_tick": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991
+        },
+        "function": {
+          "enum": [
+            "intro",
+            "main",
+            "variation",
+            "bridge",
+            "peak",
+            "outro",
+            "loop"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "section_id",
+        "label",
+        "start_tick",
+        "end_tick",
+        "function",
+        "notes"
+      ]
+    },
+    "pitch": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "pitched"
+            },
+            "midi": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 127
+            },
+            "cents": {
+              "type": "number",
+              "minimum": -100,
+              "maximum": 100
+            }
+          },
+          "required": [
+            "kind",
+            "midi",
+            "cents"
+          ]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "kind": {
+              "const": "unpitched"
+            },
+            "hit_key": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$",
+              "description": "逻辑打击乐键，必须通过当前乐器资源的 unpitched_hits 映射；不默认采用通用 MIDI 鼓号。"
+            }
+          },
+          "required": [
+            "kind",
+            "hit_key"
+          ]
+        }
+      ]
+    },
+    "resourceBinding": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "state": {
+              "const": "pending"
+            },
+            "timbre_request": {
+              "type": "string",
+              "minLength": 1
+            },
+            "substitution_policy": {
+              "const": "report_only"
+            }
+          },
+          "required": [
+            "state",
+            "timbre_request",
+            "substitution_policy"
+          ]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "state": {
+              "const": "resolved"
+            },
+            "engine_id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "capability_id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+            },
+            "instrument_id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+            },
+            "mapping_version": {
+              "type": "string",
+              "minLength": 1
+            },
+            "substitution_policy": {
+              "const": "report_only"
+            }
+          },
+          "required": [
+            "state",
+            "engine_id",
+            "capability_id",
+            "instrument_id",
+            "mapping_version",
+            "substitution_policy"
+          ]
+        }
+      ]
+    },
+    "articulationBinding": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "state": {
+              "const": "pending"
+            },
+            "desired_behavior": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "state",
+            "desired_behavior"
+          ]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "state": {
+              "const": "resolved"
+            },
+            "engine_articulation_id": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "state",
+            "engine_articulation_id"
+          ]
+        }
+      ]
+    },
+    "humanize": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enabled": {
+              "const": false
+            },
+            "profile_id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$",
+              "description": "显式禁用微偏移的配置标识。"
+            }
+          },
+          "required": [
+            "enabled",
+            "profile_id"
+          ]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enabled": {
+              "const": true
+            },
+            "profile_id": {
+              "type": "string",
+              "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+            },
+            "rationale": {
+              "type": "string",
+              "minLength": 1,
+              "description": "说明该乐器与风格为什么采用此微偏移配置。"
+            },
+            "timing": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "max_offset_us": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 100000
+                },
+                "distribution": {
+                  "const": "symmetric_triangular_integer"
+                },
+                "chord_policy": {
+                  "enum": [
+                    "shared_offset",
+                    "preserve_explicit_offsets"
+                  ]
+                },
+                "preserve_voice_order": {
+                  "const": true
+                },
+                "lock_section_starts": {
+                  "const": true
+                }
+              },
+              "required": [
+                "max_offset_us",
+                "distribution",
+                "chord_policy",
+                "preserve_voice_order",
+                "lock_section_starts"
+              ]
+            },
+            "velocity": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "max_delta": {
+                  "type": "integer",
+                  "minimum": 0,
+                  "maximum": 24
+                },
+                "distribution": {
+                  "const": "symmetric_triangular_integer"
+                },
+                "respect_notated_accents": {
+                  "const": true
+                }
+              },
+              "required": [
+                "max_delta",
+                "distribution",
+                "respect_notated_accents"
+              ]
+            }
+          },
+          "required": [
+            "enabled",
+            "profile_id",
+            "rationale",
+            "timing",
+            "velocity"
+          ]
+        }
+      ]
+    },
+    "note": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "note_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "onset_tick": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 9007199254740991,
+          "description": "相对于作品起点的整数 tick；四分音符包含 timeline.ppq 个 tick。"
+        },
+        "duration_ticks": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 9007199254740991,
+          "description": "逻辑音符门控时长，不等于采样文件长度或混响尾音。"
+        },
+        "pitch": {
+          "$ref": "#/$defs/pitch"
+        },
+        "velocity": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 127,
+          "description": "乐谱力度。0 不用作音符事件；音符停止由 duration_ticks 表达。"
+        },
+        "articulation": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "timing_locked": {
+          "type": "boolean",
+          "description": "为 true 时此音符或其同组和弦不施加随机起音偏移。"
+        },
+        "humanize_group_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "accent": {
+          "enum": [
+            "none",
+            "weak",
+            "strong"
+          ]
+        },
+        "gain_db": {
+          "type": "number",
+          "minimum": -96,
+          "maximum": 24
+        },
+        "pan": {
+          "type": "number",
+          "minimum": -1,
+          "maximum": 1
+        },
+        "performance": {
+          "type": "object",
+          "additionalProperties": false,
+          "description": "逐音演奏控制；曲线时间相对本音起音。作用于已录制采样，不等于录制过的连音过渡。语义校验见 note_expression.py。",
+          "properties": {
+            "technique": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 64
+            },
+            "pitch_curve": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 64,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "at_tick": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "cents": {
+                    "type": "number",
+                    "minimum": -1200,
+                    "maximum": 1200
+                  }
+                },
+                "required": [
+                  "at_tick",
+                  "cents"
+                ]
+              }
+            },
+            "expression_curve": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 64,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "at_tick": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "value": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 127
+                  }
+                },
+                "required": [
+                  "at_tick",
+                  "value"
+                ]
+              }
+            },
+            "vibrato": {
+              "type": "object",
+              "additionalProperties": false,
+              "properties": {
+                "start_tick": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "fade_ticks": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "rate_hz": {
+                  "type": "number",
+                  "minimum": 0.5,
+                  "maximum": 12
+                },
+                "depth_cents": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 300
+                },
+                "end_depth_cents": {
+                  "type": "number",
+                  "minimum": 0,
+                  "maximum": 300
+                }
+              },
+              "required": [
+                "start_tick",
+                "fade_ticks",
+                "rate_hz",
+                "depth_cents"
+              ]
+            },
+            "sample_start_ms": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 1000
+            }
+          }
+        }
+      },
+      "required": [
+        "note_id",
+        "onset_tick",
+        "duration_ticks",
+        "pitch",
+        "velocity",
+        "articulation",
+        "timing_locked",
+        "accent"
+      ]
+    },
+    "part": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "part_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "instrument_role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "musical_function": {
+          "enum": [
+            "melody",
+            "harmony",
+            "bass",
+            "rhythm",
+            "texture",
+            "countermelody"
+          ]
+        },
+        "resource_binding": {
+          "$ref": "#/$defs/resourceBinding"
+        },
+        "articulation_map": {
+          "type": "object",
+          "minProperties": 1,
+          "patternProperties": {
+            "^[a-z][a-z0-9_-]{0,63}$": {
+              "$ref": "#/$defs/articulationBinding"
+            }
+          },
+          "additionalProperties": false
+        },
+        "gain_db": {
+          "type": "number",
+          "minimum": -96,
+          "maximum": 24
+        },
+        "pan": {
+          "type": "number",
+          "minimum": -1,
+          "maximum": 1
+        },
+        "humanize": {
+          "$ref": "#/$defs/humanize"
+        },
+        "notes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/note"
+          }
+        },
+        "sound_shaping": {
+          "type": "object",
+          "additionalProperties": false,
+          "minProperties": 1,
+          "properties": {
+            "amp_attack_offset_timecents": {
+              "type": "number",
+              "minimum": -3600,
+              "maximum": 0
+            },
+            "amp_release_offset_timecents": {
+              "type": "number",
+              "minimum": -2400,
+              "maximum": 0
+            },
+            "filter_cutoff_offset_cents": {
+              "type": "number",
+              "minimum": -1200,
+              "maximum": 0
+            }
+          }
+        }
+      },
+      "required": [
+        "part_id",
+        "label",
+        "instrument_role",
+        "musical_function",
+        "resource_binding",
+        "articulation_map",
+        "gain_db",
+        "pan",
+        "humanize",
+        "notes"
+      ]
+    },
+    "effect": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "effect_id": {
+          "type": "string",
+          "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+        },
+        "kind": {
+          "enum": [
+            "reverb",
+            "chorus",
+            "delay",
+            "duck",
+            "eq",
+            "compressor",
+            "limiter"
+          ]
+        },
+        "target_part_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+          },
+          "uniqueItems": true
+        },
+        "parameters": {
+          "type": "object",
+          "properties": {
+            "trigger_part_ids": {
+              "type": "array",
+              "minItems": 1,
+              "maxItems": 8,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "pattern": "^[a-z][a-z0-9_-]{0,63}$"
+              }
+            }
+          },
+          "additionalProperties": {
+            "type": [
+              "number",
+              "integer",
+              "string",
+              "boolean"
+            ]
+          }
+        },
+        "required": {
+          "const": true
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "effect_id",
+        "kind",
+        "target_part_ids",
+        "parameters",
+        "required",
+        "notes"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "kind": {
+                "const": "eq"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "target_part_ids": {
+                "minItems": 1
+              },
+              "parameters": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "frequency_hz": {
+                    "type": "number",
+                    "minimum": 50,
+                    "maximum": 18000
+                  },
+                  "q": {
+                    "type": "number",
+                    "minimum": 0.2,
+                    "maximum": 8
+                  },
+                  "gain_db": {
+                    "type": "number",
+                    "minimum": -12,
+                    "maximum": 0
+                  }
+                },
+                "required": [
+                  "frequency_hz",
+                  "q",
+                  "gain_db"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    "loop": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enabled": {
+              "const": false
+            }
+          },
+          "required": [
+            "enabled"
+          ]
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "enabled": {
+              "const": true
+            },
+            "start_tick": {
+              "const": 0
+            },
+            "end_tick": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 9007199254740991
+            },
+            "boundary_method": {
+              "enum": [
+                "validated_no_tail",
+                "tail_wrap_crossfade"
+              ]
+            },
+            "crossfade_frames": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 9007199254740991
+            },
+            "notes": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "enabled",
+            "start_tick",
+            "end_tick",
+            "boundary_method",
+            "crossfade_frames",
+            "notes"
+          ]
+        }
+      ]
+    }
+  }
+}

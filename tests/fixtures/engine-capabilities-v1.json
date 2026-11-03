@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0.0",
+  "capability_id": "fluidsynth_local_v1",
+  "probe_state": "partially_probed",
+  "observed_at": "2026-10-30T11:10:07.775941+00:00",
+  "engine": {
+    "engine_id": "fluidsynth",
+    "display_name": "本地FluidSynth采样乐团（新实现）",
+    "version": "2.6.1",
+    "adapter_id": "fluid_memory",
+    "adapter_version": "1.0.0",
+    "platform_notes": "当前只实测macOS；不使用音频设备、不加载模型或云服务。"
+  },
+  "format_limits": {
+    "sample_rates_hz": [
+      48000
+    ],
+    "sample_formats": [
+      "pcm_s24"
+    ],
+    "channel_counts": [
+      2
+    ],
+    "max_render_frames": 14400000,
+    "notes": "首版固定默认规格，最长5分钟；64帧事件网格，最多16声部。"
+  },
+  "resources": [
+    {
+      "instrument_id": "piano",
+      "label": "原声钢琴",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:0:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 12,
+        "max_midi": 108
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "electric_piano",
+      "label": "电钢琴",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:4:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 108
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "vibraphone",
+      "label": "颤音琴",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:11:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 108
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "nylon_guitar",
+      "label": "尼龙吉他",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:24:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "acoustic_bass",
+      "label": "原声贝斯",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:32:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "synth_bass",
+      "label": "合成贝斯",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:38:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "strings",
+      "label": "弦乐合奏",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:48:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "flute",
+      "label": "长笛",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:73:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "synth_lead",
+      "label": "方波主奏",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:80:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "warm_pad",
+      "label": "温暖铺底",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:0:89:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 0,
+        "max_midi": 127
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {},
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    },
+    {
+      "instrument_id": "drums",
+      "label": "标准鼓组",
+      "kind": "sampler",
+      "availability": "available",
+      "engine_resource_id": "sf:128:0:5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+      "pitch_range": {
+        "min_midi": 27,
+        "max_midi": 87
+      },
+      "articulation_ids": [
+        "normal"
+      ],
+      "unpitched_hits": {
+        "kick": "36",
+        "snare": "38",
+        "rim": "37",
+        "closed_hat": "42",
+        "open_hat": "46",
+        "ride": "51",
+        "crash": "49",
+        "low_tom": "45",
+        "high_tom": "50",
+        "shaker": "70"
+      },
+      "sample_assets": [],
+      "provenance": {
+        "status": "documented",
+        "source": "MuseScore_General 0.2 官方托管音色库",
+        "license_id": "MIT",
+        "license_reference": "assets/soundfonts/MuseScore_General_License.md",
+        "distribution_notes": "保留上游版权及许可；逐预设来源见同目录CSV，不宣称独占或零权利风险。"
+      },
+      "limitations": [
+        "SF3整体摘要绑定预设；已解析实际键域/力度层；采样解码帧未知，外部轮换控制未开放。",
+        "逐音符需匹配实际音高和最终力度区域，重叠区域作为分层共同交给FluidSynth演奏。"
+      ]
+    }
+  ],
+  "resource_manifest_sha256": "50ff0afda5ce88791a5c6029339062bb6933184811c051f899e0832eff09119e",
+  "evidence": [
+    {
+      "evidence_id": "runtime_probe",
+      "kind": "command_output",
+      "reference": "doctor JSON输出的probe_results及tests/真实渲染测试",
+      "description": "已加载音色库，枚举预设并实测每个列出音色的代表音；软件能力需结合测试日志，不以此代表音乐验收。"
+    }
+  ],
+  "unresolved": [
+    "SF3内部压缩样本解码帧和自主轮换不可查询；以整个库与预设版本锁定。",
+    "所有风格、逐音符声像、微分音、分轨和复杂奏法未验证。",
+    "真实宿主发现/触发及人工听感另行验收。"
+  ],
+  "adapter_config_reference": "assets/soundfonts/MuseScore_General.sf3",
+  "execution": {
+    "headless": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "offline_render": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "realtime_capture": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    }
+  },
+  "timing": {
+    "tempo_step_map": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "meter_changes": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "sample_frame_scheduling": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": [
+        "仅64帧网格，编译舍入误差不超过32帧"
+      ]
+    },
+    "note_gate_release": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "pitch_cents": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    }
+  },
+  "performance": {
+    "per_note_velocity": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "per_note_pan": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "articulations": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "explicit_sample_selection": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "seeded_sample_selection": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "engine_humanize_bypass": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    }
+  },
+  "mixing": {
+    "part_gain": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "part_pan": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "reverb": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "stem_export": {
+      "state": "unsupported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    }
+  },
+  "export": {
+    "wav": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "exact_frame_count": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "loop_tail_wrap": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    }
+  },
+  "reproducibility": {
+    "deterministic_event_resolution": {
+      "state": "supported",
+      "evidence_ids": [
+        "runtime_probe"
+      ],
+      "limitations": []
+    },
+    "bit_exact_audio": {
+      "state": "unknown",
+      "evidence_ids": [],
+      "limitations": []
+    }
+  }
+}

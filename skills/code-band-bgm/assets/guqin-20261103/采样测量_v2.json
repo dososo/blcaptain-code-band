@@ -1,0 +1,713 @@
+{
+  "schema_version": "1.0.0",
+  "source": "GuqinSonGest, Zenodo record 14962054",
+  "license": "CC-BY-4.0",
+  "techniques_measurement": "work/主流乐团完善_20261103/guqin/evidence/techniques_v2.json",
+  "sample_rate_hz": 48000,
+  "takes": [
+    {
+      "file": "1A_c-c_oo_Condenser_gou_c_take1.wav",
+      "source_sha256": "0e468dbe490425cdacf38b8a2e78613248216c6efd8515bf8e41eccfc2021fb0",
+      "onset_seconds": 0.6374,
+      "skipped_pre_roll_seconds": 0.205,
+      "seconds": 8.0,
+      "measured_cents_from_root": -30.3,
+      "correction_cents": 30,
+      "applied_gain": 14.6066,
+      "sample_name": "gq36a",
+      "root_midi": 36,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_c-c_oo_Condenser_gou_c_take2.wav",
+      "source_sha256": "d7bce1af7eb920fbdccb61410df32364ca079a7a8486384f7967cd30464d3e7b",
+      "onset_seconds": 0.9712,
+      "skipped_pre_roll_seconds": 0.595,
+      "seconds": 8.0,
+      "measured_cents_from_root": -30.3,
+      "correction_cents": 30,
+      "applied_gain": 13.918,
+      "sample_name": "gq36b",
+      "root_midi": 36,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_c-c_oo_Condenser_gou_c_take3.wav",
+      "source_sha256": "0578d7ec9cfcd30a380bd03c8319fd864c01079ca836c5bebb5ecc5f2fa855aa",
+      "onset_seconds": 1.0915,
+      "skipped_pre_roll_seconds": 0.132,
+      "seconds": 8.0,
+      "measured_cents_from_root": -30.3,
+      "correction_cents": 30,
+      "applied_gain": 16.146,
+      "sample_name": "gq36c",
+      "root_midi": 36,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-c_oo_Condenser_gou_f_take1.wav",
+      "source_sha256": "95c57a5567852af97bb7919627df27f37322d80a0aeae48403b0b18e27869868",
+      "onset_seconds": 0.3296,
+      "skipped_pre_roll_seconds": 0.243,
+      "seconds": 8.0,
+      "measured_cents_from_root": -41.6,
+      "correction_cents": 42,
+      "applied_gain": 17.2334,
+      "sample_name": "gq41a",
+      "root_midi": 41,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-c_oo_Condenser_gou_f_take2.wav",
+      "source_sha256": "3d8cc6641587c906a82c9ad9f956f429f9eb92e33c8038fa6239f689d94c2877",
+      "onset_seconds": 0.689,
+      "skipped_pre_roll_seconds": 0.603,
+      "seconds": 8.0,
+      "measured_cents_from_root": -41.6,
+      "correction_cents": 42,
+      "applied_gain": 17.9495,
+      "sample_name": "gq41b",
+      "root_midi": 41,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-c_oo_Condenser_gou_f_take3.wav",
+      "source_sha256": "bd53288e8097cfe4720d8b56bdf5cdc5d4b3f367e8466a4970337e858284777d",
+      "onset_seconds": 0.5668,
+      "skipped_pre_roll_seconds": 0.532,
+      "seconds": 8.0,
+      "measured_cents_from_root": -41.6,
+      "correction_cents": 42,
+      "applied_gain": 16.6606,
+      "sample_name": "gq41c",
+      "root_midi": 41,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_rh3_hui1_Condenser_gou_take1.wav",
+      "source_sha256": "7fce2f6d0e8b361fc7ff6baeed033f1d9889d86fa72b342249739981128e1dba",
+      "onset_seconds": 0.344,
+      "skipped_pre_roll_seconds": 0.34,
+      "seconds": 8.0,
+      "measured_cents_from_root": -33.3,
+      "correction_cents": 33,
+      "applied_gain": 16.4396,
+      "sample_name": "gq43a",
+      "root_midi": 43,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-a_ho_Condenser_tiao_a_take1.wav",
+      "source_sha256": "a01f06a1d5896960328073df812d0a294fe297f62dae5a4e994ee01ac872e5e5",
+      "onset_seconds": 0.7713,
+      "skipped_pre_roll_seconds": 0.001,
+      "seconds": 6.292,
+      "measured_cents_from_root": -40.1,
+      "correction_cents": 40,
+      "applied_gain": 13.1857,
+      "sample_name": "gq45a",
+      "root_midi": 45,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-a_ho_Condenser_tiao_a_take2.wav",
+      "source_sha256": "63d2874e84ae5da8a2a1cc6b7dd1ac9f57fc1616233647ef058d9eacabe15c21",
+      "onset_seconds": 0.9069,
+      "skipped_pre_roll_seconds": 0.001,
+      "seconds": 7.71,
+      "measured_cents_from_root": -38.6,
+      "correction_cents": 39,
+      "applied_gain": 13.7727,
+      "sample_name": "gq45b",
+      "root_midi": 45,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-a_ho_Condenser_tiao_a_take3.wav",
+      "source_sha256": "5f0c39d073df47d4c42af078c4bc49a8bfba3202e5dfa5924357c16f14dc9a55",
+      "onset_seconds": 1.4646,
+      "skipped_pre_roll_seconds": 0.032,
+      "seconds": 6.687,
+      "measured_cents_from_root": -40.1,
+      "correction_cents": 40,
+      "applied_gain": 12.3921,
+      "sample_name": "gq45c",
+      "root_midi": 45,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_c-c_ho_Condenser_o_take3.wav",
+      "source_sha256": "16c6c9ad6682b36f76fda893d2469f27bd076e507abe168966050c9684127d98",
+      "onset_seconds": 0.853,
+      "skipped_pre_roll_seconds": 0.194,
+      "seconds": 8.0,
+      "measured_cents_from_root": -40.2,
+      "correction_cents": 40,
+      "applied_gain": 8.4126,
+      "sample_name": "gq48a",
+      "root_midi": 48,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_gou_a_regular_Condenser_take1.wav",
+      "source_sha256": "67856d1ebdea1fcdbaadeee22c4aee22e51ad582a6b91f5fb7a556f6b2c46a60",
+      "onset_seconds": 0.2395,
+      "skipped_pre_roll_seconds": 0.128,
+      "seconds": 7.289,
+      "measured_cents_from_root": -23.7,
+      "correction_cents": 24,
+      "applied_gain": 16.2503,
+      "sample_name": "gq50a",
+      "root_midi": 50,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_gou_a_regular_Condenser_take2.wav",
+      "source_sha256": "312f12ee42be88c5c8bfeebc5320ee54dd143d79cdee1c63690a3c493edc7b5b",
+      "onset_seconds": 0.8599,
+      "skipped_pre_roll_seconds": 0.49,
+      "seconds": 6.267,
+      "measured_cents_from_root": -23.7,
+      "correction_cents": 24,
+      "applied_gain": 11.5848,
+      "sample_name": "gq50b",
+      "root_midi": 50,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_gou_a_regular_Condenser_take3.wav",
+      "source_sha256": "a1b35c0b829fe3daaa9c31a7d133c02a3b4585babd36ca09b70265c5e472fe02",
+      "onset_seconds": 0.4548,
+      "skipped_pre_roll_seconds": 0.173,
+      "seconds": 6.324,
+      "measured_cents_from_root": -21.0,
+      "correction_cents": 21,
+      "applied_gain": 12.4106,
+      "sample_name": "gq50c",
+      "root_midi": 50,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-c_pp_Condenser_gou_f_take1.wav",
+      "source_sha256": "b3dbcba4592d56a3899275eead99a94658566dde32e206ed42309a99aad3dbef",
+      "onset_seconds": 0.5917,
+      "skipped_pre_roll_seconds": 0.028,
+      "seconds": 5.762,
+      "measured_cents_from_root": -42.5,
+      "correction_cents": 43,
+      "applied_gain": 11.8551,
+      "sample_name": "gq53a",
+      "root_midi": 53,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-c_pp_Condenser_gou_f_take2.wav",
+      "source_sha256": "706524c326a936547d3b2df9f5d6f7b273d0300353d84cf4f2793bccbd9187ae",
+      "onset_seconds": 0.9075,
+      "skipped_pre_roll_seconds": 0.018,
+      "seconds": 6.135,
+      "measured_cents_from_root": -40.2,
+      "correction_cents": 40,
+      "applied_gain": 9.3046,
+      "sample_name": "gq53b",
+      "root_midi": 53,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-a_hp_Condenser_tiao_a_take1.wav",
+      "source_sha256": "b712a179816d1aea20769264a027e6d74a0dbc4943b08c445fb5e4ae65be2c6d",
+      "onset_seconds": 0.869,
+      "skipped_pre_roll_seconds": 0.003,
+      "seconds": 5.942,
+      "measured_cents_from_root": -28.3,
+      "correction_cents": 28,
+      "applied_gain": 20.6903,
+      "sample_name": "gq57a",
+      "root_midi": 57,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_f-a_hp_Condenser_tiao_a_take2.wav",
+      "source_sha256": "ae9fd0c287431f85b7d6d72c6d3b29a8a5778db1625cfc6fda76ef346cf11ea6",
+      "onset_seconds": 0.3356,
+      "skipped_pre_roll_seconds": 0.017,
+      "seconds": 5.227,
+      "measured_cents_from_root": -29.1,
+      "correction_cents": 29,
+      "applied_gain": 22.7807,
+      "sample_name": "gq57b",
+      "root_midi": 57,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_b-f_str46_Condenser_tiao_b_take1.wav",
+      "source_sha256": "97be004af00ba64f1ff5b21c50966216d0e3ed751220df3b221d7a3367c67e84",
+      "onset_seconds": 0.6856,
+      "skipped_pre_roll_seconds": 0.042,
+      "seconds": 5.906,
+      "measured_cents_from_root": -34.9,
+      "correction_cents": 35,
+      "applied_gain": 7.7801,
+      "sample_name": "gq59a",
+      "root_midi": 59,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_b-f_str46_Condenser_tiao_b_take2.wav",
+      "source_sha256": "f24d3a0a28b309f13a234d1a804d0e4467c56bfad7c50733ba32a8b84b1b46c9",
+      "onset_seconds": 0.7383,
+      "skipped_pre_roll_seconds": 0.052,
+      "seconds": 5.98,
+      "measured_cents_from_root": -34.9,
+      "correction_cents": 35,
+      "applied_gain": 7.7251,
+      "sample_name": "gq59b",
+      "root_midi": 59,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_b-f_str46_Condenser_tiao_f_take1.wav",
+      "source_sha256": "fe36a86143bd067f72cc245c693a7ec523f97aeb64e1f4bd5fb1080dc0fbd92c",
+      "onset_seconds": 1.2257,
+      "skipped_pre_roll_seconds": 0.06,
+      "seconds": 6.382,
+      "measured_cents_from_root": -29.5,
+      "correction_cents": 30,
+      "applied_gain": 14.8231,
+      "sample_name": "gq65a",
+      "root_midi": 65,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_b-f_str46_Condenser_tiao_f_take2.wav",
+      "source_sha256": "beb41becfa702820910b713b509f83854a07ccffbbb85a71630c546f0901e2ff",
+      "onset_seconds": 0.6993,
+      "skipped_pre_roll_seconds": 0.033,
+      "seconds": 5.892,
+      "measured_cents_from_root": -34.1,
+      "correction_cents": 34,
+      "applied_gain": 9.8549,
+      "sample_name": "gq65b",
+      "root_midi": 65,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_tiao_a_regular_Condenser_jia_take1.wav",
+      "source_sha256": "45d5eec9d2c3dc7fb3adc783201e3c1494baf1fa6d31a103d5ac000958e1bbba",
+      "onset_seconds": 0.808,
+      "skipped_pre_roll_seconds": 0.024,
+      "seconds": 6.058,
+      "measured_cents_from_root": -9.3,
+      "correction_cents": 9,
+      "applied_gain": 20.056,
+      "sample_name": "gq74a",
+      "root_midi": 74,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_tiao_a_regular_Condenser_jia_take2.wav",
+      "source_sha256": "5de046403e15174f388325aea892dab73b43b17a4e6288b93f1dac226f519dd7",
+      "onset_seconds": 1.0402,
+      "skipped_pre_roll_seconds": 0.003,
+      "seconds": 5.208,
+      "measured_cents_from_root": -10.3,
+      "correction_cents": 10,
+      "applied_gain": 19.8817,
+      "sample_name": "gq74b",
+      "root_midi": 74,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_tiao_a_regular_Condenser_jia_take3.wav",
+      "source_sha256": "cc277ce2de77a2f31f2ca80f98f523d02aea3c0f5bb71597681de04a20c05e06",
+      "onset_seconds": 1.0942,
+      "skipped_pre_roll_seconds": 0.035,
+      "seconds": 6.954,
+      "measured_cents_from_root": -7.9,
+      "correction_cents": 8,
+      "applied_gain": 19.5926,
+      "sample_name": "gq74c",
+      "root_midi": 74,
+      "articulation": "normal"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui7_Condenser_gou_take1.wav",
+      "source_sha256": "16fe07e96a2fec7ec02e2fa32080df106cdedef901e948c1604d61f5ca9476b2",
+      "onset_seconds": 0.8861,
+      "skipped_pre_roll_seconds": 0.674,
+      "seconds": 8.0,
+      "measured_cents_from_root": -31.0,
+      "correction_cents": 31,
+      "applied_gain": 22.0976,
+      "sample_name": "gqh48",
+      "root_midi": 48,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui9_Condenser_lh4_take1.wav",
+      "source_sha256": "87420b85406e797746a8efe66d1b2d86019e05c433712e2ff82b1f7ea498caad",
+      "onset_seconds": 1.5862,
+      "skipped_pre_roll_seconds": 1.517,
+      "seconds": 8.0,
+      "measured_cents_from_root": -23.5,
+      "correction_cents": 23,
+      "applied_gain": 16.5911,
+      "sample_name": "gqh55",
+      "root_midi": 55,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui10_Condenser_take1.wav",
+      "source_sha256": "428f28d582bec73dc08e74323c59bf9c09c2db3c1e29796884c8c646a1e3a733",
+      "onset_seconds": 0.5275,
+      "skipped_pre_roll_seconds": 0.511,
+      "seconds": 8.0,
+      "measured_cents_from_root": -27.3,
+      "correction_cents": 27,
+      "applied_gain": 5.9562,
+      "sample_name": "gqh60",
+      "root_midi": 60,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str4_hui9_Condenser_take1.wav",
+      "source_sha256": "c598b8482a8436f836181eb1384d27f2ee9622d222e908b964130c13e4f1ebf0",
+      "onset_seconds": 1.0509,
+      "skipped_pre_roll_seconds": 1.04,
+      "seconds": 8.0,
+      "measured_cents_from_root": -23.7,
+      "correction_cents": 24,
+      "applied_gain": 30.6562,
+      "sample_name": "gqh62",
+      "root_midi": 62,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui12_Condenser_take1.wav",
+      "source_sha256": "683cf3c587dff2798910ad76d1365b30e0ed65168ef18a9a2e399ecb836d29ea",
+      "onset_seconds": 1.971,
+      "skipped_pre_roll_seconds": 1.949,
+      "seconds": 8.0,
+      "measured_cents_from_root": -23.5,
+      "correction_cents": 23,
+      "applied_gain": 28.9792,
+      "sample_name": "gqh67",
+      "root_midi": 67,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui1_Condenser_gou_take1.wav",
+      "source_sha256": "cd1a7907403c12d3e0c6eef5c8c2b5fef4ee1be0c1e4eef52605e1033ef6d670",
+      "onset_seconds": 1.2905,
+      "skipped_pre_roll_seconds": 1.274,
+      "seconds": 6.31,
+      "measured_cents_from_root": -26.0,
+      "correction_cents": 26,
+      "applied_gain": 42.6917,
+      "sample_name": "gqh72",
+      "root_midi": 72,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_str1_rhpos0_hui3.4_Condenser_tiao_take1.wav",
+      "source_sha256": "fa4e8937e7e99341374adde0e11046abeb567de80cbc0c621894a94439ad964e",
+      "onset_seconds": 2.4636,
+      "skipped_pre_roll_seconds": 2.383,
+      "seconds": 8.0,
+      "measured_cents_from_root": -20.7,
+      "correction_cents": 21,
+      "applied_gain": 10.6175,
+      "sample_name": "gqh74",
+      "root_midi": 74,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_others_c-b_str35_Condenser_tiao_b_take1.wav",
+      "source_sha256": "73348a6ac0651c2c1d540e98a177d00cb55997b10f1a1807ac6e4009ff4ff56d",
+      "onset_seconds": 0.4994,
+      "skipped_pre_roll_seconds": 0.461,
+      "seconds": 3.941,
+      "measured_cents_from_root": -34.9,
+      "correction_cents": 35,
+      "applied_gain": 69.2304,
+      "sample_name": "gqh83",
+      "root_midi": 83,
+      "articulation": "harmonic"
+    },
+    {
+      "file": "1A_gou_b_chengsheng_Condenser_take1.wav",
+      "source_sha256": "d634d7079ad4c6aee7426720ec9b3e445601e65b45063658ea108216c6451653",
+      "onset_seconds": 0.347,
+      "skipped_pre_roll_seconds": 0.326,
+      "seconds": 5.395,
+      "measured_cents_from_root": null,
+      "correction_cents": -3,
+      "applied_gain": 19.7257,
+      "sample_name": "gqyin_ch50",
+      "root_midi": 50,
+      "articulation": "yin_chengsheng",
+      "take_reference_cents": 2.9,
+      "pitch_reference": "swing_low"
+    },
+    {
+      "file": "1A_tiao_b_chengsheng_Condenser_jia_take1.wav",
+      "source_sha256": "b1a4edb2d18616f8f91c90f4f7929500eb5fc4f8c3a1abab63d024012dfbd2a8",
+      "onset_seconds": 1.1146,
+      "skipped_pre_roll_seconds": 1.107,
+      "seconds": 6.214,
+      "measured_cents_from_root": null,
+      "correction_cents": -36,
+      "applied_gain": 18.9481,
+      "sample_name": "gqyin_ch74",
+      "root_midi": 74,
+      "articulation": "yin_chengsheng",
+      "take_reference_cents": 35.7,
+      "pitch_reference": "swing_low"
+    },
+    {
+      "file": "1A_tiao_c_shenghou_Condenser_jia_take2.wav",
+      "source_sha256": "a42a61ad22c039b5a11383fdc7ce8991339cfcf9c14724b353349e02b966f503",
+      "onset_seconds": 1.3909,
+      "skipped_pre_roll_seconds": 0.816,
+      "seconds": 6.186,
+      "measured_cents_from_root": null,
+      "correction_cents": 1,
+      "applied_gain": 16.4125,
+      "sample_name": "gqyin_sh74",
+      "root_midi": 74,
+      "articulation": "yin_shenghou",
+      "take_reference_cents": -0.6,
+      "pitch_reference": "swing_low"
+    },
+    {
+      "file": "1A_gou_str4_d_hui10_9_fast_cangtou_Condenser_take1.wav",
+      "source_sha256": "4ff93ca8d9f1db98fd5e3a6c910f8bb09fafa2edfed5037453867068542bd2d8",
+      "onset_seconds": 0.9855,
+      "skipped_pre_roll_seconds": 0.954,
+      "seconds": 7.148,
+      "measured_cents_from_root": null,
+      "correction_cents": 5,
+      "applied_gain": 37.7643,
+      "sample_name": "gqchuo50",
+      "root_midi": 50,
+      "articulation": "chuo",
+      "take_reference_cents": -4.7,
+      "pitch_reference": "settled"
+    },
+    {
+      "file": "1A_tiao_str7_d_hui4.5_4_fast_cangtou_Condenser_take1.wav",
+      "source_sha256": "876d58ae701589a801f1dc6e61f082c4608786e5866efb8cc1eaa941057e0706",
+      "onset_seconds": 0.9978,
+      "skipped_pre_roll_seconds": 0.953,
+      "seconds": 5.86,
+      "measured_cents_from_root": null,
+      "correction_cents": -2,
+      "applied_gain": 20.5678,
+      "sample_name": "gqchuo74",
+      "root_midi": 74,
+      "articulation": "chuo",
+      "take_reference_cents": 2.4,
+      "pitch_reference": "settled"
+    }
+  ],
+  "pluck_key_ranges": {
+    "36": [
+      31,
+      38
+    ],
+    "41": [
+      39,
+      42
+    ],
+    "43": [
+      43,
+      44
+    ],
+    "45": [
+      45,
+      46
+    ],
+    "48": [
+      47,
+      49
+    ],
+    "50": [
+      50,
+      51
+    ],
+    "53": [
+      52,
+      55
+    ],
+    "57": [
+      56,
+      58
+    ],
+    "59": [
+      59,
+      62
+    ],
+    "65": [
+      63,
+      69
+    ],
+    "74": [
+      70,
+      79
+    ]
+  },
+  "harmonic_key_ranges": {
+    "48": [
+      46,
+      50
+    ],
+    "55": [
+      53,
+      57
+    ],
+    "60": [
+      58,
+      61
+    ],
+    "62": [
+      62,
+      64
+    ],
+    "67": [
+      65,
+      69
+    ],
+    "72": [
+      70,
+      73
+    ],
+    "74": [
+      74,
+      76
+    ],
+    "83": [
+      81,
+      85
+    ]
+  },
+  "technique_roots": {
+    "yin_chengsheng": {
+      "50": [
+        "1A_gou_b_chengsheng_Condenser_take1.wav",
+        "1A_gou_b_chengsheng_Condenser_take2.wav",
+        "1A_gou_b_chengsheng_Condenser_take3.wav"
+      ],
+      "74": [
+        "1A_tiao_b_chengsheng_Condenser_jia_take1.wav",
+        "1A_tiao_b_chengsheng_Condenser_jia_take2.wav",
+        "1A_tiao_b_chengsheng_Condenser_jia_take3.wav"
+      ]
+    },
+    "yin_shenghou": {
+      "74": [
+        "1A_tiao_c_shenghou_Condenser_jia_take1.wav",
+        "1A_tiao_c_shenghou_Condenser_jia_take2.wav",
+        "1A_tiao_c_shenghou_Condenser_jia_take3.wav"
+      ]
+    },
+    "chuo": {
+      "50": [
+        "1A_gou_str4_d_hui10_9_fast_cangtou_Condenser_take1.wav",
+        "1A_gou_str4_d_hui10_9_fast_cangtou_Condenser_take2.wav",
+        "1A_gou_str4_d_hui10_9_fast_cangtou_Condenser_take3.wav",
+        "1A_gou_str4_d_hui10_9_fast_cangtou_Condenser_take4.wav"
+      ],
+      "74": [
+        "1A_tiao_str7_d_hui4.5_4_fast_cangtou_Condenser_take1.wav",
+        "1A_tiao_str7_d_hui4.5_4_fast_cangtou_Condenser_take2.wav",
+        "1A_tiao_str7_d_hui4.5_4_fast_cangtou_Condenser_take3.wav"
+      ]
+    }
+  },
+  "excluded": {
+    "1A_rh3_hui0_Condenser_gou_take1.wav": "G2：约 140 Hz 的峰比根音高约 10 dB",
+    "1A_c-c_ho_Condenser_o_take1.wav": "C3：比根音高约 200 音分处的峰高约 3 dB",
+    "1A_g-a_pp_Condenser_tiao_g_take1.wav": "G3：比根音低约 120 音分处的峰高约 8 dB",
+    "1A_g-a_pp_Condenser_tiao_g_take2.wav": "G3：约 139 Hz 的峰比根音高约 12 dB",
+    "1A_c-c_hp_Condenser_p_take1.wav": "C4：比根音低约 100 和 480 音分处的峰与根音接近",
+    "1A_c-c_hp_Condenser_p_take2.wav": "C4：比根音低约 100 音分处的峰高约 3 dB",
+    "1A_str1_rhpos0_hui5_Condenser_gou_take1.wav": "泛音 G3：约 140 Hz 的峰高约 14 dB",
+    "1A_str1_rhpos0_hui4_Condenser_take1.wav": "泛音 C4：比根音低约 100 音分处的峰与根音接近",
+    "1A_str1_rhpos0_hui6_Condenser_gou_take1.wav": "泛音 E4：比根音低约 470 音分处的峰高约 7 dB"
+  },
+  "harmonic_rejected": {
+    "1A_f-a_hh_Condenser_tiao_a_take2.wav": "实测偏离最近半音 -38 音分",
+    "1A_f-c_ho_Condenser_gou_f_take1.wav": "实测偏离最近半音 -36 音分",
+    "1A_f-c_ho_Condenser_gou_f_take2.wav": "实测偏离最近半音 -36 音分",
+    "1A_f-c_ho_Condenser_gou_f_take3.wav": "实测偏离最近半音 -37 音分",
+    "1A_others_b-e_str46_Condenser_tiao_e_take1.wav": "实测 91.35 与标注音名 e 不符",
+    "1A_others_b-e_str46_Condenser_tiao_e_take2.wav": "实测 77.76 与标注音名 e 不符",
+    "1A_others_b-e_str46_Condenser_tiao_e_take4.wav": "实测 68.54 与标注音名 e 不符",
+    "1A_others_b-e_str46_Condenser_tiao_e_take5.wav": "实测 91.35 与标注音名 e 不符",
+    "1A_others_c-b_str35_Condenser_tiao_c_take1.wav": "实测 55.77 与标注音名 c 不符",
+    "1A_others_c-b_str35_Condenser_tiao_c_take2.wav": "实测 55.61 与标注音名 c 不符",
+    "1A_others_c-b_str35_Condenser_tiao_c_take3.wav": "实测 69.46 与标注音名 c 不符",
+    "1A_others_d-a_str47_Condenser_gou_d_take1.wav": "实测 70.85 与标注音名 d 不符",
+    "1A_others_d-a_str47_Condenser_gou_d_take2.wav": "实测 70.72 与标注音名 d 不符",
+    "1A_others_d-a_str47_Condenser_gou_d_take3.wav": "实测 70.73 与标注音名 d 不符",
+    "1A_others_d-a_str47_Condenser_tiao_a_take1.wav": "实测 91.35 与标注音名 a 不符",
+    "1A_others_d-a_str47_Condenser_tiao_a_take2.wav": "实测 91.35 与标注音名 a 不符",
+    "1A_others_d-a_str47_Condenser_tiao_a_take3.wav": "实测 91.35 与标注音名 a 不符",
+    "1A_str1_rhpos0_hui1.3_Condenser_gou_take1.wav": "实测偏离最近半音 -48 音分",
+    "1A_str1_rhpos0_hui1.3_Condenser_tiao_take1.wav": "实测 69.01 与标注音名 b- 不符",
+    "1A_str1_rhpos0_hui2.3_Condenser_gou_take1.wav": "实测 66.52 与标注音名 f 不符",
+    "1A_str1_rhpos0_hui2.3_Condenser_tiao_take1.wav": "实测 66.31 与标注音名 f 不符",
+    "1A_str1_rhpos0_hui4.3_Condenser_gou_take1.wav": "实测 59.52 与标注音名 f+ 不符",
+    "1A_str1_rhpos0_hui4.3_Condenser_tiao_take1.wav": "实测 58.62 与标注音名 f+ 不符",
+    "1A_str1_rhpos0_hui4.4_Condenser_gou_take1.wav": "实测偏离最近半音 -39 音分",
+    "1A_str1_rhpos0_hui4.4_Condenser_tiao_take1.wav": "实测偏离最近半音 -50 音分",
+    "1A_str1_rhpos0_hui4.6_Condenser_gou_take1.wav": "实测 56.64 与标注音名 e 不符",
+    "1A_str1_rhpos0_hui4.6_Condenser_tiao_take1.wav": "实测 56.72 与标注音名 e 不符",
+    "1A_str1_rhpos0_hui4.8_Condenser_gou_take1.wav": "实测 55.93 与标注音名 a 不符",
+    "1A_str1_rhpos0_hui4.8_Condenser_tiao_take1.wav": "实测 56.15 与标注音名 a 不符",
+    "1A_str1_rhpos0_hui5.3_Condenser_gou_take1.wav": "实测 55.42 与标注音名 b- 不符",
+    "1A_str1_rhpos0_hui5.5_Condenser_gou_take1.wav": "实测偏离最近半音 46 音分",
+    "1A_str1_rhpos0_hui6.14_Condenser_gou_take1.wav": "实测 69.34 与标注音名 g 不符",
+    "1A_str1_rhpos0_hui6.14_Condenser_tiao_take1.wav": "实测 69.72 与标注音名 g 不符",
+    "1A_str1_rhpos0_hui6.28_Condenser_gou_take1.wav": "实测 69.73 与标注音名 a 不符",
+    "1A_str1_rhpos0_hui6.28_Condenser_tiao_take1.wav": "实测 69.63 与标注音名 a 不符",
+    "1A_str1_rhpos0_hui6.85_Condenser_gou_take1.wav": "实测 48.89 与标注音名 a- 不符",
+    "1A_str1_rhpos0_hui6.85_Condenser_tiao_take1.wav": "实测 49.19 与标注音名 a- 不符",
+    "1A_b-f_str34_Condenser_tiao_b_take1.wav": "起音后音高不稳：0.1–1.1 秒 -44 音分，1.1–2.1 秒 -44 音分",
+    "1A_b-f_str34_Condenser_tiao_b_take2.wav": "起音后音高不稳：0.1–1.1 秒 -44 音分，1.1–2.1 秒 -44 音分",
+    "1A_b-f_str34_Condenser_tiao_b_take3.wav": "起音后音高不稳：0.1–1.1 秒 -44 音分，1.1–2.1 秒 -44 音分",
+    "1A_b-f_str34_Condenser_tiao_f_take1.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_b-f_str34_Condenser_tiao_f_take2.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_b-f_str34_Condenser_tiao_f_take3.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_c-c_hh_Condenser_h_take1.wav": "起音后音高不稳：0.1–1.1 秒 -37 音分，1.1–2.1 秒 -38 音分",
+    "1A_c-c_hh_Condenser_h_take2.wav": "起音后音高不稳：0.1–1.1 秒 -37 音分，1.1–2.1 秒 -38 音分",
+    "1A_c-c_hh_Condenser_h_take3.wav": "起音后音高不稳：0.1–1.1 秒 -38 音分，1.1–2.1 秒 -38 音分",
+    "1A_f-a_hh_Condenser_tiao_a_take1.wav": "起音后音高不稳：0.1–1.1 秒 -41 音分，1.1–2.1 秒 -41 音分",
+    "1A_f-a_hh_Condenser_tiao_a_take3.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -41 音分",
+    "1A_f-c_hh_Condenser_tiao_c_take1.wav": "起音后音高不稳：0.1–1.1 秒 -37 音分，1.1–2.1 秒 -38 音分",
+    "1A_f-c_hh_Condenser_tiao_c_take2.wav": "起音后音高不稳：0.1–1.1 秒 -37 音分，1.1–2.1 秒 -38 音分",
+    "1A_f-c_hh_Condenser_tiao_c_take3.wav": "起音后音高不稳：0.1–1.1 秒 -37 音分，1.1–2.1 秒 -38 音分",
+    "1A_others_b-e_str46_Condenser_tiao_b_take1.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_others_b-e_str46_Condenser_tiao_b_take2.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_others_b-e_str46_Condenser_tiao_b_take3.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_others_b-e_str46_Condenser_tiao_b_take4.wav": "起音后音高不稳：0.1–1.1 秒 -40 音分，1.1–2.1 秒 -40 音分",
+    "1A_others_b-e_str46_Condenser_tiao_e_take3.wav": "起音后音高不稳：0.1–1.1 秒 -49 音分，1.1–2.1 秒 -49 音分",
+    "1A_others_b-e_str46_Condenser_tiao_e_take6.wav": "起音后音高不稳：0.1–1.1 秒 -49 音分，1.1–2.1 秒 -49 音分",
+    "1A_str1_rhpos0_hui3.4_Condenser_gou_take1.wav": "起音后音高不稳：0.1–1.1 秒 31 音分，1.1–2.1 秒 -75 音分",
+    "1A_str1_rhpos0_hui3_Condenser_gou_take1.wav": "起音后音高不稳：0.1–1.1 秒 -44 音分，1.1–2.1 秒 -45 音分",
+    "1A_str1_rhpos0_hui3_Condenser_tiao_take1.wav": "起音后音高不稳：0.1–1.1 秒 -44 音分，1.1–2.1 秒 -44 音分",
+    "1A_str1_rhpos0_hui6_Condenser_tiao_take1.wav": "起音后音高不稳：0.1–1.1 秒 -48 音分，1.1–2.1 秒 -47 音分",
+    "1A_str3_hui2_Condenser_take1.wav": "起音后音高不稳：0.1–1.1 秒 -36 音分，1.1–2.1 秒 -36 音分",
+    "1A_str3_hui9_Condenser_take1.wav": "起音后音高不稳：0.1–1.1 秒 -36 音分，1.1–2.1 秒 -36 音分"
+  },
+  "zone_pitch_check": {
+    "programs": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "suspects": [],
+    "zones": 41
+  }
+}

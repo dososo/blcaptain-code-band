@@ -1,0 +1,98 @@
+{
+ "bank": "vsco_glockenspiel",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": [
+    "glock_medium_C5.wav",
+    "glock_medium_C6.wav",
+    "glock_medium_G4.wav",
+    "glock_medium_G5.wav"
+   ]
+  }
+ ],
+ "samples": [
+  {
+   "sample": "glock_medium_C5.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 7.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "glock_medium_C6.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 84,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 7.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "glock_medium_C7.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 96,
+   "octave_shift": 12,
+   "measured_cents": -13.2,
+   "seconds": 2.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "glock_medium_G4.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 7.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "glock_medium_G5.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 6.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "glock_medium_G6.wav",
+   "name": "s0005",
+   "instrument": "normal",
+   "sfz_key": 91,
+   "octave_shift": 12,
+   "measured_cents": 0.8,
+   "seconds": 4.78,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  }
+ ]
+}

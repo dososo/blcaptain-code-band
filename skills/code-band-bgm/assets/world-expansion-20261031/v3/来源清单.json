@@ -1,0 +1,136 @@
+{
+  "来源": "FreePats ukulele1",
+  "固定提交": "86d345f6f7b79a106ace98eca0da19b087786dba",
+  "许可": "CC0-1.0",
+  "作者": "Mateusz Dąbrowski",
+  "来源型号声明": "Flight Fireball ukulele (tenor)，型号身份按官方README记录；README后文也出现soprano措辞，不据此扩展具体尺寸断言",
+  "files": [
+    {
+      "path": "sources/LICENSE.txt",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/LICENSE.txt",
+      "bytes": 7048,
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "git_blob_sha1": "0e259d42c996742e9e3cba14c677129b2c1b6311"
+    },
+    {
+      "path": "sources/README.txt",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/README.txt",
+      "bytes": 2501,
+      "sha256": "5f3286dee9c8d0dc2dd943298f5f85b0a1feff5d37dc7192b992724509ece2d4",
+      "git_blob_sha1": "bb3fd40dfb457adb81b1fb80c3b22b1f3d7d3615"
+    },
+    {
+      "path": "sources/Ukulele 20260811.sfz",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/Ukulele%2020260811.sfz",
+      "bytes": 1271,
+      "sha256": "03c1758879cf937cf7d1dac86d560d16ec47e7fb1c82c4601a6f6476ee420f72",
+      "git_blob_sha1": "fe07ebe5c5c01282e0dfe32df160caa35b639041"
+    },
+    {
+      "path": "sources/samples/A4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/A4.flac",
+      "bytes": 269272,
+      "sha256": "ce575bc244682dfc6499a68e6ebb1195f043cc14dc49a8c2e4ea7e384bd2f114",
+      "git_blob_sha1": "ab4afcdecc5ca1e0ac75af5a7efd0a8752251c82"
+    },
+    {
+      "path": "sources/samples/A5.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/A5.flac",
+      "bytes": 152945,
+      "sha256": "877bcb793b9c7320777c0b164b78444a39c9b93da6ddafc95da5e91b085bccc7",
+      "git_blob_sha1": "7e4ef59bc7660c94bfd4d9169be616432aeae3fe"
+    },
+    {
+      "path": "sources/samples/B4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/B4.flac",
+      "bytes": 187923,
+      "sha256": "04102fb6c825f6ec23c4c08b89b34aba1412109d2e3950eb2399decd53ad49ae",
+      "git_blob_sha1": "f945a40238edbb5bb3da547e729ccd5cc15553d6"
+    },
+    {
+      "path": "sources/samples/C#5.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/C%235.flac",
+      "bytes": 191748,
+      "sha256": "604a9de9ab270294fa123cd9bf175fedaf295c63a9305e7cb3e187b666a6798e",
+      "git_blob_sha1": "e28acbc172b7091051f3b3375e2fc741f830f17f"
+    },
+    {
+      "path": "sources/samples/C4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/C4.flac",
+      "bytes": 287928,
+      "sha256": "aa23ee3722f8f418c7078243b4e1e2cb8022ff7c9e94801098cf3aa1694ec4b4",
+      "git_blob_sha1": "5c1eb21f662f1645ead971df34bdba0fc7b6a67c"
+    },
+    {
+      "path": "sources/samples/C6.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/C6.flac",
+      "bytes": 103168,
+      "sha256": "e397e1a73588074f9d636f9b128fbca8c52fd08df89cc893c5467f9256ea02cd",
+      "git_blob_sha1": "d94f50f7bb9e0f5aceacf3d87abc9ee09c2b7f5d"
+    },
+    {
+      "path": "sources/samples/D#5.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/D%235.flac",
+      "bytes": 122578,
+      "sha256": "0a6e011f0ef5d96ef51554cb5daaad788ec3240b723b4846411698194ff2f2b0",
+      "git_blob_sha1": "803b8431ce1bd91e193fe45f2b27702f0cf9550b"
+    },
+    {
+      "path": "sources/samples/D4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/D4.flac",
+      "bytes": 275384,
+      "sha256": "113ecda48383232739edbc471c2ed6be5bf3999be0075c7fa6d6bd0e98edfe98",
+      "git_blob_sha1": "b579ab2c266d3091df21d492bf370323c28704ed"
+    },
+    {
+      "path": "sources/samples/E4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/E4.flac",
+      "bytes": 287158,
+      "sha256": "8d5ea8c5ca9cddca9d5af0c37b8e022fddc71444d0f81718695c9de706d8908e",
+      "git_blob_sha1": "70e5b7e5e33a8ab812dc9aa0b648b8c74ba13ef1"
+    },
+    {
+      "path": "sources/samples/F#4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/F%234.flac",
+      "bytes": 159532,
+      "sha256": "5b4a82c7c8c9e57185e2510771a06df25c225fd78487e54b79d960f08c6e2653",
+      "git_blob_sha1": "9ea0b514a184386d93d8a558db92cea8eeaf2402"
+    },
+    {
+      "path": "sources/samples/F5.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/F5.flac",
+      "bytes": 122495,
+      "sha256": "5b85d224cee53fba23fda855ff34b919553bfc9df9ee1990df68aeff59857bc3",
+      "git_blob_sha1": "f7690cf318883677412dd13b18372b0e010a9c29"
+    },
+    {
+      "path": "sources/samples/G4.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/G4.flac",
+      "bytes": 157155,
+      "sha256": "e1952cca1c74d0dbab6053c081eda7f79e1eb2f11c1bd485aafdd51f77df1e93",
+      "git_blob_sha1": "5867ae6db21d498f412c0d3ddba3db005a34c7c7"
+    },
+    {
+      "path": "sources/samples/G5.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/G5.flac",
+      "bytes": 141369,
+      "sha256": "429f4ab8c6fff45041c7d688341a2d0af2710036a72505ad62198a1e6188c226",
+      "git_blob_sha1": "86f0e9428a1cd8385bfa5d24b2bf8bea2c245795"
+    },
+    {
+      "path": "sources/samples/body-tap.flac",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/body-tap.flac",
+      "bytes": 33210,
+      "sha256": "ec5bc4a56f1e07376190bc4ea20489737a1ce76e03bdbb2a80a42734e7c0cc01",
+      "git_blob_sha1": "9076906f4154643f6416fed62b7567fc3aa86475"
+    },
+    {
+      "path": "sources/samples/chuck.wav",
+      "source_url": "https://raw.githubusercontent.com/freepats/ukulele1/86d345f6f7b79a106ace98eca0da19b087786dba/samples/chuck.wav",
+      "bytes": 23084,
+      "sha256": "f3359f5d170387d55d1ba48af7d3d47bb416b0d882f225968f3c274a43fe5971",
+      "git_blob_sha1": "062c4d817490f6198b1b9d4e92f5e97112765d64"
+    }
+  ],
+  "派生映射": "官方SFZ完整保留；13旋律区域与2打击区域拆成独立预设，未移除原参数"
+}

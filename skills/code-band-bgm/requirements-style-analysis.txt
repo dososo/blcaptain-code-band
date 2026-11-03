@@ -1,0 +1,10 @@
+# 可选风格对照环境；Python3.10/macOS arm64实测，其他平台待测。
+# 不安装此文件仍可使用基础作曲/渲染；ffmpeg/ffprobe需本地可执行。
+-r requirements.txt
+numpy==1.26.4
+scipy==1.13.1
+torch==2.2.2
+torchaudio==2.2.2
+transformers==4.46.3
+huggingface-hub==0.26.5
+safetensors==0.5.3

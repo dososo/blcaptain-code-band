@@ -1,0 +1,20 @@
+{
+  "source_url": "https://github.com/NeoSoundFonts/SP-Kora",
+  "commit": "6f549b34fccb04f21ec8dfefd8d5bd92d3b17431",
+  "author": "Simone Piervergili",
+  "sfz_conversion": "Yingchun Soul",
+  "license": "CC0-1.0",
+  "source": "samples/Kora C3.wav",
+  "source_sha256": "1c3ddf360eddb829d4b05c541bd0cf0658b83f90184ea577967bd27578dff090",
+  "source_sfz_sha256": "e25aaa5e57aa9b28ae105593b6d1208cb4bb27b3bfacfb113c2b9dd4c90dd7a6",
+  "source_rate": 44100,
+  "channels": 2,
+  "frames": 14994,
+  "source_root_midi": 48,
+  "pyin_estimate_midi": 48.01,
+  "mapped_range": [
+    46,
+    50
+  ],
+  "derived_soundfont_sha256": "cf0ab01774b7a91c1e13d53d55fa6cd3f385a56d0193babeba9555190e92a891"
+}

@@ -1,0 +1,653 @@
+{
+  "zones": [
+    {
+      "sample_name": "guzheng_pufermufin_72",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 72,
+      "key_range": [
+        72,
+        72
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 760163,
+      "source_end_frame": 836806,
+      "source_onset_frame": 760383,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 76643,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 17.240816326530613,
+        "end_seconds": 18.975192743764172,
+        "next_onset_seconds": 19.075192743764173,
+        "midi_p05_median_p95": [
+          72.0063705850063,
+          72.0063705850063,
+          72.10637058500632
+        ],
+        "voiced_frames": 129,
+        "before_rms": 0.004378731362521648,
+        "first500ms_rms": 0.15535831451416016,
+        "silence_ratio": 0.028184724945136738
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 72,
+        "median_midi": 72.0321394988678,
+        "median_cents_offset": 3.2139498867806537,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 524.9939236069757,
+            "midi": 72.05756641273872,
+            "periodicity": 0.9765698997745571
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 524.4764914853098,
+            "midi": 72.04049501812267,
+            "periodicity": 0.9805587560154744
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 524.5129962849809,
+            "midi": 72.04169995588244,
+            "periodicity": 0.9793045467103776
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 524.4620740419698,
+            "midi": 72.04001910905359,
+            "periodicity": 0.9677186781943753
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 524.2234225210443,
+            "midi": 72.0321394988678,
+            "periodicity": 0.9754755111378383
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 523.9206060298184,
+            "midi": 72.02213617450522,
+            "periodicity": 0.9760325973312017
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 524.0689961694318,
+            "midi": 72.02703885795594,
+            "periodicity": 0.9778497497817098
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 523.8545072660424,
+            "midi": 72.01995188077368,
+            "periodicity": 0.9872093145371301
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 524.0515543958168,
+            "midi": 72.0264626686551,
+            "periodicity": 0.9829280486674635
+          }
+        ],
+        "pitch_correction_cents": -3
+      },
+      "noise_baseline_p95": 0.006084579880943663,
+      "onset_threshold_rms": 0.03751780620688675,
+      "source_peak": 0.9283071160316467,
+      "raw_pcm_sha256": "3ed1049ae4980078772e9048e41551c07d6a8874b6e10fb96a373bdcb742491d",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    },
+    {
+      "sample_name": "guzheng_pufermufin_65",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 65,
+      "key_range": [
+        65,
+        65
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 1321827,
+      "source_end_frame": 1441054,
+      "source_onset_frame": 1322047,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 119227,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 29.976961451247167,
+        "end_seconds": 32.676961451247166,
+        "next_onset_seconds": 32.86784580498866,
+        "midi_p05_median_p95": [
+          64.9063705850063,
+          65.00637058500631,
+          65.00637058500631
+        ],
+        "voiced_frames": 147,
+        "before_rms": 5.454789402392635e-07,
+        "first500ms_rms": 0.14650867879390717,
+        "silence_ratio": 3.7231851705289437e-06
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 65,
+        "median_midi": 64.96187045580143,
+        "median_cents_offset": -3.812954419856851,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 349.0188936221123,
+            "midi": 64.98961935555975,
+            "periodicity": 0.9679141604602408
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 348.69396570423925,
+            "midi": 64.97349448963357,
+            "periodicity": 0.9746698178875772
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 348.6075258046844,
+            "midi": 64.96920229465346,
+            "periodicity": 0.9703745311761315
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 348.6523797209067,
+            "midi": 64.97142965998708,
+            "periodicity": 0.974115351992731
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 348.45992051377175,
+            "midi": 64.96187045580143,
+            "periodicity": 0.9751088322386704
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 348.425757452502,
+            "midi": 64.96017306821527,
+            "periodicity": 0.9726958263078489
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 348.34831643939754,
+            "midi": 64.95632480450236,
+            "periodicity": 0.9730820777973541
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 348.328434054895,
+            "midi": 64.95533665437355,
+            "periodicity": 0.9693681531446546
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 348.32849726694235,
+            "midi": 64.95533979608776,
+            "periodicity": 0.9653625445474853
+          }
+        ],
+        "pitch_correction_cents": 4
+      },
+      "noise_baseline_p95": 0.0,
+      "onset_threshold_rms": 0.039600691631869606,
+      "source_peak": 0.8873323798179626,
+      "raw_pcm_sha256": "17074f098c0de8cf21ca282eb618cb0a11b464075c2d45d804af2c272c18dc30",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    },
+    {
+      "sample_name": "guzheng_pufermufin_62",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 62,
+      "key_range": [
+        62,
+        62
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 1684775,
+      "source_end_frame": 1804574,
+      "source_onset_frame": 1684995,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 119799,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 38.22004535147392,
+        "end_seconds": 40.920045351473924,
+        "next_onset_seconds": 41.09931972789116,
+        "midi_p05_median_p95": [
+          62.00637058500631,
+          62.00637058500631,
+          62.1063705850063
+        ],
+        "voiced_frames": 124,
+        "before_rms": 0.004423812497407198,
+        "first500ms_rms": 0.09907617419958115,
+        "silence_ratio": 0.044650618911624265
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 62,
+        "median_midi": 61.98838787017359,
+        "median_cents_offset": -1.1612129826410467,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 295.99228364682386,
+            "midi": 62.136672508106884,
+            "periodicity": 0.9465719376876661
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 294.67807484412646,
+            "midi": 62.05963438528627,
+            "periodicity": 0.9671891019523429
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 294.0983222963912,
+            "midi": 62.02554036657449,
+            "periodicity": 0.9738681434455124
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 293.6810449604547,
+            "midi": 62.000959549571334,
+            "periodicity": 0.9701264016301092
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 293.4678603977864,
+            "midi": 61.98838787017359,
+            "periodicity": 0.9676219112416585
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 293.3101903097139,
+            "midi": 61.979084051421985,
+            "periodicity": 0.9596872230697213
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 293.33951133240004,
+            "midi": 61.980814608949856,
+            "periodicity": 0.9579597247269205
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 293.2608540491059,
+            "midi": 61.976171783070484,
+            "periodicity": 0.9418373042774439
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 293.2088010675377,
+            "midi": 61.97309861829557,
+            "periodicity": 0.9480334342050298
+          }
+        ],
+        "pitch_correction_cents": 1
+      },
+      "noise_baseline_p95": 0.005834850489719587,
+      "onset_threshold_rms": 0.023339401958878347,
+      "source_peak": 0.7720165848731995,
+      "raw_pcm_sha256": "6ef9e2db5a5b58835387be844e6f021fedb8c7a70e5fafe5f0f87dfd837f53fa",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    },
+    {
+      "sample_name": "guzheng_pufermufin_57",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 57,
+      "key_range": [
+        57,
+        57
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 2374615,
+      "source_end_frame": 2494238,
+      "source_onset_frame": 2374835,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 119623,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 53.85868480725624,
+        "end_seconds": 56.55868480725624,
+        "next_onset_seconds": 59.23410430839002,
+        "midi_p05_median_p95": [
+          57.1063705850063,
+          57.1063705850063,
+          57.206370585006304
+        ],
+        "voiced_frames": 226,
+        "before_rms": 0.008711940608918667,
+        "first500ms_rms": 0.23650161921977997,
+        "silence_ratio": 0.0368367059712293
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 57,
+        "median_midi": 57.14391879866995,
+        "median_cents_offset": 14.391879866995083,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 222.94133047626718,
+            "midi": 57.22992689860017,
+            "periodicity": 0.9571556591877607
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 222.53708266600108,
+            "midi": 57.19850684569321,
+            "periodicity": 0.9638127027373432
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 222.37804718835105,
+            "midi": 57.18613020901943,
+            "periodicity": 0.9661671510890641
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 222.10487748118368,
+            "midi": 57.164850617317896,
+            "periodicity": 0.9683697655449097
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 221.83649957849852,
+            "midi": 57.14391879866995,
+            "periodicity": 0.9688824067179782
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 221.75394411786843,
+            "midi": 57.137474889516355,
+            "periodicity": 0.9694864267359127
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 221.73518107526488,
+            "midi": 57.13600999595331,
+            "periodicity": 0.9694742296660541
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 221.6519619041661,
+            "midi": 57.12951130213621,
+            "periodicity": 0.9693727614996687
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 221.47027739118815,
+            "midi": 57.11531483873229,
+            "periodicity": 0.9701942290710341
+          }
+        ],
+        "pitch_correction_cents": -14
+      },
+      "noise_baseline_p95": 0.01754156127923297,
+      "onset_threshold_rms": 0.07016624511693188,
+      "source_peak": 0.9760587811470032,
+      "raw_pcm_sha256": "c4c457cc877afc9a50272c81093958978470952287b2641212bb1cb30cc46e27",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    },
+    {
+      "sample_name": "guzheng_pufermufin_48",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 48,
+      "key_range": [
+        48,
+        48
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 4244483,
+      "source_end_frame": 4332742,
+      "source_onset_frame": 4244703,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 88259,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 96.25832199546485,
+        "end_seconds": 98.2481179138322,
+        "next_onset_seconds": 98.3481179138322,
+        "midi_p05_median_p95": [
+          48.00637058500631,
+          48.1063705850063,
+          48.206370585006304
+        ],
+        "voiced_frames": 146,
+        "before_rms": 0.008218364790081978,
+        "first500ms_rms": 0.2292453795671463,
+        "silence_ratio": 0.03584964201066834
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 48,
+        "median_midi": 48.12302445010579,
+        "median_cents_offset": 12.302445010578822,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 132.57516343114972,
+            "midi": 48.231684038430274,
+            "periodicity": 0.9061959808650997
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 132.22406296200805,
+            "midi": 48.185774731873586,
+            "periodicity": 0.9036493207790797
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 131.91634867142213,
+            "midi": 48.14543817792128,
+            "periodicity": 0.9130020340903977
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 131.84672249516876,
+            "midi": 48.13629821687193,
+            "periodicity": 0.915412799255487
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 131.7456713464906,
+            "midi": 48.12302445010579,
+            "periodicity": 0.9193706277894772
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 131.60057975219232,
+            "midi": 48.10394785169965,
+            "periodicity": 0.9285285719316325
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 131.51552419480987,
+            "midi": 48.09275499197551,
+            "periodicity": 0.9357152796481247
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 131.44473080756813,
+            "midi": 48.08343343686814,
+            "periodicity": 0.9405873041564226
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 131.35120349864803,
+            "midi": 48.07111074481556,
+            "periodicity": 0.9387944604649753
+          }
+        ],
+        "pitch_correction_cents": -12
+      },
+      "noise_baseline_p95": 0.006114098493887998,
+      "onset_threshold_rms": 0.039703469341375655,
+      "source_peak": 0.9864001870155334,
+      "raw_pcm_sha256": "a6586b33fa3228c768729401ca1739c3a1dc50792f007a82fb2629bd8e6eef01",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    },
+    {
+      "sample_name": "guzheng_pufermufin_41",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 41,
+      "key_range": [
+        41,
+        41
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Pufermufin-Guzheng/公开HQ.mp3",
+      "source_sha256": "5cc564e192e7372fc11858db32e73fd7054a8791e57464863786c8b7dcc23374",
+      "source_start_frame": 5169243,
+      "source_end_frame": 5287622,
+      "source_onset_frame": 5169463,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "frames": 118379,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "mature_candidate": {
+        "onset_seconds": 117.2259410430839,
+        "end_seconds": 119.90072562358277,
+        "next_onset_seconds": 120.00072562358277,
+        "midi_p05_median_p95": [
+          41.1063705850063,
+          41.20637058500631,
+          41.306370585006306
+        ],
+        "voiced_frames": 216,
+        "before_rms": 4.227888705798932e-09,
+        "first500ms_rms": 0.21427349746227264,
+        "silence_ratio": 1.97312722099164e-08
+      },
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 41,
+        "median_midi": 41.206296758904024,
+        "median_cents_offset": 20.62967589040241,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 88.8840554477397,
+            "midi": 41.309916292584965,
+            "periodicity": 0.8213388540601223
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 88.6729106534056,
+            "midi": 41.26874176279128,
+            "periodicity": 0.8622166886052322
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 88.54808486619756,
+            "midi": 41.24435382973409,
+            "periodicity": 0.8803364847937011
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 88.45493955489934,
+            "midi": 41.22613308465438,
+            "periodicity": 0.887037100983448
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 88.35364671321618,
+            "midi": 41.206296758904024,
+            "periodicity": 0.889840788878339
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 88.3056126787138,
+            "midi": 41.19688223306709,
+            "periodicity": 0.9129643804188208
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 88.24523273215102,
+            "midi": 41.18504067850501,
+            "periodicity": 0.9122193191209684
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 88.23664396480879,
+            "midi": 41.18335561409473,
+            "periodicity": 0.9113317999474625
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 88.2199641707911,
+            "midi": 41.180082670369245,
+            "periodicity": 0.900454631207703
+          }
+        ],
+        "pitch_correction_cents": -21
+      },
+      "noise_baseline_p95": 0.0,
+      "onset_threshold_rms": 0.0465968829854025,
+      "source_peak": 0.9813669919967651,
+      "raw_pcm_sha256": "729e2a47cdeffc42f45cc3b1959b66903cd92860df74aa758f914ecb12bf936d",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "selection": "独立起音到下一起音之前；前导低能量、单一F0，不采旋律句，尾部10ms淡出；预览有限尾音"
+    }
+  ],
+  "scope": "6稀疏根音单力度，真实旅行型古筝公开有损预览，不扩全21弦/奏法或完整尾音"
+}

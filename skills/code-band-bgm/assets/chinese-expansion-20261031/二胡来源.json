@@ -1,0 +1,619 @@
+{
+  "source_id": "aliexpress_erhu",
+  "repo_url": "https://github.com/sfzinstruments/aliexpress-erhu",
+  "commit": "6615047b2fd06126877483e97b8bb4af9d00b080",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/sfzinstruments/aliexpress-erhu/blob/6615047b2fd06126877483e97b8bb4af9d00b080/LICENSE",
+  "quality": "作者自己录制廉价二胡，演奏者主要学习小提琴；原始WAV；非专业完整民族乐器库；本次取每音每奏法RR1不冒充全部RR已接",
+  "files": [
+    {
+      "file": "erhu-original/.gitattributes",
+      "upstream_path": ".gitattributes",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/.gitattributes",
+      "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b",
+      "bytes": 66
+    },
+    {
+      "file": "erhu-original/LICENSE",
+      "upstream_path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "file": "erhu-original/Programs/01-erhu_keyswitch.sfz",
+      "upstream_path": "Programs/01-erhu_keyswitch.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/01-erhu_keyswitch.sfz",
+      "sha256": "45de847f08a955da2beb4ad8ae45d73b85efce9ee3ba5526c2a60204f37bc5c8",
+      "bytes": 6789
+    },
+    {
+      "file": "erhu-original/Programs/02-erhu_long.sfz",
+      "upstream_path": "Programs/02-erhu_long.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/02-erhu_long.sfz",
+      "sha256": "b9e18076031d8f7102e7ff6fda825bf4b8881e45b28c649c43e76a0e76f77866",
+      "bytes": 2123
+    },
+    {
+      "file": "erhu-original/Programs/03-erhu_short.sfz",
+      "upstream_path": "Programs/03-erhu_short.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/03-erhu_short.sfz",
+      "sha256": "35fd8648ba6d2f7bad7c3eb7d545049e2f3840cdda6e9cb3bbd98e865815b1c7",
+      "bytes": 1352
+    },
+    {
+      "file": "erhu-original/Programs/04-erhu_marcato.sfz",
+      "upstream_path": "Programs/04-erhu_marcato.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/04-erhu_marcato.sfz",
+      "sha256": "4bbefac321d86a4fa1b1f3a96292e78d5bbe4acaabc55cbd9b0e50bb5bb2bc8f",
+      "bytes": 2420
+    },
+    {
+      "file": "erhu-original/Programs/05-erhu_sul_tasto.sfz",
+      "upstream_path": "Programs/05-erhu_sul_tasto.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/05-erhu_sul_tasto.sfz",
+      "sha256": "8fa59c89b02703e1443c2128fa92c3e9cf54c2be70323e3d2763eac0c894884b",
+      "bytes": 2357
+    },
+    {
+      "file": "erhu-original/Programs/modules/controls/common.sfz",
+      "upstream_path": "Programs/modules/controls/common.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/controls/common.sfz",
+      "sha256": "3e398264005c326814d66363a0404985854300a2a13cfcd83db8aa436ac2ffa6",
+      "bytes": 169
+    },
+    {
+      "file": "erhu-original/Programs/modules/controls/curves.sfz",
+      "upstream_path": "Programs/modules/controls/curves.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/controls/curves.sfz",
+      "sha256": "6c77c89cd6dad75d215974c56bf8e3b432b43a985716d335e1015a1039d64455",
+      "bytes": 551
+    },
+    {
+      "file": "erhu-original/Programs/modules/controls/erhu_t1_vibrato.sfz",
+      "upstream_path": "Programs/modules/controls/erhu_t1_vibrato.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/controls/erhu_t1_vibrato.sfz",
+      "sha256": "0d629b4513ffe54068cc5a79ae786a2f9f1fe97a33b03f2ad4dd9bf4c92d65da",
+      "bytes": 1234
+    },
+    {
+      "file": "erhu-original/Programs/modules/controls/erhu_t2_vibrato.sfz",
+      "upstream_path": "Programs/modules/controls/erhu_t2_vibrato.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/controls/erhu_t2_vibrato.sfz",
+      "sha256": "4c5ad1877349e18bfdc317f25a0b66c00b8721dfbf2c8898dbb0faaf487a5b12",
+      "bytes": 1235
+    },
+    {
+      "file": "erhu-original/Programs/modules/controls/erhu_vibrato.sfz",
+      "upstream_path": "Programs/modules/controls/erhu_vibrato.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/controls/erhu_vibrato.sfz",
+      "sha256": "28103773dc32ec99a987361b22e48e1cf83eb2ee9112796db095f6b3f741893c",
+      "bytes": 1694
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/erhu_st_map.sfz",
+      "upstream_path": "Programs/modules/maps/erhu_st_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/erhu_st_map.sfz",
+      "sha256": "6ef8d14512946e707fd592f921b365d2eefd54a86f85a64a602f1b2786454ab8",
+      "bytes": 4278
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/erhu_stac_map.sfz",
+      "upstream_path": "Programs/modules/maps/erhu_stac_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/erhu_stac_map.sfz",
+      "sha256": "0f5b2a7e5afb40e96ed8e84f2c3883d587c027ce92499d5bd4868e4985e8a89d",
+      "bytes": 9176
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/erhu_sus_map.sfz",
+      "upstream_path": "Programs/modules/maps/erhu_sus_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/erhu_sus_map.sfz",
+      "sha256": "1557260408bb1be2ff99b9f1307e91f0226e5c87ce472029eae87f56b618cd69",
+      "bytes": 4358
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t1/erhu_st_map.sfz",
+      "upstream_path": "Programs/modules/maps/t1/erhu_st_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t1/erhu_st_map.sfz",
+      "sha256": "6da78e0e8b4edd9224f1336b79323f09b2bd784c678de1e7fd744a7db1d34d91",
+      "bytes": 4278
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t1/erhu_stac_map.sfz",
+      "upstream_path": "Programs/modules/maps/t1/erhu_stac_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t1/erhu_stac_map.sfz",
+      "sha256": "eb41565598d2aa544492da1b666f207b0205d49059a9e0df518e8e2d1adb9df2",
+      "bytes": 9176
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t1/erhu_sus_map.sfz",
+      "upstream_path": "Programs/modules/maps/t1/erhu_sus_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t1/erhu_sus_map.sfz",
+      "sha256": "290f3cd7c1cae128d47619ac26371c239fa0748eee4ac67e202e1b71dd0e585b",
+      "bytes": 4358
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t2/erhu_st_map.sfz",
+      "upstream_path": "Programs/modules/maps/t2/erhu_st_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t2/erhu_st_map.sfz",
+      "sha256": "586e0c670dbe17e81343e499aec2daf4b2f30be9abee718f6f3872ed7122fce8",
+      "bytes": 4278
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t2/erhu_stac_map.sfz",
+      "upstream_path": "Programs/modules/maps/t2/erhu_stac_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t2/erhu_stac_map.sfz",
+      "sha256": "9ea9ac531cc323d94c80111befcc7ce1141c778540e667bd30599af815eee0b4",
+      "bytes": 9176
+    },
+    {
+      "file": "erhu-original/Programs/modules/maps/t2/erhu_sus_map.sfz",
+      "upstream_path": "Programs/modules/maps/t2/erhu_sus_map.sfz",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Programs/modules/maps/t2/erhu_sus_map.sfz",
+      "sha256": "1e27bf88ca72cac6b71dc4d98192ff409c9cda8a5c83c1c3c4e6b653d17bee35",
+      "bytes": 4358
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_a5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_a5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_a5_st_rr1.wav",
+      "sha256": "a2f2830a90efb5b9170a1aacd044ad1a250341d8197ae0c96207374eee70104e",
+      "bytes": 1008830
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_a6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_a6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_a6_st_rr1.wav",
+      "sha256": "73c0c8d84ce4965d07cceda157009330dfb13a0662c766b20645c6a9aeb8dc28",
+      "bytes": 632336
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_ab5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_ab5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_ab5_st_rr1.wav",
+      "sha256": "4ae991d5e6184cae60d555bffe3c7d0e5ecf3f68ed532fc14fa61ad7bc609359",
+      "bytes": 1096268
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_ab6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_ab6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_ab6_st_rr1.wav",
+      "sha256": "e6c3cf47552612ecd9b55626bd71e01e0e3000f6d04a33026d67d9a28de17b85",
+      "bytes": 796160
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_b5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_b5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_b5_st_rr1.wav",
+      "sha256": "f5b57db302b7f5ee12390e952fbb401e966e1049b41714c1743e54328838ed9a",
+      "bytes": 1006934
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_b6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_b6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_b6_st_rr1.wav",
+      "sha256": "b34df020a51c718786f62066ae373dc4104bb692412e83430856745daf6c706f",
+      "bytes": 764486
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_bb5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_bb5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_bb5_st_rr1.wav",
+      "sha256": "f95712771140e5f262b2fd2f9cda77f442dbb1eb483925358fe125fb2f3dbaf2",
+      "bytes": 1415576
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_bb6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_bb6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_bb6_st_rr1.wav",
+      "sha256": "824581ca9c4fcad5bd8fe573949c313953fe94027dbfcd89184180312d7266c2",
+      "bytes": 551420
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_c6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_c6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_c6_st_rr1.wav",
+      "sha256": "5d2dd34af7ac65530be4b7ac5258117f265a172dfbe401788fc2bed093e3d4d3",
+      "bytes": 1083926
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_c7_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_c7_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_c7_st_rr1.wav",
+      "sha256": "6b7279d5f02e2c446ce41c5eb362676ad635b20e55d6bce9f31af5d55ca72a38",
+      "bytes": 586676
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_d5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_d5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_d5_st_rr1.wav",
+      "sha256": "22fd77c31c7ea0457323ae167af66627feaaff5db14cba388e39982e81e82a81",
+      "bytes": 1124852
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_d6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_d6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_d6_st_rr1.wav",
+      "sha256": "59ce62c3b98a94bb1aa6b2f30652d94f99e4e4ab3a2278ef49fe9311e79167e0",
+      "bytes": 741890
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_d7_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_d7_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_d7_st_rr1.wav",
+      "sha256": "9e0817a205ff9994c209fb1684d4e567ab22f901f99bf375c2c3dad1c843403a",
+      "bytes": 789308
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_db6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_db6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_db6_st_rr1.wav",
+      "sha256": "63d08aa6e9e946bdfa4c5357bb7b3eb4971e6f3634f6daf0c385779385929e18",
+      "bytes": 905612
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_db7_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_db7_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_db7_st_rr1.wav",
+      "sha256": "e044199a1dee20007b35ff92e2ef7411b206fb67d9205bda0471a5d4294d0146",
+      "bytes": 736040
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_e5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_e5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_e5_st_rr1.wav",
+      "sha256": "c941df9e38ff369c1a8245babfd5353ac3b0e5a8b03b3aa8419fd4692fee4e10",
+      "bytes": 1295510
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_e6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_e6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_e6_st_rr1.wav",
+      "sha256": "e8a10d274502586823ce0a73a82c2218bfd04f1c8da909196e04b1bb2b697ab6",
+      "bytes": 910226
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_eb5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_eb5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_eb5_st_rr1.wav",
+      "sha256": "a606e223428168cccca794df1db80b215f1c4feb7646b2e43686a7aee469c595",
+      "bytes": 1508828
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_eb6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_eb6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_eb6_st_rr1.wav",
+      "sha256": "dfcb4a35f392cc04457d97fa5cb7e7da3776fb63d6333448ba1b8d4bbbaaee27",
+      "bytes": 844424
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_f5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_f5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_f5_st_rr1.wav",
+      "sha256": "b36bea696ed07927e1f3c1e1a71af0abea91baf466a06b9b46e89c5b56222452",
+      "bytes": 1226636
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_f6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_f6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_f6_st_rr1.wav",
+      "sha256": "217480d4fc17a01f9bd14334697014506490aaaf23c46adba50959c72d6f837f",
+      "bytes": 626690
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_g5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_g5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_g5_st_rr1.wav",
+      "sha256": "d5d6c49725525b7d7497a13e9f85ac6d6f1ba9192b786d990d0fe2720ff7be7c",
+      "bytes": 1046720
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_g6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_g6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_g6_st_rr1.wav",
+      "sha256": "481c6ca3e63269171604dd942fc2b7abf51029866421f55db6e8bb6d6c861168",
+      "bytes": 759944
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_gb5_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_gb5_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_gb5_st_rr1.wav",
+      "sha256": "a687a99927c7641ec67af8ba6f4f806bd7be64bedd25d7174417303cebf52346",
+      "bytes": 1138478
+    },
+    {
+      "file": "erhu-original/Samples/st/erhu_gb6_st_rr1.wav",
+      "upstream_path": "Samples/st/erhu_gb6_st_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/st/erhu_gb6_st_rr1.wav",
+      "sha256": "9a7f7f77fa7f752be53a6963a01442ed9bdae4888dbfc430d54789c50175c4dd",
+      "bytes": 677984
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_a5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_a5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_a5_stac_rr1.wav",
+      "sha256": "3df80f10343c53547db9231bc3a22a97385e357fdee97987622b683bd8f77f10",
+      "bytes": 217994
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_a6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_a6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_a6_stac_rr1.wav",
+      "sha256": "8db1f4035f50567718795768a8ff938292ed6cd43b92d2a110462bd8a4a7763a",
+      "bytes": 184802
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_ab5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_ab5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_ab5_stac_rr1.wav",
+      "sha256": "e2d076c89c887258ab3392c3e1d9c9040152c8ddf8b00844af60ee3a0f84b0a7",
+      "bytes": 276914
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_ab6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_ab6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_ab6_stac_rr1.wav",
+      "sha256": "eb3eb76eeb88c32eed209434e2c012e65710bddca37ed9e68ab6a60c8da2188e",
+      "bytes": 152894
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_b5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_b5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_b5_stac_rr1.wav",
+      "sha256": "f9030d76b58817347eea0c8484d66c2633ad78a412810440b6368fd62c46a5bd",
+      "bytes": 222602
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_bb5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_bb5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_bb5_stac_rr1.wav",
+      "sha256": "bbc1006ac95dfd65012536303bb78503e9b72d8fc02ac30ba944122dd077b119",
+      "bytes": 288122
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_c6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_c6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_c6_stac_rr1.wav",
+      "sha256": "23f874207e7565ffc4a260034097c1e0a38a539e16f400cccb0da9c2b3ceec84",
+      "bytes": 258218
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_d5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_d5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_d5_stac_rr1.wav",
+      "sha256": "42edd68265d63d4b30510ccef35cbfd332b2670a0acef663b1527ea414524054",
+      "bytes": 438446
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_d6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_d6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_d6_stac_rr1.wav",
+      "sha256": "dfe625eaaac0b2a27f3aa13669aebf46065190f2209940173f88553f7d6b2beb",
+      "bytes": 239366
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_db6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_db6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_db6_stac_rr1.wav",
+      "sha256": "a8b4609c25677098e682f3d75a3746d6d78f83312541694261c3227ed4734ba0",
+      "bytes": 243374
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_e5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_e5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_e5_stac_rr1.wav",
+      "sha256": "4333b75c56fca3d33e815c454911e114a7e3023e23e6cf27a701969a9d3f90be",
+      "bytes": 337688
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_e6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_e6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_e6_stac_rr1.wav",
+      "sha256": "f0b797467cf881ab6b95f8490f32e8fed32b5b23581c48000a531d4a4c008e4d",
+      "bytes": 207032
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_eb5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_eb5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_eb5_stac_rr1.wav",
+      "sha256": "a7891055965b9c9ccbbc41b579e3acbc1da0939d2fd79f246877bba248cd9057",
+      "bytes": 272822
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_eb6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_eb6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_eb6_stac_rr1.wav",
+      "sha256": "6cf982940269f8474d7025ee573ac5fa3f6b06191554e4c25acfaa6edf6b4bce",
+      "bytes": 262202
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_f5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_f5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_f5_stac_rr1.wav",
+      "sha256": "35133364952fb5d24ec5b4345fba4f00d4418d5a24775f24b7bed9f28299584a",
+      "bytes": 280622
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_f6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_f6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_f6_stac_rr1.wav",
+      "sha256": "dc7fe22ffafef5f5f143059adeab6dcb657aeebe7ddd867112af8a86a53e28d8",
+      "bytes": 204344
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_g5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_g5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_g5_stac_rr1.wav",
+      "sha256": "7d205004aaa47500adc85e1e0357d3c8eb5139ddd27e878ea3574c4fa99b32aa",
+      "bytes": 201752
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_g6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_g6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_g6_stac_rr1.wav",
+      "sha256": "83f15152ba995efe2019ca392845d713afa83957da57352edd8fa46d1f18184c",
+      "bytes": 168890
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_gb5_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_gb5_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_gb5_stac_rr1.wav",
+      "sha256": "813767d1ffff28c8d1bb5e1a7b27c23b70af6f58f433f60fe2fd736fd2ec5955",
+      "bytes": 266090
+    },
+    {
+      "file": "erhu-original/Samples/stac/erhu_gb6_stac_rr1.wav",
+      "upstream_path": "Samples/stac/erhu_gb6_stac_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/stac/erhu_gb6_stac_rr1.wav",
+      "sha256": "e9567daea949bb6d48552bcffeba56c4729aebf5662f56dacbe6c09d07fe2a40",
+      "bytes": 202778
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_a5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_a5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_a5_sus_rr1.wav",
+      "sha256": "8f632281ccea6c4855b1dcce61f00ae9635f551d701c09fe69123042d3ac1a15",
+      "bytes": 682592
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_a6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_a6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_a6_sus_rr1.wav",
+      "sha256": "946113da4500cf02967fbfc7329218dcd72b4c9dabfc3e5ad8f1b6b7bb2030cb",
+      "bytes": 666110
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_ab5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_ab5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_ab5_sus_rr1.wav",
+      "sha256": "b6392f26d3067aed5d4fdd3be79952d4fc1272e8a0bd2341f52a0d61636c8623",
+      "bytes": 729602
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_ab6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_ab6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_ab6_sus_rr1.wav",
+      "sha256": "cede78e8a1173030fda0137ec2708f01be611f696cb503e2f649c64078397e4f",
+      "bytes": 618368
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_b5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_b5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_b5_sus_rr1.wav",
+      "sha256": "a1233c366919478e866ff17f96b4bc62204a461aae0d9e5ca60ddf4207038092",
+      "bytes": 666284
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_bb5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_bb5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_bb5_sus_rr1.wav",
+      "sha256": "739db725d1b6c06173af3d2df5a12ea998fb72ba094f683e2ed4538091ad2dba",
+      "bytes": 628568
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_c6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_c6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_c6_sus_rr1.wav",
+      "sha256": "de99454993ca46f1df0154441a1d59dc90f0ad2e56c6c0a900d586565ab2cf3a",
+      "bytes": 675548
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_d5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_d5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_d5_sus_rr1.wav",
+      "sha256": "dd7369c93c6d8ab2651049cfccf8eec56540029834981a64706bd55c55d711f6",
+      "bytes": 909218
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_d6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_d6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_d6_sus_rr1.wav",
+      "sha256": "55d407bc3054d06f19cb668610d0888e16e968eba003a7f890dda8e262561c32",
+      "bytes": 674714
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_db6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_db6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_db6_sus_rr1.wav",
+      "sha256": "425e5c81ef674561bcc4ac4073e601a8478e092f77725879ef18e702b32b94d1",
+      "bytes": 715562
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_e5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_e5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_e5_sus_rr1.wav",
+      "sha256": "88a112f2e47d6af0d7b8692c4ec7a52e5d1d052cdc13c77cf430177003c203ae",
+      "bytes": 881684
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_e6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_e6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_e6_sus_rr1.wav",
+      "sha256": "df88addf6787ea658ed5cf354886ae20317bcb59374ecbc5bf24a342d03fb4af",
+      "bytes": 573650
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_eb5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_eb5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_eb5_sus_rr1.wav",
+      "sha256": "2c63e7e6ec25d15669b90883abd0b3bb719dcfd2dfa38eb3ebfcfc48b03c6869",
+      "bytes": 788324
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_eb6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_eb6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_eb6_sus_rr1.wav",
+      "sha256": "f63560ce10270be0776c22b66dadd257aabe9a9500f0b90533d1d3c7ea2b898d",
+      "bytes": 516452
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_f5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_f5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_f5_sus_rr1.wav",
+      "sha256": "a03941445662b2314b4e2575f49229f78f6385fc3876c65833c524648cf90b7f",
+      "bytes": 761222
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_f6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_f6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_f6_sus_rr1.wav",
+      "sha256": "63a97dfc215ac5b7f4a755e1a38c74549aeaadd5996d38ee11a3f08b047ae7e3",
+      "bytes": 559526
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_g5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_g5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_g5_sus_rr1.wav",
+      "sha256": "672a3caa8c698e55c9d1f9e29801ef2ab131aab84498235c2fc30d71557587da",
+      "bytes": 708134
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_g6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_g6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_g6_sus_rr1.wav",
+      "sha256": "54208182f2097709d8428ec28726fff4f816dfe50a1b51da4c6de61aefae7e47",
+      "bytes": 664676
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_gb5_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_gb5_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_gb5_sus_rr1.wav",
+      "sha256": "01efdfcfc5bc72de6c9974af677b5020765dd9235370ffc3dafa8afc14678f0a",
+      "bytes": 776480
+    },
+    {
+      "file": "erhu-original/Samples/sus/erhu_gb6_sus_rr1.wav",
+      "upstream_path": "Samples/sus/erhu_gb6_sus_rr1.wav",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/Samples/sus/erhu_gb6_sus_rr1.wav",
+      "sha256": "0311aebd66847344f6f7f493f4107aa7d697ee79059c6aedba0bf3742c060112",
+      "bytes": 714788
+    },
+    {
+      "file": "erhu-original/readme.txt",
+      "upstream_path": "readme.txt",
+      "url": "https://raw.githubusercontent.com/sfzinstruments/aliexpress-erhu/6615047b2fd06126877483e97b8bb4af9d00b080/readme.txt",
+      "sha256": "8038c0789679583e2e37563e3dd55dc8d791772684588d0954b5ac601167d668",
+      "bytes": 239
+    }
+  ]
+}

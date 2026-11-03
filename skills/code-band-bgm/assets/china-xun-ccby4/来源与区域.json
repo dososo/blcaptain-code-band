@@ -1,0 +1,47 @@
+{
+  "来源": "https://freesound.org/people/franeknflute/sounds/200419/",
+  "作者": "franeknflute",
+  "license": "CC-BY-4.0",
+  "source_public_preview": "https://cdn.freesound.org/previews/200/200419_1416457-hq.mp3",
+  "source_sha256": "b718fde8b43ecaa66d3c054ba9009c5a7a2653307483c3b73987ddf0c17c3ed3",
+  "source_format": "MP3公开有损预览，44100Hz双声道",
+  "转换": "三段稳定单音，单声道、16bit，起终点抗click淡化，不跨键映射",
+  "音高测量": "work/128音色补齐_20261102/中国/埙/音高候选.json",
+  "segments": [
+    {
+      "midi": 67,
+      "source_start_seconds": 21.21,
+      "source_end_seconds": 21.45,
+      "pcm_sha256": "0dd220555d72b59ef1e860169c4904cbaa85ad29cff97a8b44afc6cd4ab31fc9",
+      "peak": 0.037190393544733524
+    },
+    {
+      "midi": 68,
+      "source_start_seconds": 20.36,
+      "source_end_seconds": 20.61,
+      "pcm_sha256": "9f1bd9f2dc43ae6bb62d9055ccfb071e60efcc4e7104497939702db8d605ae46",
+      "peak": 0.14841661602258682
+    },
+    {
+      "midi": 72,
+      "source_start_seconds": 8.5,
+      "source_end_seconds": 9.5,
+      "pcm_sha256": "1715da38af1d9d5b3441024e9584a9a25ae5abe1385de6a8d37e12e62e2812b5",
+      "peak": 0.18447407335042953
+    }
+  ],
+  "sf2_sha256": "caf0a71ca57c31d7ca6368ad66151379a36b15972aca63663336c4a1a9d6d636",
+  "builder": "SF2cute zlib wrapper work/世界音色扩展_20261031/write_sf2",
+  "未知": [
+    "录音者与演奏者关系未独立核实",
+    "音质与单音听感待人工验收",
+    "录音可能存在其他声部、环境噪声，pYIN不证明声源唯一"
+  ],
+  "命令": [
+    "work/世界音色扩展_20261031/write_sf2",
+    "work/128音色补齐_20261102/中国/埙/regions.txt",
+    "work/128音色补齐_20261102/中国/埙/names.txt",
+    "code-band-bgm/assets/china-xun-ccby4/Xun-CCBY4-3keys.sf2",
+    "Xun CCBY4 3 keys"
+  ]
+}

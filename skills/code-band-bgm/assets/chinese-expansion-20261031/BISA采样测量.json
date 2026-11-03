@@ -1,0 +1,677 @@
+{
+  "zones": [
+    {
+      "sample_name": "zhonghu_pizz",
+      "program": 0,
+      "bank": 0,
+      "preset_name": "BISA-Pizz-Zhonghu",
+      "root_midi": 55,
+      "key_range": [
+        55,
+        55
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 109416,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/zhonghu_pizz/公开预览.m4a",
+      "source_sha256": "e6322644d88dbce26987296f0324f70ce065c87de667c82258b0e8fac48ee0a9",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-pizzicato/5/",
+      "source_title": "\"Zhunghu Pizzicato\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 55,
+        "median_midi": 54.97857751873097,
+        "median_cents_offset": -2.142248126902757,
+        "windows": [
+          {
+            "time_seconds": 0.025,
+            "hz": 195.7767220825173,
+            "midi": 54.98046857361285,
+            "periodicity": 0.9121039217081304
+          },
+          {
+            "time_seconds": 0.041875,
+            "hz": 195.6103963176114,
+            "midi": 54.96575430064683,
+            "periodicity": 0.9184048429960282
+          },
+          {
+            "time_seconds": 0.058750000000000004,
+            "hz": 195.67325713060401,
+            "midi": 54.971316852508224,
+            "periodicity": 0.8903494936037848
+          },
+          {
+            "time_seconds": 0.075625,
+            "hz": 196.06522075667806,
+            "midi": 55.005961445276775,
+            "periodicity": 0.8902232879367892
+          },
+          {
+            "time_seconds": 0.0925,
+            "hz": 196.40914915322648,
+            "midi": 55.03630333502072,
+            "periodicity": 0.9023555641947278
+          },
+          {
+            "time_seconds": 0.109375,
+            "hz": 196.0323182067715,
+            "midi": 55.00305594298857,
+            "periodicity": 0.9178616122197849
+          },
+          {
+            "time_seconds": 0.12625,
+            "hz": 195.67335686835506,
+            "midi": 54.97132567687948,
+            "periodicity": 0.9155159274427344
+          },
+          {
+            "time_seconds": 0.143125,
+            "hz": 195.7430900791305,
+            "midi": 54.97749427357816,
+            "periodicity": 0.8989386565305101
+          },
+          {
+            "time_seconds": 0.16,
+            "hz": 195.75533824323352,
+            "midi": 54.97857751873097,
+            "periodicity": 0.8928991802498812
+          }
+        ],
+        "pitch_correction_cents": 2
+      },
+      "mature_pyin": [
+        54.786820576352426,
+        54.786820576352426,
+        54.98682057635243
+      ],
+      "crop_start_frame": 2200,
+      "detected_onset_frame": 2420,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "3e13184a2b9cc4ec35b047cc08256f1e04cbc72c3e73cd39f852877ec06a85e7",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_pizz_e",
+      "program": 1,
+      "bank": 0,
+      "preset_name": "BISA-Pizz-Erhu",
+      "root_midi": 76,
+      "key_range": [
+        76,
+        76
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 14712,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_pizz_e/公开预览.m4a",
+      "source_sha256": "d5e1cea47e12c1949ae0d8391e4ef98673318cab973e0d9c16c9d9ab9d43fea8",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-pizzicato/3/",
+      "source_title": "\"Pizzicatto (E5)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 76,
+        "median_midi": 76.0378960444501,
+        "median_cents_offset": 3.7896044450093314,
+        "windows": [
+          {
+            "time_seconds": 0.025,
+            "hz": 668.4334327657135,
+            "midi": 76.23936444180518,
+            "periodicity": 0.8298538325752005
+          },
+          {
+            "time_seconds": 0.041875,
+            "hz": 663.5640981744076,
+            "midi": 76.11278769976843,
+            "periodicity": 0.7464125421927493
+          },
+          {
+            "time_seconds": 0.058750000000000004,
+            "hz": 663.0952096040096,
+            "midi": 76.10055010587628,
+            "periodicity": 0.7927875847508031
+          },
+          {
+            "time_seconds": 0.075625,
+            "hz": 658.3130006492015,
+            "midi": 75.97524198302389,
+            "periodicity": 0.6714478993859612
+          },
+          {
+            "time_seconds": 0.0925,
+            "hz": 655.7543159307135,
+            "midi": 75.9078224886371,
+            "periodicity": 0.730520102292975
+          },
+          {
+            "time_seconds": 0.109375,
+            "hz": 656.1196280691905,
+            "midi": 75.91746428130945,
+            "periodicity": 0.5987494584977323
+          }
+        ],
+        "pitch_correction_cents": -4
+      },
+      "mature_pyin": [
+        76.08682057635244,
+        76.18682057635243,
+        76.26182057635243
+      ],
+      "crop_start_frame": 1672,
+      "detected_onset_frame": 1892,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "2ef23676aa2256b6f75559fe012b8799e7388ae12e78849891db4da2796f2f7d",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_harm_e",
+      "program": 2,
+      "bank": 0,
+      "preset_name": "BISA-Erhu-Harmonic",
+      "root_midi": 88,
+      "key_range": [
+        88,
+        88
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 110164,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_harm_e/公开预览.m4a",
+      "source_sha256": "7b31a8d30bd702bbeaf889aecce1d6b35ab8668ad244f05a157a8b97a18bdbfd",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-harmonic/2/",
+      "source_title": "\"Harmonic (E)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 88,
+        "median_midi": 88.04951287324087,
+        "median_cents_offset": 4.951287324087161,
+        "windows": [
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1386.5817925283714,
+            "midi": 88.87148751114819,
+            "periodicity": 0.4228982580419984
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1327.6566871755847,
+            "midi": 88.11968047162117,
+            "periodicity": 0.7307975423921279
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1323.2504269776657,
+            "midi": 88.06212828755463,
+            "periodicity": 0.9070534616908471
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1322.236667926774,
+            "midi": 88.0488599992629,
+            "periodicity": 0.9279235179764966
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1322.404421348638,
+            "midi": 88.05105629302349,
+            "periodicity": 0.957479809268414
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1322.1944628031624,
+            "midi": 88.0483073893182,
+            "periodicity": 0.977552567008574
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1322.2865323683363,
+            "midi": 88.04951287324087,
+            "periodicity": 0.9816878561855462
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1322.0891881724363,
+            "midi": 88.04692890614945,
+            "periodicity": 0.9858120040382194
+          }
+        ],
+        "pitch_correction_cents": -5
+      },
+      "mature_pyin": [
+        75.98682057635244,
+        88.08682057635244,
+        88.08682057635244
+      ],
+      "crop_start_frame": 1452,
+      "detected_onset_frame": 1672,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "100e50038b1ab6179725cfeeebf9027af5d99d6470dc19b06ff69b11953508c9",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_harm_fs",
+      "program": 2,
+      "bank": 0,
+      "preset_name": "BISA-Erhu-Harmonic",
+      "root_midi": 90,
+      "key_range": [
+        90,
+        90
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 121924,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_harm_fs/公开预览.m4a",
+      "source_sha256": "3ee6d00aef8cc66962d99d77ef2367681c3ebd4af62fcb197930359b8cfc9050",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-harmonic/3/",
+      "source_title": "\"Harmonic (F#)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 90,
+        "median_midi": 89.98441034794087,
+        "median_cents_offset": -1.5589652059134096,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1476.3043007121298,
+            "midi": 89.95697635498007,
+            "periodicity": 0.9457608675848358
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1477.3458407942633,
+            "midi": 89.96918599147736,
+            "periodicity": 0.9845604125841262
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1477.5107628640503,
+            "midi": 89.97111852994708,
+            "periodicity": 0.9896621184100272
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1478.3232591636097,
+            "midi": 89.98063612317785,
+            "periodicity": 0.9918652495202985
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1478.6455802552907,
+            "midi": 89.98441034794087,
+            "periodicity": 0.9927853896409615
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1479.0479085271754,
+            "midi": 89.98912026403005,
+            "periodicity": 0.9940542993172061
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1478.8742040735726,
+            "midi": 89.9870869240471,
+            "periodicity": 0.9942633457544462
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1479.194986279048,
+            "midi": 89.99084173194979,
+            "periodicity": 0.994144545559574
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1479.2860820483381,
+            "midi": 89.99190787429735,
+            "periodicity": 0.9941350064592467
+          }
+        ],
+        "pitch_correction_cents": 2
+      },
+      "mature_pyin": [
+        89.98682057635243,
+        89.98682057635243,
+        89.98682057635243
+      ],
+      "crop_start_frame": 1980,
+      "detected_onset_frame": 2200,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "cf2d5fe039fb72d86990473003acce50a3b60ecabfca65dd83e66d87f178146f",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_trem_e",
+      "program": 3,
+      "bank": 0,
+      "preset_name": "BISA-Erhu-Tremolo",
+      "root_midi": 76,
+      "key_range": [
+        76,
+        76
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 107940,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_trem_e/公开预览.m4a",
+      "source_sha256": "d14d810ef45c4e0711902316610d9532bf809a0ac6fb3610353c09f8f1b85622",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-tremolo/3/",
+      "source_title": "\"Fp (E5)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 76,
+        "median_midi": 76.21618404869068,
+        "median_cents_offset": 21.61840486906783,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 672.5826707181241,
+            "midi": 76.34649700979402,
+            "periodicity": 0.983953484819212
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 669.8184129136666,
+            "midi": 76.27519814012123,
+            "periodicity": 0.9617586346122396
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 664.1906111471633,
+            "midi": 76.12912566736894,
+            "periodicity": 0.9325396910833385
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 665.3715842965581,
+            "midi": 76.15988077565902,
+            "periodicity": 0.952741703245708
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 666.0472424561792,
+            "midi": 76.17745184328062,
+            "periodicity": 0.9693366932162797
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 666.6187326405296,
+            "midi": 76.19230002497044,
+            "periodicity": 0.9815881182983374
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 667.9369546328162,
+            "midi": 76.22650094384176,
+            "periodicity": 0.9840102913638464
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 667.945207193865,
+            "midi": 76.2267148416703,
+            "periodicity": 0.9815145488364233
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 667.5390313905987,
+            "midi": 76.21618404869068,
+            "periodicity": 0.9788074646881619
+          }
+        ],
+        "pitch_correction_cents": -22
+      },
+      "mature_pyin": [
+        76.08682057635244,
+        76.18682057635243,
+        76.28682057635244
+      ],
+      "crop_start_frame": 1628,
+      "detected_onset_frame": 1848,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "706643488541adbfa179b82ce3e3459e1a9682d7ce65208096485dc72bf28e39",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_vib_a",
+      "program": 4,
+      "bank": 0,
+      "preset_name": "BISA-Erhu-Vibrato",
+      "root_midi": 69,
+      "key_range": [
+        69,
+        69
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 127760,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_vib_a/公开预览.m4a",
+      "source_sha256": "ca6855824f105918b1f98bd6b6a69049ebf90ddb3104e0500b80bbdfce091867",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-vibrato/7/",
+      "source_title": "\"Regular (A4)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 69,
+        "median_midi": 69.53515915179035,
+        "median_cents_offset": 53.51591517903529,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 455.9429856784275,
+            "midi": 69.61619888605979,
+            "periodicity": 0.9827818967707939
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 455.9383587216533,
+            "midi": 69.61602319773894,
+            "periodicity": 0.9803556835705742
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 455.17859347231905,
+            "midi": 69.5871502463433,
+            "periodicity": 0.9845407213374793
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 453.81368651234993,
+            "midi": 69.53515915179035,
+            "periodicity": 0.9852570806230687
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 451.7045903796296,
+            "midi": 69.45451261524356,
+            "periodicity": 0.9821565900616614
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 453.6028367036288,
+            "midi": 69.52711366517362,
+            "periodicity": 0.9809367254231759
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 454.78739378565786,
+            "midi": 69.5722648930721,
+            "periodicity": 0.9855523495541815
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 450.14941558225365,
+            "midi": 69.39480507472427,
+            "periodicity": 0.9745153810504361
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 451.80280996315423,
+            "midi": 69.45827663727344,
+            "periodicity": 0.9760562374019934
+          }
+        ],
+        "pitch_correction_cents": -54
+      },
+      "mature_pyin": [
+        69.28682057635243,
+        69.48682057635241,
+        69.58682057635244
+      ],
+      "crop_start_frame": 2288,
+      "detected_onset_frame": 2508,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "09450fa01832939f02ed2213b7bc4da316186a682c8fbb24f94d3ad4fc2dac68",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    },
+    {
+      "sample_name": "erhu_vib_e",
+      "program": 4,
+      "bank": 0,
+      "preset_name": "BISA-Erhu-Vibrato",
+      "root_midi": 76,
+      "key_range": [
+        76,
+        76
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "frames": 133100,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "pcm_bits": 16,
+      "source_preview": "BISA/erhu_vib_e/公开预览.m4a",
+      "source_sha256": "1484dc8c0d17c900ca8aaba792e8bffad3a3f8f38522f2a3548a4613f0aa5658",
+      "source_page": "https://remix.berklee.edu/bisa-chinese-erhu-oneshots-vibrato/8/",
+      "source_title": "\"Regular (E5)\" by Berklee Intersectional Soundbox Archive (BISA)",
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 76,
+        "median_midi": 76.62603474382675,
+        "median_cents_offset": 62.60347438267502,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 687.7718319101549,
+            "midi": 76.73311808306211,
+            "periodicity": 0.9880609668760924
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 684.0315225206858,
+            "midi": 76.6387114467976,
+            "periodicity": 0.9864736884905343
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 684.1837032317271,
+            "midi": 76.6425626015676,
+            "periodicity": 0.9869287550776206
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 688.2193389077013,
+            "midi": 76.74437890210068,
+            "periodicity": 0.9888858662953477
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 683.5308339794041,
+            "midi": 76.62603474382675,
+            "periodicity": 0.9824138309625762
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 682.4788108919468,
+            "midi": 76.59936877471984,
+            "periodicity": 0.9862039266374878
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 683.1477293306925,
+            "midi": 76.61632882105334,
+            "periodicity": 0.9841314850825543
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 680.0333490639475,
+            "midi": 76.53722369516996,
+            "periodicity": 0.9882344311834704
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 683.010148091338,
+            "midi": 76.61284188398956,
+            "periodicity": 0.983888610777062
+          }
+        ],
+        "pitch_correction_cents": -63
+      },
+      "mature_pyin": [
+        76.38682057635243,
+        76.68682057635243,
+        76.78682057635243
+      ],
+      "crop_start_frame": 2068,
+      "detected_onset_frame": 2288,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "raw_pcm_sha256": "ec9efaccc996569dad1172d81b9819b214394121f54a57f387b8e01216884e9e",
+      "loop_enabled": false,
+      "automatic_round_robin": false,
+      "onset_policy": "1ms RMS连续3窗超过峰3%，只去前静音留5ms；保留实录自然弓起音"
+    }
+  ],
+  "rejected": [
+    {
+      "sample_id": "erhu_pizz_a",
+      "reason": "官方A5标签与实测约A4不符，极短162ms内音高约50音分变化，独立稳定性不足，不映射"
+    },
+    {
+      "sample_id": "erhu_harm_a",
+      "reason": "早期局部周期不足5个稳定测窗，基音/倍频变化，不硬截稳段映射"
+    }
+  ],
+  "scope": "7个官方独立单音预览，1中胡+4二胡奏法预设；只有实际7个音高/奏法组合，无全音域/多力度/RR/循环"
+}

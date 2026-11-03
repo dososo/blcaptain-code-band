@@ -1,0 +1,3413 @@
+{
+  "zones": [
+    {
+      "sample_name": "dizi_default_91",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 91,
+      "key_range": [
+        91,
+        91
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/G6/G6_with_membrane.wav",
+      "source_sha256": "96d5b29569850a381ff4cbca3a1c45eed4a883bc666fc7a6a2f90511e5350b2e",
+      "source_note_label": "G6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 290536,
+      "crop_start_frame_at_44100": 33352,
+      "detected_onset_frame_at_44100": 33572,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 91,
+        "median_midi": 91.34491297043806,
+        "median_cents_offset": 34.49129704380596,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1601.007984680648,
+            "midi": 91.36086088966393,
+            "periodicity": 0.9850379244260694
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1600.9827402175117,
+            "midi": 91.36058790902227,
+            "periodicity": 0.9847864664730008
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1600.5345379579387,
+            "midi": 91.35574056352769,
+            "periodicity": 0.9843847594538679
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1599.7462543739612,
+            "midi": 91.34721191559296,
+            "periodicity": 0.9844615587363821
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1599.5338345266057,
+            "midi": 91.34491297043806,
+            "periodicity": 0.9854890947368137
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1598.7208204498465,
+            "midi": 91.33611118425017,
+            "periodicity": 0.9852089452647821
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1598.454823287242,
+            "midi": 91.33323049580991,
+            "periodicity": 0.9858142352718053
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1598.147210352546,
+            "midi": 91.32989852027765,
+            "periodicity": 0.985863328431933
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1598.1515659110064,
+            "midi": 91.32994570292007,
+            "periodicity": 0.9852619747867358
+          }
+        ],
+        "pitch_correction_cents": -34
+      },
+      "mature_pyin": [
+        91.24995771500079,
+        91.34995771500078,
+        91.34995771500078
+      ],
+      "source_peak": 0.1354672908782959,
+      "raw_pcm_sha256": "fe2d0fd882161ee66934076aa3a57d66bc8cd149d8f3d56f78a06beca3d4a51a",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_81",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 81,
+      "key_range": [
+        81,
+        81
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/A5/A5_with_membrane.wav",
+      "source_sha256": "9c090c4a31f4d519ea7f67786135e3ddc2f0376f739625084cda27e9946d0f4b",
+      "source_note_label": "A5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 262642,
+      "crop_start_frame_at_44100": 16676,
+      "detected_onset_frame_at_44100": 16896,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 81,
+        "median_midi": 81.20456064024923,
+        "median_cents_offset": 20.456064024922682,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 887.2689035811738,
+            "midi": 81.14241459596768,
+            "periodicity": 0.9913669987076553
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 888.6870971036444,
+            "midi": 81.17006421606196,
+            "periodicity": 0.9893727335398084
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 889.9791459763508,
+            "midi": 81.19521608931117,
+            "periodicity": 0.9891303259091082
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 891.2581045083215,
+            "midi": 81.2200772013028,
+            "periodicity": 0.9893059256832327
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 890.1204572653124,
+            "midi": 81.19796473230886,
+            "periodicity": 0.9893315093767714
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 890.4596529492139,
+            "midi": 81.20456064024923,
+            "periodicity": 0.9889670724309291
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 891.1511136520854,
+            "midi": 81.21799882096691,
+            "periodicity": 0.9890502402199564
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 891.4324222691121,
+            "midi": 81.22346292461559,
+            "periodicity": 0.9891673160086335
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 891.5649429457666,
+            "midi": 81.22603639233381,
+            "periodicity": 0.9892720237565119
+          }
+        ],
+        "pitch_correction_cents": -20
+      },
+      "mature_pyin": [
+        81.14995771500077,
+        81.14995771500077,
+        81.24995771500079
+      ],
+      "source_peak": 0.16878938674926758,
+      "raw_pcm_sha256": "2be4e5f82d3ada426a0aef97d07b67a3c3b89f99500be8ce93268f827322ccb5",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_90",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 90,
+      "key_range": [
+        90,
+        90
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/F#6/F#6_with_membrane.wav",
+      "source_sha256": "1c3dc95fe7771052abbb872773d6f72e502ffec340397b1da825e87b961fb4f8",
+      "source_note_label": "F#6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 252894,
+      "crop_start_frame_at_44100": 20108,
+      "detected_onset_frame_at_44100": 20328,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 90,
+        "median_midi": 90.16982795779728,
+        "median_cents_offset": 16.98279577972812,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1492.704587758555,
+            "midi": 90.14823899648961,
+            "periodicity": 0.9874165649003724
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1493.8936879129917,
+            "midi": 90.16202465223486,
+            "periodicity": 0.9873267162413076
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1494.4317056486634,
+            "midi": 90.16825847560006,
+            "periodicity": 0.9873049646459411
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1495.5166645334018,
+            "midi": 90.18082269151944,
+            "periodicity": 0.9877121690647083
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1495.4350513452393,
+            "midi": 90.17987789839901,
+            "periodicity": 0.9876646355138864
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1494.5671922559504,
+            "midi": 90.16982795779728,
+            "periodicity": 0.9878048765906218
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1495.055586771321,
+            "midi": 90.17548435851674,
+            "periodicity": 0.9875261633753122
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1494.9575474660624,
+            "midi": 90.17434905257758,
+            "periodicity": 0.9874937101155637
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1494.3497725798504,
+            "midi": 90.16730929065936,
+            "periodicity": 0.9880637754195317
+          }
+        ],
+        "pitch_correction_cents": -17
+      },
+      "mature_pyin": [
+        90.14995771500077,
+        90.14995771500077,
+        90.24995771500079
+      ],
+      "source_peak": 0.1939694881439209,
+      "raw_pcm_sha256": "d10c194089f7f64688b89f630d42b25fd07faed48e909bbe344969c893f7ba47",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_76",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 76,
+      "key_range": [
+        76,
+        76
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/E5/E5_with_membrane.wav",
+      "source_sha256": "26cc6572e6ae30d9ce01964045766b8338821a8e3dcb27c339a0b63ca875b922",
+      "source_note_label": "E5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 341566,
+      "crop_start_frame_at_44100": 28380,
+      "detected_onset_frame_at_44100": 28600,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 76,
+        "median_midi": 76.06620028254129,
+        "median_cents_offset": 6.62002825412884,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 658.2528719938804,
+            "midi": 75.97366064512578,
+            "periodicity": 0.9780341376201783
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 660.2692317936679,
+            "midi": 76.02661073904925,
+            "periodicity": 0.9870642777614487
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 661.8483731224945,
+            "midi": 76.06796658404565,
+            "periodicity": 0.9864455125720191
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 662.0559224741221,
+            "midi": 76.07339471821724,
+            "periodicity": 0.9854234744286066
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 662.265470517413,
+            "midi": 76.07887339903307,
+            "periodicity": 0.985833908236849
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 661.7808511057807,
+            "midi": 76.06620028254129,
+            "periodicity": 0.9852999786691539
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 661.4741075478856,
+            "midi": 76.05817393965403,
+            "periodicity": 0.9859763734395159
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 661.667689983464,
+            "midi": 76.06323970821776,
+            "periodicity": 0.9864308256238151
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 662.3465793969784,
+            "midi": 76.08099354363193,
+            "periodicity": 0.9856984164942963
+          }
+        ],
+        "pitch_correction_cents": -7
+      },
+      "mature_pyin": [
+        76.04995771500077,
+        76.14995771500077,
+        76.14995771500077
+      ],
+      "source_peak": 0.1377544403076172,
+      "raw_pcm_sha256": "b2482ba0b68a43066b82f072f4670196e7f2834543fa7a4e26412d2e8fa708d4",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_77",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 77,
+      "key_range": [
+        77,
+        77
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/F5/F5_with_membrane.wav",
+      "source_sha256": "4a241adf27e27403173451ed1c315f8f7101c00d0923aa478a17ff7fa1b5e263",
+      "source_note_label": "F5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 326367,
+      "crop_start_frame_at_44100": 27236,
+      "detected_onset_frame_at_44100": 27456,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 77,
+        "median_midi": 77.6307927093174,
+        "median_cents_offset": 63.07927093174044,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 723.420810834843,
+            "midi": 77.60797892669562,
+            "periodicity": 0.988131698106221
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 724.8252720704561,
+            "midi": 77.64155680966188,
+            "periodicity": 0.9873650807351005
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 725.3390906265861,
+            "midi": 77.65382493925492,
+            "periodicity": 0.9877751230575216
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 724.9431162358761,
+            "midi": 77.6443712706993,
+            "periodicity": 0.9879604376103381
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 724.4829829819686,
+            "midi": 77.63337935626554,
+            "periodicity": 0.9884357948720108
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 724.3747456406032,
+            "midi": 77.6307927093174,
+            "periodicity": 0.9877953653568342
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 723.8665284049315,
+            "midi": 77.61864220601935,
+            "periodicity": 0.9888218108059653
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 722.7311401870887,
+            "midi": 77.59146639635318,
+            "periodicity": 0.9880015953326822
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 722.9131344777995,
+            "midi": 77.59582534855188,
+            "periodicity": 0.9886583292808008
+          }
+        ],
+        "pitch_correction_cents": -63
+      },
+      "mature_pyin": [
+        77.34995771500077,
+        77.54995771500077,
+        77.64995771500077
+      ],
+      "source_peak": 0.1434924602508545,
+      "raw_pcm_sha256": "c6eb303c30231bb5cb11851c267e10769997a4aac994fdca55adc432bf2d4065",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_94",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 94,
+      "key_range": [
+        94,
+        94
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/A#6/A#6_with_membrane.wav",
+      "source_sha256": "8d7ffb49d11118912161e601ceda029b27595f88438ec6eb24f15df559863d02",
+      "source_note_label": "A#6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 279673,
+      "crop_start_frame_at_44100": 30844,
+      "detected_onset_frame_at_44100": 31064,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 94,
+        "median_midi": 94.3346063551344,
+        "median_cents_offset": 33.46063551343974,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1898.982116502762,
+            "midi": 94.31581068282023,
+            "periodicity": 0.9908435882446494
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1901.9149868193974,
+            "midi": 94.34252798572717,
+            "periodicity": 0.9932317311642023
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1904.4393658642994,
+            "midi": 94.3654911215316,
+            "periodicity": 0.9926232397978779
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1903.672641137732,
+            "midi": 94.35851979312324,
+            "periodicity": 0.9922935080386233
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1901.852257519777,
+            "midi": 94.34195697760596,
+            "periodicity": 0.9914664105677166
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1899.407443128165,
+            "midi": 94.31968779930547,
+            "periodicity": 0.990503446324092
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1900.6614908180527,
+            "midi": 94.33111417170258,
+            "periodicity": 0.9907913392473051
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1901.044924130176,
+            "midi": 94.3346063551344,
+            "periodicity": 0.9906094878038667
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1898.7361681855202,
+            "midi": 94.31356831479926,
+            "periodicity": 0.9903733965942163
+          }
+        ],
+        "pitch_correction_cents": -33
+      },
+      "mature_pyin": [
+        94.24995771500076,
+        94.34995771500078,
+        94.34995771500078
+      ],
+      "source_peak": 0.1834322214126587,
+      "raw_pcm_sha256": "06879d9e19a2459127ca2487b83323a027567faca84ba3a3266179b4f81f133b",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_79",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 79,
+      "key_range": [
+        79,
+        79
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/G5/G5_with_membrane.wav",
+      "source_sha256": "9a4b998f9e5cd6b6e79f28e5c37d430eb70914022eb21a04840e9102231c0d13",
+      "source_note_label": "G5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 258117,
+      "crop_start_frame_at_44100": 13772,
+      "detected_onset_frame_at_44100": 13992,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 79,
+        "median_midi": 79.20103945396396,
+        "median_cents_offset": 20.103945396395773,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 787.2534434011901,
+            "midi": 79.07189566667417,
+            "periodicity": 0.9896353554588193
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 790.962377705762,
+            "midi": 79.1532666057923,
+            "periodicity": 0.9894735597944402
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 793.00496719247,
+            "midi": 79.19791654683026,
+            "periodicity": 0.9889313089885312
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 793.1480272394543,
+            "midi": 79.20103945396396,
+            "periodicity": 0.9881364072829362
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 793.2473872354756,
+            "midi": 79.20320808615845,
+            "periodicity": 0.9879834637208054
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 793.7273563105356,
+            "midi": 79.2136800717267,
+            "periodicity": 0.9881711508704666
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 793.9228061599493,
+            "midi": 79.21794259055984,
+            "periodicity": 0.9877694770262513
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 793.6051979430604,
+            "midi": 79.21101541616977,
+            "periodicity": 0.9879544755896185
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 792.5205516873243,
+            "midi": 79.18733788842948,
+            "periodicity": 0.988496349141775
+          }
+        ],
+        "pitch_correction_cents": -20
+      },
+      "mature_pyin": [
+        79.04995771500077,
+        79.14995771500077,
+        79.24995771500079
+      ],
+      "source_peak": 0.131547212600708,
+      "raw_pcm_sha256": "728d9f3ebc9aaefb4f069e3d6f22165ef091782257250cd7bddabcc7f413244a",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_74",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 74,
+      "key_range": [
+        74,
+        74
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/D5/D5_with_membrane.wav",
+      "source_sha256": "d32a497d4682f34393c4c15584014ea4a5f412fea3e2520459668db7ab788fc3",
+      "source_note_label": "D5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 263316,
+      "crop_start_frame_at_44100": 26400,
+      "detected_onset_frame_at_44100": 26620,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 74,
+        "median_midi": 74.04915871516579,
+        "median_cents_offset": 4.915871516578818,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 588.3064190579336,
+            "midi": 74.0287710473642,
+            "periodicity": 0.9805919529386592
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 587.4381434671923,
+            "midi": 74.0032010623889,
+            "periodicity": 0.9894315247313633
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 588.2064271815825,
+            "midi": 74.0258282942623,
+            "periodicity": 0.9850696642464916
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 588.9450580055574,
+            "midi": 74.04755435103696,
+            "periodicity": 0.9871141825761135
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 588.9996390778679,
+            "midi": 74.04915871516579,
+            "periodicity": 0.9864327664481375
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 589.8103466782178,
+            "midi": 74.072971286145,
+            "periodicity": 0.985610348928963
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 590.5389089881437,
+            "midi": 74.09434313065522,
+            "periodicity": 0.9868963050801751
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 590.4459511023578,
+            "midi": 74.09161774673588,
+            "periodicity": 0.9865997361063362
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 590.198959281569,
+            "midi": 74.08437423681231,
+            "periodicity": 0.9863478559576263
+          }
+        ],
+        "pitch_correction_cents": -5
+      },
+      "mature_pyin": [
+        73.94995771500078,
+        74.04995771500079,
+        74.04995771500079
+      ],
+      "source_peak": 0.1701902151107788,
+      "raw_pcm_sha256": "27e3f99c4a82f54e0e79473c1ded0e239809e84bf369994490f83c740a19c21a",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_78",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 78,
+      "key_range": [
+        78,
+        78
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/F#5/F#5_with_membrane.wav",
+      "source_sha256": "9d398e8ca5c9723335edbf8a8995a62c718954b49f2df11dac203658cce87bff",
+      "source_note_label": "F#5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 249358,
+      "crop_start_frame_at_44100": 16588,
+      "detected_onset_frame_at_44100": 16808,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 78,
+        "median_midi": 78.08812565943921,
+        "median_cents_offset": 8.812565943921413,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 742.3944572530684,
+            "midi": 78.05618898643743,
+            "periodicity": 0.9908841664990624
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 743.5754721957164,
+            "midi": 78.08370789743498,
+            "periodicity": 0.9883830203454009
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 744.4682120197981,
+            "midi": 78.10448069842505,
+            "periodicity": 0.989490927874207
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 744.7261329087361,
+            "midi": 78.11047751718655,
+            "periodicity": 0.9893298629147548
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 744.5797841119376,
+            "midi": 78.10707507289385,
+            "periodicity": 0.9895599436109723
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 743.9970427925795,
+            "midi": 78.09352035879144,
+            "periodicity": 0.9890298041877378
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 743.7652419516373,
+            "midi": 78.08812565943921,
+            "periodicity": 0.9887580917561587
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 743.403804234979,
+            "midi": 78.07971056640564,
+            "periodicity": 0.9886285066201536
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 743.2932828881235,
+            "midi": 78.0771365609699,
+            "periodicity": 0.9884475888144134
+          }
+        ],
+        "pitch_correction_cents": -9
+      },
+      "mature_pyin": [
+        78.04995771500077,
+        78.04995771500077,
+        78.14995771500077
+      ],
+      "source_peak": 0.15064942836761475,
+      "raw_pcm_sha256": "047822caef010208c19ad75a7bf6a913b500ef1ae3caaff0ed84c0329325169d",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_93",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 93,
+      "key_range": [
+        93,
+        93
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/A6/A6_with_membrane.wav",
+      "source_sha256": "1ffb176027c287e2a5d48247e2459b66995e982e19e1ca07b408c215d0f59a75",
+      "source_note_label": "A6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 280582,
+      "crop_start_frame_at_44100": 19536,
+      "detected_onset_frame_at_44100": 19756,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 93,
+        "median_midi": 93.22357010126066,
+        "median_cents_offset": 22.357010126066257,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1782.8758818710576,
+            "midi": 93.22357010126066,
+            "periodicity": 0.9912439902237137
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1782.8158522734955,
+            "midi": 93.2229871833249,
+            "periodicity": 0.9912355729278142
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1784.386724693136,
+            "midi": 93.23823469415018,
+            "periodicity": 0.9853368168537513
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1784.3073095977054,
+            "midi": 93.23746418193524,
+            "periodicity": 0.9875546187359564
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1788.787767521832,
+            "midi": 93.28088158456089,
+            "periodicity": 0.9826833399612175
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1786.9801542955202,
+            "midi": 93.26337820123216,
+            "periodicity": 0.9867597833390325
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1781.446314501413,
+            "midi": 93.20968294010004,
+            "periodicity": 0.9912251916615444
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1780.4639727351387,
+            "midi": 93.20013377451433,
+            "periodicity": 0.9914119556357626
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1782.0125952527112,
+            "midi": 93.21518525990255,
+            "periodicity": 0.9903869032968948
+          }
+        ],
+        "pitch_correction_cents": -22
+      },
+      "mature_pyin": [
+        93.24995771500079,
+        93.24995771500079,
+        93.34995771500078
+      ],
+      "source_peak": 0.15423917770385742,
+      "raw_pcm_sha256": "a7b76d2d6ac9a168bafb79263ff5cc974cd6d18cef6c3ef3a3b600e0ba33a06b",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_88",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 88,
+      "key_range": [
+        88,
+        88
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/E6/E6_with_membrane.wav",
+      "source_sha256": "7220ffb0c9b315e0c12d33c65d55943968cdb1e5b05f82f962cb740221893300",
+      "source_note_label": "E6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 219263,
+      "crop_start_frame_at_44100": 27368,
+      "detected_onset_frame_at_44100": 27588,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 88,
+        "median_midi": 88.24169950506727,
+        "median_cents_offset": 24.16995050672739,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1338.7891763028817,
+            "midi": 88.26424036293247,
+            "periodicity": 0.11367472057234457
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1339.2642136706554,
+            "midi": 88.27038214395427,
+            "periodicity": 0.9070310996639582
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1338.9555869143321,
+            "midi": 88.26639214170538,
+            "periodicity": 0.9330181353499469
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1337.6663455913845,
+            "midi": 88.2497145629913,
+            "periodicity": 0.9330107944130053
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1336.9513153601824,
+            "midi": 88.24045802715119,
+            "periodicity": 0.9161473730543771
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1337.143076210123,
+            "midi": 88.24294098298336,
+            "periodicity": 0.9145739552204718
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1335.8522482486312,
+            "midi": 88.22622022427726,
+            "periodicity": 0.9337656975691652
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1333.7920749848297,
+            "midi": 88.19950023930969,
+            "periodicity": 0.9461960932936335
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1332.5255678250346,
+            "midi": 88.1830534330618,
+            "periodicity": 0.9279325368441198
+          }
+        ],
+        "pitch_correction_cents": -24
+      },
+      "mature_pyin": [
+        76.14995771500077,
+        88.14995771500077,
+        88.14995771500077
+      ],
+      "source_peak": 0.08658349514007568,
+      "raw_pcm_sha256": "4886e603c33db4845b5a09fd2249720bea227fa37cdf5ebb4bd4f778abff0931",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_89",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 89,
+      "key_range": [
+        89,
+        89
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/F6/F6_with_membrane.wav",
+      "source_sha256": "0fa8f0db0bfb1866ba40cf461871bcb1dbe10b63648b6ea6a33e4149c3f4d7a2",
+      "source_note_label": "F6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 266175,
+      "crop_start_frame_at_44100": 17600,
+      "detected_onset_frame_at_44100": 17820,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 89,
+        "median_midi": 89.38645234024256,
+        "median_cents_offset": 38.645234024255615,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1432.9983606582143,
+            "midi": 89.44153836364438,
+            "periodicity": 0.9190996991116425
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1433.2706994653872,
+            "midi": 89.44482823076703,
+            "periodicity": 0.9417804738791393
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1432.5859633799678,
+            "midi": 89.43655539239637,
+            "periodicity": 0.9245100343977111
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1427.4367488543478,
+            "midi": 89.3742166906327,
+            "periodicity": 0.9274612132741351
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1429.0227761908218,
+            "midi": 89.39344178229423,
+            "periodicity": 0.9462492093430652
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1428.4459589812,
+            "midi": 89.38645234024256,
+            "periodicity": 0.9535348233483972
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1425.3075575464147,
+            "midi": 89.34837400178415,
+            "periodicity": 0.955174104335656
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1426.205606029907,
+            "midi": 89.35927861329776,
+            "periodicity": 0.9577650030061364
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1427.876316364287,
+            "midi": 89.37954706407126,
+            "periodicity": 0.9634738118778697
+          }
+        ],
+        "pitch_correction_cents": -39
+      },
+      "mature_pyin": [
+        77.34995771500077,
+        89.34995771500077,
+        89.44995771500078
+      ],
+      "source_peak": 0.19502592086791992,
+      "raw_pcm_sha256": "f19e7665b99b1988a66a05019f7553bde836f2c2761efb20c2cdc73a463bd840",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_85",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 85,
+      "key_range": [
+        85,
+        85
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C#6/C#6_with_membrane.wav",
+      "source_sha256": "a3839c070f173dc51aeba8352df6deffa83b3d299c8f395648339a7622081d2b",
+      "source_note_label": "C#6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 300252,
+      "crop_start_frame_at_44100": 25124,
+      "detected_onset_frame_at_44100": 25344,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 85,
+        "median_midi": 84.99781706789113,
+        "median_cents_offset": -0.2182932108865998,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1106.8116297569793,
+            "midi": 84.9700113517128,
+            "periodicity": 0.9927706609141986
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1108.7480500482543,
+            "midi": 85.00027366083262,
+            "periodicity": 0.99295626374152
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1109.634759122438,
+            "midi": 85.01411348159078,
+            "periodicity": 0.9925192010593143
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1109.0579663050887,
+            "midi": 85.00511211447309,
+            "periodicity": 0.9919950533574574
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1109.2662247454866,
+            "midi": 85.00836271333087,
+            "periodicity": 0.9928462422917681
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1108.5907316662062,
+            "midi": 84.99781706789113,
+            "periodicity": 0.991464808771845
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1108.1590692692764,
+            "midi": 84.99107468633416,
+            "periodicity": 0.9924282458442619
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1107.0970261403288,
+            "midi": 84.9744748415479,
+            "periodicity": 0.9922751026663139
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1106.7153039649577,
+            "midi": 84.9685045935296,
+            "periodicity": 0.992207224433311
+          }
+        ],
+        "pitch_correction_cents": 0
+      },
+      "mature_pyin": [
+        84.94995771500078,
+        85.04995771500077,
+        85.04995771500077
+      ],
+      "source_peak": 0.30464816093444824,
+      "raw_pcm_sha256": "a2785d5d4ad7a4c13899530f7cb37285f2324fa1175cb24a6ab5858ce904c5c0",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_83",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 83,
+      "key_range": [
+        83,
+        83
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/B5/alt_1/B5(alt)_with_membrane.wav",
+      "source_sha256": "fcedcdf51ed485993905623553d0cdf05a8c64902cbb946e0fb6c1873dd35dfd",
+      "source_note_label": "B5(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 248989,
+      "crop_start_frame_at_44100": 6556,
+      "detected_onset_frame_at_44100": 6776,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 83,
+        "median_midi": 83.13169389581464,
+        "median_cents_offset": 13.16938958146352,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 989.1585781898639,
+            "midi": 83.02437963874738,
+            "periodicity": 0.9906432374965071
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 990.9367206493033,
+            "midi": 83.05547290581555,
+            "periodicity": 0.9897936978691373
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 992.2738322978244,
+            "midi": 83.0788174121327,
+            "periodicity": 0.9905899472089746
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 993.742212264565,
+            "midi": 83.1044175060047,
+            "periodicity": 0.9909376353496291
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 995.3091329431986,
+            "midi": 83.13169389581464,
+            "periodicity": 0.9915573723676726
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 995.9118114231469,
+            "midi": 83.14217367245558,
+            "periodicity": 0.9920166034997254
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 995.9254092083223,
+            "midi": 83.14241004667778,
+            "periodicity": 0.9914510472774097
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 996.5637063712335,
+            "midi": 83.15350212051663,
+            "periodicity": 0.9920624388278813
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 997.7605584137157,
+            "midi": 83.17428140193017,
+            "periodicity": 0.9924558275501246
+          }
+        ],
+        "pitch_correction_cents": -13
+      },
+      "mature_pyin": [
+        83.10995771500077,
+        83.24995771500078,
+        83.24995771500078
+      ],
+      "source_peak": 0.22487056255340576,
+      "raw_pcm_sha256": "e29fdaf60b5f755c5193f3cf1563e986ea8d6cf2fa40636454709242c109a2a4",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_83",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 83,
+      "key_range": [
+        83,
+        83
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/B5/standard/B5_with_membrane.wav",
+      "source_sha256": "05ed69ec7300138379a577185d5329c8b1eedae5b01cc2633f1d0a6bd4bfd058",
+      "source_note_label": "B5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 218780,
+      "crop_start_frame_at_44100": 24508,
+      "detected_onset_frame_at_44100": 24728,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 83,
+        "median_midi": 83.26758279516235,
+        "median_cents_offset": 26.75827951623546,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1000.0417534017607,
+            "midi": 83.21381768766676,
+            "periodicity": 0.9931035036251927
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 999.9626200170089,
+            "midi": 83.2124477065608,
+            "periodicity": 0.992654059746121
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1001.1027022110588,
+            "midi": 83.23217469202909,
+            "periodicity": 0.9931091816340105
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1002.3841394822991,
+            "midi": 83.25432076348878,
+            "periodicity": 0.9933902214894792
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1003.1523050161018,
+            "midi": 83.26758279516235,
+            "periodicity": 0.9930270239839543
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1003.9126204079454,
+            "midi": 83.28069930116752,
+            "periodicity": 0.9936648993141483
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1003.6340050654796,
+            "midi": 83.27589394955629,
+            "periodicity": 0.9931053809726937
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1004.3493951321906,
+            "midi": 83.28822978554112,
+            "periodicity": 0.9932439481949266
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1005.1855952217229,
+            "midi": 83.30263767748961,
+            "periodicity": 0.9931719806338655
+          }
+        ],
+        "pitch_correction_cents": -27
+      },
+      "mature_pyin": [
+        83.24995771500078,
+        83.34995771500077,
+        83.34995771500077
+      ],
+      "source_peak": 0.2317284345626831,
+      "raw_pcm_sha256": "72802521e53d86eb67b11267451f9a9de43057375fb951b53b8ee6d0a197f2bb",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_98",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 98,
+      "key_range": [
+        98,
+        98
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/D7/alt_1/D7(alt)_with_membrane.wav",
+      "source_sha256": "1de93619c3f43b6f9f74e22cef3d428728387c88a669b900e56241902deb8a0a",
+      "source_note_label": "D7(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 288947,
+      "crop_start_frame_at_44100": 23056,
+      "detected_onset_frame_at_44100": 23276,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 98,
+        "median_midi": 98.23403734206438,
+        "median_cents_offset": 23.403734206438287,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2384.0207105412187,
+            "midi": 98.25385608022314,
+            "periodicity": 0.7809457006983437
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2385.3840638262664,
+            "midi": 98.26375368298044,
+            "periodicity": 0.9802818048639035
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2383.9820017050815,
+            "midi": 98.25357498115854,
+            "periodicity": 0.9797233060645262
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2381.6269742507266,
+            "midi": 98.23646445418112,
+            "periodicity": 0.9806121522915787
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2381.2931042860932,
+            "midi": 98.23403734206438,
+            "periodicity": 0.9808671179484673
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2380.435383863792,
+            "midi": 98.22780046896494,
+            "periodicity": 0.9812991596548729
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2379.5067918857444,
+            "midi": 98.22104572274694,
+            "periodicity": 0.9822229492971432
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2378.683858047603,
+            "midi": 98.21505734943555,
+            "periodicity": 0.9823440401787251
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2379.4663187015626,
+            "midi": 98.22075125352887,
+            "periodicity": 0.9819406762693429
+          }
+        ],
+        "pitch_correction_cents": -23
+      },
+      "mature_pyin": [
+        98.24995771500078,
+        98.34995771500077,
+        98.34995771500077
+      ],
+      "source_peak": 0.2367393970489502,
+      "raw_pcm_sha256": "b56c80e6fffb6af4fc779df92a58b62cee66575ca22d60a21281f9449f9b4c29",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_98",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 98,
+      "key_range": [
+        98,
+        98
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/D7/standard/D7_with_membrane.wav",
+      "source_sha256": "531c231cc69db3d3d7598549609149e1545c913578b89bb6d89e6bb444623ae1",
+      "source_note_label": "D7",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 230608,
+      "crop_start_frame_at_44100": 23452,
+      "detected_onset_frame_at_44100": 23672,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 98,
+        "median_midi": 98.36464221994237,
+        "median_cents_offset": 36.46422199423682,
+        "windows": [
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2385.9650239825432,
+            "midi": 98.2679695891745,
+            "periodicity": 0.8981957614782626
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2408.5821048818443,
+            "midi": 98.43130410202787,
+            "periodicity": 0.9888414903067885
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2407.986744975618,
+            "midi": 98.42702426142561,
+            "periodicity": 0.9898190899135215
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2405.3887739128245,
+            "midi": 98.40833593602278,
+            "periodicity": 0.9887410010024139
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2401.4038641691004,
+            "midi": 98.37963150239865,
+            "periodicity": 0.9874181731985758
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2397.2491199244555,
+            "midi": 98.34965293748607,
+            "periodicity": 0.9856932629372475
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2394.844745686546,
+            "midi": 98.33228042762548,
+            "periodicity": 0.9853494442448807
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2392.7772123425893,
+            "midi": 98.31732776688273,
+            "periodicity": 0.9844862661744243
+          }
+        ],
+        "pitch_correction_cents": -36
+      },
+      "mature_pyin": [
+        98.24995771500078,
+        98.34995771500077,
+        98.54995771500077
+      ],
+      "source_peak": 0.48120832443237305,
+      "raw_pcm_sha256": "8cdae89ee3fbcb62f29d9ded075b2ae2f9116323c2a2cf6500e8a6b0f39fb512",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_86",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 86,
+      "key_range": [
+        86,
+        86
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/D6/alt_1/D6(alt)_with_membrane.wav",
+      "source_sha256": "f953fd9c28348c76ff9dbf43f6b89e7fe463be5b68fbdf8608be9105e23e1f80",
+      "source_note_label": "D6(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 230310,
+      "crop_start_frame_at_44100": 39864,
+      "detected_onset_frame_at_44100": 40084,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 86,
+        "median_midi": 86.26096529376338,
+        "median_cents_offset": 26.096529376337685,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1184.3299825457127,
+            "midi": 86.14194812783299,
+            "periodicity": 0.992126128399635
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1188.22909617828,
+            "midi": 86.19885111009842,
+            "periodicity": 0.9929957089840706
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1189.444554594144,
+            "midi": 86.21655112689743,
+            "periodicity": 0.9924037036470619
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1191.6760634502912,
+            "midi": 86.24900026210119,
+            "periodicity": 0.9934191631292727
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1192.7518038134888,
+            "midi": 86.26462127120485,
+            "periodicity": 0.9925190387051861
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1193.0740517858496,
+            "midi": 86.26929794669714,
+            "periodicity": 0.9932293564620522
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1193.0243965964742,
+            "midi": 86.26857740011089,
+            "periodicity": 0.9929462286976722
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1192.6590621176647,
+            "midi": 86.26327510829469,
+            "periodicity": 0.9928375336620463
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1192.499948018218,
+            "midi": 86.26096529376338,
+            "periodicity": 0.9923094075406079
+          }
+        ],
+        "pitch_correction_cents": -26
+      },
+      "mature_pyin": [
+        86.14995771500078,
+        86.24995771500078,
+        86.24995771500078
+      ],
+      "source_peak": 0.23914361000061035,
+      "raw_pcm_sha256": "dbaf93155d4e5f7593d7866a7d574da8e2817e75916c05729ed0a07fa2f18e91",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_86",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 86,
+      "key_range": [
+        86,
+        86
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/D6/standard/D6_with_membrane.wav",
+      "source_sha256": "c4584401da887eeacd45412bf556f713d4a31c00172a3dd465842f3a07898811",
+      "source_note_label": "D6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 243425,
+      "crop_start_frame_at_44100": 15092,
+      "detected_onset_frame_at_44100": 15312,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 86,
+        "median_midi": 86.1995606091336,
+        "median_cents_offset": 19.956060913359863,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1190.4182425970116,
+            "midi": 86.23071733782169,
+            "periodicity": 0.9111448347980254
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1189.8015004094295,
+            "midi": 86.22174568634563,
+            "periodicity": 0.9818523927689511
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1188.39384488187,
+            "midi": 86.20125131048968,
+            "periodicity": 0.9781324461917923
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1187.6417336831873,
+            "midi": 86.19029120053949,
+            "periodicity": 0.945339806432796
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1186.8169982642507,
+            "midi": 86.17826479572611,
+            "periodicity": 0.9274108841398854
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1187.1552866060129,
+            "midi": 86.1831987732907,
+            "periodicity": 0.9729606239379323
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1187.938592201603,
+            "midi": 86.19461798816195,
+            "periodicity": 0.9902416802132892
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1188.6691337805423,
+            "midi": 86.20526121280291,
+            "periodicity": 0.9915153461757682
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1188.2777935033475,
+            "midi": 86.1995606091336,
+            "periodicity": 0.9919621668442039
+          }
+        ],
+        "pitch_correction_cents": -20
+      },
+      "mature_pyin": [
+        86.14995771500078,
+        86.14995771500078,
+        86.24995771500078
+      ],
+      "source_peak": 0.23471999168395996,
+      "raw_pcm_sha256": "9564290ca0f259148d856d8dbaccbd724b4e7093d73343d6bf829e383fb6643c",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_96",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 96,
+      "key_range": [
+        96,
+        96
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C7/alt_1/C7(alt1)_with_membrane.wav",
+      "source_sha256": "f7ac2dce81cbe336b26443e7fb21bee47b5a51c1f10114ebdc452e73cdd0c7df",
+      "source_note_label": "C7(alt1)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 250408,
+      "crop_start_frame_at_44100": 28908,
+      "detected_onset_frame_at_44100": 29128,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 96,
+        "median_midi": 96.0292481020655,
+        "median_cents_offset": 2.9248102065494663,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2094.0605588850963,
+            "midi": 96.00873282987025,
+            "periodicity": 0.9912526898787842
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2099.69928406916,
+            "midi": 96.05528751721603,
+            "periodicity": 0.9897529208811051
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2101.6007962807394,
+            "midi": 96.0709586801762,
+            "periodicity": 0.9895126330350302
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2097.8132188458444,
+            "midi": 96.03972963358451,
+            "periodicity": 0.9886279578109707
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2095.5717015580367,
+            "midi": 96.02122147612468,
+            "periodicity": 0.9857928357660211
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2093.0464464301044,
+            "midi": 96.0003467721757,
+            "periodicity": 0.9856402586667715
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2096.543509503801,
+            "midi": 96.0292481020655,
+            "periodicity": 0.9864774600425842
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2097.265470637978,
+            "midi": 96.03520871551191,
+            "periodicity": 0.9868706195522562
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2094.8430567769724,
+            "midi": 96.0152008087678,
+            "periodicity": 0.9891410317782952
+          }
+        ],
+        "pitch_correction_cents": -3
+      },
+      "mature_pyin": [
+        96.04995771500077,
+        96.04995771500077,
+        96.14995771500077
+      ],
+      "source_peak": 0.14627981185913086,
+      "raw_pcm_sha256": "d6ab5128ec4e284b7a391942fc5efea3c467ed5896489361513583a00b379b8d",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_96",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 96,
+      "key_range": [
+        96,
+        96
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C7/standard/C7_with_membrane.wav",
+      "source_sha256": "06cf498e3e2fa0b90e45c4b1732bea8609edbb97427009b79ceeeb6f09419343",
+      "source_note_label": "C7",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 287902,
+      "crop_start_frame_at_44100": 22616,
+      "detected_onset_frame_at_44100": 22836,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 96,
+        "median_midi": 96.04648441349289,
+        "median_cents_offset": 4.648441349289101,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2102.00555980799,
+            "midi": 96.07429267647842,
+            "periodicity": 0.9478963402952763
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2101.9873832200497,
+            "midi": 96.07414297152714,
+            "periodicity": 0.9794751870829133
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2100.2557433871425,
+            "midi": 96.05987500121313,
+            "periodicity": 0.9855964526418866
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2096.368211438644,
+            "midi": 96.02780050669736,
+            "periodicity": 0.9868533571948787
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2095.0938871124486,
+            "midi": 96.01727361331665,
+            "periodicity": 0.9863378624616524
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2095.801822106782,
+            "midi": 96.02312248794112,
+            "periodicity": 0.9836116861592104
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2096.93516053167,
+            "midi": 96.03248188313425,
+            "periodicity": 0.9833383485353524
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2098.6496977877264,
+            "midi": 96.04663135474092,
+            "periodicity": 0.9832463806184553
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2098.6318852396626,
+            "midi": 96.04648441349289,
+            "periodicity": 0.9823364357492311
+          }
+        ],
+        "pitch_correction_cents": -5
+      },
+      "mature_pyin": [
+        96.04995771500077,
+        96.14995771500077,
+        96.14995771500077
+      ],
+      "source_peak": 0.14655816555023193,
+      "raw_pcm_sha256": "3807089f67a50775adda2fc7ac79654b5a7fd7362c8e5f16edee4c348d1bae34",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_2_96",
+      "program": 2,
+      "bank": 0,
+      "root_midi": 96,
+      "key_range": [
+        96,
+        96
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C7/alt_2/C7(alt2)_with_membrane.wav",
+      "source_sha256": "5df25f417973f7aaf12b1713f0ddc2007b840b42596edad2a9b9378dd487b3b2",
+      "source_note_label": "C7(alt2)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_2",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 286386,
+      "crop_start_frame_at_44100": 27104,
+      "detected_onset_frame_at_44100": 27324,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 96,
+        "median_midi": 95.90025037417678,
+        "median_cents_offset": -9.974962582322178,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2009.6911917536725,
+            "midi": 95.29678086839382,
+            "periodicity": 0.9823460395336886
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2015.365331275936,
+            "midi": 95.34559146268509,
+            "periodicity": 0.9799924662179331
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2016.6663402467013,
+            "midi": 95.35676375144665,
+            "periodicity": 0.9826169143076702
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2040.8120234780372,
+            "midi": 95.5628144985283,
+            "periodicity": 0.977058224182906
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2080.979798693667,
+            "midi": 95.90025037417678,
+            "periodicity": 0.9804998136228903
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2112.08027208788,
+            "midi": 96.15707085831443,
+            "periodicity": 0.9847998316150481
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2113.3523836102504,
+            "midi": 96.16749498775975,
+            "periodicity": 0.9847232355921097
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2103.424851589989,
+            "midi": 96.08597816933636,
+            "periodicity": 0.9846910750259807
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2096.7596215455233,
+            "midi": 96.03103256893414,
+            "periodicity": 0.9854332266118337
+          }
+        ],
+        "pitch_correction_cents": 10
+      },
+      "mature_pyin": [
+        95.44995771500078,
+        95.94995771500078,
+        96.04995771500077
+      ],
+      "source_peak": 0.12568652629852295,
+      "raw_pcm_sha256": "26e308728ee825531320fbdfcfba06426071f0c9dee20be0ed066662ef5c5b30",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_84",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 84,
+      "key_range": [
+        84,
+        84
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C6/alt_1/C6(alt)_with_membrane.wav",
+      "source_sha256": "640f07eb281499c551317f4ea38d83ed2675cbd5e71d31e035b2b9d6f4b62359",
+      "source_note_label": "C6(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 266035,
+      "crop_start_frame_at_44100": 50424,
+      "detected_onset_frame_at_44100": 50644,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 84,
+        "median_midi": 84.13347106762917,
+        "median_cents_offset": 13.347106762917349,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1053.236600190816,
+            "midi": 84.11104958949286,
+            "periodicity": 0.9933428495636754
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1054.6015467832988,
+            "midi": 84.13347106762917,
+            "periodicity": 0.9908744826162981
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1055.6121324450312,
+            "midi": 84.15005289967836,
+            "periodicity": 0.9929770690956766
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1053.7947770910814,
+            "midi": 84.12022206682914,
+            "periodicity": 0.9922650079568799
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1050.8664079767896,
+            "midi": 84.07204618344825,
+            "periodicity": 0.990776195216295
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1053.0622890926452,
+            "midi": 84.10818415277345,
+            "periodicity": 0.9914183066352489
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1054.9854753340526,
+            "midi": 84.13977249231414,
+            "periodicity": 0.992657290756344
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1054.9356541400664,
+            "midi": 84.13895490585362,
+            "periodicity": 0.9916626411921827
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1055.428942076298,
+            "midi": 84.14704826458683,
+            "periodicity": 0.9926951508929263
+          }
+        ],
+        "pitch_correction_cents": -13
+      },
+      "mature_pyin": [
+        84.14995771500077,
+        84.14995771500077,
+        84.24995771500079
+      ],
+      "source_peak": 0.2210381031036377,
+      "raw_pcm_sha256": "aec3541eb0e82403d6d72db8b3174f814392da6b5d0979afbd09970dde844f71",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_84",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 84,
+      "key_range": [
+        84,
+        84
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C6/standard/C6_with_membrane.wav",
+      "source_sha256": "99c6b3f7895381dbec6e9510dc129a0c427f2f49f2c883b178b9181d4f2dfd1f",
+      "source_note_label": "C6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 279778,
+      "crop_start_frame_at_44100": 21824,
+      "detected_onset_frame_at_44100": 22044,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 84,
+        "median_midi": 84.26144052449365,
+        "median_cents_offset": 26.144052449365063,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1059.824196466829,
+            "midi": 84.21899449993596,
+            "periodicity": 0.9921277743377268
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1063.3683462207057,
+            "midi": 84.27679197524225,
+            "periodicity": 0.990035381410139
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1064.7624719199473,
+            "midi": 84.29947439874638,
+            "periodicity": 0.9907836959758762
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1064.3101021253933,
+            "midi": 84.29211759924192,
+            "periodicity": 0.9910403732249556
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1062.9618459344929,
+            "midi": 84.27017261623944,
+            "periodicity": 0.9899734537178945
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1062.4258386894292,
+            "midi": 84.26144052449365,
+            "periodicity": 0.9899687367325745
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1062.1025613027123,
+            "midi": 84.25617188394736,
+            "periodicity": 0.9898387432254251
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1061.7685593385168,
+            "midi": 84.25072677410037,
+            "periodicity": 0.990132556564839
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1061.0084487462775,
+            "midi": 84.23832858635319,
+            "periodicity": 0.9908158435588094
+          }
+        ],
+        "pitch_correction_cents": -26
+      },
+      "mature_pyin": [
+        84.14995771500077,
+        84.14995771500077,
+        84.24995771500079
+      ],
+      "source_peak": 0.2177184820175171,
+      "raw_pcm_sha256": "22085e44060513699f4a96e6b56bd973122fde629066f194d65e6fa8f737ced4",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_95",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 95,
+      "key_range": [
+        95,
+        95
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/B6/alt_1/B6(alt)_with_membrane.wav",
+      "source_sha256": "4c8b4014c1ff4a0cb011d69f367d6ff7079db85b91fa95d948a33ec0eba4e9c5",
+      "source_note_label": "B6(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 254795,
+      "crop_start_frame_at_44100": 20064,
+      "detected_onset_frame_at_44100": 20284,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 95,
+        "median_midi": 95.42121238991538,
+        "median_cents_offset": 42.121238991538235,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1999.600504793558,
+            "midi": 95.20963640971053,
+            "periodicity": 0.9945772164761914
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2007.8033038916105,
+            "midi": 95.28051015045388,
+            "periodicity": 0.9951077971509164
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2015.702562971522,
+            "midi": 95.348488099559,
+            "periodicity": 0.9939088426715316
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2021.5974780703566,
+            "midi": 95.39904408937488,
+            "periodicity": 0.9924246046193882
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2024.18777402671,
+            "midi": 95.42121238991538,
+            "periodicity": 0.9918377233845612
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2025.5897758433332,
+            "midi": 95.43319918844378,
+            "periodicity": 0.9913482336783013
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2025.8833851923541,
+            "midi": 95.43570843129365,
+            "periodicity": 0.9912167202265233
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2026.5227188480856,
+            "midi": 95.441171043748,
+            "periodicity": 0.9910948255620912
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2027.4015821895334,
+            "midi": 95.44867744027661,
+            "periodicity": 0.990672404288725
+          }
+        ],
+        "pitch_correction_cents": -42
+      },
+      "mature_pyin": [
+        95.24995771500078,
+        95.44995771500078,
+        95.54995771500077
+      ],
+      "source_peak": 0.23181438446044922,
+      "raw_pcm_sha256": "b91afaa5944ec5224f688809d0c57e47b4663d0ff4b012df22f940528e25a254",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_95",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 95,
+      "key_range": [
+        95,
+        95
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/B6/standard/B6_with_membrane.wav",
+      "source_sha256": "bdc7cc931d3ece96817ba52fcba7f8780b459f6758196a81d7a95757038c70d9",
+      "source_note_label": "B6",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 273787,
+      "crop_start_frame_at_44100": 35244,
+      "detected_onset_frame_at_44100": 35464,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 95,
+        "median_midi": 95.09192755478205,
+        "median_cents_offset": 9.192755478204617,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 1966.8681374703688,
+            "midi": 94.92389773216772,
+            "periodicity": 0.1804558571369366
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 1977.5144191884572,
+            "midi": 95.0173534246606,
+            "periodicity": 0.9733161601897898
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 1979.6553776368091,
+            "midi": 95.03608651277852,
+            "periodicity": 0.9890352514675325
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 1982.7376626274656,
+            "midi": 95.06302052839405,
+            "periodicity": 0.9903519772308134
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 1986.1818584033883,
+            "midi": 95.09306754982694,
+            "periodicity": 0.9911287507878868
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 1988.2308618465268,
+            "midi": 95.11091826182584,
+            "periodicity": 0.9920909523912846
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 1986.6912440081455,
+            "midi": 95.09750698539492,
+            "periodicity": 0.9910490226368253
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 1985.9203006564696,
+            "midi": 95.09078755973714,
+            "periodicity": 0.991057155528272
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 1989.880356964015,
+            "midi": 95.1252751368238,
+            "periodicity": 0.992282697683778
+          }
+        ],
+        "pitch_correction_cents": -9
+      },
+      "mature_pyin": [
+        95.04995771500077,
+        95.14995771500078,
+        95.14995771500078
+      ],
+      "source_peak": 0.1723320484161377,
+      "raw_pcm_sha256": "6db3996659c7b3ef41d7a36449c843b19769ab57da16f954b8b79226a8dfdbc1",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_100",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 100,
+      "key_range": [
+        100,
+        100
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/E7/alt_1/E7(alt)_with_membrane.wav",
+      "source_sha256": "aad62885493fb43d284a40dc9a31b67cff66ace10976efe2aa3b1e831fbf16d3",
+      "source_note_label": "E7(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 209036,
+      "crop_start_frame_at_44100": 21252,
+      "detected_onset_frame_at_44100": 21472,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 100,
+        "median_midi": 100.30623223121093,
+        "median_cents_offset": 30.623223121092735,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2696.741213059894,
+            "midi": 100.38769985091417,
+            "periodicity": 0.9863779877157673
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2692.6940968222343,
+            "midi": 100.36169895714588,
+            "periodicity": 0.9844734428583733
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2690.694575059686,
+            "midi": 100.34883850612758,
+            "periodicity": 0.9840869205018914
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2688.0034515673065,
+            "midi": 100.3315147412092,
+            "periodicity": 0.9795460422946382
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2684.0808233609364,
+            "midi": 100.30623223121093,
+            "periodicity": 0.9794681405246185
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2683.6114505455294,
+            "midi": 100.30320450845656,
+            "periodicity": 0.9813268119264058
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2683.791484259994,
+            "midi": 100.30436589134644,
+            "periodicity": 0.9822097910427601
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2682.572073449655,
+            "midi": 100.29649804740222,
+            "periodicity": 0.9813566802369451
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2679.279920762093,
+            "midi": 100.27523864841172,
+            "periodicity": 0.9792300830638472
+          }
+        ],
+        "pitch_correction_cents": -31
+      },
+      "mature_pyin": [
+        100.24995771500076,
+        100.34995771500078,
+        100.44995771500078
+      ],
+      "source_peak": 0.6847330331802368,
+      "raw_pcm_sha256": "db3b35b9778feb846677964b2c3556fb899cf0da97d5c05967e3ca5d50941a4a",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_100",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 100,
+      "key_range": [
+        100,
+        100
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/E7/standard/E7_with_membrane.wav",
+      "source_sha256": "64bcef01769bdf69c410abe85e584cee726809714d1c33c582bfbb9745f4188a",
+      "source_note_label": "E7",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 227362,
+      "crop_start_frame_at_44100": 25212,
+      "detected_onset_frame_at_44100": 25432,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 100,
+        "median_midi": 100.27516516840492,
+        "median_cents_offset": 27.5165168404925,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2675.8095316556005,
+            "midi": 100.25279996954694,
+            "periodicity": 0.9737973609212858
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2677.716610698791,
+            "midi": 100.26513427118552,
+            "periodicity": 0.9809014781650415
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2680.978588488399,
+            "midi": 100.28621122183966,
+            "periodicity": 0.9821699027891961
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2681.877026951599,
+            "midi": 100.29201188993358,
+            "periodicity": 0.982454748140918
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2680.01479084814,
+            "midi": 100.27998640792501,
+            "periodicity": 0.9816141443978186
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2679.5492545176235,
+            "midi": 100.2769788784257,
+            "periodicity": 0.9812107523700344
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2678.272795555517,
+            "midi": 100.26872982036221,
+            "periodicity": 0.9808283164899861
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2678.7494872730276,
+            "midi": 100.2718108787968,
+            "periodicity": 0.9809725805251149
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2679.268548926548,
+            "midi": 100.27516516840492,
+            "periodicity": 0.9812910061635484
+          }
+        ],
+        "pitch_correction_cents": -28
+      },
+      "mature_pyin": [
+        100.24995771500076,
+        100.34995771500078,
+        100.44995771500078
+      ],
+      "source_peak": 0.37645959854125977,
+      "raw_pcm_sha256": "e165c8f121055ab4ccc359559054a3130645f4413e0fd52adcdad619c6890c5d",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_82",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 82,
+      "key_range": [
+        82,
+        82
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/A#5/alt_1/A#5(alt)_with_membrane.wav",
+      "source_sha256": "7932b4c26f0171fd90d15252ac01e9a3dc2d17dcf4abb260258c5be858b1cdd1",
+      "source_note_label": "A#5(alt)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 295607,
+      "crop_start_frame_at_44100": 46112,
+      "detected_onset_frame_at_44100": 46332,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 82,
+        "median_midi": 82.09326208453751,
+        "median_cents_offset": 9.326208453751406,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 928.5935428397942,
+            "midi": 81.93052470146546,
+            "periodicity": 0.986338407614472
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 930.869315002851,
+            "midi": 81.97290141479613,
+            "periodicity": 0.9891796471884768
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 935.1280019033454,
+            "midi": 82.05192399966876,
+            "periodicity": 0.9896272631894775
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 937.0813749850424,
+            "midi": 82.08804973708268,
+            "periodicity": 0.9907412511314356
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 937.3635511059194,
+            "midi": 82.09326208453751,
+            "periodicity": 0.9904808680868576
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 938.4736829772974,
+            "midi": 82.11375318348934,
+            "periodicity": 0.9910408615821122
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 939.084112456046,
+            "midi": 82.125010321224,
+            "periodicity": 0.9907994793424515
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 939.2254487936905,
+            "midi": 82.12761570944764,
+            "periodicity": 0.9907926804743176
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 938.258825884806,
+            "midi": 82.10978918847061,
+            "periodicity": 0.991212926223434
+          }
+        ],
+        "pitch_correction_cents": -9
+      },
+      "mature_pyin": [
+        81.84995771500077,
+        82.04995771500077,
+        82.14995771500077
+      ],
+      "source_peak": 0.16062188148498535,
+      "raw_pcm_sha256": "4148fd64d4dcbd9ba679d1a3a78b6b9a01c907b99d2f975173a890a6822db2e7",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_default_82",
+      "program": 0,
+      "bank": 0,
+      "root_midi": 82,
+      "key_range": [
+        82,
+        82
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/A#5/standard/A#5_with_membrane.wav",
+      "source_sha256": "f701adbfe493e54acc982917a537e94fa26ec35374cb47776be02c085003f577",
+      "source_note_label": "A#5",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "default",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 301873,
+      "crop_start_frame_at_44100": 36872,
+      "detected_onset_frame_at_44100": 37092,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 82,
+        "median_midi": 82.2466019420394,
+        "median_cents_offset": 24.660194203940478,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 931.6785599794516,
+            "midi": 81.98794524335489,
+            "periodicity": 0.9808134770190439
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 942.7310264088989,
+            "midi": 82.19211223132137,
+            "periodicity": 0.9883958927049042
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 946.7002248434753,
+            "midi": 82.26484969219776,
+            "periodicity": 0.9894050360328922
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 947.1777229469902,
+            "midi": 82.27357951550712,
+            "periodicity": 0.9889903475206535
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 947.4062880172067,
+            "midi": 82.27775668191005,
+            "periodicity": 0.988687458932538
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 947.2929081131877,
+            "midi": 82.27568472082037,
+            "periodicity": 0.9889907248856988
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 945.7028987967565,
+            "midi": 82.2466019420394,
+            "periodicity": 0.9895793665219164
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 945.1058851491533,
+            "midi": 82.23566936760236,
+            "periodicity": 0.9900122754681071
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 944.4605722374748,
+            "midi": 82.22384456277408,
+            "periodicity": 0.9903919459581442
+          }
+        ],
+        "pitch_correction_cents": -25
+      },
+      "mature_pyin": [
+        81.94995771500078,
+        82.04995771500077,
+        82.24995771500076
+      ],
+      "source_peak": 0.18702352046966553,
+      "raw_pcm_sha256": "eee0084f02b945ca7fe397c488fa85840fd6a0108e561ff9a52a2f1eda0f3f21",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_1_97",
+      "program": 1,
+      "bank": 0,
+      "root_midi": 97,
+      "key_range": [
+        97,
+        97
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C#7/alt_1/C#7(alt1)_with_membrane.wav",
+      "source_sha256": "8c528123a26bb42b6fd93457169bbc7f68abc83436a7a98b42fe9615c6ad712a",
+      "source_note_label": "C#7(alt1)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_1",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 274042,
+      "crop_start_frame_at_44100": 36476,
+      "detected_onset_frame_at_44100": 36696,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 97,
+        "median_midi": 97.27411029166366,
+        "median_cents_offset": 27.411029166366063,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2245.185666772975,
+            "midi": 97.21511190526522,
+            "periodicity": 0.9897006672693331
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2244.7263106312794,
+            "midi": 97.21156950621629,
+            "periodicity": 0.9877916099182694
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2246.713898334712,
+            "midi": 97.22689189534856,
+            "periodicity": 0.9763861903675402
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2248.3988357057674,
+            "midi": 97.23987052906266,
+            "periodicity": 0.9782188699799771
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2252.850043295814,
+            "midi": 97.27411029166366,
+            "periodicity": 0.9858900006457773
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2256.511302076491,
+            "midi": 97.30222290793417,
+            "periodicity": 0.9852464919754343
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2256.5889299078403,
+            "midi": 97.30281847168366,
+            "periodicity": 0.9853763380138548
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2255.8178259653814,
+            "midi": 97.29690162293412,
+            "periodicity": 0.9853630617954917
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2255.6734943990127,
+            "midi": 97.2957939106306,
+            "periodicity": 0.9853564967654509
+          }
+        ],
+        "pitch_correction_cents": -27
+      },
+      "mature_pyin": [
+        97.24995771500079,
+        97.34995771500078,
+        97.44995771500078
+      ],
+      "source_peak": 0.34832239151000977,
+      "raw_pcm_sha256": "3bd2b8f9adfcde5c19aec780554a554ced1f0a5e26a2fc28bba428abe1849d97",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    },
+    {
+      "sample_name": "dizi_alt_2_97",
+      "program": 2,
+      "bank": 0,
+      "root_midi": 97,
+      "key_range": [
+        97,
+        97
+      ],
+      "velocity_range": [
+        1,
+        127
+      ],
+      "source_file": "Dizi-SUTD/dizi-repository/C#7/alt_2/C#7(alt2)_with_membrane.wav",
+      "source_sha256": "042a235f695100f3c41e2e1727cb7391b9cbb1360601cab1b030d5a9f90da3f1",
+      "source_note_label": "C#7(alt2)",
+      "source_membrane": "with_membrane",
+      "fingering_entry": "alt_2",
+      "source_format": {
+        "sample_rate_hz": 48000,
+        "channels": 1,
+        "pcm_bits": 24
+      },
+      "packed_format": {
+        "sample_rate_hz": 44100,
+        "channels": 2,
+        "pcm_bits": 16
+      },
+      "channel_policy": "原mono等量复制左右，非原生立体声空间",
+      "frames": 303273,
+      "crop_start_frame_at_44100": 36960,
+      "detected_onset_frame_at_44100": 37180,
+      "onset_after_crop_seconds": 0.004988662131519274,
+      "pitch": {
+        "method": "作者音名先验±约1半音内自相关峰及抛物线插值；非无先验盲识别",
+        "expected_midi": 97,
+        "median_midi": 97.10208369201153,
+        "median_cents_offset": 10.208369201153289,
+        "windows": [
+          {
+            "time_seconds": 0.06,
+            "hz": 2229.7076547893,
+            "midi": 97.09534963924858,
+            "periodicity": 0.9928167829808999
+          },
+          {
+            "time_seconds": 0.13999999999999999,
+            "hz": 2227.8539734888004,
+            "midi": 97.08095093145204,
+            "periodicity": 0.9946827384438184
+          },
+          {
+            "time_seconds": 0.21999999999999997,
+            "hz": 2228.6956064379447,
+            "midi": 97.08748990789363,
+            "periodicity": 0.9938217875587666
+          },
+          {
+            "time_seconds": 0.29999999999999993,
+            "hz": 2230.522669475552,
+            "midi": 97.1016765824262,
+            "periodicity": 0.9933860074555234
+          },
+          {
+            "time_seconds": 0.37999999999999995,
+            "hz": 2230.575122108199,
+            "midi": 97.10208369201153,
+            "periodicity": 0.9934426337321103
+          },
+          {
+            "time_seconds": 0.4599999999999999,
+            "hz": 2231.4431501610375,
+            "midi": 97.10881947679715,
+            "periodicity": 0.9929971490781279
+          },
+          {
+            "time_seconds": 0.5399999999999999,
+            "hz": 2232.8722618028055,
+            "midi": 97.11990349121078,
+            "periodicity": 0.9924320194471787
+          },
+          {
+            "time_seconds": 0.6199999999999999,
+            "hz": 2232.913109902353,
+            "midi": 97.1202201997621,
+            "periodicity": 0.9925761715255611
+          },
+          {
+            "time_seconds": 0.7,
+            "hz": 2232.5818064283253,
+            "midi": 97.11765132949526,
+            "periodicity": 0.9921833478102291
+          }
+        ],
+        "pitch_correction_cents": -10
+      },
+      "mature_pyin": [
+        97.14995771500077,
+        97.14995771500077,
+        97.24995771500079
+      ],
+      "source_peak": 0.41639602184295654,
+      "raw_pcm_sha256": "d4823abbb559328fdbb4262ad2b548309cfc10f7635d67f0998be0768b9bbe59",
+      "loop_enabled": false,
+      "automatic_round_robin": false
+    }
+  ],
+  "rejected": [
+    {
+      "file": "Dizi-SUTD/dizi-repository/F#7/F#7_with_membrane.wav",
+      "reason": "原24位波形数百近满幅点且连续3–4帧；F#7还偏近G7，保留原音但不正式映射",
+      "near_fullscale_frames": 841,
+      "mature_measurement": [
+        102.84995771500077,
+        102.94995771500078,
+        103.04995771500077
+      ]
+    },
+    {
+      "file": "Dizi-SUTD/dizi-repository/G7/G7_with_membrane.wav",
+      "reason": "原24位波形数百近满幅点且连续3–4帧；F#7还偏近G7，保留原音但不正式映射",
+      "near_fullscale_frames": 664,
+      "mature_measurement": [
+        103.44995771500078,
+        103.44995771500078,
+        103.54995771500077
+      ]
+    }
+  ],
+  "scope": "G调有膜笛子默认/替代指法分预设；非多力度/RR，不外推梆笛/曲笛或完整半音/全奏法"
+}

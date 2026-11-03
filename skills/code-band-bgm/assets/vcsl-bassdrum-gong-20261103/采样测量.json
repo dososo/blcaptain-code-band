@@ -1,0 +1,408 @@
+{
+ "schema_version": "1.0",
+ "samples": [
+  {
+   "sample": "bd00",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v2_rr1_Sum.wav",
+   "key": 36,
+   "velocities": [
+    1,
+    45
+   ],
+   "lead_trimmed_seconds": 0.0003,
+   "seconds": 1.596,
+   "peak_dbfs": -22.19,
+   "sha256": "56827fe9b55f282a0db851e242bc24660d339a0e358b182966aea047240c1136"
+  },
+  {
+   "sample": "bd01",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v2_rr2_Sum.wav",
+   "key": 36,
+   "velocities": [
+    1,
+    45
+   ],
+   "lead_trimmed_seconds": 0.0007,
+   "seconds": 1.714,
+   "peak_dbfs": -23.78,
+   "sha256": "f1f8979de26f8efe278fe778da7bdce2a39fbfb9f2cbf345e38ce8c66f171b59"
+  },
+  {
+   "sample": "bd02",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v3_rr1_Sum.wav",
+   "key": 36,
+   "velocities": [
+    46,
+    75
+   ],
+   "lead_trimmed_seconds": 0.0002,
+   "seconds": 2.081,
+   "peak_dbfs": -17.0,
+   "sha256": "a2d8829e8b2b59e8afb12fa396b01758827059339c2a84ad066d17b36c82d1ff"
+  },
+  {
+   "sample": "bd03",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v3_rr2_Sum.wav",
+   "key": 36,
+   "velocities": [
+    46,
+    75
+   ],
+   "lead_trimmed_seconds": 0.0006,
+   "seconds": 2.01,
+   "peak_dbfs": -18.55,
+   "sha256": "036c6c5fcfbcca845d92dbcdcef075ee6e0ae01636374a2f7dd1a696a7ba33f8"
+  },
+  {
+   "sample": "bd04",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v5_rr1_Sum.wav",
+   "key": 36,
+   "velocities": [
+    76,
+    105
+   ],
+   "lead_trimmed_seconds": 0.0001,
+   "seconds": 3.334,
+   "peak_dbfs": -9.63,
+   "sha256": "642aaf3375eaff1307973f7de3ccbf74d18e71fb3cf9412e021b08fc3bf1981c"
+  },
+  {
+   "sample": "bd05",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v5_rr2_Sum.wav",
+   "key": 36,
+   "velocities": [
+    76,
+    105
+   ],
+   "lead_trimmed_seconds": 0.0005,
+   "seconds": 3.483,
+   "peak_dbfs": -10.37,
+   "sha256": "a83943f8125ae39469ef5dab1d0be2fe3145c6842c0621b27be5d86aa44b325d"
+  },
+  {
+   "sample": "bd06",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v7_rr1_Sum.wav",
+   "key": 36,
+   "velocities": [
+    106,
+    127
+   ],
+   "lead_trimmed_seconds": 0.0004,
+   "seconds": 6.0,
+   "peak_dbfs": -4.48,
+   "sha256": "7024054e68261d2cca0ee58fdf9d6f23b54370792d04aa2c1ccf41acc090bd2b"
+  },
+  {
+   "sample": "bd07",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v7_rr2_Sum.wav",
+   "key": 36,
+   "velocities": [
+    106,
+    127
+   ],
+   "lead_trimmed_seconds": 0.0002,
+   "seconds": 5.635,
+   "peak_dbfs": -4.04,
+   "sha256": "fa4374b9ffdc3b9a3c85331ce96c447cf13e46d956cce9cfd9ba02801f71276f"
+  },
+  {
+   "sample": "bd08",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_pp1.wav",
+   "key": 35,
+   "velocities": [
+    1,
+    35
+   ],
+   "lead_trimmed_seconds": 0.0592,
+   "seconds": 6.0,
+   "peak_dbfs": -22.45,
+   "sha256": "bdba260aa2a4db64b0e01960385de11f20ada1c216c4ebe86dc486a8331e0149"
+  },
+  {
+   "sample": "bd09",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_pp2.wav",
+   "key": 35,
+   "velocities": [
+    1,
+    35
+   ],
+   "lead_trimmed_seconds": 0.0445,
+   "seconds": 6.0,
+   "peak_dbfs": -22.9,
+   "sha256": "288771b7c1df712459ac97a7f99d22057d8b983423cd738c15fbbd085da6f760"
+  },
+  {
+   "sample": "bd10",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_mp1.wav",
+   "key": 35,
+   "velocities": [
+    36,
+    65
+   ],
+   "lead_trimmed_seconds": 0.0468,
+   "seconds": 6.0,
+   "peak_dbfs": -18.27,
+   "sha256": "d0f0a99ddc9b025518e1bb8c00eaf3a8ce53cdcd9c8434584901c535469bb6f3"
+  },
+  {
+   "sample": "bd11",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_mp2.wav",
+   "key": 35,
+   "velocities": [
+    36,
+    65
+   ],
+   "lead_trimmed_seconds": 0.0859,
+   "seconds": 6.0,
+   "peak_dbfs": -18.67,
+   "sha256": "aaa4678532ced3b8844fe44e34e919d49d3d608d3a81fe54fc25c47902a5ca90"
+  },
+  {
+   "sample": "bd12",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_mf1.wav",
+   "key": 35,
+   "velocities": [
+    66,
+    95
+   ],
+   "lead_trimmed_seconds": 0.0527,
+   "seconds": 6.0,
+   "peak_dbfs": -11.83,
+   "sha256": "9cfa91a11fad6c843e001ad6365949200e2d5b4237cf1193a1493310f0f6c3c1"
+  },
+  {
+   "sample": "bd13",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_mf2.wav",
+   "key": 35,
+   "velocities": [
+    66,
+    95
+   ],
+   "lead_trimmed_seconds": 0.05,
+   "seconds": 6.0,
+   "peak_dbfs": -13.39,
+   "sha256": "cd6b4e0c68c6b99466f1f62ab4cd4dad43de559306a123406433f13907495bd2"
+  },
+  {
+   "sample": "bd14",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_f.wav",
+   "key": 35,
+   "velocities": [
+    96,
+    115
+   ],
+   "lead_trimmed_seconds": 0.0264,
+   "seconds": 6.0,
+   "peak_dbfs": -7.96,
+   "sha256": "e2f909d4986e2502b0653858c47bd10b0914c5893da770eae3034a9431e31439"
+  },
+  {
+   "sample": "bd15",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_hit_ff.wav",
+   "key": 35,
+   "velocities": [
+    116,
+    127
+   ],
+   "lead_trimmed_seconds": 0.001,
+   "seconds": 6.0,
+   "peak_dbfs": -6.75,
+   "sha256": "d0ce17649553655127ee27dff312ece64c9ac698a9b66a470c3b51f244892c7b"
+  },
+  {
+   "sample": "bd16",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_pp.wav",
+   "key": 37,
+   "velocities": [
+    1,
+    35
+   ],
+   "lead_trimmed_seconds": 0.0319,
+   "seconds": 8.0,
+   "peak_dbfs": -28.32,
+   "sha256": "34a7375c14c54f1691340b5735bb53f4b3416d1455c36a190faed6cb928dede5"
+  },
+  {
+   "sample": "bd17",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_mp.wav",
+   "key": 37,
+   "velocities": [
+    36,
+    65
+   ],
+   "lead_trimmed_seconds": 0.0005,
+   "seconds": 7.718,
+   "peak_dbfs": -17.48,
+   "sha256": "897972e77a93fb947a57137d9d4f0085041c825d21dc6c1176dadf664c16e381"
+  },
+  {
+   "sample": "bd18",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_mf.wav",
+   "key": 37,
+   "velocities": [
+    66,
+    95
+   ],
+   "lead_trimmed_seconds": 0.0007,
+   "seconds": 8.0,
+   "peak_dbfs": -10.39,
+   "sha256": "159687360eef05e9666603f215fd37189c5de0b3aefc8f303b52fd54db01d187"
+  },
+  {
+   "sample": "bd19",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_ff.wav",
+   "key": 37,
+   "velocities": [
+    96,
+    127
+   ],
+   "lead_trimmed_seconds": 0.0016,
+   "seconds": 8.0,
+   "peak_dbfs": -8.09,
+   "sha256": "330b4403c29faf5935028f6be2108e058f2b8e9bac1313458488411010c8ba15"
+  },
+  {
+   "sample": "bd20",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_pp.wav",
+   "key": 38,
+   "velocities": [
+    1,
+    35
+   ],
+   "lead_trimmed_seconds": 0.0005,
+   "seconds": 5.754,
+   "peak_dbfs": -18.43,
+   "sha256": "bcd17410a4b0fe18f9abfcc2cad8cffa2fd02ebc10859109b5dbf28ff282cada"
+  },
+  {
+   "sample": "bd21",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mp.wav",
+   "key": 38,
+   "velocities": [
+    36,
+    65
+   ],
+   "lead_trimmed_seconds": 0.0006,
+   "seconds": 8.0,
+   "peak_dbfs": -15.04,
+   "sha256": "d54a992d844808b362c8d41311281e52014e12e37da218973b0ee6c387d898ee"
+  },
+  {
+   "sample": "bd22",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_mf.wav",
+   "key": 38,
+   "velocities": [
+    66,
+    95
+   ],
+   "lead_trimmed_seconds": 0.0018,
+   "seconds": 8.0,
+   "peak_dbfs": -15.53,
+   "sha256": "4a5d9cbdecd11cd54411feeca3db7a872f81c0f537fb1ab6dab683d7e6235284"
+  },
+  {
+   "sample": "bd23",
+   "source": "Membranophones/Struck Membranophones/Bass Drum 2/bassdrum_roll_fast_f.wav",
+   "key": 38,
+   "velocities": [
+    96,
+    127
+   ],
+   "lead_trimmed_seconds": 0.001,
+   "seconds": 8.0,
+   "peak_dbfs": -10.59,
+   "sha256": "fc4047d30d79bc8ea13fb08c37e4dca977347fe1d4be089519c9f10674a887ea"
+  },
+  {
+   "sample": "gong00",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_p.wav",
+   "key": 60,
+   "velocities": [
+    1,
+    40
+   ],
+   "lead_trimmed_seconds": 0.0,
+   "seconds": 16.0,
+   "peak_dbfs": -26.54,
+   "sha256": "3d103e1a7af12eeb17e0c5488f11933ca92b9fbdefa39b8020b64238da2db0d0"
+  },
+  {
+   "sample": "gong01",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_mf.wav",
+   "key": 60,
+   "velocities": [
+    41,
+    80
+   ],
+   "lead_trimmed_seconds": 0.0052,
+   "seconds": 16.0,
+   "peak_dbfs": -14.85,
+   "sha256": "7e520ad14acda55db7906984f7efc2430961419435d951f55c8cdd9cd7a71108"
+  },
+  {
+   "sample": "gong02",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_2_mp.wav",
+   "key": 60,
+   "velocities": [
+    41,
+    80
+   ],
+   "lead_trimmed_seconds": 0.0003,
+   "seconds": 16.0,
+   "peak_dbfs": -26.35,
+   "sha256": "8539b652ff19860549b705535ef7535e8255a675abf2f5a2429fc9eea59fb96e"
+  },
+  {
+   "sample": "gong03",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_f.wav",
+   "key": 60,
+   "velocities": [
+    81,
+    110
+   ],
+   "lead_trimmed_seconds": 0.0378,
+   "seconds": 16.0,
+   "peak_dbfs": -9.43,
+   "sha256": "348226a7aceea02fa2d508f329283ea0329d76d21afa6f5a56af95bfaa037048"
+  },
+  {
+   "sample": "gong04",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_2_f.wav",
+   "key": 60,
+   "velocities": [
+    81,
+    110
+   ],
+   "lead_trimmed_seconds": 0.0033,
+   "seconds": 16.0,
+   "peak_dbfs": -19.76,
+   "sha256": "0f7538cccc7673f953fc66db0e4449d4902f2ff2ef01dc4962c748b011813942"
+  },
+  {
+   "sample": "gong05",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_fff.wav",
+   "key": 60,
+   "velocities": [
+    111,
+    127
+   ],
+   "lead_trimmed_seconds": 0.0269,
+   "seconds": 16.0,
+   "peak_dbfs": -6.06,
+   "sha256": "998b27e21ee1639a73c1d71c8093e98cab4a10223640a59e8902ecfc557f74ac"
+  },
+  {
+   "sample": "gong06",
+   "source": "Idiophones/Struck Idiophones/Gong 1/gong_scrape_mf.wav",
+   "key": 61,
+   "velocities": [
+    1,
+    127
+   ],
+   "lead_trimmed_seconds": 0.0122,
+   "seconds": 9.0,
+   "peak_dbfs": -26.88,
+   "sha256": "3e30f51d3667cde89d3fd3424e878a554ab26ff4ea882686cfbe887aaf2267b0"
+  }
+ ]
+}

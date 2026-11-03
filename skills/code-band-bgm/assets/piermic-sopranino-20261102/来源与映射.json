@@ -1,0 +1,41 @@
+{
+  "原作者页面": "https://freesound.org/people/piermic/sounds/324085/",
+  "公开镜像": "https://commons.wikimedia.org/wiki/File:Piermic_-_Improvisation_with_Sopranino_Recorder_(2015).mp3",
+  "作者": "piermic",
+  "许可": "CC0-1.0",
+  "镜像复审": "Wikimedia 标记许可待复审；原作者页面同时明确 CC0",
+  "来源sha256": "3f4cd70ef98bbff1e592b4b96f0fa556f94d49da4ec4c3bbc55155684053d43e",
+  "音频": "MP3 有损；作者原录音已加混响",
+  "处理": "pYIN 自动选择稳定段，转单声道、10毫秒淡入淡出，每键原始音高；起音被舍弃，无循环及力度层，音色人工试听待验",
+  "音符": [
+    {
+      "midi": 86,
+      "start_seconds": 14.738,
+      "end_seconds": 15.088,
+      "pyin_confidence": 1.0,
+      "pcm_sha256": "e1974b3846c8b348c4064c52d8691c6b44311ff2b1b5b0801b68f5ae7dd96731"
+    },
+    {
+      "midi": 88,
+      "start_seconds": 2.095,
+      "end_seconds": 2.421,
+      "pyin_confidence": 0.985,
+      "pcm_sha256": "cc63e9f5e4102ddf1db90205c3a3a3b06d03f6aba705f736e1a12a1fcee8e8ff"
+    },
+    {
+      "midi": 89,
+      "start_seconds": 19.928,
+      "end_seconds": 20.278,
+      "pyin_confidence": 0.985,
+      "pcm_sha256": "70cddab9547166a452254230c17410632070e9ab6d97e5c0dc081ee6b6192135"
+    },
+    {
+      "midi": 91,
+      "start_seconds": 4.603,
+      "end_seconds": 4.953,
+      "pyin_confidence": 1.0,
+      "pcm_sha256": "f02f9f1a7d804bf60f88abcd6759a415331483f45999ef2571820fd3fcbcefd2"
+    }
+  ],
+  "sf2_sha256": "76e89d50eec847d3e3bdbb5c04c0af1835d38241c2bff4eead5f02e1380c603e"
+}

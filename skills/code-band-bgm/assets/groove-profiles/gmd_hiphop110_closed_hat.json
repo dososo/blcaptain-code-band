@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "profile_id": "gmd_hiphop110_closed_hat_v1",
+  "hit_key": "closed_hat",
+  "steps_per_bar": 16,
+  "min_observations": 3,
+  "provenance": {
+    "dataset": "Groove MIDI Dataset v1.0.0",
+    "author": "Google LLC；Gillick、Roberts、Engel、Eck、Bamman（ICML 2019）",
+    "url": "https://magenta.withgoogle.com/datasets/groove",
+    "license": "CC-BY-4.0",
+    "midi_file": "drummer3/session2/40_hiphop_110_beat_4-4.mid",
+    "midi_sha256": "5ff1277680a4ba2930b7f71cec3bb6f75ff2de7ded6626587a6af58350448b04",
+    "method": "单一110BPM hiphop演奏中闭镲按16分拍位统计，减同鼓类中位，不复制MIDI图案。"
+  },
+  "limitations": [
+    "仅一名鼓手一段录音，不是原参考规律或通用人味模型。",
+    "仅恒速4/4、网格闭镲；未知拍位不补，保音高/门值/音符数。",
+    "只给小幅演奏偏差，不能代替多小节起伏与情绪编排。"
+  ],
+  "phases": [
+    {
+      "step": 0,
+      "observations": 5,
+      "velocity_delta": 24.0,
+      "offset_step_fraction": 0.04172670138889867
+    },
+    {
+      "step": 2,
+      "observations": 6,
+      "velocity_delta": -43.5,
+      "offset_step_fraction": 0.01252834375000944
+    },
+    {
+      "step": 4,
+      "observations": 7,
+      "velocity_delta": -34.0,
+      "offset_step_fraction": 0.008330006944444968
+    },
+    {
+      "step": 6,
+      "observations": 7,
+      "velocity_delta": 17.0,
+      "offset_step_fraction": -0.04990837499998424
+    },
+    {
+      "step": 8,
+      "observations": 6,
+      "velocity_delta": -34.0,
+      "offset_step_fraction": -0.008293340277767847
+    },
+    {
+      "step": 10,
+      "observations": 7,
+      "velocity_delta": -14.0,
+      "offset_step_fraction": -0.024931687499983646
+    },
+    {
+      "step": 12,
+      "observations": 6,
+      "velocity_delta": 21.0,
+      "offset_step_fraction": 0.004210003472233659
+    },
+    {
+      "step": 14,
+      "observations": 4,
+      "velocity_delta": 19.0,
+      "offset_step_fraction": 0.033398361111113495
+    }
+  ]
+}

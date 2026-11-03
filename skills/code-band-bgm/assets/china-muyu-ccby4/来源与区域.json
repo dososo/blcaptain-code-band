@@ -1,0 +1,57 @@
+{
+  "来源": "https://freesound.org/people/the_very_Real_Horst/sounds/205999/",
+  "作者": "the_very_Real_Horst",
+  "license": "CC-BY-4.0",
+  "source_public_preview": "https://cdn.freesound.org/previews/205/205999_3597112-hq.mp3",
+  "source_sha256": "d5e36aa80c09f4beb96ff32294cd61b0907b3c269090cf842f4646528735aeb2",
+  "source_format": "MP3公开有损预览，48000Hz双声道",
+  "转换": "四次击打，单声道16bit，边界轻微淡化，单键单源无移调",
+  "原击打测量": "work/128音色补齐_20261102/中国/木鱼/击打候选.json",
+  "segments": [
+    {
+      "midi_key": 60,
+      "source_peak_seconds": 1.67,
+      "source_start_seconds": 1.63,
+      "source_end_seconds": 2.07,
+      "pcm_sha256": "77ee8133ba6f1fc254c5fa64075666fc039dce144498c9d980899c68348808c5",
+      "sample_peak": 0.9454405903816223
+    },
+    {
+      "midi_key": 61,
+      "source_peak_seconds": 2.77,
+      "source_start_seconds": 2.73,
+      "source_end_seconds": 3.17,
+      "pcm_sha256": "a8215818d177775bddae18a55f3b2c1b64cedec438c8e61136d41695b768431a",
+      "sample_peak": 0.9447085559368134
+    },
+    {
+      "midi_key": 62,
+      "source_peak_seconds": 3.82,
+      "source_start_seconds": 3.78,
+      "source_end_seconds": 4.22,
+      "pcm_sha256": "209fd182c03336f4b2604d854190ecaa1e096911952b70e333ba0bfcd86ee69a",
+      "sample_peak": 0.9456768035888672
+    },
+    {
+      "midi_key": 63,
+      "source_peak_seconds": 4.96,
+      "source_start_seconds": 4.92,
+      "source_end_seconds": 5.36,
+      "pcm_sha256": "34d30fef32c9feaa4229ee27b3b61187c4a1d373b13579ca80b606b39c755d5c",
+      "sample_peak": 0.800684928894043
+    }
+  ],
+  "sf2_sha256": "f4e8a682453836e5171e1edb50856133f60c12a8cc9a93426cafd58cf35d77f9",
+  "builder": "SF2cute zlib wrapper work/世界音色扩展_20261031/write_sf2",
+  "未知": [
+    "上传者与演奏者关系未独立核实",
+    "是否含背景及音色主观验收待人工确认"
+  ],
+  "命令": [
+    "work/世界音色扩展_20261031/write_sf2",
+    "work/128音色补齐_20261102/中国/木鱼/regions.txt",
+    "work/128音色补齐_20261102/中国/木鱼/names.txt",
+    "code-band-bgm/assets/china-muyu-ccby4/Muyu-CCBY4-4hits.sf2",
+    "Muyu CCBY4 4 hits"
+  ]
+}

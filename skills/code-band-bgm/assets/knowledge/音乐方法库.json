@@ -1,0 +1,2478 @@
+{
+  "schema_version": "1.0.0",
+  "version": "2026.11.02.2",
+  "updated_at": "2026-11-02",
+  "scope": "精选音乐知识与方法的决策基线；非穷尽全球、非训练权重、非自动美学评委。",
+  "topics": [
+    {
+      "id": "需求与曲式",
+      "label": "需求与曲式"
+    },
+    {
+      "id": "节奏与律动",
+      "label": "节奏与律动"
+    },
+    {
+      "id": "旋律与和声",
+      "label": "旋律与和声"
+    },
+    {
+      "id": "配器与层次",
+      "label": "配器与层次"
+    },
+    {
+      "id": "中西乐器",
+      "label": "中西乐器"
+    },
+    {
+      "id": "演奏与音色",
+      "label": "演奏与音色"
+    },
+    {
+      "id": "参考理解",
+      "label": "参考理解"
+    },
+    {
+      "id": "音色重建",
+      "label": "音色重建"
+    },
+    {
+      "id": "混音与空间",
+      "label": "混音与空间"
+    },
+    {
+      "id": "验收与复现",
+      "label": "验收与复现"
+    },
+    {
+      "id": "工具与许可",
+      "label": "工具与许可"
+    }
+  ],
+  "sources": [
+    {
+      "id": "M01",
+      "title": "耶鲁公开课：旋律的音高、节奏与织体",
+      "url": "https://oyc.yale.edu/music/musi-112/lecture-5",
+      "accessed_at": "2026-11-02",
+      "version": "MUSI112第5讲；Craig Wright；网页无固定修订号",
+      "evidence": "正文逐字稿已读：第一章及末章音高与节奏；未试听课堂录音。",
+      "supports": "旋律由音高与时间共同构成，置于织体中聆听。",
+      "limits": "高部常见不是必须高八度；关于低波消散的课堂简化不能当通用声学定律。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M02",
+      "title": "伯克利：歌曲旋律与乐句（Perricone原著节选）",
+      "url": "https://online.berklee.edu/takenote/conjunct-disjunct-melody-basic-definitions/",
+      "accessed_at": "2026-11-02",
+      "version": "Jack Perricone《歌曲旋律写作》第一章官方公开节选；网页无固定版号",
+      "evidence": "正文的旋律、乐句、旋律运动、声乐与领谱段已读；示例不下载、不抄谱。",
+      "supports": "乐句可由休止、长音或解决形成；级进与跳进、音区和呼吸共同塑造旋律。",
+      "limits": "声乐舒适度不能直接限制全部器乐；简谱式旋律加和弦符号不含完整配器。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M03",
+      "title": "麻省理工作曲课：将独奏、对位、伴奏与织体分开练习",
+      "url": "https://ocw.mit.edu/courses/21m-351-music-composition-fall-2008/pages/syllabus/",
+      "accessed_at": "2026-11-02",
+      "version": "Peter Child；2008秋21M.351课程大纲",
+      "evidence": "官方大纲的目标、五类创作项目、聆听与课程日程已读；未声称完成课程。",
+      "supports": "通过不同职责的短项目和谱/录音研究训练作曲，而非一次堆齐全乐团。",
+      "limits": "这是后调性课程大纲，不能当流行参考曲已分析或本项目美学效果证据。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M04",
+      "title": "Alan Belkin：配器理论",
+      "url": "https://alanbelkinmusic.com/PDF/BelkinOrchestrationTheory.pdf",
+      "accessed_at": "2026-11-02",
+      "version": "作者官方PDF；2015；11页",
+      "evidence": "作者PDF已读，重点II、IV、V、VI、VII、IX、X、XI；作为方法，不复制谱例。",
+      "supports": "声部平面、同时与前后平衡、音区、选择加倍、运动与伴奏。",
+      "limits": "古典乐团经验不是采样音量换算表；不能将tutti定义硬套电声混合，也不能代替试听。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M05",
+      "title": "Samuel Adler《配器法研究》第四版：出版社书目信息",
+      "url": "https://wwnorton.com/books/9780393600520",
+      "accessed_at": "2026-11-02",
+      "version": "Norton；第四版；ISBN9780393600520；1024页；作者任教Juilliard荣休",
+      "evidence": "静态页正文不足，改正常浏览器读取出版社公开产品详情；只书目与介绍已核。",
+      "supports": "核实权威教材身份、覆盖乐器特征与配器，并提供演奏者音视频配套。",
+      "limits": "未获得/未读付费全书，不援引书内具体音区、页码、技法或当作已学习完整教材。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M06",
+      "title": "爱乐管弦乐团：小提琴演奏者与弓法介绍",
+      "url": "https://philharmonia.co.uk/resources/instruments/violin/",
+      "accessed_at": "2026-11-02",
+      "version": "Philharmonia官方乐器资源；Zsolt-Tihamér Visontay示范入口；网页无版号",
+      "evidence": "网页文字的构造、弓法与音域说明已读；未把范围图片逐谱转为MIDI。",
+      "supports": "发声由弓与弦共同决定，弓向/起击与强弱有关，专业演奏可均衡处理。",
+      "limits": "未观看影片不能称已听示范；普通采样note-on不自动具备真实换弓或连奏。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M07",
+      "title": "维也纳交响音源学院：F调圆号的音区、技法与组合",
+      "url": "https://www.vsl.co.at/academy/brass/horn-f",
+      "accessed_at": "2026-11-02",
+      "version": "VSL官方乐器学院；维也纳圆号专题；网页无修订号",
+      "evidence": "范围、发声、演奏法、音色与组合正文已读；商品未购买、示例未采样。",
+      "supports": "实音B1–F5的分区、低音较慢反应、吐音与强弱音色、和弦/旋律职责和组合。",
+      "limits": "特指维也纳圆号；不证明GM圆号所有技法与该音域都被采到，也不证明我们拥有VSL音色。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M08",
+      "title": "伦敦交响乐团：如何组建管弦乐团",
+      "url": "https://www.lso.co.uk/learn-and-discover/digital-activities-and-resources/how-to-build-an-orchestra/",
+      "accessed_at": "2026-11-02",
+      "version": "LSO与Mary Auld/Hachette合作教育资源；Rachel Leach及Simon Rattle参与",
+      "evidence": "官方页面的内容与教育资源入口已读；旧Berlioz PDF检索可见但实际TLS失败，未拿它支持规则。",
+      "supports": "从家族与演奏者认识乐团，再听组合，适合作为乐器识别训练入口。",
+      "limits": "儿童教育入口不提供当前样本库真实键域或完整专业配器规则；影片未看不能称听辨完成。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M09",
+      "title": "香港中乐团：2025乐器配置与音域表",
+      "url": "https://ww2.hkco.org/uploads/docs/682542ced6d771.pdf",
+      "accessed_at": "2026-11-02",
+      "version": "HKCO官方2025配置音域表；单页PDF",
+      "evidence": "官方PDF文字已读，重点弹拨声部、拉弦声部、膜状态与调弦说明；不重制原谱表。",
+      "supports": "新笛/大笛膜状态、传统与加键笙/唢呐、记谱与实音、弹拨衰减与持续震音、移码转调预留。",
+      "limits": "具体团制不是所有中乐团共同标准；图形谱表未逐音读取，不伪填MIDI端点；不证明软件采样覆盖。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M10",
+      "title": "新加坡华乐团：作品介绍、简编与中西编制",
+      "url": "https://sco.com.sg/zh/resources/music-scores/",
+      "accessed_at": "2026-11-02",
+      "version": "SCO现行教育/南洋获奖作品目录；含2006、2011、2015比赛作品说明",
+      "evidence": "实际读《海路》《同乐会》《草原狂想》《青年序曲》《王子与狮子》及《狮舞》说明/使用条款；未下载乐谱。旧音域PDF实际404，不采用缓存正文作现行事实。",
+      "supports": "本团作品可同时用华乐、大提琴/低音提琴/西洋打击；简编须同时调整时长、织体与技巧，不仅删轨。",
+      "limits": "作品介绍不是完整总谱分析；获奖不保证本项目效果；教育免费有团体资格，其他目录为付费租借，未取得改编/再分发权。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M11",
+      "title": "Bernstein：什么是配器（大师本人电视讲稿）",
+      "url": "https://leonardbernstein.com/lectures/television-scripts/young-peoples-concerts/what-is-orchestration",
+      "accessed_at": "2026-11-02",
+      "version": "Bernstein官方档案；CBS原播1958-03-08",
+      "evidence": "本人公开讲稿相关段已读；精读四种想法、坏配器、音色选择、家族/混合与结尾段。",
+      "supports": "用《西班牙随想曲》的主句、副句、两节奏职责演示清晰配器，并以坏配器反证掩蔽。",
+      "limits": "不抄作品音符/音源；该课堂的审美例子不证明我们的参考是交响或必须有固定数量家族。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M12",
+      "title": "Aril Brikha本人拆解《Groove La Chord》",
+      "url": "https://www.ableton.com/es/blog/aril-brikha-remaking-groove-la-chord-with-live-and-note/",
+      "accessed_at": "2026-11-02",
+      "version": "Ableton与XLR8R访谈；文中2023计划；公开网页无固定修订号",
+      "evidence": "本人问答的简化、实时演奏、重制和滤波包络段已读；未下载Live/Note工程。",
+      "supports": "鼓/低音/和弦少量核心关系，音体、滤波和ride进退维持推动；原作者也指出一小节死循环会无聊。",
+      "limits": "不照搬133BPM、和弦或过载；工程/采样仅教育且不可商用，不作为可再分发素材。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M13",
+      "title": "Ludwig Göransson本人谈电影配乐的混合写作",
+      "url": "https://www.soundonsound.com/people/ludwig-goransson",
+      "accessed_at": "2026-11-02",
+      "version": "Sonal D’Silva采访；Sound On Sound；2023-11",
+      "evidence": "静态403后正常浏览器读取本人访谈；精读起点、双层、限制、混合与低频段；未取音视频。",
+      "supports": "《奥本海默》主题由独奏/重奏到合奏及合成器承载；声音设计与配器、低频组成一并考虑。",
+      "limits": "人物访谈不是原始分轨或因果试验；微分音滑奏/实时表情与21次速度改变不自动可由当前引擎复现。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M14",
+      "title": "美国电影艺术与科学学院（奥斯卡）：2024原创配乐获奖记录",
+      "url": "https://www.oscars.org/oscars/ceremonies/2024",
+      "accessed_at": "2026-11-02",
+      "version": "第96届；2024-03-10；原创配乐类别",
+      "evidence": "官方获奖类别正文已核，仅奖项事实。",
+      "supports": "核实《奥本海默》/Ludwig Göransson获得原创配乐奖，限定案例身份。",
+      "limits": "奖项不能证明某个具体技法因果有效，更不能替本项目音色、情绪或风格验收。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M15",
+      "title": "切分如何影响合成旋律的律动感：受控实验",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4165312/",
+      "accessed_at": "2026-11-02",
+      "version": "Sioros等；2014；Frontiers in Psychology5:1036；DOI10.3389/fpsyg.2014.01036",
+      "evidence": "正文方法、实验二与讨论已读；Frontiers后续抓取超时改读PMC正文，未下载刺激MIDI。",
+      "supports": "在先建立拍感的简单钢琴旋律中，选位切分/句边界操作比均匀全线错位更有解释力；总密度非充分。",
+      "limits": "单旋律实验非复杂原曲、多乐器或所有文化的处方；时值多样性贡献结论未定，不能算通用groove分。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": [
+        "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01036/full"
+      ]
+    },
+    {
+      "id": "M16",
+      "title": "切分、身体运动与愉悦：原论文及勘误",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094446",
+      "accessed_at": "2026-11-02",
+      "version": "Witek等；2014；PLOS ONE9:e94446；2015勘误e0139409",
+      "evidence": "原文方法/讨论与2015勘误均读；作者称勘误不改变结论；不采样刺激。",
+      "supports": "受控鼓break中的切分与动作/愉悦评价呈中间较优，背景经验影响结果。",
+      "limits": "不是最大切分=最好或最佳数值可迁移；2015刺激索引/谱转录勘误必须随引，旧图不可当正确模板。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139409"
+      ]
+    },
+    {
+      "id": "M17",
+      "title": "织体提示与流行音乐的方向感",
+      "url": "https://www.mtosmt.org/issues/mto.25.31.1/mto.25.31.1.schwitzgebel.html",
+      "accessed_at": "2026-11-02",
+      "version": "Emily Schwitzgebel；Music Theory Online31.1；2025-03；DOI10.30535/mto.31.1.5",
+      "evidence": "摘要、1节织体/提示、语料方法及Heat Waves案例[3.6–3.9]、高潮分类已读；不复用示例音频/旋律。",
+      "supports": "织体与局部提示能引发段落/高潮期待；音色不等织体，进退要在前后语境中解释。",
+      "limits": "特定西方流行语料/分析框架不是普适情绪预测器；不能强塞每段breakdown或把高RMS当高潮。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "M18",
+      "title": "调性张力建模：理论与主观比较",
+      "url": "https://online.ucpress.edu/mp/article-abstract/24/4/329/95267/Modeling-Tonal-Tension?redirectedFrom=PDF",
+      "accessed_at": "2026-11-02",
+      "version": "Lerdahl与Krumhansl；Music Perception24(4):329–366；2007；DOI10.1525/mp.2007.24.4.329",
+      "evidence": "出版社摘要与书目信息已读；正文受限，未绕登录或付费。",
+      "supports": "摘要明确将延长结构、音高空间、表层张力、吸引/解决分开，并与听者连续体验比较。",
+      "limits": "仅摘要可读，未读付费全文/公式，不声称复现张力模型；调性模型不概括全部电声/民族情绪。",
+      "license": "公开教学/作者资料仅摘要引用；作品、教材和示例媒体不随Skill分发。",
+      "additional_urls": []
+    },
+    {
+      "id": "A01",
+      "title": "Demucs官方实现、六源限制与部署边界",
+      "url": "https://github.com/facebookresearch/demucs",
+      "accessed_at": "2026-11-02",
+      "version": "官方README现main；本项目实际4.0.1；blob见核读记录",
+      "evidence": "本轮官方README/许可/apply.py核读；既有CPU实测复用",
+      "supports": "固定声部估计；官方明确6源piano串漏/伪影；apply_model支持CPU与分块",
+      "limits": "轨名不是原物理器或前景身份；固定分离指标不是任意主奏提取；仓库归档且作者说明不再积极维护",
+      "license": {
+        "code": "MIT根许可已读",
+        "weights": "官方仓库发布模型随项目MIT声明；仅绑定已下载具体6s/其来源证据，不扩展任意第三方模型"
+      },
+      "runtime_limits": "既有6s CPU2线程、525键strict；94s缓存报告RSS约1.92GB。README的GPU3/7GB是官方配置说明，非本机MPS保证"
+    },
+    {
+      "id": "A02",
+      "title": "混合Transformer音乐源分离原论文",
+      "url": "https://arxiv.org/abs/2211.08553",
+      "accessed_at": "2026-11-02",
+      "version": "v1，2022-11-15",
+      "evidence": "原论文摘要/版本已核；本文不宣称完整逐节复现实验",
+      "supports": "跨时域/谱域注意力、额外数据与较长上下文有条件改善固定源分离",
+      "limits": "论文训练数据与源集合限定；Sparse版本的实现/模型可用性与普通公开模型不同",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "A03",
+      "title": "分频旋转位置Transformer源分离原论文",
+      "url": "https://arxiv.org/abs/2309.02612",
+      "accessed_at": "2026-11-02",
+      "version": "v2，2023-09-10",
+      "evidence": "原论文版本/摘要核读",
+      "supports": "复谱分频、频内/频间注意力及多频带掩码",
+      "limits": "MUSDB与SDX固定源基准，不提供未知前景角色的保证；论文≠第三方checkpoint授权",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "A04",
+      "title": "Mel频带Transformer源分离原论文",
+      "url": "https://arxiv.org/abs/2310.01809",
+      "accessed_at": "2026-11-02",
+      "version": "v1，2023-10-03",
+      "evidence": "原论文版本/摘要核读",
+      "supports": "以重叠Mel子带替代经验非重叠频带，在指定源/数据上比较",
+      "limits": "不是通用主音识别；声乐模型的提升不能移作器乐电子主奏证据",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "A05",
+      "title": "BS与Mel-RoFormer公开独立实现",
+      "url": "https://github.com/lucidrains/BS-RoFormer",
+      "accessed_at": "2026-11-02",
+      "version": "当前main，具体代码blob已保存；非原论文作者官方权重",
+      "evidence": "本轮README/实现/根许可核读；本机未运行",
+      "supports": "提供PyTorch模块输入波形输出源/谱掩码；可配置模型大小和源数",
+      "limits": "明确是Phil Wang独立实现；README指向第三方训练权重，代码MIT不自动许可那些权重",
+      "license": {
+        "code": "MIT",
+        "weights": "本轮未选择或取得具体权重，未知，不下载"
+      },
+      "runtime_limits": "PyTorch模块不能等于本机CPU/MPS达标；FlashAttention/CUDA可选路径须另核，24GiB无实际预算证据"
+    },
+    {
+      "id": "A06",
+      "title": "BANQUET官方音频查询实现与权重记录",
+      "url": "https://github.com/kwatcharasupat/query-bandit",
+      "accessed_at": "2026-11-02",
+      "version": "main核读；项目实测固定79ed5bb75e5c3a40cd319d9d990cee913fc65c26",
+      "evidence": "本轮源码/README/MIT/Zenodo许可核读，v27完整控制失败证据复用",
+      "supports": "单解码器按音乐音色查询分离；inference_byoq固定44.1k及10秒query；完整OLA接口",
+      "limits": "不是主奏职责选择器；同音色不同职责可能一起保留；短query自动tile不能假装真实长query",
+      "license": {
+        "code": "MIT",
+        "weights": "Zenodo13694558明确CC-BY-NC-SA4.0；ev-pre-aug.ckpt645470187字节；仅既有研究，不默认发行"
+      },
+      "runtime_limits": "官方batch12通常适配4090；本机CPU2线程D02约438秒且目标SI-SDR变差，A触4GiB守护，不能扩大成所有BANQUET无效"
+    },
+    {
+      "id": "A07",
+      "title": "单解码器跨四源音乐查询分离原论文",
+      "url": "https://arxiv.org/abs/2406.18747",
+      "accessed_at": "2026-11-02",
+      "version": "v2，2024-08-26，ISMIR2024",
+      "evidence": "原论文版本/摘要核读；本项目错误对照有直接反证",
+      "supports": "PaSST查询编码与单解码器在MoisesDB源任务中的适用范围",
+      "limits": "24.9M可训练参数不是含冻结PaSST后的全部参数/内存；基准优于6s不等本参考成功",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "A08",
+      "title": "SAM Audio官方实现、访问与MPS问题",
+      "url": "https://github.com/facebookresearch/sam-audio",
+      "accessed_at": "2026-11-02",
+      "version": "README现main；SAM许可2025-11-19；issue29访问日仍open",
+      "evidence": "本轮README/许可/HF卡/官方issue29核读；未本机运行",
+      "supports": "文字/视觉/时间提示的target与residual；分开quality维度",
+      "limits": "访问受官方gated条款；有提示仍不保证同类近似声部可分；Judge模型不是人工真值",
+      "license": {
+        "code": "自定义SAM License，覆盖软件/算法等；非MIT/Apache",
+        "weights": "同SAM License；small官方HF需申请/同意，未下载/未绕过"
+      },
+      "runtime_limits": "官方建议CUDA且示例.cuda；Python≥3.11；MPS请求仍open不等绝不可能，但无本机CPU/MPS内存/时延实证"
+    },
+    {
+      "id": "A09",
+      "title": "YourMT3多乐器转录官方仓库与模型卡",
+      "url": "https://github.com/mimbres/YourMT3",
+      "accessed_at": "2026-11-02",
+      "version": "README含YourMT3+ MLSP2024/2407.04822；HF模型卡commit e45ebd70398682d54b7bb1901a5216e18f3b1824",
+      "evidence": "本轮README/GPL根许可/HF权重卡核读；既有CPU本地原窗结果复用",
+      "supports": "音符/时间/程序候选；比单器AMT覆盖更多声部类别",
+      "limits": "程序类别不是实际原器；边界删失、假音、层间归属仍需验证；主仓说明发布/Space路径不能互换源码",
+      "license": {
+        "code": "主仓GPLv3，不能写成全链Apache2",
+        "weights": "官方HF mimbres/YourMT3卡Apache2；配置实际checkpoint与适配来源仍分别锁定"
+      },
+      "runtime_limits": "本项目0.56GB级MoE已有CPU运行；不据此保证MT3原T5X或任意新版在Mac运行"
+    },
+    {
+      "id": "A10",
+      "title": "MT3官方多任务多轨转录实现",
+      "url": "https://github.com/magenta/mt3",
+      "accessed_at": "2026-11-02",
+      "version": "当前README；关联ICLR2022；当前commit未核",
+      "evidence": "本轮README/根许可核读，未安装运行",
+      "supports": "T5X序列事件生成、多数据集多乐器转录",
+      "limits": "不是被官方支持的Google产品；训练不易复用；音符事件不提供合成器state/源分轨",
+      "license": {
+        "code": "Apache2",
+        "weights": "Colab所用具体外部checkpoint条款本轮未完整核，未知"
+      },
+      "runtime_limits": "官方T5X/Colab路线，Apple CPU/MPS未本轮实测；不能将YourMT3 PyTorch CPU实测转给它"
+    },
+    {
+      "id": "A11",
+      "title": "Basic Pitch轻量复音转录官方实现",
+      "url": "https://github.com/spotify/basic-pitch",
+      "accessed_at": "2026-11-02",
+      "version": "本项目既有0.4.0 ONNX；README现main，实际blob记录",
+      "evidence": "本轮README/inference.py/Apache2核读；既有原piano与控制结果复用",
+      "supports": "instrument-agnostic复音音符与bend；官方提示一次一个乐器更佳",
+      "limits": "不会识别源身份；全混存在串音与漏音；模型与后处理阈值会改note长度/数",
+      "license": {
+        "code": "Apache2仓库，模型序列化资产按具体发行确认",
+        "weights": "随官方库模型资产；未核任何第三方再训练权重，不能扩大"
+      },
+      "runtime_limits": "官方提供TF/CoreML/TFLite/ONNX；README仍列M1 Python3.10限制（旧栈说明）；本项目ONNX CPU已跑，普通环境不加TF"
+    },
+    {
+      "id": "A12",
+      "title": "可微数字信号处理原论文",
+      "url": "https://arxiv.org/abs/2001.04643",
+      "accessed_at": "2026-11-02",
+      "version": "v1，2020-01-14",
+      "evidence": "原论文版本/摘要核读，具体Harmonic接口另核",
+      "supports": "把可解释合成/滤波等模块接入学习，分开音高/响度/音色/空间的思想",
+      "limits": "学习到的归纳偏置不解决未知混音源数；不是8秒未知复音即克隆承诺",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "A13",
+      "title": "DDSP官方合成库与单F0接口",
+      "url": "https://github.com/magenta/ddsp",
+      "accessed_at": "2026-11-02",
+      "version": "当前main；具体synths.py blob已保存",
+      "evidence": "本轮README/Apache2/合成源码核读；未安装TF或训练",
+      "supports": "Harmonic控制为amplitude、harmonic_distribution、f0_hz，支持可解释参数合成",
+      "limits": "单Harmonic实例f0形状[B,T,1]，不能未经分组吞整个复音；可组合多实例但须有分配依据",
+      "license": {
+        "code": "Apache2",
+        "weights": "具体timbre-transfer预训练checkpoint及训练资料须逐项核；本轮未下载"
+      },
+      "runtime_limits": "标准TF路径需版本/架构核；CPU可用模块不等训练低成本；本24GiB Mac训练未实测"
+    },
+    {
+      "id": "A14",
+      "title": "MIDI-DDSP官方表达层级与训练域",
+      "url": "https://github.com/magenta/midi-ddsp",
+      "accessed_at": "2026-11-02",
+      "version": "README TF2.7/Python3.8示例；ICLR2022",
+      "evidence": "本轮README/根许可核读；未运行",
+      "supports": "MIDI→表达→合成，URMP13种声学器，显示乐谱与表现/合成分层",
+      "limits": "任意数据训练当前不支持；URMP器种不覆盖本电子复合主奏；四重奏合成不是盲混音逆推",
+      "license": {
+        "code": "Apache2",
+        "weights": "仓库models分支给URMP权重，但本轮未逐artifact核独立例外，未知"
+      },
+      "runtime_limits": "官方训练18小时RTX8000/batch16建议>24GB，旧M1安装警示是当时TF栈，不声称今天所有Mac永不可用"
+    },
+    {
+      "id": "A15",
+      "title": "SMS官方谱模型与谐波选择代码",
+      "url": "https://github.com/MTG/sms-tools",
+      "accessed_at": "2026-11-02",
+      "version": "项目真实sms-tools1.2；本轮master源码blob已保存",
+      "evidence": "本轮README/AGPL/harmonic源码核读；v27/v28真实CPU控制复用",
+      "supports": "正弦/谐波/随机模型、参数化诊断重建；可跟踪多partial",
+      "limits": "harmonicDetection输入一个候选f0；默认偏差f0/3较宽；轨迹不等note/乐器；SPS重放不等跨音高state",
+      "license": {
+        "code": "AGPLv3+",
+        "weights": "无训练权重；分析参考及生成参数许可另记"
+      },
+      "runtime_limits": "本项目CPU可用，编译后端已锁；不把源码可安装当任意OS即装即用"
+    },
+    {
+      "id": "A16",
+      "title": "CLAP官方对照表征与音乐权重卡",
+      "url": "https://github.com/LAION-AI/CLAP",
+      "accessed_at": "2026-11-02",
+      "version": "官方仓库main；larger_clap_music卡commit a0b4534a14f58e20944452dff00a22a06ce629d1",
+      "evidence": "本轮README/根许可/HF卡核读；既有CPU校准反证复用",
+      "supports": "音频/文本投影到共同空间，适合相对检索与有校准的对照",
+      "limits": "不是精确器种/原录音身份/旋律/同风格概率；普遍高余弦或提示候选集偏置均可能失效",
+      "license": {
+        "code": "根LICENSE为CC0，第三方模块独立许可保留",
+        "weights": "所核laion/larger_clap_music官方HF卡Apache2，不能由根CC0覆盖"
+      },
+      "runtime_limits": "本项目固定音频checkpoint CPU实测；统一48k/池化投影与负控门禁，不并驻多个模型或上传"
+    },
+    {
+      "id": "A17",
+      "title": "auraloss官方音频损失与多分辨率STFT",
+      "url": "https://github.com/csteinmetz1/auraloss",
+      "accessed_at": "2026-11-02",
+      "version": "当前main；本项目已有固定来源",
+      "evidence": "本轮README/Apache2核读；既有v27/v28已知族反演复用",
+      "supports": "复用MR-STFT、时域与立体中侧损失，保多尺度失配",
+      "limits": "损失下降可以拟到背景、丢弱音或吸收FX；不是听感/原器识别验收器",
+      "license": {
+        "code": "Apache2",
+        "weights": "损失函数本身无模型权重；示例checkpoint不能自动推广"
+      },
+      "runtime_limits": "PyTorch tensor可选CPU；FFT/批量决定成本，当前小控制适合既有环境，无需下载音频大模型"
+    },
+    {
+      "id": "A18",
+      "title": "mir_eval音符转录评价官方规范",
+      "url": "https://mir-eval.readthedocs.io/latest/api/transcription.html",
+      "accessed_at": "2026-11-02",
+      "version": "在线文档0.8.2；源码blob已保存",
+      "evidence": "本轮官方文档/源码核读，未运行新的评分",
+      "supports": "一对一最大匹配、起音/音高/偏移分开测；保onset-only与with-offset两组",
+      "limits": "必须有参考GT；instrument-agnostic默认不验原器/角色；不是有调谱峰计数",
+      "license": {
+        "code": "仓库具体许可本轮未核，调用前核；文档规范可引用",
+        "weights": "无训练权重"
+      },
+      "runtime_limits": "NumPy/SciPy类CPU统计，小规模可行，未在本轮额外装包"
+    },
+    {
+      "id": "A19",
+      "title": "Librosa谐波显著性官方接口",
+      "url": "https://librosa.org/doc/0.11.0/generated/librosa.salience.html",
+      "accessed_at": "2026-11-02",
+      "version": "固定0.11.0文档；另保存当前源码以区分版本",
+      "evidence": "本轮固定版文档/当前源码核读，v28失败NNLS对照保留",
+      "supports": "对STFT/CQT等非负谱按谐波加权求显著性，便于候选观察",
+      "limits": "返回显著性谱而非分离/音符真值；有默认NaN填非峰；候选源数/鼓拒绝需另校准",
+      "license": {
+        "code": "ISC（沿v28固定版LICENSE原文已核）",
+        "weights": "无训练权重"
+      },
+      "runtime_limits": "librosa0.11已有CPU环境；无需新模型，首跑JIT时长与资源须记录"
+    },
+    {
+      "id": "A20",
+      "title": "信号失真评价的SI-SDR原论文",
+      "url": "https://arxiv.org/abs/1811.02508",
+      "accessed_at": "2026-11-02",
+      "version": "v1，2018-11-06",
+      "evidence": "原论文摘要/版本核读；既有BANQUET真源SI-SDR下降反证复用",
+      "supports": "说明传统BSS_eval SDR可受可变滤波等定义误导，给尺度不变SDR替代",
+      "limits": "SI-SDR仍须真目标且不测音色/风格/音乐组织；静音/边界/对齐须另验",
+      "license": {
+        "code": "不适用／未单独核",
+        "weights": "不适用／未核"
+      },
+      "runtime_limits": "未实测，不能据可安装说明宣称本机可用"
+    },
+    {
+      "id": "S01",
+      "title": "Apple采样器的多采样与映射",
+      "url": "https://support.apple.com/zh-cn/guide/logicpro/lgsifc860d24/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面默认Logic Pro12.3；本机未运行",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "按调／力度范围创建zone/group，加载关联音频到RAM，兼容EXS",
+        "可借用分区与群组建模，不是自动从混音认原器"
+      ],
+      "limits": [
+        "编辑zone不能补没有录到的连奏过渡／轮换／力度层",
+        "本项目未接Logic Sampler，不能把其能力算入现cap"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S02",
+      "title": "Apple Alchemy的多源再合成",
+      "url": "https://support.apple.com/zh-cn/guide/logicpro/lgsi2618652a/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面默认Logic Pro12.3",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "最多四source，含加法／频谱／粒子／采样／虚拟模拟，可分析导入音频并morph",
+        "可复用音体与空间分层、source级和总线级调制的思路"
+      ],
+      "limits": [
+        "导入或再合成不是原器识别和版权清除",
+        "未核到宿主无关公开离线CLI；不把Alchemy抽成可自由发布引擎"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S03",
+      "title": "Apple运音法集编辑器的路由语义",
+      "url": "https://support.apple.com/zh-cn/guide/logicpro/lgcp33a49091/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面默认Logic Pro12.3",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "运音法ID、keyswitch／controller定义及输出变换三层映射",
+        "ID可映射通道，适配第三方已有sample groups"
+      ],
+      "limits": [
+        "Articulation Set只是选择已存在音源，不凭空制造真实legato／pizzicato",
+        "跨host应保存语义ID和映射，不能把Apple内部ID当通用音色"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S04",
+      "title": "Apple智能速度与人工修正",
+      "url": "https://support.apple.com/zh-cn/guide/logicpro/lgcp9281e70c/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面默认Logic Pro12.3",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "Keep／Adapt／Automatic与Flex Follow决定跟随方向",
+        "可给提示和编辑拍标；音乐速度分析不等瞬态量化"
+      ],
+      "limits": [
+        "不能由单个BPM恢复pocket／half-time或整套鼓谱",
+        "音频伸缩与原创主题生成不同，不作为克隆主奏"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S05",
+      "title": "Apple六类大分轨拆分器",
+      "url": "https://support.apple.com/zh-cn/guide/logicpro/lgcp61bae908/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面默认Logic Pro12.3；旧11.0不外推",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "当前可拆人声、鼓、贝斯、吉他、钢琴、其他六类；M1或后续Apple芯片",
+        "可选子混音，原片段静音，输出音频片段"
+      ],
+      "limits": [
+        "估计stem不是物理乐器真值，不输出原preset或可编辑MIDI",
+        "页面不等本机已实际运行；不沿旧四类教程宣传当前上限"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S06",
+      "title": "Apple MainStage现场编组与运音法",
+      "url": "https://support.apple.com/zh-cn/guide/mainstage/welcome/mac",
+      "accessed_at": "2026-11-02",
+      "version": "实际页面MainStage4.3；当前官方PDF198页",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "Concert／patch／channel strip组织多音源、分键／力度图、send路由和演奏映射",
+        "官方PDF含运音法三面板、120页录制concert输出"
+      ],
+      "limits": [
+        "是现场主机，不等Logic完整轨道制作与Smart Tempo／Stem Splitter能力",
+        "本轮未核到公开headless离线渲染CLI；未安装／试录"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": [
+        "https://help.apple.com/pdf/mainstage/en_US/mainstage-user-guide.pdf"
+      ]
+    },
+    {
+      "id": "S07",
+      "title": "Apple随附声音的商用与再分发界限",
+      "url": "https://support.apple.com/zh-cn/101908",
+      "accessed_at": "2026-11-02",
+      "version": "官方支持文章，访问日有效",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "原创声轨可广播／发布并免版税",
+        "单项Sample Content不得独立发布，也不能重新包装成采样／音库"
+      ],
+      "limits": [
+        "免版税不是公有领域；不能把Apple库转换SF2随Skill发",
+        "软件许可、参考音频许可与新作品权利各自独立"
+      ],
+      "license": {
+        "代码": "Apple专有软件，需合法取得软件许可",
+        "采样及preset": "作品允许免版税；不得把单项资产独立再分发或重新包装为音库",
+        "商用作品": "允许适用的原创声轨",
+        "默认随Skill再分发": "不纳入"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S08",
+      "title": "Surge XT真实可编辑合成器与状态",
+      "url": "https://surge-synthesizer.github.io/manual-xt/",
+      "accessed_at": "2026-11-02",
+      "version": "官方手册1.3；本项目实际1.3.4固定f7b97c6",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "官方状态实现sub3及wtsize可内嵌周期表；工厂patch可多振荡器／场景／调制／效果",
+        "官方FAQ允许用工厂preset产出的声音／音乐商用；本项目已有真实state／MIDI／双实例与v28波表闭环"
+      ],
+      "limits": [
+        "插件参数缓存不能代替完整state，随机相位／漂移／FX时钟须实际复演",
+        "当前插件原语只noteon/off，不等CC／MPE／逐参数自动化全接入"
+      ],
+      "license": {
+        "代码": "GPL-3.0-or-later，分发插件／改源码需遵守",
+        "preset": "按具体patch元数据和作者来源；Init标CC0，非所有外部preset默认CC0",
+        "作品": "官方FAQ明确允许factory输出商用",
+        "再分发": "新自有音色与插件二进制／第三方素材分别核"
+      },
+      "additional_urls": [
+        "https://surge-synthesizer.github.io/faq/"
+      ]
+    },
+    {
+      "id": "S09",
+      "title": "FluidSynth官方音符／浮点渲染接口",
+      "url": "https://github.com/FluidSynth/fluidsynth/blob/v2.6.1/include/fluidsynth/synth.h",
+      "accessed_at": "2026-11-02",
+      "version": "本项目实际2.6.1；固定71e85b2",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "noteon/noteoff、set_gen和write_float有明确C接口",
+        "头文件提醒事件是否进入当前block依线程上下文而定；项目按64帧网格确定调度"
+      ],
+      "limits": [
+        "引擎开源不授权任意SoundFont；稀疏键和源帧需另核",
+        "当前只静态EG/filter offset，不能抹去原采样慢起；未接连续表情"
+      ],
+      "license": {
+        "代码": "LGPL-2.1-or-later",
+        "采样": "不随引擎许可证自动授权",
+        "商用作品": "官方FAQ允许，MIDI／SoundFont输入各自核",
+        "再分发": "动态库可替换／修改源码义务独立于核心MIT"
+      },
+      "additional_urls": [
+        "https://github.com/FluidSynth/fluidsynth/blob/master/doc/wiki/LicensingFAQ.md"
+      ]
+    },
+    {
+      "id": "S10",
+      "title": "sfizz的SFZ保真解释器与离线块API",
+      "url": "https://sfz.tools/sfizz/api/sfizz.h/",
+      "accessed_at": "2026-11-02",
+      "version": "官网包1.2.3；本轮develop固定f5c6e29；仓库已归档",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "load_file相对SFZ父目录找采样；send_note_on有块内delay；render_block要求先排事件、仅双声道",
+        "freewheeling及unknown_opcodes可用于小型离线桥，原SFZ轮换／CC语义可保留"
+      ],
+      "limits": [
+        "官方repo2026-06-21已归档，不能未经验证默认新维护线",
+        "此API未核到公开固定random seed；RR／随机opcode和同音释放须实测；本项目尚未接入",
+        "本次BSD2结论只针对libsfizz；另选插件包须再核sfizz-ui许可"
+      ],
+      "license": {
+        "代码": "BSD-2-Clause；构建依赖dr_libs MIT-0或libsndfile LGPL2.1另核",
+        "采样及preset": "由SFZ库本身决定",
+        "商用作品": "按实际库许可",
+        "默认集成": "仅候选，未安装／未运行"
+      },
+      "additional_urls": [
+        "https://github.com/sfztools/sfizz",
+        "https://sfz.tools/sfizz/downloads/"
+      ]
+    },
+    {
+      "id": "S11",
+      "title": "Decent Sampler播放器与音库EULA",
+      "url": "https://www.decentsamples.com/decent-samples-end-user-license-agreement/",
+      "accessed_at": "2026-11-02",
+      "version": "下载页1.40.1（2026-10-24）；本轮未安装",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "官方支持Mac Intel／Apple Silicon与VST3／AU等；dspreset／dslibrary可组织采样",
+        "本站音库可用于商用作品，但不许独立重发采样；组合定义要求另一个音频源"
+      ],
+      "limits": [
+        "免费播放器不等开源／自由再分发；第三方库许可不能继承本站条件",
+        "不能绕保护；不能把独立音库或单样本输出打包冒作原创作品"
+      ],
+      "license": {
+        "代码": "官网免费二进制；本轮未取得开放源码／二进制再分发授权",
+        "本站采样": "适用官方EULA，商用作品与raw库再分发分开",
+        "第三方库": "逐库核",
+        "默认随Skill": "不打包"
+      },
+      "additional_urls": [
+        "https://store.decentsamples.com/downloads/decent-sampler/versions",
+        "https://www.decentsamples.com/qa/112/royalty-free-usage"
+      ]
+    },
+    {
+      "id": "S12",
+      "title": "VSCO2社区版真实管弦采样",
+      "url": "https://github.com/sgossner/VSCO-2-CE",
+      "accessed_at": "2026-11-02",
+      "version": "官方master固定4403009；SFZ快速下载1.1.0",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "作者Sam Gossner／Simon Dalzell实录，官方根许可CC0",
+        "适合从明确独奏／section／奏法文件按需挑小子集，不冒作所有专业连奏"
+      ],
+      "limits": [
+        "本轮只核源码／许可，没有下载音频或接入整个库",
+        "社区版不等其它商业VSCO版本；SFZ／源WAV与渲染器能力分开"
+      ],
+      "license": {
+        "采样及仓库": "CC0-1.0，可商用／改作／再分发；仍保原来源追溯",
+        "播放器": "另选另核",
+        "已接入": "不是，仅部分既有VCSL源另有明确登记"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S13",
+      "title": "VPO管弦乐团的具体控制与混合许可",
+      "url": "https://virtualplaying.com/virtual-playing-orchestra/",
+      "accessed_at": "2026-11-02",
+      "version": "官方脚本3.3／WAV3.2约603MB；未下载",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "Standard velocity控音量、独立奏法或keyswitch；Performance以CC1动态、velocity切奏法",
+        "含sustain／staccato等，部分铜管两力度、短弦RR；用户须自行协调多来源声场"
+      ],
+      "limits": [
+        "官方多来源许可、派生库署名与免费限制，不能改标整库CC0／默认商业再打包",
+        "现runner未接CC1等流；直接转换SF2会丢控制语义"
+      ],
+      "license": {
+        "作品": "作者允许商用音乐",
+        "库再分发": "按源SFZ与多个原许可／署名；作者要求派生个人用或免费赠送",
+        "默认打包": "不采用混合库，优先直接核CC0原源"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S14",
+      "title": "VCSL可按需选取的真实世界乐器",
+      "url": "https://github.com/sgossner/VCSL",
+      "accessed_at": "2026-11-02",
+      "version": "本轮官方master固定c1ea7bc",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "官方根CC0；真实音符按源文件／SFZ键域／力度／RR与录音身份描述",
+        "本项目已有多批选取转换库，注册表逐资源记录，非本轮新装"
+      ],
+      "limits": [
+        "不能把完整VCSL目录算已接入；SFZ的seq/tune/envelope不可静默丢",
+        "RR独立preset是可手动选资源，不等自动轮换；质量与音域逐件验证"
+      ],
+      "license": {
+        "采样及仓库": "CC0-1.0",
+        "转换工具": "另核，如既有SF2cute Zlib",
+        "作品与再分发": "许可允许，不隐去来源与变更"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S15",
+      "title": "琵琶PipaSet作者数据与许可",
+      "url": "https://zenodo.org/records/6760047",
+      "accessed_at": "2026-11-02",
+      "version": "v1，2022-06-29；本轮Zenodo API实核",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "作者Wang等的多模态琵琶数据，含音高／弦品／技法标注；metadata明确CC-BY4",
+        "本项目只单音跨弦与弦变体，43键且87缺失已真解析"
+      ],
+      "limits": [
+        "数据集的丰富技法不等已映射到当前乐器；本地只单力度／无自动RR",
+        "整曲录音不能切成原创新曲；新增包须随署名和修改说明"
+      ],
+      "license": {
+        "采样数据": "CC-BY-4.0，商用／改作／再分发需署名与变更",
+        "代码": "数据许可不等工具代码许可",
+        "本地派生": "保现第二批许可与署名，不改CC0"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S16",
+      "title": "笛子膜振动／指法作者数据与许可",
+      "url": "https://zenodo.org/records/6333932",
+      "accessed_at": "2026-11-02",
+      "version": "作者数据；本轮Zenodo API实核",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "有声文件、声阻抗和频谱的Dizi Fingering Dataset；metadata CC-BY4",
+        "本地G调有膜默认资源只21根键，替代指法独立资源，不称RR或力度层"
+      ],
+      "limits": [
+        "原单声道／稀疏键；本地SF2制库44.1k16位，48k24位输出不能恢复信息",
+        "不把G调材料自动认梆笛／曲笛或所有膜色"
+      ],
+      "license": {
+        "数据": "CC-BY-4.0，商用／改作／再分发需署名与修改",
+        "本地扩展": "已有许可与SHA，部分键因过载／错标拒映"
+      },
+      "additional_urls": []
+    },
+    {
+      "id": "S17",
+      "title": "SuperCollider的时间化OSC与非实时录音",
+      "url": "https://doc.sccode.org/Classes/Score.html",
+      "accessed_at": "2026-11-02",
+      "version": "官方文档3.14.0；源码固定d263b8c",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "Score封装定时OSC，recordNRT传sr/header/sample format，scsynth非实时输出文件",
+        "语言／server分离，可由外部Agent生成数据驱动成熟合成，而不重写DSP"
+      ],
+      "limits": [
+        "不是自带真实中国／完整管弦库；SynthDef／UGen／Quark／采样各自核",
+        "本轮未装／未跑，随机UGen与排序/版本需实测；不称默认确定性"
+      ],
+      "license": {
+        "代码": "GPL-3.0",
+        "声音／自有score": "软件许可不自动给任何输入采样版权",
+        "再分发": "第三方UGen／Quark另核"
+      },
+      "additional_urls": [
+        "https://github.com/supercollider/supercollider"
+      ]
+    },
+    {
+      "id": "S18",
+      "title": "Faust本地DSP编译与逐文件许可",
+      "url": "https://faustdoc.grame.fr/manual/overview/",
+      "accessed_at": "2026-11-02",
+      "version": "本轮master8c00913，COPYING头Version2.88.0",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "本地CLI与libfaust可编译DSP并选目标架构；dsp.h有compute接口",
+        "实际COPYING为LGPL2.1+，架构dsp.h有未修改架构段更大作品例外，纠正旧笼统GPL说法"
+      ],
+      "limits": [
+        "编译器不决定所有输入库／生成代码许可，应逐函数／架构核",
+        "不使用在线IDE上传；未本机编译，不为一个效果重建全引擎"
+      ],
+      "license": {
+        "当前compiler": "取到的COPYING：LGPL-2.1-or-later",
+        "architecture dsp.h": "LGPL-2.1-or-later＋特定未修改段例外",
+        "libraries": "逐.lib／函数声明；不能全盖MIT"
+      },
+      "additional_urls": [
+        "https://github.com/grame-cncm/faust/blob/master/COPYING.txt",
+        "https://faustlibraries.grame.fr/",
+        "https://faustdoc.grame.fr/manual/llm/"
+      ]
+    },
+    {
+      "id": "S19",
+      "title": "Csound的乐器／乐谱分离与离线CLI",
+      "url": "https://github.com/csound/csound",
+      "accessed_at": "2026-11-02",
+      "version": "本轮develop6390905，README7.0.0 beta；6.x已EOL",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "orchestra／score或CSD由CLI驱动；官方参数支持WAV／24bit等输出",
+        "适合显式音符／表情控制与物理／加法模型，成熟opcode不用自写底层"
+      ],
+      "limits": [
+        "develop为beta，旧文档标Csound5的flags不能当7已实测",
+        "不自带原器识别；外部opcode与采样许可／随机种子另核；未安装"
+      ],
+      "license": {
+        "代码": "LGPL-2.1-or-later",
+        "采样／作品": "按输入，独立于引擎",
+        "工具复用": "非本轮替换方案"
+      },
+      "additional_urls": [
+        "https://csound.com/docs/manual/CommandFlagsCategory.html"
+      ]
+    },
+    {
+      "id": "S20",
+      "title": "MuseScore乐谱制作与CLI的实际边界",
+      "url": "https://handbook.musescore.org/appendix/command-line-usage",
+      "accessed_at": "2026-11-02",
+      "version": "在线手册注明从v3复制，指向v4兼容复核；本轮未运行",
+      "evidence": "本轮读官方资料；非软件安装或声学验收",
+      "supports": [
+        "文档有-o导出、-j批任务、-c独立config等接口，可作谱面／导出适配候选",
+        "本项目使用的是MuseScore_General.sf3采样，不是已安装完整MuseScore／MuseSounds"
+      ],
+      "limits": [
+        "手册自警告部分v3参数在v4可能失效；需实际version/help和格式验证",
+        "MuseScore GPL不自动授权MuseSounds／社区第三方乐谱与音库再分发"
+      ],
+      "license": {
+        "软件": "MuseScore Studio GPL-3.0；以发行实际LICENSE为准",
+        "本地主SF3": "既有登记MIT/FluidR3Mono来源，非整个商用声音生态",
+        "其它音源": "逐产品条款核，不默认可打包"
+      },
+      "additional_urls": [
+        "https://github.com/musescore/MuseScore"
+      ]
+    },
+    {
+      "id": "R01",
+      "title": "IRCAM／HEM／UC Berkeley：Orchidea目标声音辅助配器",
+      "url": "https://www.orch-idea.org/intro/",
+      "accessed_at": "2026-11-02",
+      "version": "官方页面；配套下载列0.7",
+      "evidence": "已核官方介绍：在音色度量和乐器约束下搜索声音组合。",
+      "limits": "没有安装或运行Orchidea；目标配器不等于恢复原作品乐器身份。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R02",
+      "title": "Orchidea静态与动态配器官方教程",
+      "url": "https://www.orch-idea.org/2024/07/09/quick-start-and-overview/",
+      "accessed_at": "2026-11-02",
+      "version": "2024-07-09",
+      "evidence": "已核静态平均音色与分段动态配器的操作和数据库/过滤条件。",
+      "limits": "平均谱会丢失起音与段落；未验证当前Mac二进制、CLI或新曲质量。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R03",
+      "title": "Orchidea数据库与取得条件",
+      "url": "https://www.orch-idea.org/datasets/",
+      "accessed_at": "2026-11-02",
+      "version": "2026-11-02页面快照",
+      "evidence": "已核TinySOL普通奏法、OrchideaSOL会员与FullSOL付费入口的区别。",
+      "limits": "可下载或免费会员不等于允许把全部音频打进开源技能。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R04",
+      "title": "IRCAM TinySOL单音乐器数据集",
+      "url": "https://zenodo.org/records/3685367",
+      "accessed_at": "2026-11-02",
+      "version": "记录3685367；v6.0",
+      "evidence": "已核普通奏法、MIDI/力度/实例/数字调音元数据和CC BY 4.0条件。",
+      "limits": "本轮没有下载1GB音频；不能登记为本项目已接入，也不能声称含全部扩展奏法。",
+      "license": "TinySOL音频为CC BY 4.0；不能外推到OrchideaSOL/FullSOL。"
+    },
+    {
+      "id": "R05",
+      "title": "ACTOR ORCH.A.R.D.配器听觉分组教程",
+      "url": "https://orchard.actor-project.org/querybuilder/tutorial",
+      "accessed_at": "2026-11-02",
+      "version": "官方网页，未标发布版本",
+      "evidence": "真实浏览器核读：同时融合/分离、连续声流、段落音色进程与对比；可关联谱、录音时间、编制和标注。",
+      "limits": "是分析分类与案例数据库，不是自动音频模型；本轮未试听数据库录音。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R06",
+      "title": "music21声部进行官方源码",
+      "url": "https://github.com/cuthbertLab/music21/blob/v9.9.2/music21/voiceLeading.py",
+      "accessed_at": "2026-11-02",
+      "version": "v9.9.2；Git blob 46a39cdd88a9944ec5f58fb63df95f6a6993fc0d",
+      "evidence": "GitHub连接器已核motionType、parallelFifth、hiddenInterval、isProperResolution；本地正反例与v28符号核查已运行。",
+      "limits": "hiddenInterval包含所有隐藏音程，不只传统禁例；MIDI等音拼写和风格语境影响解释。",
+      "license": "music21代码BSD-3-Clause；本轮未使用其乐谱语料。"
+    },
+    {
+      "id": "R07",
+      "title": "music21声部进行API文档",
+      "url": "https://music21.org/music21docs/moduleReference/moduleVoiceLeading.html",
+      "accessed_at": "2026-11-02",
+      "version": "在线文档已包含v11变更；本项目实验固定9.9.2",
+      "evidence": "已核正反向/共同音、调性解决及v11接口变化说明。",
+      "limits": "不能把v11文档参数直接套到9.9.2；API检测通过不是好听或任何曲风的必选规则。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R08",
+      "title": "music21许可与语料边界",
+      "url": "https://github.com/cuthbertLab/music21/blob/v9.9.2/LICENSE",
+      "accessed_at": "2026-11-02",
+      "version": "v9.9.2；Git blob 10429f7ad70659ae5f4f21286c4ec9e25e85f56d",
+      "evidence": "已核代码BSD-3-Clause与语料单独权利的明确区分。",
+      "limits": "不能用代码许可覆盖乐谱语料或录音。",
+      "license": "BSD-3-Clause；语料逐项另核。"
+    },
+    {
+      "id": "R09",
+      "title": "music21官方发行与Python兼容",
+      "url": "https://pypi.org/project/music21/9.9.2/",
+      "accessed_at": "2026-11-02",
+      "version": "9.9.2；Python>=3.10；wheel SHA648010ab8d1328d0b10746cef1457e84b12274cd316248227e96d21e27a518ca",
+      "evidence": "PyPI JSON与实际隔离安装已核；不改主环境numpy。",
+      "limits": "线上最新版/开发文档不同于本项目固定版；安装成功不证明音乐理解。",
+      "license": "BSD-3-Clause代码；分发语料另核。"
+    },
+    {
+      "id": "R10",
+      "title": "EBU R128响度与真峰值建议",
+      "url": "https://tech.ebu.ch/publications/r128",
+      "accessed_at": "2026-11-02",
+      "version": "v5.0，2023-11",
+      "evidence": "已核节目响度、响度范围与最大真峰值分列。",
+      "limits": "广播推荐不等于所有BGM必须同一目标响度；同LUFS不等于同音色或同情绪。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "R11",
+      "title": "ITU-R BS.1534主观音频质量评价",
+      "url": "https://www.itu.int/rec/R-REC-BS.1534-3-201510-I/en",
+      "accessed_at": "2026-11-02",
+      "version": "BS.1534-3，2015-10；官方列现行",
+      "evidence": "已核官方适用范围、状态和可下载标准入口。",
+      "limits": "只核官方范围与入口，未把本项目A/B宣传为严格MUSHRA实验；不同新旋律的风格判断不是编码损伤评分。",
+      "license": "仅核读公开资料；不随技能复制原文或媒体"
+    },
+    {
+      "id": "V31-S01",
+      "title": "读谱推理与真实听觉的区别：核心音乐感知实验",
+      "url": "https://proceedings.mlr.press/v303/carone26a.html",
+      "accessed_at": "2026-11-02",
+      "version": "PMLR303，2026",
+      "evidence": "已读官方论文页摘要；PDF接口未成功取得，不冒称全文",
+      "limits": "三种旧模型及三项任务，不据此判所有模型或本宿主能力",
+      "license": "公开资料仅核读；代码、权重、素材各守独立许可，不随方法库分发模型或原录音"
+    },
+    {
+      "id": "V31-S02",
+      "title": "MUSE：音乐感知与关系推理基准",
+      "url": "https://arxiv.org/html/2510.19055v1",
+      "accessed_at": "2026-11-02",
+      "version": "2025-10-21 v1",
+      "evidence": "已读正文方法、结果及局限；未运行其完整基准",
+      "limits": "四个指定模型、任务与提示条件；乐器分类成功不等和声关系或作曲能力",
+      "license": "公开资料仅核读；代码、权重、素材各守独立许可，不随方法库分发模型或原录音"
+    },
+    {
+      "id": "V31-S03",
+      "title": "MuseDiag：音乐描述幻觉的分层诊断",
+      "url": "https://arxiv.org/html/2609.20195v1",
+      "accessed_at": "2026-11-02",
+      "version": "v1；页面标注ACM MM2026接收",
+      "evidence": "已读摘要、跨范式结果与第7节限制；页面提交日期与编号月份不一致，保原链接不推断版本顺序",
+      "limits": "短片段属性诊断不覆盖稠密复音、空间、长结构及演奏细节；未运行其模型/干预",
+      "license": "公开资料仅核读；代码、权重、素材各守独立许可，不随方法库分发模型或原录音"
+    },
+    {
+      "id": "V31-S04",
+      "title": "ACE-Step官方参考条件、源音频与本地MLX实现",
+      "url": "https://github.com/ace-step/ACE-Step-1.5",
+      "accessed_at": "2026-11-02",
+      "version": "ca1e85fe9430179831e6bc6be790c332190a3866；HF19671f406d603126926c1b7e2adc169acbcade22",
+      "evidence": "本轮核官方版本、参数与参考/源分支；已有固定源码和权重用于16秒真实本地三阶段基准",
+      "limits": "源码有入口不等编辑已测；输出仅音频，参考编码不能保证不含原旋律",
+      "license": "ACE代码/DiT/VAE为MIT；必要Qwen3文本嵌入Apache-2.0另计；参考录音不再分发"
+    },
+    {
+      "id": "V31-S05",
+      "title": "MusicGen-Style官方风格瓶颈与模型卡",
+      "url": "https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN_STYLE.md",
+      "accessed_at": "2026-11-02",
+      "version": "2026-11-02核当前官方说明与模型卡",
+      "evidence": "已核1.5–4.5秒参考、离散条件、代码/权重许可和主文件尺寸；未安装/运行",
+      "limits": "代码MIT但权重CC-BY-NC4.0；GPU建议不能直接换算Apple统一内存",
+      "license": "AudioCraft代码MIT；模型权重CC-BY-NC4.0，不作为默认通用商用依赖"
+    },
+    {
+      "id": "V31-S06",
+      "title": "Stable Audio Open官方模型用途与限制",
+      "url": "https://huggingface.co/stabilityai/stable-audio-open-1.0",
+      "accessed_at": "2026-11-02",
+      "version": "2026-11-02核官方模型卡、许可与生成源码",
+      "evidence": "已核init_audio潜变量加噪机制、权重许可和文件体积；未安装/运行",
+      "limits": "初始音频变体不是独立风格参考；官方卡认为更擅长音效，输出非MIDI",
+      "license": "工具代码MIT；模型为Stable Audio Community License，须另核适用条款"
+    },
+    {
+      "id": "V31-S07",
+      "title": "Dennis DeSantis：主动聆听",
+      "url": "https://makingmusic.ableton.com/active-listening",
+      "accessed_at": "2026-11-02",
+      "version": "在线官方公开章节；无修订号",
+      "evidence": "Listen in Layers/Chunks/Subjectively正文；官方公开正文已核读；未试听嵌入音视频",
+      "limits": "需要实际聆听；本次只有文字阅读，不能冒称已听音乐",
+      "license": "只摘记方法和出处，不复制书籍或音视频"
+    },
+    {
+      "id": "V31-S08",
+      "title": "Dennis DeSantis：属性目录",
+      "url": "https://makingmusic.ableton.com/catalog-of-attributes",
+      "accessed_at": "2026-11-02",
+      "version": "在线官方公开章节；无修订号",
+      "evidence": "Solution及示例正文；官方公开正文已核读；未试听嵌入音视频",
+      "limits": "示例不是普遍配器模板，不保证法律安全或主观相似",
+      "license": "只摘记方法和出处，不复制书籍或音视频"
+    },
+    {
+      "id": "V31-S09",
+      "title": "Dennis DeSantis：逐代变体",
+      "url": "https://makingmusic.ableton.com/creating-variation-2-mutation-over-generations",
+      "accessed_at": "2026-11-02",
+      "version": "在线官方公开章节；无修订号",
+      "evidence": "Solution全部；官方公开正文已核读；未试听嵌入音视频",
+      "limits": "方法不是只改一数值，也不能无条件从失败父代累积发展",
+      "license": "只摘记方法和出处，不复制书籍或音视频"
+    }
+  ],
+  "rules": [
+    {
+      "id": "MR01",
+      "title": "先定义可回认的动机及发展关系",
+      "topics": [
+        "旋律与和声",
+        "需求与曲式"
+      ],
+      "source_ids": [
+        "M01",
+        "M02",
+        "M03"
+      ],
+      "use_when": "用户需要可记忆主题；氛围、噪声或极简铺底允许不设显著主旋律。",
+      "action": "宿主选一个短核心，记录其节奏骨架、相对音程轮廓、目标与分句；后句明确采用回认、节奏变形、变尾或对照，不能只给每句换调名。",
+      "counterexample": "每两小节整线换乐器或抬八度就宣称主题发展；为保身份永久禁止改任何原自有音符。",
+      "project_application": "已核：score_tools编译逐note onset_tick/duration_ticks、pitch/velocity为事件帧；插件performance为明确MIDI/onset/gate。动机关系与发展标签须宿主另记，当前无自动作曲/记忆性判定器。",
+      "verification": [
+        "为主题音符显式记录稳定ID与动机段范围，区分保留、修改、新增。",
+        "比相对音程/起点/时值和目标位置，标清重复与差异；不把相似度当记忆性评分。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：听者能否回认动机、变尾是否有方向、主题是否真动听。"
+      ]
+    },
+    {
+      "id": "MR02",
+      "title": "建立拍感后只改有功能的切分位置",
+      "topics": [
+        "节奏与律动",
+        "旋律与和声"
+      ],
+      "source_ids": [
+        "M15",
+        "M16"
+      ],
+      "use_when": "稳定拍号/pocket成立但主句机械；自由节奏或复杂已有切分不套此策略。",
+      "action": "先保可感锚点，再选句尾提前、弱起或跨强拍延留；一次明确操作少数结构位置，并检查真实声源能否把新起音表达出来。",
+      "counterexample": "最大化切分/击打数，或全线同样提前后用切分总分签groove；拿2015勘误前刺激谱复制。",
+      "project_application": "已核：普通谱节拍到帧及有限人性化；插件直接帧事件。当前没有可保证感知起点的P-center校正；慢弦note-on提前不等实际节奏成立。",
+      "verification": [
+        "逐note列原/新onset、gate、相邻同键与鼓锚的关系。",
+        "同时保留没有改切分的位置作为上下文；固定种子，不能整线随机前移。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：能否点头跟拍、句边界是否更清楚、是否反而失去重心。"
+      ]
+    },
+    {
+      "id": "MR03",
+      "title": "鼓、低音、有调短击构成复合节奏",
+      "topics": [
+        "节奏与律动",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "M12",
+        "M13",
+        "M15"
+      ],
+      "use_when": "有明确节奏底盘的电声/融合BGM，且层间推动不足。",
+      "action": "分别写鼓锚、低频持续/重触发、中域riff和装饰的职责；低音可跨多个鼓击，短击可补缝或呼应，不预设每kick重弹或所有低音都切短。",
+      "counterexample": "给Cello永久+.25拍当复合节奏；把原已对齐的backbeat重新包装为新修；看到鼓多就自动删持续bass。",
+      "project_application": "已核：score/冻结事件可表达长低音与错拍；ducking_effect支持显式多源trigger_part_ids并集而非累计加深。此为确定性包络，不是音频智能压缩器；不自带风格识别。",
+      "verification": [
+        "用同一时间轴列各职责起点/门值及同时活动窗；和声变化次数与有调击发次数分开。",
+        "若把kick分配到多个真实part，duck来源显式取真实并集，检查每源非空和无漏触发。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：鼓低音是否合为一个推动、持续与短击是否互托、是否糊或疲劳。"
+      ]
+    },
+    {
+      "id": "MR04",
+      "title": "和声节奏与旋律节奏分别设计",
+      "topics": [
+        "旋律与和声",
+        "需求与曲式"
+      ],
+      "source_ids": [
+        "M02",
+        "M17",
+        "M18"
+      ],
+      "use_when": "调性/和声BGM需要发展；无调性/单和弦风格允许靠其他维度组织。",
+      "action": "宿主另写和声变化点、共同音与导向解决；同一和弦内可多次击发，变化和弦也不必所有声部重起。目标音与强拍冲突应有保留/解决理由。",
+      "counterexample": "每小节换一个和弦符号就算发展；拿未知参考和弦猜测作GT；将音高空间张力模型摘要当已实现评分。",
+      "project_application": "已核：逐音与tempo_map可写不同变化率；score没有自动和声语法或张力模型，chord说明不自动改变音符。M18只读摘要，公式未实现。",
+      "verification": [
+        "列各和声span及实际各声部pitch/on/off，核共同音是否真连续。",
+        "不同句尾是否实现不同程度的结束感，区分和声解决与仅降低音量。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：解决是否自然、变化是否过急、目标是否产生听觉期待。"
+      ]
+    },
+    {
+      "id": "MR05",
+      "title": "按可感音乐职责分层，不能以轨数代替乐团",
+      "topics": [
+        "配器与层次",
+        "中西乐器"
+      ],
+      "source_ids": [
+        "M04",
+        "M11",
+        "M03"
+      ],
+      "use_when": "用户要求多层次/乐团或当前多part仍单薄。",
+      "action": "先指定前景、内声/回答、低部、和声/共鸣和节奏的主从；新增资源必须带来可说明的独立贡献或有目的加倍，允许同音色承担多职责但须区分。",
+      "counterexample": "13part报13种乐器；Demucs一轨被当只允许一件原乐器；有民族名称就称已融合。",
+      "project_application": "已核：真实zone资源绑定、独立part混音、render-ensemble同轴演奏；来源身份和真实乐团人数仍须证据。当前无自动感知主从的通过门禁。",
+      "verification": [
+        "分别计逻辑part、真实resource/state去重、活动段和功能，不将它们混为演奏人数。",
+        "对新增层作保其他不变的功能对照，确认不是全程同音同起同包络。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：每层是否可感且有必要、主曲是否突出、组合是否成为整体。"
+      ]
+    },
+    {
+      "id": "MR06",
+      "title": "独立回应与对位必须有让位和方向",
+      "topics": [
+        "配器与层次",
+        "旋律与和声"
+      ],
+      "source_ids": [
+        "M04",
+        "M11",
+        "M03"
+      ],
+      "use_when": "需要主答或两个有调层，而非单纯齐奏加倍。",
+      "action": "回答取主句空位/长目标旁的可用空间，保自己的起伏或节奏；用音区、发音或运动方向区分。真正对位可同时发声，不能一概强制无重叠。",
+      "counterexample": "每两小节固定换低八度主族；所有回答都只有两个弱点而仍称完整主奏交接。",
+      "project_application": "已核：分part音符、gate/pan/gain可表达；采样普通门控不等真实连奏，需实际起音检查。",
+      "verification": [
+        "列答句开闭点、目标、主句在该处的活动；核同key合法。",
+        "区分计划中的选择加倍与独立答句，不将复制整线叫countermelody。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：回答是否像乐句、有无争主、交接是否断身份。"
+      ]
+    },
+    {
+      "id": "MR07",
+      "title": "呼吸与对比应保留下一段的承接职责",
+      "topics": [
+        "需求与曲式",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "M02",
+        "M17",
+        "M10"
+      ],
+      "use_when": "段落变化需要留白，或已有8–13秒突然衰竭等反馈。",
+      "action": "写清谁停、谁接、何时回；可由长目标/内声/底盘承接而非全员降量。若用户要持续推进，旧release标签不是必须保的音乐事实。",
+      "counterexample": "每段同样停半拍、每段同样爆发；为理论“需要对比”坚持用户否决的卸力段。",
+      "project_application": "已核：events与固定尾帧可核真实逻辑空洞；听到的自然释音需实际声源，谱面休止不等静音。",
+      "verification": [
+        "检查实际进入退出、尾音与下一onset；标签不作为执行证据。",
+        "对比位置需有局部提示/回归目标，不能仅所有velocity一起减。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：留白是否有期待、承接是否保推进、回归是否可感。"
+      ]
+    },
+    {
+      "id": "MR08",
+      "title": "族间交接检查前后平衡",
+      "topics": [
+        "配器与层次",
+        "演奏与音色"
+      ],
+      "source_ids": [
+        "M04",
+        "M13"
+      ],
+      "use_when": "前后段改变主奏或从强族交到较薄音体。",
+      "action": "迁移主题先保动机目标/源ID，再按实际发声适配装饰、门长与呼吸；可用短目标交叠/选择加倍连接，避免突然只剩弱单线。",
+      "counterexample": "钢琴.22拍短音原样全搬慢起弦；以更响/更宽冒充完整乐句承担。",
+      "project_application": "已核：可迁移到新resource/state，固定gain/pan与逐note velocity；原生held-note连续CC、真连奏滑奏未核/不能许诺。",
+      "verification": [
+        "源noteID逐个映射保留/迁移/简化，核目标承接帧和同键。",
+        "比较同活动窗真实声源与混合，不用全长RMS或静态pan宣称接管。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：新主族是否真唱主句、前后是否既对比又连贯。"
+      ]
+    },
+    {
+      "id": "MR09",
+      "title": "高潮用选择合奏与音域展开，留下恢复空间",
+      "topics": [
+        "需求与曲式",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "M04",
+        "M11",
+        "M17"
+      ],
+      "use_when": "用户要求宏大、燃或阶段递进；不要求持续最大强度。",
+      "action": "选少数峰目标用八度/和弦加倍、较宽音区或家族合奏；其余阶段保可辨职责。高潮可由织体期待兑现，不必所有指标同时上升。",
+      "counterexample": "全程fortissimo、铜管全线铺满、所有乐器同音齐起；把Belkin古典tutti定义变成所有BGM硬规则。",
+      "project_application": "已核：逐音和固定声部混音能做选择进入、分布与加倍；连续swells需真实专用资源/状态另测，velocity只在note-on不是held-note表情。",
+      "verification": [
+        "明确峰处加倍对象与起止，不全线复制；低部spacing和中部冲突由宿主检查。",
+        "记录峰前提示/峰后处理及主曲是否还在，不按轨数或RMS定高潮成功。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：峰是否一击命中、是否有纵深、是否保主曲并不疲劳。"
+      ]
+    },
+    {
+      "id": "MR10",
+      "title": "乐器物理技法与当前采样能力取交集",
+      "topics": [
+        "中西乐器",
+        "演奏与音色",
+        "工具与许可"
+      ],
+      "source_ids": [
+        "M06",
+        "M07",
+        "M09",
+        "M05",
+        "M08"
+      ],
+      "use_when": "任何真实乐器编配，尤其短导向、极端音区、震音/轮指/连奏。",
+      "action": "先用权威乐器资料作物理约束，再查实际资源键域/力度层/专用奏法；取其交集。普通门值只能控制放键，不能创造未采录演奏法。",
+      "counterexample": "把长gate的琵琶叫持续轮指；把重叠note叫真实弓连奏；把VSL知识页当已拥有VSL库。",
+      "project_application": "已核：score_tools当前engine_articulation_id仅normal、逐音cents须0，真实专用奏法可独立资源绑定；自动RR与CC表情不可泛称已支持。",
+      "verification": [
+        "每note核资源真实playable keys/zone与力度；不得将乐器最大音域当采样许可区。",
+        "技法命名绑定真实专用program/asset证据；短音与力度变化至少有实际机制证据。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：是否符合乐器手感、是否听到预期技法，而不只是采样响了。"
+      ]
+    },
+    {
+      "id": "MR11",
+      "title": "民族融合保持乐器身份与文化/演奏语境",
+      "topics": [
+        "中西乐器",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "M09",
+        "M10",
+        "M13"
+      ],
+      "use_when": "用户要民族+西洋+电声，允许明确原创融合而非宣称参考原编制。",
+      "action": "给民族音色明确主句/回答/点状/持续职责，区别笛种膜状态、笙/唢呐形制、记谱/实音；西洋低部与电子声可互补，但不把西方近似音色改名。",
+      "counterexample": "Koto冒古筝、Flute冒笛子；一件CC0单音拉满音区并称完整民族库；由获奖曲的编制表复制风格。",
+      "project_application": "现有中乐资源扩展的具体可用状态须doctor/catalog当次核；本任务未重探全部库，未核的技巧/键域必须标未核。",
+      "verification": [
+        "清单分别写物理名、具体资源来源、有限原型音区与职责。",
+        "轮指/换气/调弦等条件写入编排说明，不能仅使用五声音阶就算某文化风格。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：民族身份是否清晰而非贴标签、风格语境是否合适、融合是否尊重来源。"
+      ]
+    },
+    {
+      "id": "MR12",
+      "title": "先修表达与发声，不把定位当删功能处方",
+      "topics": [
+        "演奏与音色",
+        "参考理解",
+        "音色重建"
+      ],
+      "source_ids": [
+        "M06",
+        "M07",
+        "M11",
+        "M13"
+      ],
+      "use_when": "指定尖音/主奏音色不适，已有消融定位。",
+      "action": "先保旋律/和声/接力功能，再用同音高同门值同响度探针对比发音/谐波；需要换承载时做完整逻辑迁移。静态共享音色和原逐音轨迹必须分开。",
+      "counterexample": "A消失→删整主线/Cello→称改进；模型loss降就宣布原器已识；SPS重放当可演奏新音色。",
+      "project_application": "已核：build-timbre共享静态谐波/EG→完整Surge状态、render-plugin新MIDI；物理身份/目标匹配仍需独立门禁，接口成功不覆盖它们。",
+      "verification": [
+        "消融结果只记录声源因果；替代实现另记录保留与改变。",
+        "检查快击/后体/释音真实表现；源参数读回不等可听效果；不靠最近邻标签选赢家。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：主奏身体/延续是否合适、保功能后整体是否更好。"
+      ]
+    },
+    {
+      "id": "MR13",
+      "title": "空间按频层、职责和时间分配",
+      "topics": [
+        "混音与空间",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "M12",
+        "M13",
+        "M17"
+      ],
+      "use_when": "用户要散开、舒展、纵深，或总体宽度接近但听感仍错。",
+      "action": "先辨干/延/背景的职责，再选必要pan/reverb/chorus/delay；比较同频层起音与后体，允许少量远近对比，不预设更多side或更长尾。",
+      "counterexample": "全局长混响/加宽解决所有情绪；native FX参数存在就宣称处理了插件声部；为留长尾超交付时长。",
+      "project_application": "已核：原生采样reverb/chorus与后级delay/duck/单段EQ有显式目标和能力证据；插件链按其完整state，native效果不能静默跨后端套用。时变自动化未作本轮能力核验。",
+      "verification": [
+        "明确效果目标part、路由、尾帧预算和实际前后体；插件与原生采样链分开。",
+        "检查单声道折叠和主曲清晰；不可把全窗side均值当原空间匹配。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：空间是否有层次且不糊、主曲是否后退、是否符合场景。"
+      ]
+    },
+    {
+      "id": "MR14",
+      "title": "时间变化由预期与兑现组织，不靠任意标签",
+      "topics": [
+        "需求与曲式",
+        "旋律与和声",
+        "参考理解"
+      ],
+      "source_ids": [
+        "M17",
+        "M18",
+        "M03"
+      ],
+      "use_when": "用户要求情绪/起伏/间奏发展，有可讨论的时间场景。",
+      "action": "每段写当前材料、提示和下一目标；选择旋律、和声节奏、音区、织体、发音或空间中的主变化维度。具体情绪是意图与听者反馈，不能由小调/BPM/能量唯一推断。",
+      "counterexample": "字段齐全就render再审自己的计划；用户说昂扬却被模型忧郁标签推翻；把每bar更响当情绪发展。",
+      "project_application": "已核：现有多窗分析能给候选与变化证据；自动语义/调性/和声仍有失败范围，不是心境真值。当前无普适情绪量表自动验收。",
+      "verification": [
+        "变更表能从音符/进入退出/状态或路由找到具体执行，不只有“更燃”标签。",
+        "参考事实、一般理论、自有制作假设分栏；反例保留且可推翻旧选择。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：听到的方向、情绪与场景是否成立，变化是否自然。"
+      ]
+    },
+    {
+      "id": "MR15",
+      "title": "把知识当选择依据，保留技术、音乐与授权三条独立结论",
+      "topics": [
+        "验收与复现",
+        "工具与许可",
+        "参考理解"
+      ],
+      "source_ids": [
+        "M03",
+        "M05",
+        "M10",
+        "M12",
+        "M14",
+        "M15",
+        "M16"
+      ],
+      "use_when": "所有案例复用、参考创作与修改；正常已授权可逆开发持续推进。",
+      "action": "每次决策记录依据及至少一项能推翻它的观察；用固定谱/资产/种子验证执行，用适当等响度试听验音乐；文献、采样、模型、工程许可分别核。",
+      "counterexample": "大师/名校/奖项=本曲好听；论文音频或教育工程免费可见=可商用再分发；技术PASS覆盖用户否决。",
+      "project_application": "已核：manifest/源码资产SHA/冻结重演、版本目录与音频检查存在；本轮无音乐渲染/全回归，规则不是已实现的新评分器。",
+      "verification": [
+        "检查真实WAV/帧/有限/非静音与复演，以及被保留的主题/声部字段。",
+        "已读全文、节选、摘要、仅书目分别登记；未实际测试宿主/平台不能写通过。",
+        "只在真实费用、上传、发布或访问限制触及时处理授权，不建立每阶段通用审批。"
+      ],
+      "limits": [
+        "本项目根据来源作的可检验操作化；不是作者给出的自动质量阈值。",
+        "人工判断：风格、主题吸引力、演奏融合与使用场景；接受或否决应可追溯到具体版本。"
+      ]
+    },
+    {
+      "id": "AR01",
+      "title": "读取模型估计分轨或query输出",
+      "topics": [
+        "参考理解"
+      ],
+      "source_ids": [
+        "A01",
+        "A06",
+        "A08"
+      ],
+      "use_when": "读取模型估计分轨或query输出",
+      "action": "先标估计/角色候选；分离器标签不能升级为物理原器或主奏真值",
+      "counterexample": "6s piano会接收FM和复合声；query同音色两角色会一起保留",
+      "project_application": "references/参考理解验证.md；references/本地分离与角色证据.md",
+      "verification": "目标单源/干扰单源/合奏/目标不存在控制，分别核泄漏、遗漏、残差，不以重构和接近原mix即判成功",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR02",
+      "title": "比较BS/Mel等新分离器论文与发布实现",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "A03",
+        "A04",
+        "A05"
+      ],
+      "use_when": "比较BS/Mel等新分离器论文与发布实现",
+      "action": "先核任务源集合、数据、具体权重/实现来源；独立复现者不是原论文官方模型",
+      "counterexample": "MUSDB声乐模型高SDR不证明能分出电子主旋律",
+      "project_application": "分离后端准入记录；未来模型卡",
+      "verification": "同输入/真源/时长/电平/硬件下比较；不能用不同基准数字挑赢家",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR03",
+      "title": "调用分离推理接口",
+      "topics": [
+        "验收与复现"
+      ],
+      "source_ids": [
+        "A01",
+        "A06"
+      ],
+      "use_when": "调用分离推理接口",
+      "action": "锁预处理/分块/重叠/随机流与输出增益；父runner不得默认逐stem归一",
+      "counterexample": "Demucs shifts默认随机；逐stem防削波重缩放破坏比例；BANQUET单forward不等完整OLA",
+      "project_application": "scripts/demucs_local.py；scripts/separate_analysis.py；后端注册",
+      "verification": "同输入hash重放；增益正控；拼边核帧数/边界；真实后端trace",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR04",
+      "title": "音频query分离",
+      "topics": [
+        "参考理解"
+      ],
+      "source_ids": [
+        "A06",
+        "A07"
+      ],
+      "use_when": "音频query分离",
+      "action": "记录query真实长度/重采样/是否tile及目标窗口独立性；检同音色异角色",
+      "counterexample": "官方可tile短query不是取得独立10秒真query；类别query未必区分前景/和弦",
+      "project_application": "query研究契约；参考理解门禁",
+      "verification": "两个同音色不同节奏职责独立GT，若两者都留不得声称主奏分离",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR05",
+      "title": "多音转录/MIDI候选",
+      "topics": [
+        "参考理解"
+      ],
+      "source_ids": [
+        "A09",
+        "A10",
+        "A11",
+        "A18"
+      ],
+      "use_when": "多音转录/MIDI候选",
+      "action": "按音高/起音/时值/程序/角色分列置信；原曲无GT不算准确率",
+      "counterexample": "MIDI program可以漂移；BasicPitch一器更佳；onset-only过不等offset过",
+      "project_application": "scripts/note_analysis.py；references/本地音符与动态分析.md",
+      "verification": "自有已知双音与边界删失GT；mir_eval一对一匹配；onset-only和含offset两套结果",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR06",
+      "title": "使用局部切片转录",
+      "topics": [
+        "验收与复现"
+      ],
+      "source_ids": [
+        "A11",
+        "A18"
+      ],
+      "use_when": "使用局部切片转录",
+      "action": "保输入实际帧、前缀、输出回映与左右删失；不能把裁窗两端当真门",
+      "counterexample": "模型padding/重叠与自然释放造成假noteoff",
+      "project_application": "局部音符分析报告",
+      "verification": "同音跨片段边界正控；门控真值与可听包络终点分开",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR07",
+      "title": "多F0/谐波观察",
+      "topics": [
+        "音色重建"
+      ],
+      "source_ids": [
+        "A13",
+        "A15",
+        "A19"
+      ],
+      "use_when": "多F0/谐波观察",
+      "action": "基频、失谐族、倍频/缺根与同起八度须竞争；partial数不计源数",
+      "counterexample": "富谐波单音被拆成多音；鼓谐振/低根缺失使高八度模型虚假合适",
+      "project_application": "v28多音分组研究；references/可演奏谐波音色.md",
+      "verification": "单F0丰富谐波/非整数比双音/纯鼓/八度同起/弱目标干扰，保共享未分配/漏音",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR08",
+      "title": "复用SMS/libs谐波函数",
+      "topics": [
+        "音色重建"
+      ],
+      "source_ids": [
+        "A15",
+        "A19"
+      ],
+      "use_when": "复用SMS/libs谐波函数",
+      "action": "明确函数是否已假设F0；默认容差不能当源归属证据，跨索引接续按频率而非索引身份",
+      "counterexample": "harmonicDetection默认f0/3容差；正弦轨迹索引在强瞬态间迁移",
+      "project_application": "SMS薄worker与研究配置",
+      "verification": "固定方法对真实独立组件核时段覆盖与错误组，不追原窗分数调阈值",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR09",
+      "title": "DDSP/可微合成/共享state拟合",
+      "topics": [
+        "音色重建"
+      ],
+      "source_ids": [
+        "A12",
+        "A13",
+        "A14"
+      ],
+      "use_when": "DDSP/可微合成/共享state拟合",
+      "action": "先核源数/F0与模型族；多音需受控多实例/共享参数，不用单F0吞全混",
+      "counterexample": "一个f0[B,T,1]可把另一音及空间吸进音体；URMP13器不含任意电子主音",
+      "project_application": "谐波音色schema；build-timbre契约",
+      "verification": "未知参数回收＋干扰/空间因子反证＋新音高留出；不以一秒已知族成功外推任意参考",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR10",
+      "title": "把分析结果交可演奏乐器",
+      "topics": [
+        "音色重建"
+      ],
+      "source_ids": [
+        "A12",
+        "A13",
+        "A15"
+      ],
+      "use_when": "把分析结果交可演奏乐器",
+      "action": "新音由共享state与新MIDI驱动；原wave/f(t)/相位轨迹只属诊断",
+      "counterexample": "SPS换容器或移调是原轨迹重放，不是新音色/原创主题",
+      "project_application": "scripts/harmonic_timbre.py；render-plugin",
+      "verification": "OS拒读原参考/SPS/训练后真实演奏新音符；同state多音高/复音/力度与固定重演",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR11",
+      "title": "声学拟合或优化",
+      "topics": [
+        "验收与复现"
+      ],
+      "source_ids": [
+        "A17",
+        "A20"
+      ],
+      "use_when": "声学拟合或优化",
+      "action": "同时保全频误差/各F0遗漏/掩码覆盖、音体与空间；损失下降不签原器",
+      "counterexample": "只拟43%目标能量也可高选择性；MR-STFT下降可丢弱音或只拟FX",
+      "project_application": "训练报告/留出评分",
+      "verification": "错F0/错八度/仅改空间/带背景的预声明基线，固定预算；失败不换评价指标",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR12",
+      "title": "CLAP或文本音频相似检索",
+      "topics": [
+        "参考理解"
+      ],
+      "source_ids": [
+        "A16"
+      ],
+      "use_when": "CLAP或文本音频相似检索",
+      "action": "只报校准后的相对对照/完整候选分数，不设通用同风格阈值",
+      "counterexample": "普遍高余弦、候选措辞与长度可改变排名；不能识别原录音",
+      "project_application": "scripts/style_compare.py；references/本地风格对照.md",
+      "verification": "同波/增益/静音/白噪/自有语音/不同风格负控；投影权重与预处理严格核",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR13",
+      "title": "选用模型/源码/外部依赖",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "A01",
+        "A06",
+        "A08",
+        "A09",
+        "A16"
+      ],
+      "use_when": "选用模型/源码/外部依赖",
+      "action": "代码、具体权重、训练资料与用户参考四条来源单独记录；默认不打包受限权重",
+      "counterexample": "GPL仓库＋Apache权重卡不能统称Apache；MIT代码＋NC权重不能默认商用；CLAP根CC0不覆盖音乐权重Apache",
+      "project_application": "模型注册/依赖清单/第三方许可",
+      "verification": "核文件原文与具体模型SHA，未核字段写未知；gated不镜像绕过",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR14",
+      "title": "宣称跨平台可运行",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "A01",
+        "A05",
+        "A08",
+        "A14"
+      ],
+      "use_when": "宣称跨平台可运行",
+      "action": "源码有CPU参数、CUDA样例或MPS issue均不等本机/跨OS实测；按实际版本/预算报告",
+      "counterexample": "MIDI-DDSP旧M1安装警示不等今天Mac永久不可行；社区能运行不等本项目支持",
+      "project_application": "doctor能力与宿主矩阵",
+      "verification": "隔离环境小真实输入，CPU/GPU设备trace/耗时/峰内存/失败留证；普通render惰性隔离",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR15",
+      "title": "使用客观评分",
+      "topics": [
+        "验收与复现"
+      ],
+      "source_ids": [
+        "A18",
+        "A20"
+      ],
+      "use_when": "使用客观评分",
+      "action": "信号失真、音符正确、音体相似、角色保持、音乐听感分列；无GT不用SI-SDR/accuracy",
+      "counterexample": "proxy不是GT；高SDR或自动Judge不是耳朵/风格通过",
+      "project_application": "音频检查/参考理解/人工验收状态",
+      "verification": "有真源才信号指标；已知notes才转录指标；等响度短对照人工听感另签",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR16",
+      "title": "从少量谐波估静态音体",
+      "topics": [
+        "音色重建"
+      ],
+      "source_ids": [
+        "A13",
+        "A17"
+      ],
+      "use_when": "从少量谐波估静态音体",
+      "action": "缺测为未知；观测域内保形插值与域外带限选择明确标模型假设",
+      "counterexample": "v28无支持高阶外推制造尖亮谱型；置0也不是原音高频不存在",
+      "project_application": "谐波音色模型provenance",
+      "verification": "用已知谐波谱/留出频带核插值，不为降低loss补造观测；原窗只共享准入组",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR17",
+      "title": "需要参考曲编配/情绪解释",
+      "topics": [
+        "参考理解"
+      ],
+      "source_ids": [
+        "A01",
+        "A08",
+        "A17"
+      ],
+      "use_when": "需要参考曲编配/情绪解释",
+      "action": "结合可核声学职责和宿主/人工理解，不让单个caption/tag/自动Judge充完整编配决策",
+      "counterexample": "有piano估计轨或Judge高分仍不证明原主奏是钢琴；高能量不等昂扬",
+      "project_application": "参考理解reference_understanding证据",
+      "verification": "原mix/估计/残差互证、主动竞争解释与可听诊断；用户整体否决后回证据而非加轨凑数",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "AR18",
+      "title": "训练和留出管理",
+      "topics": [
+        "验收与复现"
+      ],
+      "source_ids": [
+        "A15",
+        "A17",
+        "A18"
+      ],
+      "use_when": "训练和留出管理",
+      "action": "训练、已查看validation、冻结后新holdout分开；相同音频的不同F0只叫频率留出",
+      "counterexample": "H01已被看过；T02同音频410Hz不能称跨时间同器泛化；94.5代理无组不是无音乐",
+      "project_application": "模型冻结/独立验收记录",
+      "verification": "冻结前源码/选择/容差SHA，冻结后不按holdout改参数；失败保留，不连续换窗找好结果",
+      "limits": "方法准入与候选证据；是否本机运行、是否吻合原参考须看所引来源状态，不能代替人工音乐验收。"
+    },
+    {
+      "id": "SR01",
+      "title": "区分乐器概念、资源和完整技法",
+      "topics": [
+        "中西乐器",
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S14",
+        "S15",
+        "S16"
+      ],
+      "use_when": "盘点乐团或选择民族编制",
+      "action": "盘点时把245概念、191逻辑资源、独立采样／实际乐器型号分开，民族partial不得升全音域完整。",
+      "counterexample": "多个同器预设或目录项不能当独立完整乐器。",
+      "project_application": "先catalog --query；无命中再看family与cap实际resource，不当缺音；再核pack SHA/keys。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "本轮探针与当前cap",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR02",
+      "title": "力度分区不等于多力度实录",
+      "topics": [
+        "演奏与音色",
+        "中西乐器"
+      ],
+      "source_ids": [
+        "S01",
+        "S09"
+      ],
+      "use_when": "想用力度产生更有表现力的音色",
+      "action": "同一音高的不同velocity_range或多个zone不等多录音层；比较真实sample_id并在需要时做同音40/100波形。",
+      "counterexample": "两档velocity仍可能访问同一sample；仅音量改变不是新录音层。",
+      "project_application": "大鼓两样本力度层映射已核；弦/二胡/琵琶/笛子不宣传多力度实录。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "静态映射已核；声学响应本轮未新测",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR03",
+      "title": "奏法需落实到真实发声映射",
+      "topics": [
+        "演奏与音色",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "S03",
+        "S06",
+        "S10",
+        "S13"
+      ],
+      "use_when": "需要连奏、轮指、震音或持续表情",
+      "action": "奏法语义→具体资源／keyswitch／CC映射→真实源／渲染三层保存；选到normal预设不叫真实legato。",
+      "counterexample": "Articulation ID只是路由；没有录制过渡就不能靠字段生成真连奏。",
+      "project_application": "先把已有二胡长/短、琵琶弦变体分工；CC1/11持续表情属于未接核心增量。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "当前normal门控与显式奏法preset可用",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR04",
+      "title": "作品使用与资产再分发分开",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S07",
+        "S08",
+        "S09",
+        "S11",
+        "S12",
+        "S13"
+      ],
+      "use_when": "增加商业DAW或免费音库",
+      "action": "商用音乐许可、raw采样／preset再分发、引擎代码分发各自判断；免费不是CC0。",
+      "counterexample": "可用于歌曲不等于能拆出单样本重新打包。",
+      "project_application": "不把Apple／Decent库转SF2随Skill默认发；VPO混合许可不冒作CC0。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "许可一手核清",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR05",
+      "title": "格式转换保留真实演奏语义",
+      "topics": [
+        "演奏与音色",
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S10",
+        "S14"
+      ],
+      "use_when": "把SFZ转成当前采样格式",
+      "action": "SFZ转换不得静默丢seq/随机／tune／包络／controller语义；独立RRpreset不可宣称自动RR。",
+      "counterexample": "丢失轮换、微调或CC后依然列支持会产生假能力。",
+      "project_application": "仅在明确需要SFZ语义时小范围验证sfizz且先核归档维护风险。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "本地转换限制已有登记",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR06",
+      "title": "完整状态与实际声音一起冻结",
+      "topics": [
+        "演奏与音色",
+        "混音与空间"
+      ],
+      "source_ids": [
+        "S08"
+      ],
+      "use_when": "插件声音或力度响应需复现",
+      "action": "固定完整plugin state及实际声学重复验证；参数缓存／力度值变化本身不证明声音变化。",
+      "counterexample": "缓存参数名或MIDI值变化不是实际声音响应证据。",
+      "project_application": "继续现Surge/Pedalboard桥，不扫factory，不重写合成器。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "v28已有真实state／新MIDI；本轮未重渲",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR07",
+      "title": "音源发声与混音分开诊断",
+      "topics": [
+        "混音与空间",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S13"
+      ],
+      "use_when": "音符太慢、太薄或想让空间更大",
+      "action": "先区分sample慢起／EG／持续体与声场位置；Articulation Set和EQ不能生成未录制演奏。",
+      "counterexample": "EQ/混响不能制造没有录下的演奏过渡。",
+      "project_application": "先角色和真实发音选择，再决定持续控制或新采样，不靠加轨数。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "既有v25缓起反证仍有效",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR08",
+      "title": "速度跟随不等于恢复律动",
+      "topics": [
+        "节奏与律动",
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S04"
+      ],
+      "use_when": "处理现场自由速度或拍感候选",
+      "action": "保持／跟随速度方向、候选拍网格、人工提示分开；BPM／瞬态不等pocket或原创。",
+      "counterexample": "单BPM、峰值对齐不包含整套重心和鼓低音关系。",
+      "project_application": "复用现tempo/beat候选证据，不把Smart Tempo当自动编曲。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "官方方法已读；Logic未实测",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR09",
+      "title": "DAW分轨类别仍是估计",
+      "topics": [
+        "中西乐器",
+        "工具与许可",
+        "参考理解"
+      ],
+      "source_ids": [
+        "S05"
+      ],
+      "use_when": "考虑Apple分轨辅助参考分析",
+      "action": "分离轨名只是估计；最新Logic六类stem也不核原器／preset／完整MIDI。",
+      "counterexample": "piano轨中可能包含复合合成声，不能据此挑钢琴preset。",
+      "project_application": "与现本地六源估计互证，保渗漏／原音频权利，不上传外服。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "官方12.3动态页已读；未装",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR10",
+      "title": "按缺口选择代码音乐工具",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S17",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "use_when": "比较DSP语言、乐谱软件或新后端",
+      "action": "纯代码工具分清乐谱调度、DSP、真实采样与宿主；软件多不等音乐层次或完整音源。",
+      "counterexample": "安装更多引擎不会自动得到真实音库或编曲能力。",
+      "project_application": "优先已有JSON＋Fluid／Surge；有明确NRT/表达缺口才单独适配SC或Csound。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "官方接口已读；本轮未安装",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR11",
+      "title": "新文档功能不能倒灌旧引擎",
+      "topics": [
+        "工具与许可"
+      ],
+      "source_ids": [
+        "S05",
+        "S08",
+        "S09",
+        "S10",
+        "S18",
+        "S19",
+        "S20"
+      ],
+      "use_when": "对照官方新版本或社区接口",
+      "action": "官方默认新文档与项目已测版本分开，固定源码／二进制／资产SHA，不以新功能倒灌旧cap。",
+      "counterexample": "开发分支、归档项目或旧手册不能当当前已验证生产能力。",
+      "project_application": "sfizz归档、Faust许可变化、Csound beta、MuseScore旧CLI警告均进入选择依据。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "本轮固定8个仓库／2数据记录",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "SR12",
+      "title": "民族音色保身份与采样边界",
+      "topics": [
+        "中西乐器",
+        "配器与层次"
+      ],
+      "source_ids": [
+        "S14",
+        "S15",
+        "S16"
+      ],
+      "use_when": "编写中国乐器独奏或融合编制",
+      "action": "中国民族音色保真实身份／ sparse key／音质及技法范围，不能由Shenai／Koto／Taiko标签改成中国对应物。",
+      "counterexample": "把Koto/Shenai/Taiko改中文名不等于古筝/唢呐/中国大鼓。",
+      "project_application": "按需用已登记二胡/琵琶/古琴/笛子/大鼓；不按民族目录缺项抓未知采样。",
+      "verification": "先核catalog/能力文件/源SHA与真实映射；需要演奏响应时再做单音、力度、奏法及输出WAV探针。",
+      "limits": [
+        "当前民族partial与SHA核验通过",
+        "软件介绍不增加本地已接入数，真实采样覆盖与人工听感分别验。"
+      ]
+    },
+    {
+      "id": "R-K01",
+      "title": "先决定声部如何被听成一体或多层",
+      "topics": [
+        "配器与层次",
+        "参考理解"
+      ],
+      "use_when": "用户说单薄、轨多却听成一条，或需要识别前景与伴奏。",
+      "action": "先标同时融合、连续接力、段落对比；逐段明确哪条线要独立可辨、哪几种声音只组成一个复合音体。",
+      "counterexample": "两条相同音符/音区/起音常被听成同一体；独立轨道和模型标签不能证明两个可辨角色。",
+      "project_application": "用真实事件ID标角色、区间和关系；同窗消融诊断贡献，保护主句功能。参考源未知时保留多个解释。",
+      "verification": "核事件与真实发声；对听觉层次做等响度短样人工核准。",
+      "source_ids": [
+        "R05"
+      ],
+      "limits": "分类框架不自动识别音源，不能单凭谱面关系签听感。"
+    },
+    {
+      "id": "R-K02",
+      "title": "目标配器搜索是候选生成，不是原器识别",
+      "topics": [
+        "配器与层次",
+        "音色重建",
+        "工具与许可"
+      ],
+      "use_when": "需要复合音色组合，现有单预设不够且有可靠目标观察。",
+      "action": "借鉴Orchidea先限定真实音色、音区、力度、奏法与人数，再比较组合与目标的差异；先短窗再核跨时发展。",
+      "counterexample": "优化平均谱可给出能近似目标但与原录音物理乐器不同的组合。",
+      "project_application": "优先用现有catalog和能力约束；Orchidea本轮仅资料级候选，不能替换已验证引擎或声称已运行。",
+      "verification": "已知源组合留出与负控；原参考另做人耳对照；同时记录目标保留与干扰泄漏。",
+      "source_ids": [
+        "R01",
+        "R02"
+      ],
+      "limits": "数据库覆盖与实际奏法限制结果；没有据此给参考开原器清单。"
+    },
+    {
+      "id": "R-K03",
+      "title": "静态音色合格还需起音、持续、释放和跨段核查",
+      "topics": [
+        "音色重建",
+        "演奏与音色"
+      ],
+      "use_when": "静态谐波模型能演奏但仍缺原曲音体变化。",
+      "action": "分开核起音与音身，再测试多个实际音高、力度、门值和同时音；固定参数后看未参与拟合的时间窗。",
+      "counterexample": "整段平均可以掩盖明暗变化；重新挑成功时间窗不是真留出。",
+      "project_application": "延续build-timbre→render-plugin；H02已解盲不能再当未见集，波表/包络/空间制作选择必须注明。",
+      "verification": "已知F0/干扰控制、未见音高、真实MIDI新主题；不读参考的重演与音色相似验收分别记录。",
+      "source_ids": [
+        "R02",
+        "R06"
+      ],
+      "limits": "两帧波表不是任意音色克隆；理论和可演奏性不等于原音色匹配。"
+    },
+    {
+      "id": "R-K04",
+      "title": "让符号乐理工具检查关系，保留风格解释",
+      "topics": [
+        "旋律与和声",
+        "工具与许可"
+      ],
+      "use_when": "需要核共同音、反向运动、重复动机与和弦连接。",
+      "action": "复用music21的音程和voiceLeading API，不再手写另一套乐理解析器；先写清目标风格和等音拼写。",
+      "counterexample": "检测到平行五度不代表电子/流行织体错误；隐藏音程API不是通用禁例列表。",
+      "project_application": "可选隔离环境固定music219.9.2；只读取可编辑谱，新工具不改变采样/插件渲染。",
+      "verification": "官方已知正反例先过，再核实际谱；音符关系与发音包络/掩蔽分别验。",
+      "source_ids": [
+        "R06",
+        "R07",
+        "R09"
+      ],
+      "limits": "本轮符号验证已运行，未建立自动作曲质量评分或参考转录真值。"
+    },
+    {
+      "id": "R-K05",
+      "title": "接答标签必须对应实际进入和被听见的关系",
+      "topics": [
+        "配器与层次",
+        "旋律与和声"
+      ],
+      "use_when": "谱里有response但听起来仍像一条常驻旋律。",
+      "action": "检查接答发生在主句空隙、长音内声还是重叠对位；由意图选择关系，并核真实音色可辨性。",
+      "counterexample": "v28八个response都与主句门值重叠；这可以是衬腔，不能只按数量称为八次清晰问答，也不能一律删掉。",
+      "project_application": "保留原作品；决策记录写明角色关系与事件ID，候选修正保持被认可内容。",
+      "verification": "逐事件关系核查+声源对照+人工听感；门值仅是谱面证据。",
+      "source_ids": [
+        "R05",
+        "R06"
+      ],
+      "limits": "v28重叠是本轮项目实测，不是ACTOR或music21对该曲的评价。"
+    },
+    {
+      "id": "R-K06",
+      "title": "资料、软件、样本、语料分别登记许可",
+      "topics": [
+        "工具与许可",
+        "中西乐器"
+      ],
+      "use_when": "接入学术库、DAW附带音色或采样数据集。",
+      "action": "核具体代码/权重/采样/预设/参考录音五类许可，区分本地使用与再分发。",
+      "counterexample": "免费会员取得的扩展库不自动等于CC；music21代码BSD不覆盖全部乐谱语料。",
+      "project_application": "TinySOL本轮只许可候选；先真实下载/哈希/音区/奏法/发声探针再登记可用；不把链接计为新增乐器。",
+      "verification": "来源账本逐项核；有本地资产后再走doctor/compile/render。",
+      "source_ids": [
+        "R03",
+        "R04",
+        "R08"
+      ],
+      "limits": "当前没有因为新增研究资料而增加真实可用音色数。"
+    },
+    {
+      "id": "R-K07",
+      "title": "把响度控制、音色控制和音乐判断分成三种问题",
+      "topics": [
+        "验收与复现",
+        "混音与空间"
+      ],
+      "use_when": "原曲与新短样对照，或指标改善但听感反复被否决。",
+      "action": "风格比较控制试听响度；音色机制对照尽可能同音高/奏法/时长；新旋律另外核推动、发展和情绪。",
+      "counterexample": "不同旋律的两段-23LUFS音频不能单独证实音色已经匹配；无满幅也不能排除爆音。",
+      "project_application": "复用check/audit-reference及常数增益副本，保原WAV；记录人耳判断和不确定项。",
+      "verification": "技术检查、分析正确性、独立音色、音乐方向分别报告；不贴MUSHRA合规标签。",
+      "source_ids": [
+        "R10",
+        "R11"
+      ],
+      "limits": "EBU与ITU不提供创作好听度公式；本轮没有人工试听。"
+    },
+    {
+      "id": "V31-K01",
+      "title": "音乐知识、读谱推理与真实音频感知分别验证",
+      "topics": [
+        "参考理解",
+        "验收与复现"
+      ],
+      "use_when": "模型给出自信原器、情绪或和声描述，但作品持续失配。",
+      "action": "把已知音符关系题和同内容真实音频题分开；用未提示答案的任务核对具体能力，保原始输出和错误。",
+      "counterexample": "读过乐理或能讲清MIDI，不代表能听清复音混音；更多逐步提示也不必改善感知。",
+      "project_application": "参考角色保事实/候选/未知，不能将knowledge查询成功转为已听懂。",
+      "verification": "看音频输入是否实际进入、关系判断是否有真值、是否跨未见素材仍成立；不以标签数量判过。",
+      "source_ids": [
+        "V31-S01",
+        "V31-S02"
+      ],
+      "limits": "本项目未完成通用音乐感知基准；不得据论文排名代替本机实测。"
+    },
+    {
+      "id": "V31-K02",
+      "title": "按真实输出任务审查模型，不选一个总榜冠军",
+      "topics": [
+        "参考理解",
+        "工具与许可"
+      ],
+      "use_when": "要用音频语言模型替代人工细分乐器、情绪或段落。",
+      "action": "同时保受控判断和自由描述的错误；按事件、时间、音高、风格、情绪及未覆盖关系分列证据。",
+      "counterexample": "同一模型可在属性问答领先，在音乐关系任务失效；减少某类幻觉不保证长描述正确。",
+      "project_application": "沿现有局部观察工具取可核事实，模型只提供候选；不用更多大师提示掩盖听觉缺口。",
+      "verification": "部署所用提示/任务/时窗实际验证，不把别的基准分数转成原曲可信度。",
+      "source_ids": [
+        "V31-S02",
+        "V31-S03"
+      ],
+      "limits": "论文已明确稠密复音、空间与表现细节仍超其诊断覆盖。"
+    },
+    {
+      "id": "V31-K03",
+      "title": "先验证音色模型表达容量，再拟合未知混合主奏",
+      "topics": [
+        "音色重建",
+        "演奏与音色"
+      ],
+      "use_when": "两帧共享谐波或简单控制通过，而实际主音被否决。",
+      "action": "用真实复杂音色，给真F0/起音，分开核攻击、身体、释放、偏频/非谐波残差和左右动态；在未拟合窗找反证。",
+      "counterexample": "同族三谐波真源重建成功不支持复合电子主音；增加谐波数不能恢复被删掉的包络和空间变量。",
+      "project_application": "停止把当前两帧模型作为默认参考主音重建；保Surge可演奏诊断工具。动态谐波/噪声/独立效果只作下一模型设计依据。",
+      "verification": "v31真实Grand反例：同门后体显著偏强且side为0；该证据反对当前方法外推，不证明所有波表都无效。",
+      "source_ids": [
+        "A12",
+        "A13",
+        "A14",
+        "S08"
+      ],
+      "limits": "DDSP需要匹配任务的数据与训练，八秒复音混合参考不足以保证学成单器。"
+    },
+    {
+      "id": "V31-K04",
+      "title": "把可编辑乐团与参考条件音频生成分成两条能力",
+      "topics": [
+        "工具与许可",
+        "需求与曲式",
+        "验收与复现"
+      ],
+      "use_when": "需要成熟本地生成基准，或想以音频模型补足手写编曲。",
+      "action": "先保原谱/真实引擎；将生成模型作为可选独立音频研究路径，明确其输入和实际输出。",
+      "counterexample": "有WAV不等有逐音谱；转录生成WAV也不能保证原演奏事件可编辑或旋律精确保留。",
+      "project_application": "参考音频基准优先复用已装ACE；不默认下载NC权重、付费软件或上传文件。",
+      "verification": "分别记录生成接线、音频技检、主题复用审查、音乐接受及编辑保持；任何项未知不得互相代签。",
+      "source_ids": [
+        "V31-S04",
+        "V31-S05",
+        "V31-S06"
+      ],
+      "limits": "本轮只验证16秒音频研究，没有把新模型设成核心默认或承诺三分钟可行。"
+    },
+    {
+      "id": "V31-K05",
+      "title": "参考条件与原录音源内容必须分开记录",
+      "topics": [
+        "参考理解",
+        "工具与许可"
+      ],
+      "use_when": "使用reference、cover、repaint或音频初始latent接口。",
+      "action": "读实际源码明确哪些输入用于条件、源潜变量或音频codes；写出短参考是否重复/裁窗，并固定全部相关随机流。",
+      "counterexample": "reference变量名不是自动去旋律保证；把原曲放src后改标题不能叫新主题。",
+      "project_application": "本地ACE基准只reference_audio，src为空、codes为空、禁cover；保现场条件摘要和原参考身份。",
+      "verification": "核真实执行参数与模型边界trace，仍单列原旋律泄漏/主题独立性为待验证。",
+      "source_ids": [
+        "V31-S04",
+        "V31-S05",
+        "V31-S06"
+      ],
+      "limits": "未运行同seed无参考负控时，只能证明参考进入，不签它改善了风格。"
+    },
+    {
+      "id": "V31-K06",
+      "title": "描述音乐关系并保留已认可维度，不把更多器名当配器",
+      "topics": [
+        "配器与层次",
+        "需求与曲式",
+        "旋律与和声"
+      ],
+      "use_when": "多次修改后方向漂移，主线单薄或与参考整体不相符。",
+      "action": "冻结参考短句和不相邻变化段；记录谁触发、谁延续、内容何时变化、前后景如何交接；从抽象关系写新动机。",
+      "counterexample": "消融定位尖音不等删除该音乐职责；更多轨数和大乐团标签不保证更厚重。",
+      "project_application": "继承用户已认可的具体维度；局部音色研究只回答该问题，不将其完成等同整首BGM进步。",
+      "verification": "对具体WAV核可回认主句、重音关系和变化；没有真实试听不写已听懂。",
+      "source_ids": [
+        "V31-S07",
+        "V31-S08",
+        "V31-S09",
+        "M11"
+      ],
+      "limits": "专业主动聆听方法依赖真实听辨，不能用文档自评替代。"
+    },
+    {
+      "id": "V31-K07",
+      "title": "低内存先拆开模型生命周期，保算法与精度证据",
+      "topics": [
+        "工具与许可",
+        "验收与复现"
+      ],
+      "use_when": "本地已装模型因同时驻留权重导致资源守护停止。",
+      "action": "记录首次失败，检查官方条件/扩散/解码边界；有可冻结边界时分进程，复用同官方实现并校验全部参数/布局。",
+      "counterexample": "降低保护阈值、偷偷量化或关闭其他用户应用不能作为无代价修复。",
+      "project_application": "v31用同FP32、官方转换/扩散/VAE完成16秒研究；原帧数和VAE hop1920需由实际配置核。",
+      "verification": "缓存哈希、权重版本、各阶段退出/压力和输出真正可解码；重新编码有浮点漂移时不宣称端到端位级确定性。",
+      "source_ids": [
+        "V31-S04"
+      ],
+      "limits": "三阶段薄驱动是本项目实验适配，不是官方现成跨平台CLI；尚不默认发布为生产后端。"
+    }
+  ]
+}

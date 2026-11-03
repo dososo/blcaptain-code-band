@@ -1,0 +1,41 @@
+{
+  "author": "JustMog",
+  "source_pack": "https://freesound.org/people/JustMog/packs/31055/",
+  "source_zip_sha256": "c15c8a2251b6ede559fdc6a50a95002c16e5d08a2ad75374fe0d2591fedd503c",
+  "source": "作者公开的 Google Drive 包",
+  "samples": [
+    {
+      "name": "G open pick mid soft",
+      "midi": 43,
+      "source_url": "https://freesound.org/people/JustMog/sounds/553591/",
+      "source_sha256": "2cafe463619a18ea82f54e9491c2406ca2efd588be7968023b3a2ef611efb09c",
+      "sample_rate": 44100,
+      "frames": 557998
+    },
+    {
+      "name": "D open thumb soft",
+      "midi": 50,
+      "source_url": "https://freesound.org/people/JustMog/sounds/553592/",
+      "source_sha256": "ee52e29ca020e66a7cc4831d2c003453f9d07faa34bbb2f7865504e1954c9bb1",
+      "sample_rate": 44100,
+      "frames": 284529
+    },
+    {
+      "name": "D octave pick hard",
+      "midi": 62,
+      "source_url": "https://freesound.org/people/JustMog/sounds/553579/",
+      "source_sha256": "9b3afcc553f27652119ec6a49a8febe4df15780f7e5f182ed9cca023bfc00b17",
+      "sample_rate": 44100,
+      "frames": 208154
+    },
+    {
+      "name": "E octave pick soft",
+      "midi": 76,
+      "source_url": "https://freesound.org/people/JustMog/sounds/553596/",
+      "source_sha256": "faae3c4d30022488a3049a8d425ee8316a0d629e28b32e2afb3c5addf8fd5a19",
+      "sample_rate": 44100,
+      "frames": 343913
+    }
+  ],
+  "derived_soundfont_sha256": "7538ccf92fef40422c48975da1a2cbce88c202365f92adddae1db60ff7f9c08d"
+}

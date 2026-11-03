@@ -1,0 +1,5 @@
+[
+  {"event_id":"cc11_01","part_id":"piano","frame":0,"controller":11,"value":48},
+  {"event_id":"cc11_02","part_id":"piano","frame":48000,"controller":11,"value":96},
+  {"event_id":"cc11_03","part_id":"piano","frame":96000,"controller":11,"value":48}
+]

@@ -1,0 +1,127 @@
+{
+ "bank": "vsco_xylophone",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "Xylo_Medium_C4_ff_01_far.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 13.4,
+   "pitch_source": "override",
+   "seconds": 3.37,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_C5_ff_01_far.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 12,
+   "measured_cents": 14.5,
+   "pitch_source": "yin_peak_window",
+   "seconds": 1.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_C6_ff_01_far.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 84,
+   "octave_shift": 12,
+   "measured_cents": 18.4,
+   "pitch_source": "yin_peak_window",
+   "seconds": 1.47,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_C7_ff_01_far.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 96,
+   "octave_shift": 12,
+   "measured_cents": 21.7,
+   "pitch_source": "yin_peak_window",
+   "seconds": 1.14,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_G3_ff_01_far.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": -1.6,
+   "pitch_source": "yin_peak_window",
+   "seconds": 3.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_G4_ff_01_far.wav",
+   "name": "s0005",
+   "instrument": "normal",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 20.8,
+   "pitch_source": "yin_peak_window",
+   "seconds": 2.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_G5_ff_01_far.wav",
+   "name": "s0006",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 12,
+   "measured_cents": 16.6,
+   "pitch_source": "override",
+   "seconds": 1.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Xylo_Medium_G6_ff_01_far.wav",
+   "name": "s0007",
+   "instrument": "normal",
+   "sfz_key": 91,
+   "octave_shift": 12,
+   "measured_cents": 20.5,
+   "pitch_source": "yin_peak_window",
+   "seconds": 1.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  }
+ ]
+}

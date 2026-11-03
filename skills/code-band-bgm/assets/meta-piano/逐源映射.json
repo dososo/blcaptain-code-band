@@ -1,0 +1,4930 @@
+[
+  {
+    "source": "INSPiano_Vel01_A0_01.wav",
+    "source_sha256": "657b0d7f5f6b9d4b4e933fe56efa5a4d59d7efad76aeacef31431bcb7ed26b50",
+    "midi": 21,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 442465,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As0_01.wav",
+    "source_sha256": "6cde5ee36a86890d8ee32164215f5369bf8a6f1de34ab34b724c6522d54a24a6",
+    "midi": 22,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 363738,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B0_01.wav",
+    "source_sha256": "3ead4ef1ce6c957bd57ee6124a440a18beb5beb38d81cc0d3a8de71664de21ff",
+    "midi": 23,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 389849,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C1_01.wav",
+    "source_sha256": "9e1012f6b68ea6f1bb14b5c1468466b9cd33df84c38dc5b46dde62f8efa57c8e",
+    "midi": 24,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 384888,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs1_01.wav",
+    "source_sha256": "a9ce8c831f73c62051f03c2682ecea7daa1e669662a8f6c99e183a85d18b82d6",
+    "midi": 25,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 382717,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D1_01.wav",
+    "source_sha256": "3ff0315d0c9815cfde53e272e5243c8d402f0b146c9888df1b4a4aa2936d9e9c",
+    "midi": 26,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 491548,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds1_01.wav",
+    "source_sha256": "15a1f3df83de17181249fe82f420bdaff944b7f1f3a59b507656772ee5fc47ea",
+    "midi": 27,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 486898,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E1_01.wav",
+    "source_sha256": "94bacc148ec811ee1b2f4672db2d31e63d2aeb95f785451b76a07f15e4ea6036",
+    "midi": 28,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 274404,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F1_01.wav",
+    "source_sha256": "8a2709d320711f113f44413de2c467ec29c263eef6f5fa1e999faf19b1b48919",
+    "midi": 29,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 516062,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs1_01.wav",
+    "source_sha256": "07c9f375dcd7ddc60018fced23030d0bb5b4069826db089fc60ae20df40a926b",
+    "midi": 30,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 457339,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G1_01.wav",
+    "source_sha256": "45d1a94abc21a4018ad201868c44d91d292ff6c3f0330436af8e9c6f6a88d414",
+    "midi": 31,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 423208,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs1_01.wav",
+    "source_sha256": "0ce97ffc9bce90a4a458c2966a449276bfea2a1a4aad2f4b4705fbbd31c977ed",
+    "midi": 32,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 593193,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A1_01.wav",
+    "source_sha256": "d189bc504f2382083dbcb294ffabae00f6fb26d0a83b4edc448d854b275eb94a",
+    "midi": 33,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 468788,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As1_01.wav",
+    "source_sha256": "d57279a286be017d47346a85a1bec33581961f2552f5d32bf2b4a488623e1fe1",
+    "midi": 34,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 554904,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B1_01.wav",
+    "source_sha256": "0006a32c3d29c698a92ef7f021476ce19743ddc1d913eaf9685746a0086c1d68",
+    "midi": 35,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 454285,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C2_01.wav",
+    "source_sha256": "d3ba959fa43252a531a5855c009e7aeac2e1ff384644b800d57f84f778dd5c80",
+    "midi": 36,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 568527,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs2_01.wav",
+    "source_sha256": "3361caa96d5f84594d59f89ff52206419dbfc3a67cd7fe22ff23756b8273c7ac",
+    "midi": 37,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 551040,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D2_01.wav",
+    "source_sha256": "90cc4c45fc0517a76be1b9c0be16d5cca3118dcf860a1e9cb78ab50cb43cb588",
+    "midi": 38,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 353284,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds2_01.wav",
+    "source_sha256": "020efe3197eeed70e623c1c7fefc566d08654afd1c60b449157542d38831c83f",
+    "midi": 39,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 516912,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E2_01.wav",
+    "source_sha256": "9e6712908fb77add512fbebb632b9cf903d79de85472b4c439e4c68ad71fd6f6",
+    "midi": 40,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 552666,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F2_01.wav",
+    "source_sha256": "ddf32ddf6423a9b59ad0266fa6b384bb7ef05cc80231b9898cfd074377523c53",
+    "midi": 41,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 611368,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs2_01.wav",
+    "source_sha256": "ffd1c654098906a099d580899d822e4c583266b5bbb505729078bd39f5b062f5",
+    "midi": 42,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 472230,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G2_01.wav",
+    "source_sha256": "153182d664c9633db70090aeacef86b77483b04eaac468c3c841a3697781132a",
+    "midi": 43,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 554034,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs2_01.wav",
+    "source_sha256": "bcc3d7d42431760fda389a415d83014de621f14f23549a66d397cde1ce20ad8c",
+    "midi": 44,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 524916,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A2_01.wav",
+    "source_sha256": "61a87dc8df295910109a1b549c32f0dc7fcfa4ea6c3d5ccb69b1c5699c1d9f51",
+    "midi": 45,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 494859,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As2_01.wav",
+    "source_sha256": "ac84e6429d08349c46cc4848319aa8c3ed5a87498cbcdec064591f8d80d0e723",
+    "midi": 46,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 353971,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B2_01.wav",
+    "source_sha256": "3507fb86447aa938a304a7429cecb53c849e672f380e194dc65026569e856b9d",
+    "midi": 47,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 473411,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C3_01.wav",
+    "source_sha256": "333839369a4ef85cfa82e615bff3a6c60123960f247f58e38c4c7b51b738a3f5",
+    "midi": 48,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 403860,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs3_01.wav",
+    "source_sha256": "246b2fd5b5dadd9784f42a979edc94dd8f237aee8af91e074ad70358fc2eb7b8",
+    "midi": 49,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 517595,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D3_01.wav",
+    "source_sha256": "3ca3d9841f16c7ec774fd4356f56f2d20c87ff03d9328fa91eec0a38802d8ef7",
+    "midi": 50,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 597487,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds3_01.wav",
+    "source_sha256": "7d353680aa117fa2b0e1b8eaa57bf7f3d8d303b76e5228642c3fc767f5c1c414",
+    "midi": 51,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 541422,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E3_01.wav",
+    "source_sha256": "4985f516ba8057795da17b45a4cd6eb47b2c4d323827158f67e93dc4ea482c9b",
+    "midi": 52,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 554608,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F3_01.wav",
+    "source_sha256": "c4837167bdfa29deeb89854158c991dcca5eca8d85b277a5ca3ba33ed3f61140",
+    "midi": 53,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 551897,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs3_01.wav",
+    "source_sha256": "efc3511f17f229076620b695ce8987f14a3dfcd171c7ccac9ea76306bd293a2d",
+    "midi": 54,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 671867,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G3_01.wav",
+    "source_sha256": "1e0877100e693d8ee6474845b225ba8a45ba156796fc850bf34f066d47580107",
+    "midi": 55,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 628483,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs3_01.wav",
+    "source_sha256": "18e872fcbb8c43ebb9b363118a1ebce66491336f48f9520eea5cf444dd1b6b88",
+    "midi": 56,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 446513,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A3_01.wav",
+    "source_sha256": "1abad0f777eaf324d1776bed20c1f84a8878c47e8c44c90d482c7df4d0aeed48",
+    "midi": 57,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 270583,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As3_01.wav",
+    "source_sha256": "5ecf0adfcc0de9c18706fbe96bd05b6468181bad1336f9b84029ae34166a80dc",
+    "midi": 58,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 468230,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B3_01.wav",
+    "source_sha256": "3db5b97edaac2740265b63139d706388704fa5c98e2d61128258c4de492a626f",
+    "midi": 59,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 505271,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C4_01.wav",
+    "source_sha256": "dd0e46b5fa2ed813b8bed7068ca9a23f68dc5574a8f4fbf31ee660082443ec15",
+    "midi": 60,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 316588,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs4_01.wav",
+    "source_sha256": "a5fe049c62b9252cecf0c9fd794dc85d94aa02ac4007f8759b8b30a483d2cbe3",
+    "midi": 61,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 305515,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D4_01.wav",
+    "source_sha256": "f0c1723ff810db5d172eb155f51329e1c29102287902dd351a00a590552a6819",
+    "midi": 62,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 413151,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds4_01.wav",
+    "source_sha256": "a5861cdac61866dc396eb97a0053c2d6c295497e4d4a9fdb8a77e239d69a3ddd",
+    "midi": 63,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 414953,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E4_01.wav",
+    "source_sha256": "07659ee6196ffa1bceda4632fb0b1d5ef222c8b278903173ba1da741634558a9",
+    "midi": 64,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 477724,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F4_01.wav",
+    "source_sha256": "d4542d6da69a9235f1b200c359bde7449d571dd5978da23d4ba31abff1237726",
+    "midi": 65,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 211198,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs4_01.wav",
+    "source_sha256": "2a1a952efecc5f721d54b6457aa1e89439d2a97529a0ba9415de54dbcaa1c38b",
+    "midi": 66,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 228324,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G4_01.wav",
+    "source_sha256": "00ccbcfd6ff18bbbe957a4cf3987220bcd8bb5fb80f67d5bdade57a6af770d82",
+    "midi": 67,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 385212,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs4_01.wav",
+    "source_sha256": "c031c58edd706875b4a9ddd1bf454cee5953789be0b0dc67e869cad9898e322e",
+    "midi": 68,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 433509,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A4_01.wav",
+    "source_sha256": "4e375ef1eebaed2e11daf7c85d69d34504adeb7a3bcaf91f36754ffce1280fc0",
+    "midi": 69,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 389126,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As4_01.wav",
+    "source_sha256": "53845b090ba3e7a34d0f482ad2ee0496ca49707e97d3674a71e9dcbb7015c25e",
+    "midi": 70,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 473307,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B4_01.wav",
+    "source_sha256": "7e90c8223708be270c8fe2e4c02076744bf97102f69ae5a8816effbcc0e1c683",
+    "midi": 71,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 345289,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C5_01.wav",
+    "source_sha256": "50df66a45042feb6161f4f855c80df805059c45d8833e0051227a68707a132db",
+    "midi": 72,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 378568,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs5_01.wav",
+    "source_sha256": "08ac2ee0614d0af39d35d1a63a09f259c3ad9352bc82414251c8c43c87711597",
+    "midi": 73,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 383999,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D5_01.wav",
+    "source_sha256": "323955194487c69a839096b91b096bb9fe0bcd20f5db112666b5e1cc77f0e5e2",
+    "midi": 74,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 302494,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds5_01.wav",
+    "source_sha256": "b34c932c32d02fd4cd8eeadefabd6755faca04d9478a361c5dd24d0a6886ddca",
+    "midi": 75,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 424781,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E5_01.wav",
+    "source_sha256": "53db3b8076fcdead8913ed077d999a37599f25d90e5c3df3fc435bc9b278cc2d",
+    "midi": 76,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 336111,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F5_01.wav",
+    "source_sha256": "bcb771442d4812750e74d624e03b01a1aaf163485ad5addfce2430a760baa3aa",
+    "midi": 77,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 394591,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs5_01.wav",
+    "source_sha256": "92888da4e82c77365770451e62931d9677e54661ca3f739c955148629cbbb164",
+    "midi": 78,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 406654,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G5_01.wav",
+    "source_sha256": "47014e5016fa41ab48f56f886f7a5e85f4f9ea62f62c38285fb09c45809c6afc",
+    "midi": 79,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 231155,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs5_01.wav",
+    "source_sha256": "d6b9718c320f4d287eaef51912bd09f334885923a07e2ee95ae56cc4b436f27b",
+    "midi": 80,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 302082,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A5_01.wav",
+    "source_sha256": "8b7b4b844d3002ccb0c63bd5493cf062c62e7cd07bf7840bf2fedd3278c7544a",
+    "midi": 81,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 357498,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As5_01.wav",
+    "source_sha256": "9e85fca1e18433ba9cd99f4a33e80b0bcd106e62308183320fa66220042e31ad",
+    "midi": 82,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 235357,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B5_01.wav",
+    "source_sha256": "daea60b7d2f8441839bdeaa40f65a065788b3ad79bc469956b2501950edd7ed5",
+    "midi": 83,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 198076,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C6_01.wav",
+    "source_sha256": "160b70b96acdab050cb169e39356e82d9b7a3c25cdce684af7697da8e86bbafa",
+    "midi": 84,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 201570,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs6_01.wav",
+    "source_sha256": "cc0e0c0f44e83867c1bdcc4c1a6346fbd7215ef3fea191738d4bb222018ab4f9",
+    "midi": 85,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 197817,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D6_01.wav",
+    "source_sha256": "8888d3bea21ac90bbac7e4800a8e4c146609dcf3f5b0f0aa01355633ff92d8dd",
+    "midi": 86,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 166684,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds6_01.wav",
+    "source_sha256": "5f4cc89d87f4ecf2b3d3ebe9eb05f41050a70976ff852d7658669a84e684ba83",
+    "midi": 87,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 151881,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E6_01.wav",
+    "source_sha256": "3f2625e013d4372c30e9173b66d0c3101cf5d1959e44f6e1ece513bdf6dd947a",
+    "midi": 88,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 215288,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F6_01.wav",
+    "source_sha256": "401a2a193d1d92b5a3596f6d30c29197456110e1300a6b332c58ea17dc710723",
+    "midi": 89,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 182433,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs6_01.wav",
+    "source_sha256": "297ef9eeccd347f36999c4824a6881fa3be7cb4d1920457e695a79b1aac6775c",
+    "midi": 90,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 194479,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G6_01.wav",
+    "source_sha256": "34c792a31eb167623dd0048c579bc76c378d273f46a624c111bf464090e59dec",
+    "midi": 91,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 166215,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs6_01.wav",
+    "source_sha256": "a29342d84037721ccc0f09bc234a11081fcc236e07f4e2823211b924a2def0d5",
+    "midi": 92,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 135062,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A6_01.wav",
+    "source_sha256": "1ef0f6897d8d96b1ca2022ea3ef5df4f2bd1fefa60ee29f3100cc4b305b1938b",
+    "midi": 93,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 172004,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As6_01.wav",
+    "source_sha256": "45d5e158b3f8036a5d5f63794c0f7e93bd8d424a6d1955f87adb328ee5cfffe7",
+    "midi": 94,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 178812,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B6_01.wav",
+    "source_sha256": "ec61e4838074284af985c3b37ebb8a80fae1da5f4c54e572fefa940c852aa132",
+    "midi": 95,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 218017,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C7_01.wav",
+    "source_sha256": "7c3dd213bdba264deefc4c7ab4e3893b49f49cb164c20d942c6b30600ca0474b",
+    "midi": 96,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 173527,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Cs7_01.wav",
+    "source_sha256": "64c3d2b86f80e681140edec1ae2bc516a040f61fb7ce0afa45ccef7a975e2a8c",
+    "midi": 97,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 132183,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_D7_01.wav",
+    "source_sha256": "29be2753fe6b2d7fe30eebff2dfa3c0e236f81f8e732bfae565483b9561c4578",
+    "midi": 98,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 127027,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Ds7_01.wav",
+    "source_sha256": "bf4602bcb09404a71510a0b55decfac787326be5ea8fb364e7a4a7144f488157",
+    "midi": 99,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 137093,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_E7_01.wav",
+    "source_sha256": "48a934f8c2cb808bdbe7d80899be4b3df72f383caaa112a91644982822e74a7e",
+    "midi": 100,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 138298,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_F7_01.wav",
+    "source_sha256": "82cbb88db584305b445cc43b93125f675150c367275155f93fe7b64eca83947e",
+    "midi": 101,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 139805,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Fs7_01.wav",
+    "source_sha256": "dbab58ef0186d2e179420b927ed9124d8e36bc9a3903fb04d1766e98fd9ef858",
+    "midi": 102,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 125653,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_G7_01.wav",
+    "source_sha256": "9c9468671f4f7da8fb50241e4a21ef63372aca374c35ffa5fc13478110b7eef9",
+    "midi": 103,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 127119,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_Gs7_01.wav",
+    "source_sha256": "2e8b604696b142e9c01773d67de168d230e01b476529358ed1eed6c03da7e8b3",
+    "midi": 104,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 132642,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_A7_01.wav",
+    "source_sha256": "d56719ee90ec1460f680ff45ab386e5b54829480676cf3e0f248e5ba0a94af28",
+    "midi": 105,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 111533,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_As7_01.wav",
+    "source_sha256": "fe4524e6130fda8edc055046479a87e4aa676d3e1cb3abb55a8776274cfda41c",
+    "midi": 106,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 101154,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_B7_01.wav",
+    "source_sha256": "da78e175b65e1decaaff73331b70c927230883caaa9504f8f3fce46094a4b98c",
+    "midi": 107,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 67972,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel01_C8_01.wav",
+    "source_sha256": "00b46faf83ab224abf071513e49def8dd6fe9b808f152d2b9a3288f7cfc7cc66",
+    "midi": 108,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      31
+    ],
+    "frames": 93891,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A0_01.wav",
+    "source_sha256": "5005cad0c423f4a052040b139a5e429b0df4fdcf8c1104cc7f73d5d256340b68",
+    "midi": 21,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 455197,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As0_01.wav",
+    "source_sha256": "aa7effa3793373315dedfec5f7fa5426d28dd0ea97e0a4d568eb7b13e9d210b2",
+    "midi": 22,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 446268,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B0_01.wav",
+    "source_sha256": "2abeeecb1de147128ec16a04c3f4203ff97d2102a56d992d764bd4b2bc23702f",
+    "midi": 23,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 404378,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C1_01.wav",
+    "source_sha256": "d83bd6e22a3f9ab8c10cf4b48bdbd808ed3cb6f2a87dce27d0f42242531eb6af",
+    "midi": 24,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 435039,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs1_01.wav",
+    "source_sha256": "ba6e09cbb8cc2c55495277a7a1f36a1fe70bf2853c62fac913248c65786641ab",
+    "midi": 25,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 475901,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D1_01.wav",
+    "source_sha256": "67912a05f9ad6fd72bf6f1ab949645cff294bfb212fe66c378ea86444b59b7b9",
+    "midi": 26,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 443865,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds1_01.wav",
+    "source_sha256": "e1f9bfe85b50ed30fb5d7afa6468c4b7b1495b0ad9709b293e80de51a100463e",
+    "midi": 27,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 512898,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E1_01.wav",
+    "source_sha256": "3389b14c659f0f15b8d941d67fea799e2fab1af442e776d2b31e41e5e1ce15f3",
+    "midi": 28,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 525825,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F1_01.wav",
+    "source_sha256": "74f6ecc45f052fed147215227e09f5ad66239911411931fbdd7fd3b014ae1a2e",
+    "midi": 29,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 577247,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs1_01.wav",
+    "source_sha256": "922b1d605d4174bdee1dafd00369901de782c2dadb31ab8fc3907f0ba1ee53ac",
+    "midi": 30,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 502418,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G1_01.wav",
+    "source_sha256": "0da821c08c0bb31740609c4d3a70dcc9e129a2017a8c5304c6ca38997847fd91",
+    "midi": 31,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 478326,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs1_01.wav",
+    "source_sha256": "990b8906c2880f8786885e2b4d0979dbb930b4109beed50d4b4c933afd76b91d",
+    "midi": 32,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 237556,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A1_01.wav",
+    "source_sha256": "3465467c4130e168a318f0747b0edb04d95566c107a21a3e8fc7a7dee258fb2e",
+    "midi": 33,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 443526,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As1_01.wav",
+    "source_sha256": "39b93d6040fa1b562f27f6cef4ff5a3ed2e5f4ec4171f3a8c7d9cadcca308d7a",
+    "midi": 34,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 664640,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B1_01.wav",
+    "source_sha256": "f21f7331de0c6f029cf53ea06d24ef15fb2447661ea803b2c2635c7020d7fb1c",
+    "midi": 35,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 638503,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C2_01.wav",
+    "source_sha256": "5c0243a6b8166ce49fafca91b2fc48fb4a7fc73e99bb0ae0ecc4145a8e15bbb1",
+    "midi": 36,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 611378,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs2_01.wav",
+    "source_sha256": "24a85d1ee0ac2c751e94110b7b99d8443c1c90332919d4e5f450f899bf2fd82f",
+    "midi": 37,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 642279,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D2_01.wav",
+    "source_sha256": "0c17d98aaadaf152c1881bcbd712bae1f9ed730bba1df0845445b7b2acd84fec",
+    "midi": 38,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 496474,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds2_01.wav",
+    "source_sha256": "a792d1b1c64d619b7904bdf8bb3f4b502c2778ab561db1a448296e9555bed9b0",
+    "midi": 39,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 600885,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E2_01.wav",
+    "source_sha256": "510316cca1dfe2562fce5193d683752024ba065ce6c985ec07a338137af1c5ff",
+    "midi": 40,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 643096,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F2_01.wav",
+    "source_sha256": "c43497f58b411e6b86da74dc6793462bcb80f917d5b3d819f664e71acedbbf7e",
+    "midi": 41,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 573983,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs2_01.wav",
+    "source_sha256": "d3ffdf4a118dd8d413c36c2358da39aece87393504466480682531c0f3877b94",
+    "midi": 42,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 704442,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G2_01.wav",
+    "source_sha256": "56cb5289787be7afc00be970f6b9851b45612b84fc1807b3935174cf2c4a01bf",
+    "midi": 43,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 612196,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs2_01.wav",
+    "source_sha256": "e3dcd6399b9128b75484b0e683769e8f92b5aa2545818e9bef58896629bdf319",
+    "midi": 44,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 641640,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A2_01.wav",
+    "source_sha256": "ae4c9f4090108a988070f16f97921b5906f65cb9c9c7ece4e2b2acb43d9424f4",
+    "midi": 45,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 678300,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As2_01.wav",
+    "source_sha256": "3f2758dce3ee9569aee23a9d495cb17c49bde9c12ddf49f7bb0bc6b5384bc177",
+    "midi": 46,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 543110,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B2_01.wav",
+    "source_sha256": "064e21c59d945c1ebfe3bed8f575a553dc3c4d7e0fd4a2713f0e9325a0fbda9a",
+    "midi": 47,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 502235,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C3_01.wav",
+    "source_sha256": "6be319eb5083f25a529e5179f9dae7c826171e13713a3b69c88dc95de469b40f",
+    "midi": 48,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 463426,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs3_01.wav",
+    "source_sha256": "3c2a34912a942221f405e4a359ff8bfef42b8d74be385bdfa8b3033cbb809e6c",
+    "midi": 49,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 544749,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D3_01.wav",
+    "source_sha256": "38243c5f7beb5f19dca4100ace18ec88dfdf255e1bf7cc294b6ef24972921fc2",
+    "midi": 50,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 560852,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds3_01.wav",
+    "source_sha256": "eecd6ab84fe5d6fc5e463f8547089ae7bb048d43a6e975c590448715b26f147d",
+    "midi": 51,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 593800,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E3_01.wav",
+    "source_sha256": "a8e716513e30673fc736938d3ab7b13a95004dd4ea8d60f6cdb09799fb53acf5",
+    "midi": 52,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 666906,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F3_01.wav",
+    "source_sha256": "c99d183ff5114aff47f8ebc08d4d5fadc25a58ff6edf6a7afb2a9aa2e329667d",
+    "midi": 53,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 605734,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs3_01.wav",
+    "source_sha256": "e7e0d5a48d2cdac4d41d3100771d19b6b751c79236c549aadd1aa20028e75b32",
+    "midi": 54,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 621157,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G3_01.wav",
+    "source_sha256": "f0f6c07dc4bcef9ee157b89496971ed508c6cd652955ff260858b09eea495ad5",
+    "midi": 55,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 615189,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs3_01.wav",
+    "source_sha256": "a1f7e04ef9afcd85dcff8c612514bb5a375f11941bfe648a2f9102d52d74ea65",
+    "midi": 56,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 658339,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A3_01.wav",
+    "source_sha256": "404af7e81aa83a1c2cfc175a96960f9a9329089774d74592515d0924ebf818d8",
+    "midi": 57,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 432743,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As3_01.wav",
+    "source_sha256": "f7cf4b349e15b3ae0c7322beebd726b76132b1ad5152c55d12e0596049beb5e2",
+    "midi": 58,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 411970,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B3_01.wav",
+    "source_sha256": "acabf544bfb4829c62b047cd62ee757d8b721d36ffba9b8aa7a34edb13469d5b",
+    "midi": 59,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 577108,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C4_01.wav",
+    "source_sha256": "67440ffb4b37628ec5ef2e6e23ba4473ba3698e543ca2c5703e16a7ff936db63",
+    "midi": 60,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 434703,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs4_01.wav",
+    "source_sha256": "296fc2d90ccd2f42a09997e6db3511f66bee6c236c52da790811878ef939271b",
+    "midi": 61,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 480548,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D4_01.wav",
+    "source_sha256": "42b16edae9c53bf91064397575812abbb03fd1860e964fff26022646662dcc60",
+    "midi": 62,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 518885,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds4_01.wav",
+    "source_sha256": "8d44e3a1b16a0c4a19115e9f0c5161b596eed4e38d00c3c5d190d6291a91ecd4",
+    "midi": 63,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 497972,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E4_01.wav",
+    "source_sha256": "4edfe00b65f624f35b3d7574c5a4c33cac921aaa09479238a6560d55d15e62c2",
+    "midi": 64,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 632246,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F4_01.wav",
+    "source_sha256": "cf08d43c0c5e4a337cc185930325eeb11118f82183af84965e47b2b7d3580739",
+    "midi": 65,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 263964,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs4_01.wav",
+    "source_sha256": "e9d378a13227a79caa32dd2d5e4d88b8be0f61f95e9d935cb34287f3b462e3d0",
+    "midi": 66,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 382149,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G4_01.wav",
+    "source_sha256": "f315a01f3520e7658f04c8514f4da2ae4b29baaaab8650ae1bc6cc9abd6ddab2",
+    "midi": 67,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 444084,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs4_01.wav",
+    "source_sha256": "3e044b204c1486143a7ef6ab78b8d6f26f366145d427e1407cce44798dabf792",
+    "midi": 68,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 416929,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A4_01.wav",
+    "source_sha256": "3d5b1ed9b7a51e2772d22a9db8bb73bc7deb526fcdea7d61dd2d2f03def1a19d",
+    "midi": 69,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 336219,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As4_01.wav",
+    "source_sha256": "a0fc3fdc133d85373d9b44fa9a90396270f513bef2424e0a4eedc7df90f48a32",
+    "midi": 70,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 508161,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B4_01.wav",
+    "source_sha256": "e1c3cfe7598289c3079f9df6de4c845b336164672dd33e5081f12ee16d33b7bd",
+    "midi": 71,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 368221,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C5_01.wav",
+    "source_sha256": "2f7289d79521c739b8a1ab75288d3d8a2c26743d4f8c31ea34280820f4179b58",
+    "midi": 72,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 410842,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs5_01.wav",
+    "source_sha256": "168d6ca85a4f8cdc213ccb176073938298d68cf6baec948f66be6d9f15d0d70f",
+    "midi": 73,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 405923,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D5_01.wav",
+    "source_sha256": "cb30c89be3e38fa7f349d03b83c9513fe2a46c54c6cc1c5513e98b145542aec4",
+    "midi": 74,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 347517,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds5_01.wav",
+    "source_sha256": "821c791ac6b0bb0600fec028ed84f959a85ea9114919ba708593329e88f93dab",
+    "midi": 75,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 479798,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E5_01.wav",
+    "source_sha256": "c67b9ba61620560241d0a3d25d7e1e486e4a6860955d78101ab67e546d665e1a",
+    "midi": 76,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 453979,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F5_01.wav",
+    "source_sha256": "3afebee1c07564f0e68803a2b87501211dd59ac64ff87419b4c26d5f7ad21450",
+    "midi": 77,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 454465,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs5_01.wav",
+    "source_sha256": "2ec81ace4a81073b14b2fb311a1b68b197d0af85a4df86dff2103a434804879c",
+    "midi": 78,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 419211,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G5_01.wav",
+    "source_sha256": "e74d7ba411a55fd95bb51690b1df30567a60cbe775185734197156a9df2f6d7d",
+    "midi": 79,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 249634,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs5_01.wav",
+    "source_sha256": "a5160acead2b2d509f2779b6e30acb73a7845c8534bea28603636590df562fc8",
+    "midi": 80,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 338275,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A5_01.wav",
+    "source_sha256": "06e025301129d22d3b75061163afa8ab8c657b174e4f4905967bc00ae8747edd",
+    "midi": 81,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 461476,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As5_01.wav",
+    "source_sha256": "f3e6766f574a32c87794e63b80d1e0c71a225fde64af5d6546d9d24f2bff4535",
+    "midi": 82,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 254973,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B5_01.wav",
+    "source_sha256": "01a96905662b2c3139251a968419fec9c9c0f042e697fcc5876ac45ab79a125b",
+    "midi": 83,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 269458,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C6_01.wav",
+    "source_sha256": "c7433286316af1d21fc5553c8c774e4a9a81198d318f2102180d9c17bcdb36d1",
+    "midi": 84,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 297388,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs6_01.wav",
+    "source_sha256": "5f88d2d51ebadfff36bf48a3fe3b02e83131976c11518555a9105ad4493f0bd2",
+    "midi": 85,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 300392,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D6_01.wav",
+    "source_sha256": "fbf5bc138f8a429e082737a98424ae83f0bbc39229a6d104cf4e9cefcdf67fea",
+    "midi": 86,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 214700,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds6_01.wav",
+    "source_sha256": "84f526f8330924e672824d1b8ece3b5077f24f97e0db6b9c47c9017093d57d7c",
+    "midi": 87,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 212947,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E6_01.wav",
+    "source_sha256": "ce0c25be03f2d635cf48b7567aacc8013c7e5f14acf3c234826289624a0522b7",
+    "midi": 88,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 218836,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F6_01.wav",
+    "source_sha256": "7614adf4b39aeca4d8f3a31da2ee73a7e55e3092ca0002c24fa3c11e7c16b8ce",
+    "midi": 89,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 203835,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs6_01.wav",
+    "source_sha256": "2bdd5edb521c3537347d3dd0b5a41dc28fc1e54a97503cd19f3d1e4b79ad4a4d",
+    "midi": 90,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 221301,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G6_01.wav",
+    "source_sha256": "391e1af7ec14bbe9daeef12b4f36e8d2d571c9591c8b558bcb911b9926ea7ab1",
+    "midi": 91,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 177621,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs6_01.wav",
+    "source_sha256": "cfe32ec7c295e96308b152526c3c9a0a0d3513db65842dd33425ce8e3338e7b3",
+    "midi": 92,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 211634,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A6_01.wav",
+    "source_sha256": "340dbc87278ccdd54320d9b1fc9b4e9770153842b45d316a3522e1d99a6ae2c4",
+    "midi": 93,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 240867,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As6_01.wav",
+    "source_sha256": "32a2f48d4e774e0c280bc4b21c5d9fe35191805254d904f6a283b02f77f11165",
+    "midi": 94,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 205363,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B6_01.wav",
+    "source_sha256": "66cda1f74dc41dd6edd96613798310f36fc4ffa417c8df26249d68747bc80e1e",
+    "midi": 95,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 211725,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C7_01.wav",
+    "source_sha256": "7acd012c52815a335071d5cd08720f35586afa5c43e055a7198b1ac6dc65c478",
+    "midi": 96,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 177580,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Cs7_01.wav",
+    "source_sha256": "b6daf00e098e8c5d1d667537035a64b02b99155ee48ca0ad0fc7fdfff7b93fec",
+    "midi": 97,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 161934,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_D7_01.wav",
+    "source_sha256": "59a157b8f157afb2a9db19a0145156e85ef54ef83fca773ecbb89294a07390c9",
+    "midi": 98,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 156418,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Ds7_01.wav",
+    "source_sha256": "f877d4c4d8ee75dc397665557d0d212f0d49d43307a605a831abd1f92a7e668e",
+    "midi": 99,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 171178,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_E7_01.wav",
+    "source_sha256": "22437d523a5dec3e19ab40e019fa78a811be8e1b21d1eb4e54a92153852d2973",
+    "midi": 100,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 180179,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_F7_01.wav",
+    "source_sha256": "c6ba13ba2fabf9488bbaa18f8fe036cd512a87a12cb08b61dca750e8d9282fe7",
+    "midi": 101,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 145103,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Fs7_01.wav",
+    "source_sha256": "8788f3541a9ddba3035e1f7cc9e8257997ea856f827e494c124138593a0eefdd",
+    "midi": 102,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 152629,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_G7_01.wav",
+    "source_sha256": "e187e76b5026b455ee082e2af21d936240e5cffcc3b9bc2d5ecfc2edfc03f31b",
+    "midi": 103,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 143315,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_Gs7_01.wav",
+    "source_sha256": "c74cbb118e89c760ca54b5c4c96f05d71c94b0a9fe4431c4288b310c8e9e1d69",
+    "midi": 104,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 157190,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_A7_01.wav",
+    "source_sha256": "6cef2880f9e5db5970af870c0bc98f8f47675f5b093a1cf6727d1822177a488a",
+    "midi": 105,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 137933,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_As7_01.wav",
+    "source_sha256": "29e16dd4f27e596f3f3ace748dc17d5188b074a4227c8b6e558b9c4a1621e209",
+    "midi": 106,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 114485,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_B7_01.wav",
+    "source_sha256": "5f055df3808f4d8f3386f33410202cfbac3518e6194ac8e19cb0cef4596db459",
+    "midi": 107,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 98000,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel02_C8_01.wav",
+    "source_sha256": "2334df9a99adaaa577729556c2dedb4be517995eb34b0f18e16c1a947d83b278",
+    "midi": 108,
+    "layer": 2,
+    "velocity_range": [
+      32,
+      63
+    ],
+    "frames": 88213,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A0_01.wav",
+    "source_sha256": "17dc7ef3d9821b4da0d35d2798d67cf47c60a227765a2ef6147837b04e796f13",
+    "midi": 21,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 444616,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As0_01.wav",
+    "source_sha256": "1f5664e29e45a267b7c489d9f9cdbbe5c94603e125b2b5df3b5f583246ff727b",
+    "midi": 22,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 418698,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B0_01.wav",
+    "source_sha256": "48d037126e83f573d9f22c9f02ef4785367bd49f7b7bb19baa7ed15c1f982651",
+    "midi": 23,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 451857,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C1_01.wav",
+    "source_sha256": "554bc0ddaf9f1f16cddf8185ce648e6491b0091b65a5c22d52ca58f1ce081262",
+    "midi": 24,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 446082,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs1_01.wav",
+    "source_sha256": "122e7b49b02000b50bfaba0d3ee2e7c66708a22ce90f7785feb5bcec9e2010b3",
+    "midi": 25,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 459869,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D1_01.wav",
+    "source_sha256": "63920d29d38e5664392eec4825441f36fa15d53980fcacf48b4405c63656a4ec",
+    "midi": 26,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 465475,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds1_01.wav",
+    "source_sha256": "7880f86c4867cd779acb0ab67211bba97704f1d72c45c6abf296065e353fc011",
+    "midi": 27,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 493969,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E1_01.wav",
+    "source_sha256": "9cee0c47d063289ef36bb1b36232aa37adcae06d104042423147e500844a45c6",
+    "midi": 28,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 566481,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F1_01.wav",
+    "source_sha256": "c641a60480b4d38d4e858b6a5dd59cff8bb73eed003f532d3bd42fb21b576a4b",
+    "midi": 29,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 564125,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs1_01.wav",
+    "source_sha256": "0decbbf22e49c4de3fb25ea5ab252ca9692ce6ab02c302a65d2491db85fed6ed",
+    "midi": 30,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 512166,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G1_01.wav",
+    "source_sha256": "f7a8f075dc678abdeb54e70ff4433e9e930874676a9ecc7adaa989091cb249db",
+    "midi": 31,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 537855,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs1_01.wav",
+    "source_sha256": "2342f36f0dfbd0b60c6bf23adb65c16bf2dc6a3b6552f5e8284835933ffcf1af",
+    "midi": 32,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 326845,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A1_01.wav",
+    "source_sha256": "8f23956edbfb9f270335c17d5ae30af90507a5abd871e7ba3517c7bf9311c33f",
+    "midi": 33,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 560274,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As1_01.wav",
+    "source_sha256": "6848449fefef9542c4c90eaa4a59077047f9f3ea80d4cc47601ba87f0ec5fdb8",
+    "midi": 34,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 602145,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B1_01.wav",
+    "source_sha256": "061aa0160208c3edf9ec322aac561891920597a1c4b4764563a9f643766acecc",
+    "midi": 35,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 660740,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C2_01.wav",
+    "source_sha256": "373d6214e746dba0e35029ce15816135022aa5a7b4126798dc2abe262f253054",
+    "midi": 36,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 733842,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs2_01.wav",
+    "source_sha256": "36ba69df8ed9f6f3f9c123196f481ef23b76272f0f8a279cdcf4d680cbce1540",
+    "midi": 37,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 573533,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D2_01.wav",
+    "source_sha256": "8e65ec39356e4ff74c2d12daf2787a01d944b43967414acaa3d2a260cbd2534e",
+    "midi": 38,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 758117,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds2_01.wav",
+    "source_sha256": "c6b0a509f2fc9ac823ed78dc352b926b478ee88d4ca3096b6439e1189de0cdac",
+    "midi": 39,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 682297,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E2_01.wav",
+    "source_sha256": "f6224a1b671cae64fda934df097de9553dbe55edcbe090719f39ec30dbcbfb72",
+    "midi": 40,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 757251,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F2_01.wav",
+    "source_sha256": "af4ffb477280d450cd523669b6dcedbb98e278886686796ecd7a0988d47c7e8e",
+    "midi": 41,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 701585,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs2_01.wav",
+    "source_sha256": "203c5b6824aad6942ea335b5b2b3fa7f3778e6e42da47e29d14c471a353b3b77",
+    "midi": 42,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 728242,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G2_01.wav",
+    "source_sha256": "821971eb2e86cec64ec952e7659a6142cb844e0e559b6774336130f4cae27ef7",
+    "midi": 43,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 643864,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs2_01.wav",
+    "source_sha256": "fe6a7498d5f58d85a16b1839d25607ff62e1c7b9d59dae26908cf1c0ebf76183",
+    "midi": 44,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 636004,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A2_01.wav",
+    "source_sha256": "8be376f433bc902dcc3ab6e84f3b0e953180da6cb746d88a8ad5078797ad149b",
+    "midi": 45,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 680161,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As2_01.wav",
+    "source_sha256": "9fa7709f29eb0ed57891c71f45f7895638d4b417a6846d699d2fdae092874952",
+    "midi": 46,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 548610,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B2_01.wav",
+    "source_sha256": "e6b784460018059d5790d63f3c72b03ae479bd1d7f70f3b907768acc3e6592c4",
+    "midi": 47,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 619882,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C3_01.wav",
+    "source_sha256": "d5c09f36cef0b4a108ff9078af3dc2b203224e14ff55b358e441446da0d267e0",
+    "midi": 48,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 575437,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs3_01.wav",
+    "source_sha256": "1031aca136608209dc52c8e4af851e02d42e5cda010477ef3df5c26d07a0be86",
+    "midi": 49,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 584319,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D3_01.wav",
+    "source_sha256": "102dbb0ec98930320943a142bd9c865fb162205a47406ddadfadc06e53566da3",
+    "midi": 50,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 556557,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds3_01.wav",
+    "source_sha256": "bf4e74aa27105798457d1f9e37cf14fa9258d7ea660f0342eae3b647bfa90eb7",
+    "midi": 51,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 523702,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E3_01.wav",
+    "source_sha256": "1b18b57e8302d37fabb579567802ba9ac5074c5ddd4d4c603a8e9c0ef4cae303",
+    "midi": 52,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 652611,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F3_01.wav",
+    "source_sha256": "175e2ed05cdfb574cf7bbfcbc3f15666f9ae077687a06ff56718aaa4b6193fe6",
+    "midi": 53,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 717543,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs3_01.wav",
+    "source_sha256": "124f035777a02e0ba002c30beabf84fc9bc42bbaf533ca79575976f54d2d6557",
+    "midi": 54,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 639415,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G3_01.wav",
+    "source_sha256": "534c12bf52e4a25926a8c4d3046147407aac5245cedc627843d0232488f97004",
+    "midi": 55,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 771155,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs3_01.wav",
+    "source_sha256": "12a83ff4006a40c823e22bb0ee08d732805d48765f5032006c65745b32d20b6d",
+    "midi": 56,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 619752,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A3_01.wav",
+    "source_sha256": "5f86e89e0e4b91ca936cb678e5a2fab42b0276c399a3f264c47cf11959c558ca",
+    "midi": 57,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 473388,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As3_01.wav",
+    "source_sha256": "4d78a58f8e1e0078f8b560faa053177d659aad8be1a761426c86aa00b7a497a8",
+    "midi": 58,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 554580,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B3_01.wav",
+    "source_sha256": "909a3111da007965fd90dc0bdd906bd034dea4da0d4c2115b4edd8b297e3a8c2",
+    "midi": 59,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 620768,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C4_01.wav",
+    "source_sha256": "b37311c07f3fbf6f0b02b6b3e01dab5d44176ad927273c6972893c43fd2150c9",
+    "midi": 60,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 480612,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs4_01.wav",
+    "source_sha256": "97545a7d2c94ca35965858f8bb8ee87513076b61ebf19466b9bbf13c8aec2deb",
+    "midi": 61,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 576788,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D4_01.wav",
+    "source_sha256": "d7110f73d1c1c811574da0c0d84ddde186f35bfa728f1faa541fe2782375809b",
+    "midi": 62,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 530406,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds4_01.wav",
+    "source_sha256": "64ec7c101aa95ba671dac428cafc276a0fc4803414cd41db36cc10232278a3ed",
+    "midi": 63,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 619166,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E4_01.wav",
+    "source_sha256": "27f3b682b17f6704c6777f4692b883768fec8269366ad8cf209017da9194aada",
+    "midi": 64,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 603273,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F4_01.wav",
+    "source_sha256": "457dce6baea7abb42d15eaa605c6dc426301db9e937721e4843c9216a3ba6fd6",
+    "midi": 65,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 355854,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs4_01.wav",
+    "source_sha256": "a97f1f3920541f36df30ba0392632e3ce9d02027cbe6985205c472dad02817dd",
+    "midi": 66,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 502466,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G4_01.wav",
+    "source_sha256": "6125810ca52ad9ea8aee6192b361753e7fbca83fc00fd70d7bfb8818267a35dd",
+    "midi": 67,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 489632,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs4_01.wav",
+    "source_sha256": "5874f44c142eabb3c3aeb1822e47453c8b082061c9cda847a5cdffc8f726ab01",
+    "midi": 68,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 487491,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A4_01.wav",
+    "source_sha256": "394fa4ffd75c2c2daa5f1f3a250e9957da70841edb22ec96cc618f1900894550",
+    "midi": 69,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 367077,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As4_01.wav",
+    "source_sha256": "f0c258b6d508ffad582f8da19c87cfaad8fd29df30d3a0e6516cbd7eaeb67e12",
+    "midi": 70,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 518237,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B4_01.wav",
+    "source_sha256": "affea695dbf215eb4bb134bb183d9a8c20152cb7eedaa97c5a7195b917714053",
+    "midi": 71,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 376867,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C5_01.wav",
+    "source_sha256": "446e397d1690e623faa06c07206ddabc0273f6edd95df795aa89fea292111360",
+    "midi": 72,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 438420,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs5_01.wav",
+    "source_sha256": "4d6329ee578ce92f272b52329b1af82323e8162e1eeccd6dd5ca7a18a504973c",
+    "midi": 73,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 458666,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D5_01.wav",
+    "source_sha256": "3f76e689bd451073b0e427deb3fa6b6c7cdfb9a85dda87e0aed065a6db0d4b4a",
+    "midi": 74,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 390010,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds5_01.wav",
+    "source_sha256": "1ea8adcd2c4bb0755f3993ed03bbffdfcc8afeb868bf4f6236f07364946b3e67",
+    "midi": 75,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 547085,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E5_01.wav",
+    "source_sha256": "3af3291b4d4955d6fff7f6e6eddaaea841634d49cea01a8437d54b9e90fa5536",
+    "midi": 76,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 498777,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F5_01.wav",
+    "source_sha256": "44283059564af583ab300a8976f908911bf4a14c37a1f25b65170314eeccb899",
+    "midi": 77,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 510366,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs5_01.wav",
+    "source_sha256": "ce1c72c15810be195e99ab2a57f146393863c388d761559077ca4a7c50ea90c0",
+    "midi": 78,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 430294,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G5_01.wav",
+    "source_sha256": "55f7bdf9cb891f5ad5727c8e2a0366d83694b55c382537b1d43fec3081a0df5c",
+    "midi": 79,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 358742,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs5_01.wav",
+    "source_sha256": "5c0d250775977c5fa13f088fce901bccd0f56274d25f919450531e874d31ec75",
+    "midi": 80,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 429418,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A5_01.wav",
+    "source_sha256": "fd5c01307c514b2913a4f84a35b8333315b32a911a899fe1e39458222b1d4fc5",
+    "midi": 81,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 451839,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As5_01.wav",
+    "source_sha256": "ad535cadae169991e8e7680b38180c0f2bf8b3e5198891dc5dd7ab5bab065b5b",
+    "midi": 82,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 287234,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B5_01.wav",
+    "source_sha256": "120f1c58c12ead904a04c4e96ad8a39d9c7b097de18a0867e69d15e3427fd047",
+    "midi": 83,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 297826,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C6_01.wav",
+    "source_sha256": "6838079a03875c4b180ce3f98187373ab604c55d65f320c3c090a7f984b04a48",
+    "midi": 84,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 327342,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs6_01.wav",
+    "source_sha256": "4c56ef4b981ffcafc808ad830d26351f468b4d395bd680fafb52f8fbb32d75eb",
+    "midi": 85,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 292127,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D6_01.wav",
+    "source_sha256": "fa4b13489530a234298b488d11889adf5dd8e101a53670cd171ee708bde2849a",
+    "midi": 86,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 243340,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds6_01.wav",
+    "source_sha256": "bc547ca3a25a6d9b766679ea458cc5fc03dab3f9aacbc47915fd211886186da2",
+    "midi": 87,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 238707,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E6_01.wav",
+    "source_sha256": "1c37804e23ca2ce6b6ad0f14219ff86aa0ab1f703c12826592c2aa856b23611d",
+    "midi": 88,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 188779,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F6_01.wav",
+    "source_sha256": "0843818f2b5464f28006b57ccfe0ba6e2219afe883d03b06be80360d8a274c04",
+    "midi": 89,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 197813,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs6_01.wav",
+    "source_sha256": "7812a81b9ca5d6cc335e7a48dc0f46dd260342c68db9e5fcb4ddb3b6f47dbd66",
+    "midi": 90,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 211223,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G6_01.wav",
+    "source_sha256": "8b96c5b68e32be91fea09db40d77035a0754bf4c7f7b431e6692005281c6a985",
+    "midi": 91,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 169771,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs6_01.wav",
+    "source_sha256": "42c3e43f223fdd1146cf7080f44f40539b3ab2dd023e07d004b8c97c2f52396c",
+    "midi": 92,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 243110,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A6_01.wav",
+    "source_sha256": "d1290b072cf1fed85d3360b8665c6458eb331c3e7c0f33aa6d5e2238dc7695e2",
+    "midi": 93,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 232248,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As6_01.wav",
+    "source_sha256": "7b830719e5dd7f920a23761ffb445d02e38f4a824d1848eeeb2a80c740713c3a",
+    "midi": 94,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 258942,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B6_01.wav",
+    "source_sha256": "efbedb6eeb1c73950c3f0e3ae1738141b1c0076bd8fa72766eb974e637bf735c",
+    "midi": 95,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 211858,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C7_01.wav",
+    "source_sha256": "59c32c9c3f577f714568c948c033b6fad87c6b338ea521f100f4e4cb6d759cf5",
+    "midi": 96,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 152101,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Cs7_01.wav",
+    "source_sha256": "0fba21ef346d404a0e6007d86755aaa1f0afea7038ddcad161a5eb857c24e291",
+    "midi": 97,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 175139,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_D7_01.wav",
+    "source_sha256": "f5cdbd0a1c9d427e1be8564997df7673b5214c42a0b6ff3a068f1d97c37b6ac9",
+    "midi": 98,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 200710,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Ds7_01.wav",
+    "source_sha256": "24c0a320101613fc7194dff3a4355145afe3deff647399ff3f8bcd47a5068d67",
+    "midi": 99,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 174718,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_E7_01.wav",
+    "source_sha256": "c7f9a8251bf8f816d6e6e7613852a6d1b8ebaafc51df692358c0003baec59706",
+    "midi": 100,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 164662,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_F7_01.wav",
+    "source_sha256": "404f3a0514422fb598572aff61c5a8d66248711e1f8664e7e493e27c99c937a0",
+    "midi": 101,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 154606,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Fs7_01.wav",
+    "source_sha256": "0c9674d6dd9d8a0531c507206a9ed92bdf6aa032418c328bd44b9862f54f9891",
+    "midi": 102,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 129184,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_G7_01.wav",
+    "source_sha256": "005f0e4613a76d9b0967b49385d7d9a062c5351a349de601c54413ada6eed713",
+    "midi": 103,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 137256,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_Gs7_01.wav",
+    "source_sha256": "1f0632dc4e7d7e1ad67a8a71add96b9f45067009f24c6ddc211605667d25cbeb",
+    "midi": 104,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 184276,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_A7_01.wav",
+    "source_sha256": "b02fadd659c8a90d19fc012950153387605effa121e9f6cb511ec0c462a85906",
+    "midi": 105,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 120368,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_As7_01.wav",
+    "source_sha256": "498c11d148375911d331216bc3d951d3555f3b5b62cdfeab2e27b6bc6b96c27d",
+    "midi": 106,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 119648,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_B7_01.wav",
+    "source_sha256": "c28d5d179686b11eefd6cf5936124669a7d45ca6dc81b3b64d9abf64c2c21b01",
+    "midi": 107,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 100646,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel03_C8_01.wav",
+    "source_sha256": "bc92072fb080f8ee1281788775fc4ac34f24c075312e3b0cf69979011913889a",
+    "midi": 108,
+    "layer": 3,
+    "velocity_range": [
+      64,
+      95
+    ],
+    "frames": 91628,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A0_01.wav",
+    "source_sha256": "effc8f49c0e789f2f30caa2aad5a1679344119468e9cb70cbd1fec82d551daae",
+    "midi": 21,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 376579,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As0_01.wav",
+    "source_sha256": "fe3cd020412e3d013c74d2dfd01c1f9b240f313e181022fa417970b85b1b30a2",
+    "midi": 22,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 501454,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B0_01.wav",
+    "source_sha256": "3db7d9ff647c7c6eab90cf809ef5dc8b5a668bf296a4ec66905c1b1d51b02028",
+    "midi": 23,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 466071,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C1_01.wav",
+    "source_sha256": "84f7cee2c0e5a744a251cbdab7a7f4ddb1c6de5d57b928acb90117306a1bbf88",
+    "midi": 24,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 589798,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs1_01.wav",
+    "source_sha256": "7dea9fe557b96f5d641e2fb0c35e02f471922a186b5c24506244d9384921d426",
+    "midi": 25,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 567782,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D1_01.wav",
+    "source_sha256": "24e416c5027aeb3f866fba01c9d8d417f3245ddf3950baa2b94f065e4ee54d44",
+    "midi": 26,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 570689,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds1_01.wav",
+    "source_sha256": "549ed0bfdba462a4b2fdb11fdc2ec58d7aebd9707a9d3277f6f50249f1e932cc",
+    "midi": 27,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 629907,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E1_01.wav",
+    "source_sha256": "a70b1200769c345ee104f6e27a69660f8f71ac1631c727a994cbf7fd408794be",
+    "midi": 28,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 588878,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F1_01.wav",
+    "source_sha256": "82cc75e603b0eb29c3a77fa625cb3066c14a40b3364aa001bc6211f54c8344fb",
+    "midi": 29,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 678070,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs1_01.wav",
+    "source_sha256": "65ebfe093fe472f318896f07820d20f7e16486cdfd8e2dfbfd693f9f1081b83d",
+    "midi": 30,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 567213,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G1_01.wav",
+    "source_sha256": "e65bf41f6c9c4f0cdf30eae7df19fbc4842b1f75b8da0d5faf52e26b227694d3",
+    "midi": 31,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 693506,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs1_01.wav",
+    "source_sha256": "f824e9f6419c2fbf49e710fea543715fab5396b9e5a0d76b9fb8ff2377c9bc19",
+    "midi": 32,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 358575,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A1_01.wav",
+    "source_sha256": "c1a3ebd10021a27db6a80720cb7b40147752580477575864f28b1106bc5978e2",
+    "midi": 33,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 590861,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As1_01.wav",
+    "source_sha256": "0cf880592ee5be14ca32315e8e19f93f164604d7e2b603a35f70493c2802c79d",
+    "midi": 34,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 724580,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B1_01.wav",
+    "source_sha256": "3fe3cc1ae85cccea2abb4a05faa28ea669945d0e041dd0bdc4742b44b761fdd6",
+    "midi": 35,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 681578,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C2_01.wav",
+    "source_sha256": "2d45614d928ef5cfdf4b3cda07ffdf166f76b550a646d028f4c9f0781acdafa2",
+    "midi": 36,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 828678,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs2_01.wav",
+    "source_sha256": "54ddf032263694251e8755099af1d2f4b9bf50f55f407c02f52ed97c5a6d4f14",
+    "midi": 37,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 654576,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D2_01.wav",
+    "source_sha256": "888161877999e36201dc57e8b24a6f63dd2bfeb28e3d6911d2595f46c16c5a53",
+    "midi": 38,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 779405,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds2_01.wav",
+    "source_sha256": "53b79355f12e981209a90daf34f9054ab4190b549bf85232aa26fc43bade439f",
+    "midi": 39,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 727271,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E2_01.wav",
+    "source_sha256": "f968b6443a87f0a63f120c69d6a5bb2c950e3919ef66838069f94a0d05eaa7e4",
+    "midi": 40,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 755885,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F2_01.wav",
+    "source_sha256": "af2874e0b2dfb94c111ec1d7b81aa88a98986e44dc371eeedf75262875a1b4f8",
+    "midi": 41,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 766494,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs2_01.wav",
+    "source_sha256": "b9035a03744259b26c21f35839170acb7e00ec049900fba46c1d11e0fb6ca96e",
+    "midi": 42,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 747992,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G2_01.wav",
+    "source_sha256": "497ec4d5081e73589e5374d0c938943f0655afae9605cd3b11dcb8851c93c646",
+    "midi": 43,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 779069,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs2_01.wav",
+    "source_sha256": "ab13598d6a17b463a2d1aa10a8a104b23b6d6ef6f5339965e8ad9e62e1915102",
+    "midi": 44,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 607560,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A2_01.wav",
+    "source_sha256": "506259a85ac0fcacf0b85b6937641b0c814694fdba1311c3c009edb151d9ddda",
+    "midi": 45,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 658929,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As2_01.wav",
+    "source_sha256": "0aec80698e3114618c68f73aad139bf0714a96cba92f7358be8ea14592919d14",
+    "midi": 46,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 688421,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B2_01.wav",
+    "source_sha256": "5c1af291a38f4a187b1e05dc15e9ab0470ff74400b33e0d910080e0584220258",
+    "midi": 47,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 576441,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C3_01.wav",
+    "source_sha256": "b56f68c4c494de65e7676461f7309279a4a4439cae1848497b45af95a8cd120d",
+    "midi": 48,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 636446,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs3_01.wav",
+    "source_sha256": "b60062231af15b68f08494773e539af55df1b7268fbcb0c8a0b7a1150f71da27",
+    "midi": 49,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 650466,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D3_01.wav",
+    "source_sha256": "15bf776a20f5bda3fd4d0cd5464f291520f7daca9c6bcd81a3b5a342899c2717",
+    "midi": 50,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 708564,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds3_01.wav",
+    "source_sha256": "4d551280b6a2729dd9378ffb17ca40b6c79e77bb9417fb36af8718c124265be3",
+    "midi": 51,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 591846,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E3_01.wav",
+    "source_sha256": "72f972f5e93acb9fe567e2b62b28d2dd12eced617c0caaae61688aa777988e4b",
+    "midi": 52,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 604276,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F3_01.wav",
+    "source_sha256": "f6659893922a8deeeab0a7e97b6a4a2947485a45598600b2f5881158400c2dd5",
+    "midi": 53,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 731437,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs3_01.wav",
+    "source_sha256": "4f53c2915a2bfa3648f60f1b7b46345bbb96db1e22e66886f1cbfb3058ee57bd",
+    "midi": 54,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 729618,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G3_01.wav",
+    "source_sha256": "d8ac613727cf9ee57ec71f7e2b9be4024f31590e0a43fcdca24839794709ebe8",
+    "midi": 55,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 876984,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs3_01.wav",
+    "source_sha256": "1738a236ead9d767e92ab188535ced9ff4adfb7ab3b184f41bd77f47e013ec25",
+    "midi": 56,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 748851,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A3_01.wav",
+    "source_sha256": "715dddaeaf5b67d0e6e081b7765f00d142d345db0b71003a1943f0a6e7d0e065",
+    "midi": 57,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 560484,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As3_01.wav",
+    "source_sha256": "27eadd2cdc18f55290c34df0e00e148b542f5f4f105c556e338bd8a5267f23ee",
+    "midi": 58,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 693072,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B3_01.wav",
+    "source_sha256": "db2b49ef8bfee6d6d6ee5ccb4ee6bf7a0003498d197e592164d821c85a64acbc",
+    "midi": 59,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 734876,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C4_01.wav",
+    "source_sha256": "213d301a395b9955da56ea36ac4e48366c8c4c5cb8ebf519abb22dd8b0a7ebce",
+    "midi": 60,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 583668,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs4_01.wav",
+    "source_sha256": "df5ca511674b725b12edf3e78864966ca117d89a0dc0630f8b99c54efa24a810",
+    "midi": 61,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 579739,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D4_01.wav",
+    "source_sha256": "a099b42c1ba2ebcab0291bd9fd9f907b1e82da15d9f23bda6980cc0380f2ccc7",
+    "midi": 62,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 489402,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds4_01.wav",
+    "source_sha256": "df7fbecca950fe53c48f8bc7beeed68274ab53864ad2a4f382da2cafbdfffedd",
+    "midi": 63,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 728147,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E4_01.wav",
+    "source_sha256": "f9f5087f9fc160c37f2a9dd09162e7b576f1f681694b1b9f4777726c6d262977",
+    "midi": 64,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 664640,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F4_01.wav",
+    "source_sha256": "0b34c0722324c8815aa9acaba31a17edbe460629d0e9c2d3f4388676280e6509",
+    "midi": 65,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 537361,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs4_01.wav",
+    "source_sha256": "558aa4fd45ddf09cc756f93d6ee834b1a0812c63ee5399868381beaba8f99db1",
+    "midi": 66,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 516275,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G4_01.wav",
+    "source_sha256": "f944ef08dd5e5752a83eb8a92bd236bf4015d1f541b6117a731a7ae0a7bb5e7a",
+    "midi": 67,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 553167,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs4_01.wav",
+    "source_sha256": "c92f8fa778d5783f6f5bd3cfb826ed7015ca03cfb2042d54d7a3ac94a8b4aa85",
+    "midi": 68,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 427702,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A4_01.wav",
+    "source_sha256": "c9b86fc3deeb4008fcd1434ed3872c2455ef932837336794f4000ae972a72a7b",
+    "midi": 69,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 456434,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As4_01.wav",
+    "source_sha256": "da71e3a89938e3f04e6b21f8faeeee091a4ec8ee51d09afb15fa1905e54d8e10",
+    "midi": 70,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 517827,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B4_01.wav",
+    "source_sha256": "71a095d5476a21f50dc086d8e4da14820b436d4d91647254276f444a88950bf2",
+    "midi": 71,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 378495,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C5_01.wav",
+    "source_sha256": "fa7c02867a3ea18e610ff0cdcb5f04c992a7a0503b336c717ee8bec65b19f320",
+    "midi": 72,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 527157,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs5_01.wav",
+    "source_sha256": "4728d658bd13e12c90f29840f2ed013df0bea357156352ad8d1346cabc520321",
+    "midi": 73,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 509131,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D5_01.wav",
+    "source_sha256": "f5068e0cba16e08f462174607ec949d78b376463cdadadd28451b1804690c3a0",
+    "midi": 74,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 405049,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds5_01.wav",
+    "source_sha256": "aa6f15225093d49b0623f5e9244d368463bc80e7edeae48ec2233e7d925dd483",
+    "midi": 75,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 397294,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E5_01.wav",
+    "source_sha256": "dac8ac6ba66b410efefea7eee8c8e31c7594d7d3478148d8181b950555804a8a",
+    "midi": 76,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 604848,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F5_01.wav",
+    "source_sha256": "13d5dd2fe916bcd2e933108c0d56f77ccc5d3fa9bff21a4ce519b971e72702a0",
+    "midi": 77,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 561304,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs5_01.wav",
+    "source_sha256": "f346977b420c02c43e4cae2728d81e618674127f6feb71cff5a043f37c1158cf",
+    "midi": 78,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 428475,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G5_01.wav",
+    "source_sha256": "ccdc46f51c43e7cb52694224792f7d15afcc910e4701a600423acb82e252fb5b",
+    "midi": 79,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 389369,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs5_01.wav",
+    "source_sha256": "f159b4274afd1be31e6bcb48cb4af160e789344be7cda01122ffe2c3459fd795",
+    "midi": 80,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 411614,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A5_01.wav",
+    "source_sha256": "558fe06106e46bd062d0c88a56c221d00d155bddb6487cee02d39b5ef7fdbb1c",
+    "midi": 81,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 367743,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As5_01.wav",
+    "source_sha256": "d395b94715da9a6b5d3748aac1774473d72400fc6c4b5371704f1836bfd93327",
+    "midi": 82,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 349783,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B5_01.wav",
+    "source_sha256": "a63ddcd663eda9751aec3a03a7d0b0396d23a0e8b21bd0dcbf9387d8ba8fa483",
+    "midi": 83,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 341659,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C6_01.wav",
+    "source_sha256": "b59ade4349cc7f137b0c0ca8bee182e7a1a4e6e4e4fdbf836258e9670291136d",
+    "midi": 84,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 316659,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs6_01.wav",
+    "source_sha256": "c5f19f6773799c5e233c05fc3379358689b1c9ae4622a262b24cd7054cc45ae6",
+    "midi": 85,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 252571,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D6_01.wav",
+    "source_sha256": "881828de4a31664150c85713e43f64f02d44232ba3b6cf4cda1edc63b174d189",
+    "midi": 86,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 234603,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds6_01.wav",
+    "source_sha256": "6abf2d22b52271743fb5de57f2a3bc1c1dee8f8c789169ffe3664f2e0e11de52",
+    "midi": 87,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 282155,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E6_01.wav",
+    "source_sha256": "21c7138708daed224df408afed40e286622353d2df032b653a695e9ef0e3661c",
+    "midi": 88,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 274821,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F6_01.wav",
+    "source_sha256": "2a678d2080e77d3054ca4f98a5843d73729b7874b885d1c6759b4ab6ea1fcf43",
+    "midi": 89,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 249069,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs6_01.wav",
+    "source_sha256": "d84e009c630ce515aa2b7af0423a32350314baf0b54232e710f0c78aff9f8274",
+    "midi": 90,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 259866,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G6_01.wav",
+    "source_sha256": "50a508d0b2c89a0d079212e2113e29644d61d3a08243a3283082e22248e25785",
+    "midi": 91,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 179862,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs6_01.wav",
+    "source_sha256": "b3bc7bb77702453c0eadbba9b1fcdae456909438f75e4657769e8c37c1dc7292",
+    "midi": 92,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 224922,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A6_01.wav",
+    "source_sha256": "a002d1722ba679892f0d16ea74c559e0f5c91e118d8c76221c8f62a025dff1fc",
+    "midi": 93,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 258419,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As6_01.wav",
+    "source_sha256": "612b989b6397c69b49fa11ffd98e34eda3b70e93213c052bd5150ab5ec1b3755",
+    "midi": 94,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 274454,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B6_01.wav",
+    "source_sha256": "1c8040a2d287cd7ea2872b2ecb08dc9b8bc9e4eb8d4d38fb5b8b6e6d0fd14beb",
+    "midi": 95,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 252107,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C7_01.wav",
+    "source_sha256": "dbd4b08249ae8259ce54052b591887df1f9e795c62166d96c2539ca39de7e384",
+    "midi": 96,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 180252,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Cs7_01.wav",
+    "source_sha256": "f4452c8677504758b80b924d3e94d0fccfbae21ad517f17f12af4c4314de2077",
+    "midi": 97,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 215876,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_D7_01.wav",
+    "source_sha256": "35e166d2f1135aed132d6fb7e84a112fc63cb65bedce1de9f6818fa92e697d76",
+    "midi": 98,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 179814,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Ds7_01.wav",
+    "source_sha256": "d53011db79914c51292409bee2b01cb08cad4ee6347a1797d60ea1358a327d40",
+    "midi": 99,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 197316,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_E7_01.wav",
+    "source_sha256": "779241a3b89879c759f0b3068e7b2bf0751f55830f410c954a01d796e96beac3",
+    "midi": 100,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 186883,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_F7_01.wav",
+    "source_sha256": "5e16976b670344a37892109f653a94c0407e314337bd6cd9bede1408862e95bf",
+    "midi": 101,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 207372,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Fs7_01.wav",
+    "source_sha256": "c13e50985fbd4d1ca66692b9f69beadb44908ff6c5c791ae727d650d418a027e",
+    "midi": 102,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 160837,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_G7_01.wav",
+    "source_sha256": "72973de3f50c42a61525e1c8a28f9b83e3437563047a15d34fbbc18b14f63691",
+    "midi": 103,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 173188,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_Gs7_01.wav",
+    "source_sha256": "9d84ac74b1856feb295aae8db658ef759d25426613140990c394cc529ec63a47",
+    "midi": 104,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 228104,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_A7_01.wav",
+    "source_sha256": "d48548b6173cc6a2407adfaab31e9389397842560876dadcf25d62e7ee95e2c4",
+    "midi": 105,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 120326,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_As7_01.wav",
+    "source_sha256": "646fb1756e2f1cd5ab38c901876fe6ea40afde0851f0928d71d027b9cba9144a",
+    "midi": 106,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 163115,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_B7_01.wav",
+    "source_sha256": "9a51a20e8314e13e650b08d284fc39b40c6722d100e6b35b2dd44857e406474a",
+    "midi": 107,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 123352,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  },
+  {
+    "source": "INSPiano_Vel04_C8_01.wav",
+    "source_sha256": "6ff6453254cd1b89f99d936e4e08675e646a9747b05e54260a23c51f6296464d",
+    "midi": 108,
+    "layer": 4,
+    "velocity_range": [
+      96,
+      127
+    ],
+    "frames": 121249,
+    "channels": 2,
+    "source_subtype": "PCM_24",
+    "destination": "16-bit PCM；双声道拆左右声道、独立区硬声像"
+  }
+]

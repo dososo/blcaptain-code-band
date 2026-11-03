@@ -1,0 +1,50 @@
+代码乐团 · Code Band（blcaptain-code-band）
+Copyright 2026 code-band contributors
+
+本仓库的代码和文档采用 Apache License 2.0，见 LICENSE。
+
+音色不在此列：每个音色包按各自的上游许可分发（CC0、CC BY 3.0/4.0、MIT、Iowa MIS 授权），
+逐包清单见 docs/third-party-soundfonts.md，各包许可与署名原文在对应资产目录里。
+音色文件不进 git 仓库，由 scripts/fetch_soundfonts.py 从 Release 下载并校验 SHA-256。
+
+------------------------------------------------------------------------
+运行时依赖（2026-11-03 读取本地安装的包元数据核验）
+------------------------------------------------------------------------
+numpy 2.2.6                      BSD-3-Clause   https://numpy.org/
+scipy 1.15.3                     BSD-3-Clause   https://scipy.org/
+soundfile 0.14.0                 BSD-3-Clause   https://github.com/bastibe/python-soundfile
+jsonschema 4.26.0                MIT            https://github.com/python-jsonschema/jsonschema
+jsonschema-specifications 2025.9.1  MIT         https://github.com/python-jsonschema/jsonschema-specifications
+referencing 0.37.0               MIT            https://github.com/python-jsonschema/referencing
+rpds-py 0.30.0                   MIT            https://github.com/crate-py/rpds
+attrs 26.1.0                     MIT            https://github.com/python-attrs/attrs
+cffi 2.1.1                       MIT-0          https://github.com/python-cffi/cffi
+pycparser 3.11                   BSD-3-Clause   https://github.com/eliben/pycparser
+typing_extensions 4.16.0         PSF-2.0        https://github.com/python/typing_extensions
+本仓库不打包这些依赖，由使用者用 pip 安装。
+
+------------------------------------------------------------------------
+外部程序（作为独立进程调用，不随仓库分发）
+------------------------------------------------------------------------
+FluidSynth   LGPL-2.1-or-later   https://www.fluidsynth.org/
+FFmpeg       许可取决于使用者本机的构建（LGPL 或 GPL）   https://ffmpeg.org/
+
+------------------------------------------------------------------------
+随仓库附带的第三方代码
+------------------------------------------------------------------------
+skills/code-band-bgm/assets/vendor/panns-cnn10/
+  PANNs（Pretrained Audio Neural Networks）CNN10 模型定义
+  Copyright (c) 2018-2020 Qiuqiang Kong，MIT 许可，原文见该目录 LICENSE.MIT。
+  不含模型权重。
+
+------------------------------------------------------------------------
+可选的本地分析模型（不随仓库分发，由使用者自行取得）
+------------------------------------------------------------------------
+beat_this、Demucs、YourMT3、MOSS、CLAP、Qwen2-Audio 等模型的代码与权重各有许可，
+使用前请按各自上游页面核对。本仓库只提供调用接线，不下载、不打包任何权重。
+
+------------------------------------------------------------------------
+v1 不包含的部分
+------------------------------------------------------------------------
+插件合成器路径（依赖 GPLv3 的 pedalboard 与 Surge XT）和谱模型音色拆解（依赖 AGPL 的 sms-tools）
+不在本公开版中。

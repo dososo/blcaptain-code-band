@@ -1,0 +1,2062 @@
+{
+ "bank": "vsco_viola_section",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "staccato",
+   "programs": [
+    16,
+    17
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "pizzicato",
+   "programs": [
+    32
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "tremolo",
+   "programs": [
+    48
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "ViolaEns_susvib_A3_v1_1.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 2.1,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    209895,
+    303408
+   ],
+   "loop_similarity": 0.975
+  },
+  {
+   "sample": "ViolaEns_susvib_B2_v1_1.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    202606,
+    254016
+   ],
+   "loop_similarity": 0.909
+  },
+  {
+   "sample": "ViolaEns_susvib_B4_v1_1.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 9.5,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    215284,
+    331632
+   ],
+   "loop_similarity": 0.789
+  },
+  {
+   "sample": "ViolaEns_susvib_C2_v1_1.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 0.3,
+   "seconds": 6.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    196314,
+    289296
+   ],
+   "loop_similarity": 0.91
+  },
+  {
+   "sample": "ViolaEns_susvib_C4_v1_1.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": 0.9,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    208193,
+    261072
+   ],
+   "loop_similarity": 0.856
+  },
+  {
+   "sample": "ViolaEns_susvib_D2_v1_1.wav",
+   "name": "s0005",
+   "instrument": "normal",
+   "sfz_key": 50,
+   "octave_shift": 0,
+   "measured_cents": -1.1,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    169774,
+    310464
+   ],
+   "loop_similarity": 0.935
+  },
+  {
+   "sample": "ViolaEns_susvib_D3_v1_1.wav",
+   "name": "s0006",
+   "instrument": "normal",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -0.1,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    128105,
+    331632
+   ],
+   "loop_similarity": 0.837
+  },
+  {
+   "sample": "ViolaEns_susvib_D5_v1_1.wav",
+   "name": "s0007",
+   "instrument": "normal",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": -1.4,
+   "seconds": 7.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    158457,
+    327081
+   ],
+   "loop_similarity": 0.869
+  },
+  {
+   "sample": "ViolaEns_susvib_E2_v1_1.wav",
+   "name": "s0008",
+   "instrument": "normal",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 0.1,
+   "seconds": 6.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    213617,
+    275184
+   ],
+   "loop_similarity": 0.956
+  },
+  {
+   "sample": "ViolaEns_susvib_E4_v1_1.wav",
+   "name": "s0009",
+   "instrument": "normal",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 5.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    183405,
+    258946
+   ],
+   "loop_similarity": 0.933
+  },
+  {
+   "sample": "ViolaEns_susvib_F3_v1_1.wav",
+   "name": "s0010",
+   "instrument": "normal",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 0.9,
+   "seconds": 7.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    124057,
+    324576
+   ],
+   "loop_similarity": 0.884
+  },
+  {
+   "sample": "ViolaEns_susvib_G2_v1_1.wav",
+   "name": "s0011",
+   "instrument": "normal",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": -0.1,
+   "seconds": 5.6,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    119152,
+    246864
+   ],
+   "loop_similarity": 0.9
+  },
+  {
+   "sample": "ViolaEns_susvib_G4_v1_1.wav",
+   "name": "s0012",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 1.8,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117082,
+    303408
+   ],
+   "loop_similarity": 0.762
+  },
+  {
+   "sample": "ViolaEns_susvib_A3_v2_1.wav",
+   "name": "s0013",
+   "instrument": "normal",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 3.9,
+   "seconds": 6.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    180158,
+    289296
+   ],
+   "loop_similarity": 0.898
+  },
+  {
+   "sample": "ViolaEns_susvib_B2_v2_1.wav",
+   "name": "s0014",
+   "instrument": "normal",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": 0.1,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    124086,
+    254016
+   ],
+   "loop_similarity": 0.852
+  },
+  {
+   "sample": "ViolaEns_susvib_B4_v2_1.wav",
+   "name": "s0015",
+   "instrument": "normal",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 0.5,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    145242,
+    317520
+   ],
+   "loop_similarity": 0.622
+  },
+  {
+   "sample": "ViolaEns_susvib_C2_v2_1.wav",
+   "name": "s0016",
+   "instrument": "normal",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": -0.1,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    187299,
+    331632
+   ],
+   "loop_similarity": 0.89
+  },
+  {
+   "sample": "ViolaEns_susvib_C4_v2_1.wav",
+   "name": "s0017",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -0.9,
+   "seconds": 6.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    125808,
+    275184
+   ],
+   "loop_similarity": 0.717
+  },
+  {
+   "sample": "ViolaEns_susvib_D2_v2_1.wav",
+   "name": "s0018",
+   "instrument": "normal",
+   "sfz_key": 50,
+   "octave_shift": 0,
+   "measured_cents": 1.2,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    215063,
+    310464
+   ],
+   "loop_similarity": 0.852
+  },
+  {
+   "sample": "ViolaEns_susvib_D3_v2_1.wav",
+   "name": "s0019",
+   "instrument": "normal",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": 1.0,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    189103,
+    261072
+   ],
+   "loop_similarity": 0.898
+  },
+  {
+   "sample": "ViolaEns_susvib_D5_v2_1.wav",
+   "name": "s0020",
+   "instrument": "normal",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    142371,
+    317520
+   ],
+   "loop_similarity": 0.826
+  },
+  {
+   "sample": "ViolaEns_susvib_E2_v2_1.wav",
+   "name": "s0021",
+   "instrument": "normal",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": -0.2,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    115079,
+    261072
+   ],
+   "loop_similarity": 0.838
+  },
+  {
+   "sample": "ViolaEns_susvib_E4_v2_1.wav",
+   "name": "s0022",
+   "instrument": "normal",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 1.4,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    137655,
+    331632
+   ],
+   "loop_similarity": 0.778
+  },
+  {
+   "sample": "ViolaEns_susvib_F3_v2_1.wav",
+   "name": "s0023",
+   "instrument": "normal",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 0.1,
+   "seconds": 6.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    197338,
+    268128
+   ],
+   "loop_similarity": 0.806
+  },
+  {
+   "sample": "ViolaEns_susvib_G2_v2_1.wav",
+   "name": "s0024",
+   "instrument": "normal",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": -2.8,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    199317,
+    254016
+   ],
+   "loop_similarity": 0.811
+  },
+  {
+   "sample": "ViolaEns_susvib_G4_v2_1.wav",
+   "name": "s0025",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 1.5,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    134354,
+    261072
+   ],
+   "loop_similarity": 0.717
+  },
+  {
+   "sample": "Violas_spic_A3_v1_rr1.wav",
+   "name": "s0026",
+   "instrument": "staccato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -2.3,
+   "seconds": 0.98,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B2_v1_rr1.wav",
+   "name": "s0027",
+   "instrument": "staccato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -0.4,
+   "seconds": 1.16,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B4_v1_rr1.wav",
+   "name": "s0028",
+   "instrument": "staccato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": -0.1,
+   "seconds": 0.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C2_v1_rr1.wav",
+   "name": "s0029",
+   "instrument": "staccato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 8.2,
+   "seconds": 2.72,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C4_v1_rr1.wav",
+   "name": "s0030",
+   "instrument": "staccato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -4.0,
+   "seconds": 0.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D3_v1_rr1.wav",
+   "name": "s0031",
+   "instrument": "staccato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": 5.1,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D5_v1_rr1.wav",
+   "name": "s0032",
+   "instrument": "staccato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 0.2,
+   "seconds": 0.63,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E2_v1_rr1.wav",
+   "name": "s0033",
+   "instrument": "staccato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 12.0,
+   "seconds": 0.82,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E4_v1_rr1.wav",
+   "name": "s0034",
+   "instrument": "staccato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": -0.3,
+   "seconds": 0.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_F3_v1_rr1.wav",
+   "name": "s0035",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 6.5,
+   "seconds": 0.71,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G2_v1_rr1.wav",
+   "name": "s0036",
+   "instrument": "staccato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 12.6,
+   "seconds": 1.11,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G4_v1_rr1.wav",
+   "name": "s0037",
+   "instrument": "staccato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 8.7,
+   "seconds": 1.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_A3_v2_rr1.wav",
+   "name": "s0038",
+   "instrument": "staccato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -3.0,
+   "seconds": 1.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B2_v2_rr1.wav",
+   "name": "s0039",
+   "instrument": "staccato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": 1.2,
+   "seconds": 2.16,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B4_v2_rr1.wav",
+   "name": "s0040",
+   "instrument": "staccato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": -2.3,
+   "seconds": 1.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C2_v2_rr1.wav",
+   "name": "s0041",
+   "instrument": "staccato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 11.8,
+   "seconds": 2.82,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C4_v2_rr1.wav",
+   "name": "s0042",
+   "instrument": "staccato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -12.0,
+   "seconds": 1.18,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D3_v2_rr1.wav",
+   "name": "s0043",
+   "instrument": "staccato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -1.5,
+   "seconds": 1.3,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D5_v2_rr1.wav",
+   "name": "s0044",
+   "instrument": "staccato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 5.9,
+   "seconds": 0.63,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E2_v2_rr1.wav",
+   "name": "s0045",
+   "instrument": "staccato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": -3.8,
+   "seconds": 1.54,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E4_v2_rr1.wav",
+   "name": "s0046",
+   "instrument": "staccato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 4.1,
+   "seconds": 1.23,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_F3_v2_rr1.wav",
+   "name": "s0047",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 6.7,
+   "seconds": 0.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G2_v2_rr1.wav",
+   "name": "s0048",
+   "instrument": "staccato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 3.7,
+   "seconds": 1.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G4_v2_rr1.wav",
+   "name": "s0049",
+   "instrument": "staccato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 1.0,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_A3_v1_rr2.wav",
+   "name": "s0050",
+   "instrument": "staccato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 9.9,
+   "seconds": 0.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B2_v1_rr2.wav",
+   "name": "s0051",
+   "instrument": "staccato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": 2.2,
+   "seconds": 1.17,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B4_v1_rr2.wav",
+   "name": "s0052",
+   "instrument": "staccato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 6.7,
+   "seconds": 0.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C2_v1_rr2.wav",
+   "name": "s0053",
+   "instrument": "staccato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 8.6,
+   "seconds": 2.6,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C4_v1_rr2.wav",
+   "name": "s0054",
+   "instrument": "staccato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -5.9,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D3_v1_rr2.wav",
+   "name": "s0055",
+   "instrument": "staccato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": 4.2,
+   "seconds": 1.12,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D5_v1_rr2.wav",
+   "name": "s0056",
+   "instrument": "staccato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 7.0,
+   "seconds": 0.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E2_v1_rr2.wav",
+   "name": "s0057",
+   "instrument": "staccato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": -6.6,
+   "seconds": 0.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E4_v1_rr2.wav",
+   "name": "s0058",
+   "instrument": "staccato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 3.8,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_F3_v1_rr2.wav",
+   "name": "s0059",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 5.2,
+   "seconds": 0.72,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G2_v1_rr2.wav",
+   "name": "s0060",
+   "instrument": "staccato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 2.7,
+   "seconds": 0.78,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G4_v1_rr2.wav",
+   "name": "s0061",
+   "instrument": "staccato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": -6.5,
+   "seconds": 0.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_A3_v2_rr2.wav",
+   "name": "s0062",
+   "instrument": "staccato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -0.5,
+   "seconds": 1.14,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B2_v2_rr2.wav",
+   "name": "s0063",
+   "instrument": "staccato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -4.8,
+   "seconds": 1.97,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_B4_v2_rr2.wav",
+   "name": "s0064",
+   "instrument": "staccato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 2.0,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C2_v2_rr2.wav",
+   "name": "s0065",
+   "instrument": "staccato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 10.8,
+   "seconds": 3.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_C4_v2_rr2.wav",
+   "name": "s0066",
+   "instrument": "staccato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": 0.1,
+   "seconds": 1.18,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D3_v2_rr2.wav",
+   "name": "s0067",
+   "instrument": "staccato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -0.4,
+   "seconds": 1.54,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_D5_v2_rr2.wav",
+   "name": "s0068",
+   "instrument": "staccato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 7.6,
+   "seconds": 0.6,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E2_v2_rr2.wav",
+   "name": "s0069",
+   "instrument": "staccato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": -11.3,
+   "seconds": 1.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_E4_v2_rr2.wav",
+   "name": "s0070",
+   "instrument": "staccato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 0.2,
+   "seconds": 1.21,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_F3_v2_rr2.wav",
+   "name": "s0071",
+   "instrument": "staccato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 5.2,
+   "seconds": 0.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G2_v2_rr2.wav",
+   "name": "s0072",
+   "instrument": "staccato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 2.5,
+   "seconds": 1.41,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_spic_G4_v2_rr2.wav",
+   "name": "s0073",
+   "instrument": "staccato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 1.6,
+   "seconds": 0.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_A3_v1_rr1.wav",
+   "name": "s0074",
+   "instrument": "pizzicato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 2.1,
+   "seconds": 0.68,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B2_v1_rr1.wav",
+   "name": "s0075",
+   "instrument": "pizzicato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -15.8,
+   "seconds": 1.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B4_v1_rr1.wav",
+   "name": "s0076",
+   "instrument": "pizzicato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C2_v1_rr1.wav",
+   "name": "s0077",
+   "instrument": "pizzicato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 15.6,
+   "seconds": 2.27,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C4_v1_rr1.wav",
+   "name": "s0078",
+   "instrument": "pizzicato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -1.4,
+   "seconds": 0.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D3_v1_rr1.wav",
+   "name": "s0079",
+   "instrument": "pizzicato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": 19.2,
+   "seconds": 1.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D5_v1_rr1.wav",
+   "name": "s0080",
+   "instrument": "pizzicato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": -23.4,
+   "seconds": 0.4,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E2_v1_rr1.wav",
+   "name": "s0081",
+   "instrument": "pizzicato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E4_v1_rr1.wav",
+   "name": "s0082",
+   "instrument": "pizzicato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": -9.5,
+   "seconds": 0.67,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_F3_v1_rr1.wav",
+   "name": "s0083",
+   "instrument": "pizzicato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 2.1,
+   "seconds": 1.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G2_v1_rr1.wav",
+   "name": "s0084",
+   "instrument": "pizzicato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 26.0,
+   "seconds": 0.91,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G4_v1_rr1.wav",
+   "name": "s0085",
+   "instrument": "pizzicato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 0.47,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_A3_v2_rr1.wav",
+   "name": "s0086",
+   "instrument": "pizzicato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -26.2,
+   "seconds": 0.96,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B2_v2_rr1.wav",
+   "name": "s0087",
+   "instrument": "pizzicato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -13.9,
+   "seconds": 2.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B4_v2_rr1.wav",
+   "name": "s0088",
+   "instrument": "pizzicato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": -1.0,
+   "seconds": 0.5,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C2_v2_rr1.wav",
+   "name": "s0089",
+   "instrument": "pizzicato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 2.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C4_v2_rr1.wav",
+   "name": "s0090",
+   "instrument": "pizzicato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -6.1,
+   "seconds": 0.85,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D3_v2_rr1.wav",
+   "name": "s0091",
+   "instrument": "pizzicato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -0.6,
+   "seconds": 2.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E2_v2_rr1.wav",
+   "name": "s0092",
+   "instrument": "pizzicato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 8.3,
+   "seconds": 1.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E4_v2_rr1.wav",
+   "name": "s0093",
+   "instrument": "pizzicato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 8.7,
+   "seconds": 1.15,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_F3_v2_rr1.wav",
+   "name": "s0094",
+   "instrument": "pizzicato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 1.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G2_v2_rr1.wav",
+   "name": "s0095",
+   "instrument": "pizzicato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 20.8,
+   "seconds": 2.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G4_v2_rr1.wav",
+   "name": "s0096",
+   "instrument": "pizzicato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": -6.7,
+   "seconds": 1.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_A3_v1_rr2.wav",
+   "name": "s0097",
+   "instrument": "pizzicato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 11.5,
+   "seconds": 0.64,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B2_v1_rr2.wav",
+   "name": "s0098",
+   "instrument": "pizzicato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -0.9,
+   "seconds": 1.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B4_v1_rr2.wav",
+   "name": "s0099",
+   "instrument": "pizzicato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.34,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C2_v1_rr2.wav",
+   "name": "s0100",
+   "instrument": "pizzicato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": -0.0,
+   "seconds": 2.15,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C4_v1_rr2.wav",
+   "name": "s0101",
+   "instrument": "pizzicato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -6.1,
+   "seconds": 0.86,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D3_v1_rr2.wav",
+   "name": "s0102",
+   "instrument": "pizzicato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -1.9,
+   "seconds": 0.74,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D5_v1_rr2.wav",
+   "name": "s0103",
+   "instrument": "pizzicato",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E2_v1_rr2.wav",
+   "name": "s0104",
+   "instrument": "pizzicato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 7.8,
+   "seconds": 0.83,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E4_v1_rr2.wav",
+   "name": "s0105",
+   "instrument": "pizzicato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 2.5,
+   "seconds": 0.68,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_F3_v1_rr2.wav",
+   "name": "s0106",
+   "instrument": "pizzicato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 1.1,
+   "seconds": 0.57,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G2_v1_rr2.wav",
+   "name": "s0107",
+   "instrument": "pizzicato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 34.3,
+   "seconds": 0.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G4_v1_rr2.wav",
+   "name": "s0108",
+   "instrument": "pizzicato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_A3_v2_rr2.wav",
+   "name": "s0109",
+   "instrument": "pizzicato",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -13.1,
+   "seconds": 0.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B2_v2_rr2.wav",
+   "name": "s0110",
+   "instrument": "pizzicato",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -7.6,
+   "seconds": 2.15,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_B4_v2_rr2.wav",
+   "name": "s0111",
+   "instrument": "pizzicato",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": null,
+   "seconds": 0.46,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C2_v2_rr2.wav",
+   "name": "s0112",
+   "instrument": "pizzicato",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": -3.0,
+   "seconds": 3.37,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_C4_v2_rr2.wav",
+   "name": "s0113",
+   "instrument": "pizzicato",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": -6.5,
+   "seconds": 0.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_D3_v2_rr2.wav",
+   "name": "s0114",
+   "instrument": "pizzicato",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -0.1,
+   "seconds": 2.6,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E2_v2_rr2.wav",
+   "name": "s0115",
+   "instrument": "pizzicato",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 24.0,
+   "seconds": 1.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_E4_v2_rr2.wav",
+   "name": "s0116",
+   "instrument": "pizzicato",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 3.3,
+   "seconds": 1.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_F3_v2_rr2.wav",
+   "name": "s0117",
+   "instrument": "pizzicato",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 5.5,
+   "seconds": 1.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G2_v2_rr2.wav",
+   "name": "s0118",
+   "instrument": "pizzicato",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 16.0,
+   "seconds": 2.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "ViolaEns_pizz_G4_v2_rr2.wav",
+   "name": "s0119",
+   "instrument": "pizzicato",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 1.6,
+   "seconds": 0.51,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Violas_trem_A3_v1_rr1.wav",
+   "name": "s0120",
+   "instrument": "tremolo",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": -0.8,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    205356,
+    331632
+   ],
+   "loop_similarity": 0.714
+  },
+  {
+   "sample": "Violas_trem_B2_v1_rr1.wav",
+   "name": "s0121",
+   "instrument": "tremolo",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": 0.8,
+   "seconds": 7.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    108681,
+    324576
+   ],
+   "loop_similarity": 0.745
+  },
+  {
+   "sample": "Violas_trem_B4_v1_rr1.wav",
+   "name": "s0122",
+   "instrument": "tremolo",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    126132,
+    317520
+   ],
+   "loop_similarity": 0.941
+  },
+  {
+   "sample": "Violas_trem_C2_v1_rr1.wav",
+   "name": "s0123",
+   "instrument": "tremolo",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": -10.9,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    168711,
+    317520
+   ],
+   "loop_similarity": 0.847
+  },
+  {
+   "sample": "Violas_trem_C4_v1_rr1.wav",
+   "name": "s0124",
+   "instrument": "tremolo",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": 0.3,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117992,
+    317520
+   ],
+   "loop_similarity": 0.875
+  },
+  {
+   "sample": "Violas_trem_D3_v1_rr1.wav",
+   "name": "s0125",
+   "instrument": "tremolo",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -1.8,
+   "seconds": 6.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    127807,
+    268128
+   ],
+   "loop_similarity": 0.832
+  },
+  {
+   "sample": "Violas_trem_D5_v1_rr1.wav",
+   "name": "s0126",
+   "instrument": "tremolo",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 3.2,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    216627,
+    310464
+   ],
+   "loop_similarity": 0.867
+  },
+  {
+   "sample": "Violas_trem_E2_v1_rr1.wav",
+   "name": "s0127",
+   "instrument": "tremolo",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": -1.0,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    133138,
+    317520
+   ],
+   "loop_similarity": 0.679
+  },
+  {
+   "sample": "Violas_trem_E4_v1_rr1.wav",
+   "name": "s0128",
+   "instrument": "tremolo",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": 0.3,
+   "seconds": 6.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    139872,
+    268128
+   ],
+   "loop_similarity": 0.743
+  },
+  {
+   "sample": "Violas_trem_F3_v1_rr1.wav",
+   "name": "s0129",
+   "instrument": "tremolo",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 1.5,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    210565,
+    317520
+   ],
+   "loop_similarity": 0.617
+  },
+  {
+   "sample": "Violas_trem_G2_v1_rr1.wav",
+   "name": "s0130",
+   "instrument": "tremolo",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 7.1,
+   "seconds": 7.2,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    183359,
+    317520
+   ],
+   "loop_similarity": 0.836
+  },
+  {
+   "sample": "Violas_trem_G4_v1_rr1.wav",
+   "name": "s0131",
+   "instrument": "tremolo",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 0.6,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    198325,
+    261072
+   ],
+   "loop_similarity": 0.953
+  },
+  {
+   "sample": "Violas_trem_A3_v2_rr1.wav",
+   "name": "s0132",
+   "instrument": "tremolo",
+   "sfz_key": 69,
+   "octave_shift": 0,
+   "measured_cents": 5.0,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    142130,
+    254016
+   ],
+   "loop_similarity": 0.919
+  },
+  {
+   "sample": "Violas_trem_B2_v2_rr1.wav",
+   "name": "s0133",
+   "instrument": "tremolo",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": -0.6,
+   "seconds": 6.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    182475,
+    268128
+   ],
+   "loop_similarity": 0.88
+  },
+  {
+   "sample": "Violas_trem_B4_v2_rr1.wav",
+   "name": "s0134",
+   "instrument": "tremolo",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 0.9,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    178121,
+    261072
+   ],
+   "loop_similarity": 0.901
+  },
+  {
+   "sample": "Violas_trem_C2_v2_rr1.wav",
+   "name": "s0135",
+   "instrument": "tremolo",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 4.4,
+   "seconds": 7.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    205398,
+    324576
+   ],
+   "loop_similarity": 0.761
+  },
+  {
+   "sample": "Violas_trem_C4_v2_rr1.wav",
+   "name": "s0136",
+   "instrument": "tremolo",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": 0.4,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    155391,
+    303408
+   ],
+   "loop_similarity": 0.869
+  },
+  {
+   "sample": "Violas_trem_D3_v2_rr1.wav",
+   "name": "s0137",
+   "instrument": "tremolo",
+   "sfz_key": 62,
+   "octave_shift": 0,
+   "measured_cents": -4.7,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    163852,
+    261072
+   ],
+   "loop_similarity": 0.748
+  },
+  {
+   "sample": "Violas_trem_D5_v2_rr1.wav",
+   "name": "s0138",
+   "instrument": "tremolo",
+   "sfz_key": 86,
+   "octave_shift": 0,
+   "measured_cents": 1.9,
+   "seconds": 5.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    183621,
+    253542
+   ],
+   "loop_similarity": 0.868
+  },
+  {
+   "sample": "Violas_trem_E2_v2_rr1.wav",
+   "name": "s0139",
+   "instrument": "tremolo",
+   "sfz_key": 52,
+   "octave_shift": 0,
+   "measured_cents": 1.8,
+   "seconds": 6.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    168050,
+    289296
+   ],
+   "loop_similarity": 0.713
+  },
+  {
+   "sample": "Violas_trem_E4_v2_rr1.wav",
+   "name": "s0140",
+   "instrument": "tremolo",
+   "sfz_key": 76,
+   "octave_shift": 0,
+   "measured_cents": -1.2,
+   "seconds": 7.04,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    151614,
+    310464
+   ],
+   "loop_similarity": 0.812
+  },
+  {
+   "sample": "Violas_trem_F3_v2_rr1.wav",
+   "name": "s0141",
+   "instrument": "tremolo",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 2.5,
+   "seconds": 5.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    131641,
+    254016
+   ],
+   "loop_similarity": 0.696
+  },
+  {
+   "sample": "Violas_trem_G2_v2_rr1.wav",
+   "name": "s0142",
+   "instrument": "tremolo",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": -0.5,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    111829,
+    303408
+   ],
+   "loop_similarity": 0.757
+  },
+  {
+   "sample": "Violas_trem_G4_v2_rr1.wav",
+   "name": "s0143",
+   "instrument": "tremolo",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": 2.9,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    201409,
+    261072
+   ],
+   "loop_similarity": 0.911
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# 可选本地CPU拍点；普通渲染与基础测量不需要，不包含模型权重。
+-r requirements.txt
+beat-this==1.1.0
+rotary-embedding-torch==0.9.1

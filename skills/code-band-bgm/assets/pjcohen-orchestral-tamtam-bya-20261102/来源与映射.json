@@ -1,0 +1,30 @@
+{
+  "作者": "P.J. Cohen / pjcohen",
+  "原始来源": [
+    "https://freesound.org/people/pjcohen/sounds/413613/",
+    "https://freesound.org/people/pjcohen/sounds/413614/"
+  ],
+  "再分发来源": "https://zenodo.org/records/4060432",
+  "来源许可": "FSD50K 2020元数据 CC BY 3.0；Freesound 当前页面 CC BY 4.0",
+  "来源限制": "FSD50K 音频统一转为44.1kHz/16位/单声道；不声称与原44.1kHz/16位立体声WAV相同，也不声称未经历有损编码",
+  "获取": "从FSD50K多卷ZIP按HTTP Range提取，核对中央目录 CRC32 与长度",
+  "样本": [
+    {
+      "midi": 60,
+      "Freesound编号": "413613",
+      "FSD50K解压wav_sha256": "2e8d3994feb5aa0499ba3460b4150fd71f5c73cdea560466132b01385736638d",
+      "帧数": 851984,
+      "采样率": 44100,
+      "处理": "2ms淡入、10ms淡出，保留完整录音，其余原幅度不变"
+    },
+    {
+      "midi": 61,
+      "Freesound编号": "413614",
+      "FSD50K解压wav_sha256": "f23a6a58e2dfdcc00f3059a9f399ac407a253b46e803048f1759d64bfd21f097",
+      "帧数": 796622,
+      "采样率": 44100,
+      "处理": "2ms淡入、10ms淡出，保留完整录音，其余原幅度不变"
+    }
+  ],
+  "sf2_sha256": "bbbec10e3f9ffcd17ad64b8d784bba85140787ba5fb7ec71aa333360312088e3"
+}

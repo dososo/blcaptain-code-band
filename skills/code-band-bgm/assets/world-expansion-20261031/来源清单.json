@@ -1,0 +1,1208 @@
+{
+  "固定提交": "b6e6ac82d22248edee98a0bde185eb9ef6d439ad",
+  "许可": "CC0-1.0",
+  "许可全文来源": "https://raw.githubusercontent.com/sgossner/VCSL/master/LICENSE",
+  "许可全文sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+  "files": [
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder - Sustain.sfz",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder - Sustain.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder%20-%20Sustain.sfz",
+      "bytes": 1847,
+      "sha256": "5e5477d23697a3e98efe6521a0ea682e8765daac26a248772366f02de6c1ab7d",
+      "git_blob_sha1": "db1711abcb8c259f5f4c7d4bd381b5ec8f1979bb"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_A%233_rr1_Main.wav",
+      "bytes": 3003932,
+      "sha256": "3ef10396bb7e921891ce1a3e72c33ff2115a1357aa89fd407385bd571041ebd3",
+      "git_blob_sha1": "3acd941e392d3e6a7891c695176e672dc6725c6b"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_A#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_A%234_rr1_Main.wav",
+      "bytes": 2279160,
+      "sha256": "a95ce4629a1415eb82a0e207df50e75f7f2a5a8aa6f4abf105b36371d99a2418",
+      "git_blob_sha1": "5fc13b13089874e826bc1528c643f25ce17aaf3d"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_C4_rr1_Main.wav",
+      "bytes": 1574224,
+      "sha256": "aaa4f42f850758a034db08cd42641f85adcb30a99db2fe790db03325c7f78b29",
+      "git_blob_sha1": "78fe319e7b12f99fd83647332f48ce4adc09ddbe"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_C5_rr1_Main.wav",
+      "bytes": 2530036,
+      "sha256": "cfc9e251d2ad1f2febf20f7d08e732a8ffa596122840f172f5ffd1fc72b4c81b",
+      "git_blob_sha1": "e43944e71776896e703067de29d926df08a57392"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_D4_rr1_Main.wav",
+      "bytes": 1756616,
+      "sha256": "a6e2944f433b427574a3c7078ebae2a39991a74f5906f2dead3a35b11262f0a4",
+      "git_blob_sha1": "fb5d8f274a2363b77164ad1129c629d61a36c1fb"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_D5_rr1_Main.wav",
+      "bytes": 2345620,
+      "sha256": "8f01762923e63e44a11aeccf2dc15692eadae7e3f57d40f4deecb65bc6341c81",
+      "git_blob_sha1": "3bd9927364a7f3b5efb6c847715125f88f6f8e8e"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_E4_rr1_Main.wav",
+      "bytes": 2312324,
+      "sha256": "e38f3bf2dc571796fecc8b525c303513c93d6d42f6a224acd5a52e613f555be8",
+      "git_blob_sha1": "88da0dcbab8d56db321611a7c3c72ee75a299a51"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_E5_rr1_Main.wav",
+      "bytes": 2401644,
+      "sha256": "8018db6c7cdbd7d85511d9d3a010a9ed8b9b06f4aa69f747c516cd288d6f9152",
+      "git_blob_sha1": "07ac69717656225868a4ac40a3c6402934d455bb"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_F%234_rr1_Main.wav",
+      "bytes": 3121816,
+      "sha256": "c06e6de1961371bdaec39bf63c32eff13e4405872e25f6ee60fdbb7a9592d7ad",
+      "git_blob_sha1": "41e614b557cdc324120c43da17a82ab18b7bdce1"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_F3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_F3_rr1_Main.wav",
+      "bytes": 3254828,
+      "sha256": "9cbe89054b204a78d353b3c05495d79ab5e0273a023abe005aad49b38133b085",
+      "git_blob_sha1": "937d7179bc3c84aed37adfa0923457c702cfe876"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_G%233_rr1_Main.wav",
+      "bytes": 2466568,
+      "sha256": "9132b4c5b8bc6d8ce8cdc85b93f4a8bbf5e8a27676b4ecea7028a91751ba0310",
+      "git_blob_sha1": "bdfa82195a1793b5aacc38f866d99eca359249ac"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Alto Recorder/Sustain/AltRecorder_Sus_G#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Alto%20Recorder/Sustain/AltRecorder_Sus_G%234_rr1_Main.wav",
+      "bytes": 2394072,
+      "sha256": "e602ff3de3cfabe6c23edc23eb93378bb34f7ff2eaabd13ffdb55db2ace8b888",
+      "git_blob_sha1": "b289c2bc5f487c3ad8d9cea08668e076440a2c54"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder - Sustain.sfz",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder - Sustain.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder%20-%20Sustain.sfz",
+      "bytes": 1877,
+      "sha256": "e849ef15e8c0e555285108a7f6bb723089a04150ded28046b19401efa338d988",
+      "git_blob_sha1": "2f8f9a2e1207707c5fead0890e5b957255d369eb"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#2_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#2_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_A%232_rr1_Main.wav",
+      "bytes": 1115384,
+      "sha256": "885836e9a0d137dffec9a2433248d8f122e4a179428b29fee5c5271cc95ac1e4",
+      "git_blob_sha1": "5d5772c5c586eef2d2d779b3070e0c37b4675260"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_A#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_A%233_rr1_Main.wav",
+      "bytes": 1302064,
+      "sha256": "5347791817026afbd2649b01e1b4f1edf0c8323dc20c708730ab34ed2b50fb69",
+      "git_blob_sha1": "f74607d2c248c3709ddd8b81032548d98a18ee0c"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_C3_rr1_Main.wav",
+      "bytes": 1090592,
+      "sha256": "688091d0e49e972ae0462c81aa89035c34c448f40c445cdef0ca0551a8bf8cf2",
+      "git_blob_sha1": "752b092ab46da330451bc92854340dc9d15088f6"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_C4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_C4_rr1_Main.wav",
+      "bytes": 1282728,
+      "sha256": "9520d45e7f7d0089caee00bdb5c653a85610ddc338ee381e805726cbdbe2b44a",
+      "git_blob_sha1": "a952b21a8d36677108ad686d46e5c308803f7578"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_D3_rr1_Main.wav",
+      "bytes": 1558252,
+      "sha256": "ebe2e0c4819b808137b1634d2f70888ed06a8dfc3791a5aaa656c3c754626f3c",
+      "git_blob_sha1": "0f254212da1ff514631a4af86b65b54f6475ca05"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_D4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_D4_rr1_Main.wav",
+      "bytes": 1094336,
+      "sha256": "cfec9f0288eacb2b3b2eeeb633482f25cef1f990a01e5ad29782dc9359136207",
+      "git_blob_sha1": "1a318e0401db5136afcd819382d8386488fde783"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_E3_rr1_Main.wav",
+      "bytes": 1222760,
+      "sha256": "28bbe7d292691cbd92c505c52f9d052ef4065a0449a4efec97e020492ebc64b8",
+      "git_blob_sha1": "8b84e722d89c5b315e4ef1cb8916ca12ae3b34e2"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_E4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_E4_rr1_Main.wav",
+      "bytes": 1016344,
+      "sha256": "1dc7098a36c7382215eb9e17953081e4e34cb6707c0b1b2f1c75bb478ac066eb",
+      "git_blob_sha1": "ae93fc29416832a006339192c3e156be4645964a"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#2_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#2_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_F%232_rr1_Main.wav",
+      "bytes": 838364,
+      "sha256": "f36eb0ce9617816beb37b0c7dc77ca790f8b7829bc61342d9c3904fe29a47b21",
+      "git_blob_sha1": "5bea21ffc449733f1371c39f3bb346a4fc883b50"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_F#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_F%233_rr1_Main.wav",
+      "bytes": 1431916,
+      "sha256": "48f81c43496afbfdff999ede2e72213657341d807ecd568530a2b485cdce8f52",
+      "git_blob_sha1": "d1e8c378337d341bcb01b92fff1d31422c34c1dd"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#2_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#2_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_G%232_rr1_Main.wav",
+      "bytes": 697008,
+      "sha256": "67b38d3d6654a1b3f92aa82d54f126d1a45ac52f8ddc6a4fe56ff038a8b1f40f",
+      "git_blob_sha1": "c305d744c94b032a88d29d708bce8af407082dd3"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Bass Recorder/Sustain/BassRecorder_Sus_G#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Bass%20Recorder/Sustain/BassRecorder_Sus_G%233_rr1_Main.wav",
+      "bytes": 1180704,
+      "sha256": "b4342c20c09535ab3ca511e0decf685d6c4582b2914b6899eb3ae8695aba282d",
+      "git_blob_sha1": "b677b3bb4ca0f7ef3ea23d34c958295a3964ceca"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder - Sustain.sfz",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder - Sustain.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder%20-%20Sustain.sfz",
+      "bytes": 2069,
+      "sha256": "f56f6e1913e422a9d0acd439b03ba327848127e96614da8f1de2c7804a06e171",
+      "git_blob_sha1": "b87bf35e8b6d5b16da8d4769db2a934b85df973c"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_A%234_rr1_Main.wav",
+      "bytes": 2148688,
+      "sha256": "907a663f8a614644f28779685086ec004e76eaba8e617e57b501e2c1d44c0b8c",
+      "git_blob_sha1": "90a2880b8912882b935d94421aa0f48dd71350e7"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_A#5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_A%235_rr1_Main.wav",
+      "bytes": 2064280,
+      "sha256": "bac76e5a1971f1acd773a5b82936fb9e073eb1a795c381ee61dad25fff71b13b",
+      "git_blob_sha1": "7e25581c4ad7511c256505f812a0dedb8d863dd3"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_C4_rr1_Main.wav",
+      "bytes": 1992312,
+      "sha256": "c46e47925b2551f5c4c4572fd9a789b483902f21a6162e9dd8868b10cf56bf9e",
+      "git_blob_sha1": "4d30c5fe153106f3940c732e2757c6a676589771"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_C5_rr1_Main.wav",
+      "bytes": 2031908,
+      "sha256": "64cc9153c32277171b0a699cc7376c7220b8744b6d18a149e250af767b6b7866",
+      "git_blob_sha1": "43afd8e187695c2f934445b82355f70443332350"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C6_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_C6_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_C6_rr1_Main.wav",
+      "bytes": 1979600,
+      "sha256": "114c13ab2271d2214212cf15f1a4fc485e6f3d91de26fe277c70da7250c0ecc8",
+      "git_blob_sha1": "c8fb629aef5692649814298a8ce2c59e3455b5b2"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_D4_rr1_Main.wav",
+      "bytes": 2696024,
+      "sha256": "321ecc1920a1e7e2621110127ffba001c8fa9ff0946a8d28a73db350271bdc90",
+      "git_blob_sha1": "5c38cb69f47422eaaa18dbfe85c07a7dab9ab52a"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_D5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_D5_rr1_Main.wav",
+      "bytes": 2393280,
+      "sha256": "8cf755de8f1030bac07e0070e8a94022a3ffc58dfcac5fa3cceab74437c7b45c",
+      "git_blob_sha1": "f349850156c23ceb75e14c63cfc19c05b5fa767c"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_E4_rr1_Main.wav",
+      "bytes": 2616636,
+      "sha256": "f87c85b53b30a52fa3036e56ab40518075638e426571b422d55854a9dbe0ba15",
+      "git_blob_sha1": "8e333e5820a8aa675e4353107f012509150f73ca"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_E5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_E5_rr1_Main.wav",
+      "bytes": 2747436,
+      "sha256": "1bb7d78b2ae3b7d849b4179a30bf4b2fda7a31f12c86524e12720c94a0895791",
+      "git_blob_sha1": "c4c672c49e706955ab6d82805773f7da79b0fdbc"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_F%234_rr1_Main.wav",
+      "bytes": 2254524,
+      "sha256": "468f394362746c4af2842eddec6453594384653ebc819ee8f0f718942336117a",
+      "git_blob_sha1": "6158245851da0207b31adf33a7a8fb57213b2463"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_F#5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_F%235_rr1_Main.wav",
+      "bytes": 2777292,
+      "sha256": "ba5a05ad4dcddf06e31643c4f7da7717662f9b358d4d84633890b00f72250561",
+      "git_blob_sha1": "eb477810787ae08dcd634ad42d220947d7a5d7af"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_G%234_rr1_Main.wav",
+      "bytes": 1727644,
+      "sha256": "0bee2dfd3f26ebd148bcc70ccff1038f33f36809631b1feb06e8451f2b5dd0d7",
+      "git_blob_sha1": "a3d84c99c3de509077989303178f68565c378070"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Soprano Recorder/Sustain/SopRecorder_Sus_G5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Soprano%20Recorder/Sustain/SopRecorder_Sus_G5_rr1_Main.wav",
+      "bytes": 2469240,
+      "sha256": "f955e4cf5f26e6e8463e1867dc50fe17842f515a7ab124e5611ad3f66c984820",
+      "git_blob_sha1": "986d42b38f84a281c815ecc30d3d5680d2d8f4c8"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder - Sustain.sfz",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder - Sustain.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder%20-%20Sustain.sfz",
+      "bytes": 2006,
+      "sha256": "4cd67ae5101e7193812823046784602c057224d66059697d13e1e6fa4d9e0d49",
+      "git_blob_sha1": "fa1c49004a5d5cb91edac6f57ebe62bf2a2edf1f"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_A%233_rr1_Main.wav",
+      "bytes": 1451604,
+      "sha256": "dd6419abb51fc064d8b8d0bb22131d7fdc47f41d68f1525ccd32513517a5775d",
+      "git_blob_sha1": "ab03ac7b0eada17c683ec76ea9298c5cef72c9ae"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_A4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_A4_rr1_Main.wav",
+      "bytes": 2184268,
+      "sha256": "b1c958ac379c2f1b089367db1f8e11ba1e321a83a025b4432863fcd01f0fcae7",
+      "git_blob_sha1": "ef9152f90af7828b43b67be26199c7fc4ba75c6a"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_C3_rr1_Main.wav",
+      "bytes": 1438852,
+      "sha256": "51d3df92138fce196c4e850ede11c580586be71cf0c3ef7ea17b9ecd9356df4f",
+      "git_blob_sha1": "305a6b921ad992295390f773cdf043ca70754bf8"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_C4_rr1_Main.wav",
+      "bytes": 1511232,
+      "sha256": "27222ad725d53683b1d19853277c4133fd12531a7f9c9962f19da7039bc25159",
+      "git_blob_sha1": "3fa1d93fcd2ac71b55cf6d1a292850fa05d9aadd"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C5_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_C5_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_C5_rr1_Main.wav",
+      "bytes": 1244376,
+      "sha256": "7accf26bda387bcaa3d53f20c7c4ff9bf2e34f0771f07572b74c93486ffd44d7",
+      "git_blob_sha1": "fd3ef79fb329f60293c97fc1cf272d011f189b82"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_D3_rr1_Main.wav",
+      "bytes": 1637428,
+      "sha256": "c59cad8370536db0cc27f371ed7d2a46f1087ae17097c316bcddb14771758a2e",
+      "git_blob_sha1": "61294970755eba33b501c7dd83fed52a3b2d7e0c"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_D4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_D4_rr1_Main.wav",
+      "bytes": 1698564,
+      "sha256": "cd08bb69ddd2a6b142538ea0cd6c2a683c2874d1aefb244d2a9cf8d4716ca1d3",
+      "git_blob_sha1": "19b5cab48de71a4b8f141f2217d5d96ec69525d7"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_E3_rr1_Main.wav",
+      "bytes": 1768996,
+      "sha256": "9186898290add53b2b38c89b957fa288593e05152c4917988036615f51eefe87",
+      "git_blob_sha1": "093442973350f80bcd302612b858ddfacbe589f2"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_E4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_E4_rr1_Main.wav",
+      "bytes": 1570944,
+      "sha256": "cf14d054a7e8acdeb6bfa3a3f0f25cd661f6e42766d5f9ca11a5a0d523aa4dc0",
+      "git_blob_sha1": "7b3dd0794dec42814409d43b9ddad04aa4a4b980"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_F%233_rr1_Main.wav",
+      "bytes": 1396992,
+      "sha256": "35f40900dc698e4d889e1390728165e481b710fb055065483374f3795d6a75df",
+      "git_blob_sha1": "03b2d41e5d887b2f2827ae044c5b19615724c83f"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_F#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_F%234_rr1_Main.wav",
+      "bytes": 1726344,
+      "sha256": "aa28059795944f8b86a8ca2f1387a94601d33bc6df4e3034bc458a7c88d2fedb",
+      "git_blob_sha1": "298d7fd0b81a3939192846c158ac395438db476f"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#3_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#3_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_G%233_rr1_Main.wav",
+      "bytes": 1476900,
+      "sha256": "a192bbc1ca88e7569853d67bebac9cdc6f74e2e42a6dd23ca7dad74ef96f69ea",
+      "git_blob_sha1": "03d20ad5059d644b26355dacf213b0bbe7fec8c0"
+    },
+    {
+      "path": "sources/Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#4_rr1_Main.wav",
+      "upstream_path": "Aerophones/Edge-blown Aerophones/Baroque Tenor Recorder/Sustain/TenRecorder_Sus_G#4_rr1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Edge-blown%20Aerophones/Baroque%20Tenor%20Recorder/Sustain/TenRecorder_Sus_G%234_rr1_Main.wav",
+      "bytes": 1555388,
+      "sha256": "24dbc97050723f79fb341e6b5db3432ea6a8456048f526133694c2acb8387908",
+      "git_blob_sha1": "d4083cf60355396c4cc07189273804126bb99fb4"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo.sfz",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo.sfz",
+      "bytes": 1433,
+      "sha256": "8b2598e44d8bd7704b21b25a4fc2cec049c548c4ed87124b074a6a0d429f7cd7",
+      "git_blob_sha1": "f7fc47adc5635284bbf31e087f895fc9edf114d4"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Bark1_Main_rr3.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Bark1_Main_rr3.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Bark1_Main_rr3.wav",
+      "bytes": 122564,
+      "sha256": "4c91d328d892da07c4cf717f2f44a862833ea23d1abca53087f00ced2d354e25",
+      "git_blob_sha1": "e1eeabf10bc09db2e928a90b99da7dadf2383050"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_BarkDown2_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_BarkDown2_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_BarkDown2_Main.wav",
+      "bytes": 562436,
+      "sha256": "64ea0a7cf688ab4da28d2787e70b5d202945eb0197a1bde8f13ac4cf48bcc47c",
+      "git_blob_sha1": "ead66f596676481d0fd19cff95bb6dd4dffe7e92"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase1_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase1_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Phrase1_Main.wav",
+      "bytes": 3089246,
+      "sha256": "22c16fb5950f520e55a7e8636db09e7309b2a04b17091178272f1ee923555cd8",
+      "git_blob_sha1": "beb57f7b2903b08ba29531c5ef701b842034f27f"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase3_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase3_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Phrase3_Main.wav",
+      "bytes": 4039190,
+      "sha256": "ddcf9bf25aa9f0bedac3c6ae5cb77e4d68913f2322b20ac8c10165ee3c753835",
+      "git_blob_sha1": "f0e714baeb7fe6b257b8477766fb859c4e1d03b7"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase5_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase5_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Phrase5_Main.wav",
+      "bytes": 2804798,
+      "sha256": "8c21db400950249d7d62220e65badc1139657a85ac6c957c5af4eba1eb71b3bf",
+      "git_blob_sha1": "42c229f73bb696b0c130e723ebe2b3cbc751be5c"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase6_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase6_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Phrase6_Main.wav",
+      "bytes": 3455198,
+      "sha256": "689d7ef41a0abdab2332788fc2472925a9f952bb15acbbd64b94e4c36ff28a32",
+      "git_blob_sha1": "1bbbf6de164a298f00c7c65f975ebc3d18c5bd51"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase8_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Phrase8_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Phrase8_Main.wav",
+      "bytes": 3362648,
+      "sha256": "dcce6df3d735ad17ad1b7a7e59e7abbfc8082c37654e9e0890a50ab27c6a7c92",
+      "git_blob_sha1": "f33bbbc3a5154007df19568179c4e4b1806ce360"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Short1_Main_rr2.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Short1_Main_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Short1_Main_rr2.wav",
+      "bytes": 99110,
+      "sha256": "eae62adf204bb0fe3f669eab2077f9890d75ed21e1152dc4a74cbb326de48a61",
+      "git_blob_sha1": "a98510d6be1aa8f0cc5748b111ab99d423a7b666"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus2_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus2_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Sus2_Main.wav",
+      "bytes": 3276632,
+      "sha256": "eaed2088c808f5fc1f18bb7dc11c38ab57ae7c8a76a08e7934f5dab22f9d8fc8",
+      "git_blob_sha1": "5c640b5d75d0997815d89fd833c83c3ff0648be2"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus3_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus3_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Sus3_Main.wav",
+      "bytes": 2616242,
+      "sha256": "b1f73d0933a0cc6f05ddb92cffda83ad0ebe874487790c8ca02a542c6718bc7c",
+      "git_blob_sha1": "2dd91666ab26852a9995e75638beaa545305d544"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus8_Main.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Sus8_Main.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Sus8_Main.wav",
+      "bytes": 3837620,
+      "sha256": "13fcc35157fe36a6f2d69e94ff4f724f22bd6e3a9b66455f70d7924c8bdb76a4",
+      "git_blob_sha1": "adea88a2ea835c6ad81be2b59e3a3a24433c4938"
+    },
+    {
+      "path": "sources/Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Tap1_Main_rr16.wav",
+      "upstream_path": "Aerophones/Lip Aerophones/Didgeridoo/Didgeridoo1_Tap1_Main_rr16.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Aerophones/Lip%20Aerophones/Didgeridoo/Didgeridoo1_Tap1_Main_rr16.wav",
+      "bytes": 68756,
+      "sha256": "8f39df500d7a673e9f5bfa68c5453dd66b22bfcc9c94afafe22dbd94b9ce1cdd",
+      "git_blob_sha1": "341471ff85e3229d7fcb3c3cc47bfd4fa094d121"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G.sfz",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G.sfz",
+      "bytes": 4083,
+      "sha256": "ad08e0ede67225f3a1732e4b67f068c1acc3e2b705d6c2cab97d7809ab66224e",
+      "git_blob_sha1": "2f382fdec58fb3f13527e721f2e8027971ee1ef3"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#1_k12_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#1_k12_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_A%231_k12_vl2_rr1.wav",
+      "bytes": 2044834,
+      "sha256": "ae487ea312cc093183fc4e065eac04adc1a015b90c13939bbeb5c9e829226ac1",
+      "git_blob_sha1": "48c013139fe6070047c001f5ef4fa0ac8695b8b8"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#2_k15_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#2_k15_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_A%232_k15_vl2_rr1.wav",
+      "bytes": 1771480,
+      "sha256": "6a96dd4f993de782413c588252fd3552f93a6a09b481d34a387883b8820ce83a",
+      "git_blob_sha1": "0ec34e07a2ea01e5ec5aea83417aaa0b0b08fbc4"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#3_k18_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A#3_k18_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_A%233_k18_vl2_rr1.wav",
+      "bytes": 1418746,
+      "sha256": "22b25c547c5ff02b376ce16c804d3d6b4a6b3929144f2f13cfcd73dc633a1ec2",
+      "git_blob_sha1": "f294301038e7cb05c280fb203a689b1d89b3835e"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A4_k24_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_A4_k24_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_A4_k24_vl2_rr1.wav",
+      "bytes": 977020,
+      "sha256": "0e682d7a7a8e2bf925f32c8d3db92fd05b24c461cf2158a66388354cc5b29b37",
+      "git_blob_sha1": "6d38bfade34cb95fdbbe5a39da826d90fc55fc97"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C#4_k14_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C#4_k14_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_C%234_k14_vl2_rr1.wav",
+      "bytes": 1597852,
+      "sha256": "ddcf6e87137769ee6040e6044d45661c79ba7c21a1d0639b21817bf1c4003d0d",
+      "git_blob_sha1": "e1608d7a8821b3e3883338c882278565b0b00d26"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C2_k10_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C2_k10_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_C2_k10_vl2_rr1.wav",
+      "bytes": 2029372,
+      "sha256": "af79c9e501ffc7ffec5ceee724fd6925cab040d925b0b09050765e52441b2184",
+      "git_blob_sha1": "3418e360796e6009ef2e8ea11e104b6371cc6e2f"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C3_k9_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C3_k9_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_C3_k9_vl2_rr1.wav",
+      "bytes": 1597486,
+      "sha256": "f24240b36d976231881cbb76b5826428b1436ec0c29e5c5d997d21e5578e199e",
+      "git_blob_sha1": "65c6db0c278b92760ae90cf44a3a6ce2aa87b771"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C4_k19_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_C4_k19_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_C4_k19_vl2_rr1.wav",
+      "bytes": 1820500,
+      "sha256": "0c0b0d22c4d6621ab524a1d53a7c99f86970bf99e417b430dca027e4579249e4",
+      "git_blob_sha1": "bee51140287f86f16e34b443b597c3fc42c82c95"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#2_k6_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#2_k6_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D%232_k6_vl2_rr1.wav",
+      "bytes": 1737310,
+      "sha256": "61954fec080d193fba16891053e3e5fccec97a3803ab31d866b2b1bcd8c22aaa",
+      "git_blob_sha1": "1eeb9f771d294dfa1768559381adbd66c898d6c1"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#3_k7_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#3_k7_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D%233_k7_vl2_rr1.wav",
+      "bytes": 2388616,
+      "sha256": "55586244e885c8090aed8e699f7110427cbdf0129d3481dc05548e15b2c98f63",
+      "git_blob_sha1": "bf05c5a7bc8daa60835b960c50a3da202daa4999"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#4_k21_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D#4_k21_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D%234_k21_vl2_rr1.wav",
+      "bytes": 1412356,
+      "sha256": "0b1553672e39a455049fc9d8c6bcd69bb07fc7b2e1ad0d35af6680973e70f4da",
+      "git_blob_sha1": "2c47f0fbe1e2b2bcc610ad5e92c46dfc5b569e58"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D2_k8_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D2_k8_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D2_k8_vl2_rr1.wav",
+      "bytes": 1518400,
+      "sha256": "77bbf635844982c264779c5c999c8e2dadd9170cab73566035a69777f405bf4e",
+      "git_blob_sha1": "81384c6bccd5ffd558b8eac20cad524b98cb5d7c"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D3_k11_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D3_k11_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D3_k11_vl2_rr1.wav",
+      "bytes": 1680568,
+      "sha256": "cde513f94a0846f8610ced2e76a94180a7100138cb3e917961c832a1680a1a98",
+      "git_blob_sha1": "a3e65d49bbd3142e2067903ce5d3abb3af7643a6"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D4_k20_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_D4_k20_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_D4_k20_vl2_rr1.wav",
+      "bytes": 1663726,
+      "sha256": "c60a14f0c590bec0a3266e26807b494afe635747a1321b9aeb7334dfdb12ec39",
+      "git_blob_sha1": "7a996539e449f6053e5c040b96ea236015d18ab1"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F2_k4_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F2_k4_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_F2_k4_vl2_rr1.wav",
+      "bytes": 1494040,
+      "sha256": "9462d30dc81cbeb4655ce473a4bb5bc4c47ddf8016d3009aca922435ef94c2bd",
+      "git_blob_sha1": "190da16496c9135d5e1181504887bf434f5139e0"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F3_k5_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F3_k5_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_F3_k5_vl2_rr1.wav",
+      "bytes": 1531612,
+      "sha256": "397c43d11d7a6027d1cc24d985e72fc5554a02af7d6f03912c93fd4d57b96d97",
+      "git_blob_sha1": "5323fdc10f8847cf11f56c9677fc8df2e1cce47b"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F4_k22_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_F4_k22_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_F4_k22_vl2_rr1.wav",
+      "bytes": 930760,
+      "sha256": "40e20f9148bf3a46ccddf954739f732e50ef3beba1ff617c203eb1b70d8999b4",
+      "git_blob_sha1": "12d2da3fa9b08aa20b82c7e8c30a887767f3c7cf"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#2_k2_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#2_k2_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G%232_k2_vl2_rr1.wav",
+      "bytes": 1308226,
+      "sha256": "d9340a82773c4a8c40c7b30b8ae449263003a1c0dfa1457f125a1dde504ad9e7",
+      "git_blob_sha1": "7a2f863ad7dd34ef361798b5dcd093a5285d31b0"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k17_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k17_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G%233_k17_vl2_rr1.wav",
+      "bytes": 2052040,
+      "sha256": "c5d6fc5961fa39d4a4680a18e1e558614bed33278e6a0d0cc22402680ffa68c8",
+      "git_blob_sha1": "6586b18eab861701f9ef78306b77c7440effb9b4"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k1_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G#3_k1_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G%233_k1_vl2_rr1.wav",
+      "bytes": 1169212,
+      "sha256": "bdd08c4a3557c36f14a7c04fb5845b2dc387a762c92ae6fcbac4078034679cae",
+      "git_blob_sha1": "35a078b76ec9d28a67a8481b07695b0a296c4f0b"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G2_k13_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G2_k13_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G2_k13_vl2_rr1.wav",
+      "bytes": 2047678,
+      "sha256": "ca8792b1a75c4a0e34acbaa36426d825b20cdb83d503ef52ded663c633afbfd3",
+      "git_blob_sha1": "4b76128d9b66105fcd0ebb4c9878ea3f55a03d95"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G3_k16_vl2_rr1.wav",
+      "bytes": 1450516,
+      "sha256": "72e98d87f1f145c33eb2e56b627984f25a29468d29cd0d3bc8d60d3925c90142",
+      "git_blob_sha1": "d2f5ff21e09c54f06fd56f57677745fab004728a"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k3_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G3_k3_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G3_k3_vl2_rr1.wav",
+      "bytes": 1218490,
+      "sha256": "f74f320221cb274f29de895bcfdbf42ebd7bb1dbccebbc5d51bc4840d2660ff0",
+      "git_blob_sha1": "26846413b3f017d5edd078d6e8c0bee033689569"
+    },
+    {
+      "path": "sources/Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G4_k23_vl2_rr1.wav",
+      "upstream_path": "Idiophones/Plucked Idiophones/Mbira Mavembe (Gandanga), Zimbabwe, Low G/Mbira5_Normal_MainSpirit_G4_k23_vl2_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Plucked%20Idiophones/Mbira%20Mavembe%20%28Gandanga%29%2C%20Zimbabwe%2C%20Low%20G/Mbira5_Normal_MainSpirit_G4_k23_vl2_rr1.wav",
+      "bytes": 950428,
+      "sha256": "fc234f2594df028860e8c3882ccd5c83683dc221e88bfe2a682705688bfda975",
+      "git_blob_sha1": "97b9c80dade85ea82f4c29d71d7cc755f16227bf"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon - Traditional Mallet.sfz",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon - Traditional Mallet.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon%20-%20Traditional%20Mallet.sfz",
+      "bytes": 3040,
+      "sha256": "2e6e4b050494ab7eb65105736ee021c793ca1bf05731386cae75b8b874bbe8d3",
+      "git_blob_sha1": "34a403fccba4ad5a05968ebd338b4c9bc6f7a3e6"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C%233_vl1_rr1_Mid.wav",
+      "bytes": 216936,
+      "sha256": "8177a3f7dedf6092df7bf216f0c83cb3bb4f0b0bd8eada67112fb541ce88bfea",
+      "git_blob_sha1": "06d03f9919866b22a560c482c8fc6edc33f74ca5"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C%233_vl2_rr1_Mid.wav",
+      "bytes": 184820,
+      "sha256": "2ad3726362537a27dfa0670872d77dd70e8717f4b573a8360c685b1df5e457b4",
+      "git_blob_sha1": "6fcc0fcd8b5107e81e6de71f1aa600e4017ddc91"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C#3_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C%233_vl3_rr1_Mid.wav",
+      "bytes": 285056,
+      "sha256": "5f4d9baadf92e87b43af519e02fab1df0e7129acfdaf00989f242f4c3c96aa87",
+      "git_blob_sha1": "8ac7388e560dc865d5078520c022945877cfa0dd"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C4_vl1_rr1_Mid.wav",
+      "bytes": 121528,
+      "sha256": "d4f587e3550eda06c81f1c8222bffc5f0fe218ecbb860f78848825caeab3b56f",
+      "git_blob_sha1": "3e082ed4dff5369b447aa2aeb025a0c703deb46c"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C4_vl2_rr1_Mid.wav",
+      "bytes": 160356,
+      "sha256": "57a9ad683fffce4c3f1deb5e03c75665176e7601ed5f629bf6f81a6f9eabf7c5",
+      "git_blob_sha1": "32f7e658f3e62ff845959343938ab3c69c7f9b80"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C4_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C4_vl3_rr1_Mid.wav",
+      "bytes": 184944,
+      "sha256": "049c4e67f93353d5e38e29d4886a8f4af82cc40d84267ec9262eb569172e4bf5",
+      "git_blob_sha1": "14f2218eefe9395e163329dab0d2ae921eee5c78"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C5_vl1_rr1_Mid.wav",
+      "bytes": 146576,
+      "sha256": "9f55a74d04c66d6fd233ff5313734e272f6746578178f1e736d1a16c9c7256ae",
+      "git_blob_sha1": "88ada465e9f7804780def0cf3e97324db8c1d2f7"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C5_vl2_rr1_Mid.wav",
+      "bytes": 137996,
+      "sha256": "ddd0ca9f4f3b43ebcc37932aa50fd7482643e6d98f55b45c78f441e8e0b18905",
+      "git_blob_sha1": "b386b004ae030974f322f56bbb03231b33e523a9"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_C5_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_C5_vl3_rr1_Mid.wav",
+      "bytes": 211132,
+      "sha256": "af44b4e0abd8ad91b889804b8744fc71e6556f3777e3fb1f475aedab04eb1129",
+      "git_blob_sha1": "dd5f30b014505b2c751c9a15d90cd12d9e2a9994"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F3_vl1_rr1_Mid.wav",
+      "bytes": 153036,
+      "sha256": "360a249827d34259ef73acdc210903252384fe7d7fb0cddd250c5a995d396ac3",
+      "git_blob_sha1": "5c7ed26e253a48b0896ba4326c9f4a124c5039e3"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F3_vl2_rr1_Mid.wav",
+      "bytes": 186680,
+      "sha256": "1614d9afbcae4157d05e3b54facbcdb0c1b703e29ecbc3ac0d90070709664d04",
+      "git_blob_sha1": "f1938b4b319e75f13d9dfe5b1fcd141a423833b3"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F3_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F3_vl3_rr1_Mid.wav",
+      "bytes": 225676,
+      "sha256": "6763439e2c2570a96814bab429e62134f1c122a799c115f6946f08b4970cacba",
+      "git_blob_sha1": "54db5935111e322592dd0d225ffcd5808cd5d41c"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F4_vl1_rr1_Mid.wav",
+      "bytes": 146900,
+      "sha256": "08302894daabdb2732855ba08eca4140b5503f0348d0ed2b24c582f0714951b7",
+      "git_blob_sha1": "1ee7a12e669ead4d8195423ab00200d67d3c32a2"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F4_vl2_rr1_Mid.wav",
+      "bytes": 149236,
+      "sha256": "13f46593250052a14d72fb708cd855d8a2da67bbc417e4524e8f6e8afc5473f9",
+      "git_blob_sha1": "8f2bc8ef5bf923bdb226a8d770ca8078e7316cde"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F4_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F4_vl3_rr1_Mid.wav",
+      "bytes": 219700,
+      "sha256": "7981fcb2d43ac8413eb78c082244a10f4e720a6841eb50137028670bde44b8c7",
+      "git_blob_sha1": "a77b9d804e32fd806e7b57c81fbfcbf0de47ed13"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl1_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl1_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F5_vl1_rr1_Mid.wav",
+      "bytes": 124208,
+      "sha256": "4ffffb5e50a311814ea3db67ab537b70ad8e11aee0d0cb653e35c0820c2d2bea",
+      "git_blob_sha1": "85263f2fea12192df3342da2fa01d92ca9f205eb"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl2_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl2_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F5_vl2_rr1_Mid.wav",
+      "bytes": 153092,
+      "sha256": "d8eb07a8bdaae429517de4141893c2780a324b67899c5405333d633f4901a9d4",
+      "git_blob_sha1": "b3ca98e6d6a8fc5dfe4f9dd4f30771a85d90e737"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl3_rr1_Mid.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Balafon/Traditional Mallet/EthnicXylo_tradM_F5_vl3_rr1_Mid.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Balafon/Traditional%20Mallet/EthnicXylo_tradM_F5_vl3_rr1_Mid.wav",
+      "bytes": 219952,
+      "sha256": "28823f883231fdc81dbaca0420c7574eb1cdb8187b15eb931672ed0c165104e7",
+      "git_blob_sha1": "08c978df5abf93b3751a6576ce0cce97713921d3"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon.sfz",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon.sfz",
+      "bytes": 2704,
+      "sha256": "bdc522d0142a5ff1cc1f893f81e24b4b0061db84cbe515230bbf74ccb63f58af",
+      "git_blob_sha1": "f241a49a8e19f639bfe96d09e6d84d70d88054d2"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_f_rr1.wav",
+      "bytes": 222546,
+      "sha256": "18241c7c9f73dc9edfe6402371fefba5584ed5f9bc6fe827d3bba945841301d6",
+      "git_blob_sha1": "fb3a34a2db5b3456efd8b9650851d7716a5b9bd1"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_f_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_f_rr2.wav",
+      "bytes": 242438,
+      "sha256": "62ddc0aca63f93c6dd30d4dca7bb7debfc65ce6f576e5d5c201423bb81fb03d2",
+      "git_blob_sha1": "d8d5f6c35d73b64cb2d08c1f7673986b696cd84b"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_fff_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_fff_rr1.wav",
+      "bytes": 225658,
+      "sha256": "d8e232031e14e0f15ac3d1d92ca5e7c18ebe9a1120c0055a661da6d89729cc31",
+      "git_blob_sha1": "813151660b267bef0314fc46fcb6d6f06ab72031"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_fff_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_fff_rr2.wav",
+      "bytes": 230786,
+      "sha256": "9d1fbab75425b34800a78ba87cff2cf56e1d5cb54c8d79070c064d4a4adce087",
+      "git_blob_sha1": "27fd50f1e86ea333ca1b48ed13aba735c7133699"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_mp_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_mp_rr1.wav",
+      "bytes": 238690,
+      "sha256": "4103c4a847a8cc8860b9449ef26619b56825e972f1bfa0427bdd3f5e36ca81aa",
+      "git_blob_sha1": "8006037147713e4013b7e56eebc134ac0620ffb4"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_mp_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit1_mp_rr2.wav",
+      "bytes": 184350,
+      "sha256": "f28fcadf95557619fe9f8a1b8ad1af511fbccba67608960c7b2a78040f03f01e",
+      "git_blob_sha1": "479b7867e122f074dd230aaaf8a32a78d0145591"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+      "bytes": 210966,
+      "sha256": "ad85e345189439370fb54676813affba0e46f5d9f502aa63e995a2ea7a831960",
+      "git_blob_sha1": "9c95c3b2b446099d69bf150a35760aea4cfa3028"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_f_rr2.wav",
+      "bytes": 218502,
+      "sha256": "263ecb8dd1789dd67ad00e1383d04b052c3177af6d6e98fc32c34c896e55a868",
+      "git_blob_sha1": "9c49060b734e2abf0de7145ae79fa1437e929c3e"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_mp_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_mp_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_mp_rr1.wav",
+      "bytes": 304858,
+      "sha256": "aa8836ba7ff3f79a4e6ce82b8a42e0c17321fd44300403a05a47012a5173bfc9",
+      "git_blob_sha1": "f09c971721f910af931a465787235a93940eb85f"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_mp_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_mp_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_mp_rr2.wav",
+      "bytes": 231330,
+      "sha256": "802697b43b68b32c37e717367871164c22508d0baa7310582abbd44ed168756c",
+      "git_blob_sha1": "96c802c0fafb22627982d5704bfaa927eda8e1d4"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_pp_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_pp_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_pp_rr1.wav",
+      "bytes": 231674,
+      "sha256": "07d7567ca9d48b5017655fdccda35e85e833f6c70987ceb73f9ed80bd4a84d07",
+      "git_blob_sha1": "902ffe209ef3eb979a9c9b5a57623af2ac5ccbe0"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit2_pp_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_pp_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit2_pp_rr2.wav",
+      "bytes": 223474,
+      "sha256": "0b9dc27d44e880c0cadcaa969aec7970349bc17c90a067043c41122e982ca649",
+      "git_blob_sha1": "a915d0acc74d936a643ed724d4bc737a694f421e"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_f_rr1.wav",
+      "bytes": 249974,
+      "sha256": "be3abbe090a25907177796579442823e9ebb84aab4d616339fb70660eaa43800",
+      "git_blob_sha1": "4efe11c9bcb483a56556dc879d34caa4387065a5"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_f_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_f_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_f_rr2.wav",
+      "bytes": 253238,
+      "sha256": "8aa4cc736d367726e9dc09d48a5a66936a7b4b406faa40aaeeddd46cbe33c851",
+      "git_blob_sha1": "bedffa3e06f679754bc439652cff616ea730e630"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_mp_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_mp_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_mp_rr1.wav",
+      "bytes": 221278,
+      "sha256": "9ec7c1b08b7e93a7f117a752ae168e23824a7d6e88e36c9d9e20f4b6672542b0",
+      "git_blob_sha1": "4e43565da2a7a51597b01770f90eca6e060cebbc"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_mp_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_mp_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_mp_rr2.wav",
+      "bytes": 259622,
+      "sha256": "1e46eb5d94105cbd2fdd34876655a4218c2ac26c8d09b2fcba7e52f35e80987d",
+      "git_blob_sha1": "5a9b2cc551ef0cd6152f354322c3f87bb97ca2a9"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_p_rr1.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_p_rr1.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_p_rr1.wav",
+      "bytes": 239398,
+      "sha256": "d514392252614b4fe34adbe3626f9c79229c363f5c52d5c6f6d45ef46f03fbc8",
+      "git_blob_sha1": "ed10efadab2f50bdaa0a3ad4cbf626a2486e08e9"
+    },
+    {
+      "path": "sources/Idiophones/Struck Idiophones/Cajon/Cajon_hit3_p_rr2.wav",
+      "upstream_path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_p_rr2.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Idiophones/Struck%20Idiophones/Cajon/Cajon_hit3_p_rr2.wav",
+      "bytes": 231558,
+      "sha256": "0619d89ccf9794f840c37814e132b564de6c4491e0d8be33a5f2b11f7896301a",
+      "git_blob_sha1": "686fa691454f82a9206d0215a1b3689c0786d2bb"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum.sfz",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum.sfz",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum.sfz",
+      "bytes": 2844,
+      "sha256": "13173bcc33785f17a11d743286376d701aed1beaa2b0cd8a2f5fd629de0b6e0f",
+      "git_blob_sha1": "b4ac9b83c8a742930df2c30df8ccd0e6e7b873b2"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hand_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hand_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hand_rr1_Sum.wav",
+      "bytes": 205484,
+      "sha256": "b3dc4f4b2a0051d5ede32efe973fce7bb346220b223bd8e8078d61fdae586ab9",
+      "git_blob_sha1": "74752d50a1f86b25cc9a7f5c06c7d2420b27cfe7"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v2_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v2_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_HitMuted_v2_rr1_Sum.wav",
+      "bytes": 305388,
+      "sha256": "fb08d2a29537fb6da0852ad8318709b8cbc312633237ca969e6e8f95ab5ca075",
+      "git_blob_sha1": "401c1638c3e7bf730a275575c64cc1e0658a3e17"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v2_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v2_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_HitMuted_v2_rr2_Sum.wav",
+      "bytes": 287200,
+      "sha256": "f9ed09653a870811a2f2843e0fa7fa860293a206629d47414bb7ae7039d3bcef",
+      "git_blob_sha1": "5db6279874d8a968b4aa0aaa2ddbd9b075d05f2b"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v3_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v3_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_HitMuted_v3_rr1_Sum.wav",
+      "bytes": 301668,
+      "sha256": "3ebcbac4dbb1ecf73af211f07f3adcbf0100f40150f4043caf574d760a7bb1d7",
+      "git_blob_sha1": "a743c67d21d32d085b5a77b7963042f102226a6b"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v3_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v3_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_HitMuted_v3_rr2_Sum.wav",
+      "bytes": 326976,
+      "sha256": "61782ea5fe0d9cb9fe607a70b466a67db1a6a6a6e457eaa787cc376c131a01b3",
+      "git_blob_sha1": "543494a42c6293f8b334a3937e4f7180c64481c6"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v2_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v2_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hit_v2_rr1_Sum.wav",
+      "bytes": 659856,
+      "sha256": "ebef530c488aa67df18dc2449eaa0311fa4ebec170a1182e35737fc84a70e7b6",
+      "git_blob_sha1": "d1178f9bc9be4abd7d3e3b02916b232dafc8d470"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v2_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v2_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hit_v2_rr2_Sum.wav",
+      "bytes": 607780,
+      "sha256": "24155a8b4cbfb69f6d7b1bfef9b331b09c0695a033e8e8e1b518eb18fbdead55",
+      "git_blob_sha1": "9090f319d7f4952ecfcf2916bdbea76b39fd5d3c"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+      "bytes": 637712,
+      "sha256": "e0fa5a60d459df12fa2e79080fc2db514e58a70a47d3300c5363d6ad113dfd0c",
+      "git_blob_sha1": "d8b46cb21285d02b2c70a0dad1d4d9093ff6976f"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumL_Hit_v3_rr2_Sum.wav",
+      "bytes": 575896,
+      "sha256": "908e4e5bb6bc83dc1ae8dac86a869974eb6398578d131e278eb3d025cf736ca2",
+      "git_blob_sha1": "9f9d14aa73f2a29ca4d33fb5599c8b84f7cf181b"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hand_v1_rr1_Sum.wav",
+      "bytes": 148516,
+      "sha256": "5d8d963ee3487725097c82cb0f4f485ade3423e75541cedc32de2ed6ec6f61ce",
+      "git_blob_sha1": "6bd3d9c9ad0d19c48cbda3ea21b3b4cec71e1ff7"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v2_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v2_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_HitMuted_v2_rr1_Sum.wav",
+      "bytes": 180420,
+      "sha256": "e13d6fb8f9bd089f134957c8532aafaa789fba8fbfe8bf829d224e0fa3c9d29e",
+      "git_blob_sha1": "bd9f1d43a89924036656ffde8560731b92491c7e"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v2_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v2_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_HitMuted_v2_rr2_Sum.wav",
+      "bytes": 164000,
+      "sha256": "5955c77d2f7124be528030a71437c352e551ba232c6ddde6e4e78ad48129198e",
+      "git_blob_sha1": "92f72fe4a897a229bf949263f5d5c9ad23d8c77d"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v3_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v3_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_HitMuted_v3_rr1_Sum.wav",
+      "bytes": 173168,
+      "sha256": "9ac5fae877b90f0f354766efe8dc813be87eeb31e6b52fe8750fa0528c2c16c4",
+      "git_blob_sha1": "3496c24a8450e4360640176247d21a70962e4179"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v3_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_HitMuted_v3_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_HitMuted_v3_rr2_Sum.wav",
+      "bytes": 175876,
+      "sha256": "91f7adbfc782956ff39092724b97188c4c5561be9e703f015d76e9c57bec6161",
+      "git_blob_sha1": "a41cb6aa3152d09d5161a52db91fec2eaae95ed5"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v2_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v2_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hit_v2_rr1_Sum.wav",
+      "bytes": 456272,
+      "sha256": "ee6c1a45edae6466ae806084a8f7502f8e47bc6b8540baafe55716049a70a67f",
+      "git_blob_sha1": "b476cd61f4b04c097a2f7e5448ecb418416f469b"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v2_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v2_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hit_v2_rr2_Sum.wav",
+      "bytes": 377260,
+      "sha256": "fa0a802cbed2646b569a9f05a3cb7f6dd96a3a439ad90970a4fd5dff1afea695",
+      "git_blob_sha1": "14d6b9c218c0deeb46ee524b8c3c378a11b9ec2a"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v3_rr1_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v3_rr1_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hit_v3_rr1_Sum.wav",
+      "bytes": 370992,
+      "sha256": "09721cec12ab8d2336cddd60953a2505ea1c8c8324d0b4ed245b9c5ea4561c33",
+      "git_blob_sha1": "5e2ab60690c10767a56706dc42015c92a9bcf939"
+    },
+    {
+      "path": "sources/Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v3_rr2_Sum.wav",
+      "upstream_path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v3_rr2_Sum.wav",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/Membranophones/Struck%20Membranophones/Frame%20Drum/HDrumS_Hit_v3_rr2_Sum.wav",
+      "bytes": 491912,
+      "sha256": "fb7dc925c96079cd14c3b88374dad46b4b31648db6799ac8ec685a983b9e7182",
+      "git_blob_sha1": "5e21cb0502f58c9e431a1e4b90ac6fe0e96d1fe7"
+    },
+    {
+      "path": "sources/README.md",
+      "upstream_path": "README.md",
+      "source_url": "https://raw.githubusercontent.com/sgossner/VCSL/b6e6ac82d22248edee98a0bde185eb9ef6d439ad/README.md",
+      "bytes": 4070,
+      "sha256": "e360f24c120c9ad734cc8508695e09a61ddc4cae5a59c6c9af33fe501b6c9a5b",
+      "git_blob_sha1": "47aa32dc46bb6868dc7279edf7e8bf57663d34be"
+    }
+  ]
+}

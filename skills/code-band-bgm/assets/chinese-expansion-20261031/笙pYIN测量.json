@@ -1,0 +1,575 @@
+[
+  {
+    "file": "[Traditional Sheng] Scales_Low speed_f_first pass.wav",
+    "sha256": "87507ad6d0e443ddab21697d0f8e473e5209661e3b45e8e48baff7d301ba23d6",
+    "source_sample_rate": 44100,
+    "source_channels": 1,
+    "source_frames": 1233044,
+    "librosa_version": "0.11.0",
+    "method": "librosa.pyin，22050Hz分析，2048帧，256hop；voiced_probability>=0.70，单音稳定>=22帧，音高中位偏差另记录",
+    "runs": [
+      {
+        "midi": 57,
+        "stable_start_seconds": 1.3351473922902495,
+        "stable_end_seconds": 2.403265306122449,
+        "stable_duration_seconds": 1.0797278911564625,
+        "median_midi": 56.94995771500078,
+        "std_cents": 4.997397866073801,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 59,
+        "stable_start_seconds": 2.670294784580499,
+        "stable_end_seconds": 3.866122448979592,
+        "stable_duration_seconds": 1.207437641723356,
+        "median_midi": 59.04995771500077,
+        "std_cents": 10.282618757919318,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 61,
+        "stable_start_seconds": 4.098321995464852,
+        "stable_end_seconds": 5.2477097505668935,
+        "stable_duration_seconds": 1.1609977324263039,
+        "median_midi": 60.949957715000785,
+        "std_cents": 2.179449471770212,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 74,
+        "stable_start_seconds": 5.375419501133787,
+        "stable_end_seconds": 6.664126984126984,
+        "stable_duration_seconds": 1.3003174603174603,
+        "median_midi": 74.04995771500079,
+        "std_cents": 3.4057555576358958,
+        "median_voiced_probability": 0.9459302094659093
+      },
+      {
+        "midi": 64,
+        "stable_start_seconds": 6.8382766439909295,
+        "stable_end_seconds": 7.999274376417233,
+        "stable_duration_seconds": 1.172607709750567,
+        "median_midi": 63.949957715000785,
+        "std_cents": 1.9801980198021447,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 66,
+        "stable_start_seconds": 8.13859410430839,
+        "stable_end_seconds": 9.253151927437642,
+        "stable_duration_seconds": 1.1261678004535147,
+        "median_midi": 66.04995771500077,
+        "std_cents": 4.045652962958241,
+        "median_voiced_probability": 0.9459302094659093
+      },
+      {
+        "midi": 67,
+        "stable_start_seconds": 9.32281179138322,
+        "stable_end_seconds": 10.437369614512471,
+        "stable_duration_seconds": 1.1261678004535147,
+        "median_midi": 67.04995771500077,
+        "std_cents": 1.98838160020462,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 10.50702947845805,
+        "stable_end_seconds": 11.749297052154194,
+        "stable_duration_seconds": 1.253877551020408,
+        "median_midi": 81.04995771500077,
+        "std_cents": 0.9577852252581496,
+        "median_voiced_probability": 0.9848789761259922
+      },
+      {
+        "midi": 83,
+        "stable_start_seconds": 11.818956916099774,
+        "stable_end_seconds": 13.049614512471654,
+        "stable_duration_seconds": 1.242267573696145,
+        "median_midi": 83.04995771500077,
+        "std_cents": 1.6507964236125878,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 73,
+        "stable_start_seconds": 13.119274376417234,
+        "stable_end_seconds": 14.396371882086168,
+        "stable_duration_seconds": 1.2887074829931973,
+        "median_midi": 72.94995771500078,
+        "std_cents": 1.3301642396605908,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 74,
+        "stable_start_seconds": 14.477641723356008,
+        "stable_end_seconds": 15.696689342403628,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 73.94995771500078,
+        "std_cents": 2.3108393799843268,
+        "median_voiced_probability": 0.9459302094659093
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 15.766349206349206,
+        "stable_end_seconds": 16.92734693877551,
+        "stable_duration_seconds": 1.172607709750567,
+        "median_midi": 87.94995771500078,
+        "std_cents": 4.263256414560601e-12,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 78,
+        "stable_start_seconds": 16.985396825396826,
+        "stable_end_seconds": 18.250884353741498,
+        "stable_duration_seconds": 1.2770975056689342,
+        "median_midi": 77.94995771500078,
+        "std_cents": 2.8421709430404007e-12,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 91,
+        "stable_start_seconds": 18.320544217687075,
+        "stable_end_seconds": 19.551201814058956,
+        "stable_duration_seconds": 1.242267573696145,
+        "median_midi": 91.04995771500077,
+        "std_cents": 0.0,
+        "median_voiced_probability": 1.0
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 19.59764172335601,
+        "stable_end_seconds": 20.816689342403627,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 80.94995771500078,
+        "std_cents": 0.9666934684866991,
+        "median_voiced_probability": 1.0
+      },
+      {
+        "midi": 83,
+        "stable_start_seconds": 20.897959183673468,
+        "stable_end_seconds": 22.070566893424036,
+        "stable_duration_seconds": 1.18421768707483,
+        "median_midi": 82.94995771500078,
+        "std_cents": 2.8421709430404007e-12,
+        "median_voiced_probability": 0.8132501924883851
+      },
+      {
+        "midi": 85,
+        "stable_start_seconds": 22.140226757369614,
+        "stable_end_seconds": 23.370884353741495,
+        "stable_duration_seconds": 1.242267573696145,
+        "median_midi": 84.94995771500078,
+        "std_cents": 1.4210854715202004e-12,
+        "median_voiced_probability": 0.9999999999994639
+      },
+      {
+        "midi": 86,
+        "stable_start_seconds": 23.417324263038548,
+        "stable_end_seconds": 24.671201814058957,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 86.04995771500079,
+        "std_cents": 3.0121936072263122,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 24.740861678004535,
+        "stable_end_seconds": 25.994739229024944,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 87.94995771500078,
+        "std_cents": 3.5389544077036357,
+        "median_voiced_probability": 0.9848789761259266
+      },
+      {
+        "midi": 90,
+        "stable_start_seconds": 26.02956916099773,
+        "stable_end_seconds": 27.515646258503402,
+        "stable_duration_seconds": 1.497687074829932,
+        "median_midi": 89.94995771500078,
+        "std_cents": 2.547546779093651,
+        "median_voiced_probability": 1.0
+      }
+    ]
+  },
+  {
+    "file": "[Traditional Sheng] Scales_Low speed_mf_second pass.wav",
+    "sha256": "46f6239d99befd0cd80270a9713b84902daa18c6f4765b14236957c519acbd44",
+    "source_sample_rate": 44100,
+    "source_channels": 1,
+    "source_frames": 1204281,
+    "librosa_version": "0.11.0",
+    "method": "librosa.pyin，22050Hz分析，2048帧，256hop；voiced_probability>=0.70，单音稳定>=22帧，音高中位偏差另记录",
+    "runs": [
+      {
+        "midi": 57,
+        "stable_start_seconds": 0.5224489795918368,
+        "stable_end_seconds": 1.5905668934240362,
+        "stable_duration_seconds": 1.0797278911564625,
+        "median_midi": 57.04995771500077,
+        "std_cents": 1.0313616179166551,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 59,
+        "stable_start_seconds": 1.8692063492063493,
+        "stable_end_seconds": 3.076643990929705,
+        "stable_duration_seconds": 1.2190476190476192,
+        "median_midi": 59.04995771500077,
+        "std_cents": 3.4992710611186273,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 61,
+        "stable_start_seconds": 3.4249433106575964,
+        "stable_end_seconds": 4.423401360544218,
+        "stable_duration_seconds": 1.0100680272108844,
+        "median_midi": 61.04995771500078,
+        "std_cents": 1.8246560765961655,
+        "median_voiced_probability": 0.9459302094659094
+      },
+      {
+        "midi": 62,
+        "stable_start_seconds": 4.562721088435374,
+        "stable_end_seconds": 5.828208616780046,
+        "stable_duration_seconds": 1.2770975056689342,
+        "median_midi": 62.04995771500079,
+        "std_cents": 3.6147082458316637,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 76,
+        "stable_start_seconds": 6.048798185941043,
+        "stable_end_seconds": 7.1401360544217685,
+        "stable_duration_seconds": 1.1029478458049886,
+        "median_midi": 75.94995771500078,
+        "std_cents": 3.1332370665550253,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 78,
+        "stable_start_seconds": 7.291065759637188,
+        "stable_end_seconds": 8.533333333333333,
+        "stable_duration_seconds": 1.253877551020408,
+        "median_midi": 77.94995771500078,
+        "std_cents": 1.6640926625565193,
+        "median_voiced_probability": 0.9848789761259922
+      },
+      {
+        "midi": 79,
+        "stable_start_seconds": 8.602993197278911,
+        "stable_end_seconds": 9.822040816326531,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 79.04995771500077,
+        "std_cents": 1.6583392293628252,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 9.914920634920636,
+        "stable_end_seconds": 11.168798185941043,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 81.04995771500077,
+        "std_cents": 3.896653317723687,
+        "median_voiced_probability": 0.9848789761259922
+      },
+      {
+        "midi": 83,
+        "stable_start_seconds": 11.23845804988662,
+        "stable_end_seconds": 12.399455782312925,
+        "stable_duration_seconds": 1.172607709750567,
+        "median_midi": 83.04995771500077,
+        "std_cents": 0.9900990099010746,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 73,
+        "stable_start_seconds": 12.49233560090703,
+        "stable_end_seconds": 13.653333333333334,
+        "stable_duration_seconds": 1.172607709750567,
+        "median_midi": 72.94995771500078,
+        "std_cents": 2.539753532352462,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 74,
+        "stable_start_seconds": 13.722993197278912,
+        "stable_end_seconds": 14.94204081632653,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 74.04995771500079,
+        "std_cents": 3.6695566676940334,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 15.023310657596372,
+        "stable_end_seconds": 16.27718820861678,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 87.94995771500078,
+        "std_cents": 1.354570922957212,
+        "median_voiced_probability": 0.9848789761259925
+      },
+      {
+        "midi": 78,
+        "stable_start_seconds": 16.34684807256236,
+        "stable_end_seconds": 17.600725623582765,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 78.04995771500077,
+        "std_cents": 1.4210854715202004e-12,
+        "median_voiced_probability": 0.9459302094659092
+      },
+      {
+        "midi": 79,
+        "stable_start_seconds": 17.647165532879818,
+        "stable_end_seconds": 18.866213151927436,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 79.04995771500077,
+        "std_cents": 3.7546695739870324,
+        "median_voiced_probability": 1.0
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 18.935873015873018,
+        "stable_end_seconds": 20.166530612244898,
+        "stable_duration_seconds": 1.242267573696145,
+        "median_midi": 81.04995771500077,
+        "std_cents": 4.656044376478671,
+        "median_voiced_probability": 0.999992117145813
+      },
+      {
+        "midi": 83,
+        "stable_start_seconds": 20.224580498866214,
+        "stable_end_seconds": 21.443628117913832,
+        "stable_duration_seconds": 1.230657596371882,
+        "median_midi": 82.94995771500078,
+        "std_cents": 4.457983905928298,
+        "median_voiced_probability": 0.9255094916955171
+      },
+      {
+        "midi": 85,
+        "stable_start_seconds": 21.478458049886623,
+        "stable_end_seconds": 22.732335600907028,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 84.94995771500078,
+        "std_cents": 0.9534224628818967,
+        "median_voiced_probability": 1.0
+      },
+      {
+        "midi": 86,
+        "stable_start_seconds": 22.790385487528344,
+        "stable_end_seconds": 24.044263038548753,
+        "stable_duration_seconds": 1.2654875283446712,
+        "median_midi": 86.04995771500079,
+        "std_cents": 1.8801744524698114,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 24.11392290249433,
+        "stable_end_seconds": 25.344580498866215,
+        "stable_duration_seconds": 1.242267573696145,
+        "median_midi": 87.94995771500078,
+        "std_cents": 4.994538024630514,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 90,
+        "stable_start_seconds": 25.402630385487527,
+        "stable_end_seconds": 26.865487528344673,
+        "stable_duration_seconds": 1.474467120181406,
+        "median_midi": 90.04995771500077,
+        "std_cents": 5.144089124743354,
+        "median_voiced_probability": 1.0
+      }
+    ]
+  },
+  {
+    "file": "[Traditional Sheng] Scales_Low speed_p_first pass.wav",
+    "sha256": "41bc04520d378f17e022c428278393f52ff2d88b8b9073543d26f664975a4942",
+    "source_sample_rate": 44100,
+    "source_channels": 1,
+    "source_frames": 1222997,
+    "librosa_version": "0.11.0",
+    "method": "librosa.pyin，22050Hz分析，2048帧，256hop；voiced_probability>=0.70，单音稳定>=22帧，音高中位偏差另记录",
+    "runs": [
+      {
+        "midi": 57,
+        "stable_start_seconds": 1.3583673469387756,
+        "stable_end_seconds": 2.380045351473923,
+        "stable_duration_seconds": 1.0332879818594105,
+        "median_midi": 57.04995771500077,
+        "std_cents": 1.4210854715202004e-12,
+        "median_voiced_probability": 0.9459302094659093
+      },
+      {
+        "midi": 59,
+        "stable_start_seconds": 2.705124716553288,
+        "stable_end_seconds": 3.8080725623582765,
+        "stable_duration_seconds": 1.1145578231292517,
+        "median_midi": 59.04995771500077,
+        "std_cents": 2.682165247829906,
+        "median_voiced_probability": 0.9459302094659093
+      },
+      {
+        "midi": 61,
+        "stable_start_seconds": 4.133151927437642,
+        "stable_end_seconds": 5.2128798185941045,
+        "stable_duration_seconds": 1.0913378684807256,
+        "median_midi": 61.04995771500078,
+        "std_cents": 4.80493182580237,
+        "median_voiced_probability": 0.9459302094659091
+      },
+      {
+        "midi": 74,
+        "stable_start_seconds": 5.433469387755102,
+        "stable_end_seconds": 6.629297052154195,
+        "stable_duration_seconds": 1.207437641723356,
+        "median_midi": 74.04995771500079,
+        "std_cents": 1.373351620873547,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 64,
+        "stable_start_seconds": 6.873106575963718,
+        "stable_end_seconds": 7.9412244897959186,
+        "stable_duration_seconds": 1.0797278911564625,
+        "median_midi": 63.949957715000785,
+        "std_cents": 3.097819417394859,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 66,
+        "stable_start_seconds": 8.196643990929704,
+        "stable_end_seconds": 9.079002267573696,
+        "stable_duration_seconds": 0.893968253968254,
+        "median_midi": 65.94995771500078,
+        "std_cents": 3.960506670643128,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 67,
+        "stable_start_seconds": 9.450521541950113,
+        "stable_end_seconds": 10.530249433106576,
+        "stable_duration_seconds": 1.0913378684807256,
+        "median_midi": 67.04995771500077,
+        "std_cents": 3.0832716481252374,
+        "median_voiced_probability": 0.9848789761259923
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 10.785668934240363,
+        "stable_end_seconds": 11.92344671201814,
+        "stable_duration_seconds": 1.1493877551020408,
+        "median_midi": 80.94995771500078,
+        "std_cents": 3.0134209879142317,
+        "median_voiced_probability": 0.9848789761259922
+      },
+      {
+        "midi": 71,
+        "stable_start_seconds": 12.062766439909296,
+        "stable_end_seconds": 13.084444444444445,
+        "stable_duration_seconds": 1.0332879818594105,
+        "median_midi": 71.04995771500077,
+        "std_cents": 1.4210854715202004e-12,
+        "median_voiced_probability": 0.9848789761259923
+      },
+      {
+        "midi": 85,
+        "stable_start_seconds": 13.305034013605443,
+        "stable_end_seconds": 14.106122448979592,
+        "stable_duration_seconds": 0.8126984126984127,
+        "median_midi": 85.04995771500077,
+        "std_cents": 4.354214472608144,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 74,
+        "stable_start_seconds": 14.55891156462585,
+        "stable_end_seconds": 15.580589569160997,
+        "stable_duration_seconds": 1.0332879818594105,
+        "median_midi": 74.04995771500079,
+        "std_cents": 0.0,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 16.195918367346938,
+        "stable_end_seconds": 17.101496598639457,
+        "stable_duration_seconds": 0.9171882086167801,
+        "median_midi": 87.94995771500078,
+        "std_cents": 5.855713167706188,
+        "median_voiced_probability": 0.9848789761259925
+      },
+      {
+        "midi": 78,
+        "stable_start_seconds": 17.61233560090703,
+        "stable_end_seconds": 18.436643990929706,
+        "stable_duration_seconds": 0.8359183673469388,
+        "median_midi": 77.94995771500078,
+        "std_cents": 4.157397096415254,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 79,
+        "stable_start_seconds": 18.517913832199547,
+        "stable_end_seconds": 19.574421768707484,
+        "stable_duration_seconds": 1.0681179138321995,
+        "median_midi": 79.04995771500077,
+        "std_cents": 0.0,
+        "median_voiced_probability": 1.0
+      },
+      {
+        "midi": 81,
+        "stable_start_seconds": 19.702131519274378,
+        "stable_end_seconds": 20.816689342403627,
+        "stable_duration_seconds": 1.1261678004535147,
+        "median_midi": 81.04995771500077,
+        "std_cents": 3.514239288465638,
+        "median_voiced_probability": 0.9999999996349848
+      },
+      {
+        "midi": 83,
+        "stable_start_seconds": 20.96761904761905,
+        "stable_end_seconds": 22.151836734693877,
+        "stable_duration_seconds": 1.195827664399093,
+        "median_midi": 83.04995771500077,
+        "std_cents": 2.149120739920135,
+        "median_voiced_probability": 0.8818728778203313
+      },
+      {
+        "midi": 85,
+        "stable_start_seconds": 22.256326530612245,
+        "stable_end_seconds": 23.417324263038548,
+        "stable_duration_seconds": 1.172607709750567,
+        "median_midi": 84.94995771500078,
+        "std_cents": 4.263256414560601e-12,
+        "median_voiced_probability": 0.9999999999998062
+      },
+      {
+        "midi": 86,
+        "stable_start_seconds": 23.486984126984126,
+        "stable_end_seconds": 24.636371882086166,
+        "stable_duration_seconds": 1.1609977324263039,
+        "median_midi": 86.04995771500079,
+        "std_cents": 4.073082370883608,
+        "median_voiced_probability": 0.9848789761259923
+      },
+      {
+        "midi": 88,
+        "stable_start_seconds": 24.822131519274375,
+        "stable_end_seconds": 26.006349206349206,
+        "stable_duration_seconds": 1.195827664399093,
+        "median_midi": 88.04995771500077,
+        "std_cents": 4.344049965280742,
+        "median_voiced_probability": 0.9848789761259924
+      },
+      {
+        "midi": 90,
+        "stable_start_seconds": 26.1340589569161,
+        "stable_end_seconds": 27.445986394557824,
+        "stable_duration_seconds": 1.3235374149659864,
+        "median_midi": 89.94995771500078,
+        "std_cents": 0.9324689309415829,
+        "median_voiced_probability": 1.0
+      }
+    ]
+  }
+]

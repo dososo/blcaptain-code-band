@@ -1,0 +1,1718 @@
+[
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel01Finger_E2_01.wav",
+    "source_sha256": "f82ba8fa6b2c193b4f2ecc8b78e192d78a037734e9e5210e7033e256d61d6596",
+    "midi": 40,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 438215,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel01Finger_F2_01.wav",
+    "source_sha256": "774fa7786ffb4d1733b993525218498bc558e7f32ab68a7b7434dc21e4552edd",
+    "midi": 41,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 434409,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel01Finger_Fs2_01.wav",
+    "source_sha256": "141efc81b1cf0fc2bd68bb3ac364727862b9480817cf22c7a24ebd3a1ca3066b",
+    "midi": 42,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 333314,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel01Finger_G2_01.wav",
+    "source_sha256": "b9ecbff3ad61f9401a9fdd07c873c6340f320d321ed3708b4dfe147ff2dcc7ef",
+    "midi": 43,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 451328,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel01Finger_Gs2_01.wav",
+    "source_sha256": "f602c14139c81f5811b36bef6cdbda2a28b411e891949a6d5d34c29c143f7db5",
+    "midi": 44,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 536243,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel02Pick_E2_01.wav",
+    "source_sha256": "0b400d02783487e89a52854323009bdbf0922fffdca98082ae58db678edf5d92",
+    "midi": 40,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 553268,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel02Pick_F2_01.wav",
+    "source_sha256": "19e28e381cbe8a1d519c877e1f3606a7712853f81e11df9bda21e0f03691c461",
+    "midi": 41,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 464969,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel02Pick_Fs2_01.wav",
+    "source_sha256": "05690d2b7f153b99dc3577323214d6b72952354bbf89045a7856bc4a8099a4d1",
+    "midi": 42,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 363347,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel02Pick_G2_01.wav",
+    "source_sha256": "9bb0099ded2bc218bf62e52ecc4b32ead5da927ca3bec8870bc3d91880e0c549",
+    "midi": 43,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 382804,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel02Pick_Gs2_01.wav",
+    "source_sha256": "e55ed2097117aefb6de48361a1b04c3fb8bb69b78626e548289a790700b13fdd",
+    "midi": 44,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 387404,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel03Pick_E2_01.wav",
+    "source_sha256": "85a7e9d97e42d350bb188d085f71460b0e6d108c684bf00f6deb6297bf35567b",
+    "midi": 40,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 407549,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel03Pick_F2_01.wav",
+    "source_sha256": "32b30c2782068611901f043a2da7945569c2e55221300e8e0eb2f8651f7a2e5f",
+    "midi": 41,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 411884,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel03Pick_Fs2_01.wav",
+    "source_sha256": "82035f784738f077e5870f8a7736cf94c83c8eddf887fff20592030576e97926",
+    "midi": 42,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 519852,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel03Pick_G2_01.wav",
+    "source_sha256": "fc55b516f311de1a5a73dda6950538aee4d1eeaeed87850e92c9041919979764",
+    "midi": 43,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 442023,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringLowE_Vel03Pick_Gs2_01.wav",
+    "source_sha256": "ffd5dc252b864111f76c26880f306c316afabf51f8a7fc5a34517b705cf667a5",
+    "midi": 44,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 498702,
+    "source_subtype": "PCM_24",
+    "string": "LowE"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel01Finger_A2_01.wav",
+    "source_sha256": "10834e5ed177df1e368dff62c7eb7267c856e12d7107fbc13cbc1e881bcd537c",
+    "midi": 45,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 581714,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel01Finger_As2_01.wav",
+    "source_sha256": "f3c2f298239dd29212d96001834fde59fd399642a086239e87d6a40499cd977c",
+    "midi": 46,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 368158,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel01Finger_B2_01.wav",
+    "source_sha256": "28389e6f84c5036ac61768eec5837aa010c49014f4e6bddfe8fca67914b291f3",
+    "midi": 47,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 376115,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel01Finger_C3_01.wav",
+    "source_sha256": "58d01423d4c7b51e509ff24e8a0b68744f6e40bc785f88598e5faadf41485655",
+    "midi": 48,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 456404,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel01Finger_Cs3_01.wav",
+    "source_sha256": "c09ddaed17c6af7e04428be3c595ad4362ef4e0c2ab016b6539c88b44ba97538",
+    "midi": 49,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 343361,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel02Pick_A2_01.wav",
+    "source_sha256": "36ed6483b0a04e312682dda50b7f22b9e3ab955d0b297a144bfb064c809062ea",
+    "midi": 45,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 538358,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel02Pick_As2_01.wav",
+    "source_sha256": "e68787600833f493a0be82c69d897e27d83b1c66406e365d26d782ad6ec24977",
+    "midi": 46,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 329085,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel02Pick_B2_01.wav",
+    "source_sha256": "51b8637137a2cd847f0ca7e813fdbe281315b2bcc747deb93ed3d4810dd6e210",
+    "midi": 47,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 385051,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel02Pick_C3_01.wav",
+    "source_sha256": "9da6ed2340e6a9963d9c1eed40391eef672dd9808dc48a2ff49085933c8cbffc",
+    "midi": 48,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 495953,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel02Pick_Cs3_01.wav",
+    "source_sha256": "5a879c833de26b1003065713b9b04934e6c6871913ffdbb3b665b25dfeca3cc4",
+    "midi": 49,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 296198,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel03Pick_A2_01.wav",
+    "source_sha256": "d13494df493a9739a5debe61dbde3a0cc9dd3816e5c9d73d0b172e04c5fcfca9",
+    "midi": 45,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 598316,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel03Pick_As2_01.wav",
+    "source_sha256": "dd66ec5882756d243af52afcf1a10e3261e71caff3670c39fd5890ae9e316ce3",
+    "midi": 46,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 485894,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel03Pick_B2_01.wav",
+    "source_sha256": "5440b77122d60479b5bb7b45dea9f002ffdc7a145525c5ea3732a899456aa4e2",
+    "midi": 47,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 365197,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel03Pick_C3_01.wav",
+    "source_sha256": "83c588f0e9e1f90089f3c9ab2a1fd2773761f16d81ab678eef2ab826f1e24ec7",
+    "midi": 48,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 512555,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringA_Vel03Pick_Cs3_01.wav",
+    "source_sha256": "bf2fc274968c71b85c33210772907c9cc4520fea9dc14d96b277897f852e8218",
+    "midi": 49,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 339977,
+    "source_subtype": "PCM_24",
+    "string": "A"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel01Finger_D3_01.wav",
+    "source_sha256": "894312b8a37d78e6e3d18cc2e0dd1ed59e615fa07999a2794a93ca34d7ea0d48",
+    "midi": 50,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 553770,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel01Finger_Ds3_01.wav",
+    "source_sha256": "d9abd900f5e19a3705e8cade09ab930e336ab83348ae443b5f487fe7b9a2403c",
+    "midi": 51,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 421666,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel01Finger_E3_01.wav",
+    "source_sha256": "cc5cfaced7bf7ca5a7edd89bd9b061fc1ac4b3ed983691bf4a57d6b2d106fce1",
+    "midi": 52,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 371806,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel01Finger_F3_01.wav",
+    "source_sha256": "841210f3b07d03712c2e165c59a2fa9843d62fdac734ee848a2b4558dc69080d",
+    "midi": 53,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 301115,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel01Finger_Fs3_01.wav",
+    "source_sha256": "4d4c03f59e9caf7cbd757dfef9b418a603f1cdd6acb781c60ed0a37fd8b8ce06",
+    "midi": 54,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 326758,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel02Pick_D3_01.wav",
+    "source_sha256": "78adb264d0f319d66341d5ad59e5a6e3c5cbda3b2f561558108d33eb6b45550d",
+    "midi": 50,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 525694,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel02Pick_Ds3_01.wav",
+    "source_sha256": "1699e9b8a1f59575e3e58c14427aa2a1c1305ebdc2267200fc35225a95b4baba",
+    "midi": 51,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 450905,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel02Pick_E3_01.wav",
+    "source_sha256": "43d866485cb5ba94c5777b458755f34ab089b7f28d61ca9a8522d4e446c18137",
+    "midi": 52,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 386823,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel02Pick_F3_01.wav",
+    "source_sha256": "2086d60977a269aa9b11c4e31de03a0551b1cd23d22e8741a55aa128e7d6078f",
+    "midi": 53,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 334795,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel02Pick_Fs3_01.wav",
+    "source_sha256": "bf07b22f611f3802e357a22497440c7bc4e4cedd13699c290b6e1f7bd2b57983",
+    "midi": 54,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 389889,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel03Pick_D3_01.wav",
+    "source_sha256": "d143bc71daa108c28e7663b09fb7d6386d8758346441c4a9bed5e3ddab74748a",
+    "midi": 50,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 573241,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel03Pick_Ds3_01.wav",
+    "source_sha256": "efd0b94ab2a63d9ecddf209a82b04c9037ace0b2f748c6660ae11739e22ee425",
+    "midi": 51,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 448790,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel03Pick_E3_01.wav",
+    "source_sha256": "afb058e46492381b94fe1031476aa1f5bdb8485905b5c127e511cae874e6b55b",
+    "midi": 52,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 411567,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel03Pick_F3_01.wav",
+    "source_sha256": "95bd74d48eef662ec3350bcb20e0eb5890817fd4e2fb1d4da0036260cec64400",
+    "midi": 53,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 341140,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringD_Vel03Pick_Fs3_01.wav",
+    "source_sha256": "6c109b613ca34c8b1e662a7f7471279d5d624d1dca93032052975af4cb12b8e7",
+    "midi": 54,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 363929,
+    "source_subtype": "PCM_24",
+    "string": "D"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel01Finger_G3_01.wav",
+    "source_sha256": "4434af6ec9c04e7d5bd67ac7fdbd54e1221eee146abe42402bc7802d091e1c1e",
+    "midi": 55,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 266694,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel01Finger_Gs3_01.wav",
+    "source_sha256": "a862dcfd1d08085cfc5da43420f152f5ba4db01b96a02de9f741fcfd17fcefd7",
+    "midi": 56,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 184634,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel01Finger_A3_01.wav",
+    "source_sha256": "ca8880df692bb0665d420ead3a1fb31c3b17789320ea28a64d05644ca5dc2e25",
+    "midi": 57,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 243536,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel01Finger_As3_01.wav",
+    "source_sha256": "888d1f4bb6de160a4cab8d20350bb99df4a39a611620049f0c8ed8f69fdc6992",
+    "midi": 58,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 201765,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel01Finger_B3_01.wav",
+    "source_sha256": "ee67dcb1a9fd9f53618a844a5b9419977a661354845aaa77f4b9e02f77b15d26",
+    "midi": 59,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 246391,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel02Pick_G3_01.wav",
+    "source_sha256": "a66d58f601e7eb28ce603768061860c665cae5922cc288ddee8fe4af0225d0d2",
+    "midi": 55,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 266113,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel02Pick_Gs3_01.wav",
+    "source_sha256": "4d989a7c2bbd542ab2d97cc3b26356f9eade9aea4abc0da97fb32524111e2a0f",
+    "midi": 56,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 181673,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel02Pick_A3_01.wav",
+    "source_sha256": "3890c457d503f978a15522add6d71cabedc4c0181a60bdee55d32f7c2b58a10d",
+    "midi": 57,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 220377,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel02Pick_As3_01.wav",
+    "source_sha256": "0a4dd58ec16dd0f5a903f07fe672ec6dac172780807daffcbfbf180d8550689b",
+    "midi": 58,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 242478,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel02Pick_B3_01.wav",
+    "source_sha256": "276e59448b389f7afe27aaaef9bfeb9b20e9834e14347b694fbbefb05eff175d",
+    "midi": 59,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 271010,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel03Pick_G3_01.wav",
+    "source_sha256": "6e3d295c8892e367e89274c00575738e731bc2682afebb5de536de2449442d92",
+    "midi": 55,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 192948,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel03Pick_Gs3_01.wav",
+    "source_sha256": "ec1a5ebb15a913dfed858f6ff48e9384dc551653680ecf5ac9f497cb7ac42580",
+    "midi": 56,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 213185,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel03Pick_A3_01.wav",
+    "source_sha256": "86bb5442c7adc426e24f984459796eb6352055d349cdf58d191ed6b453159a29",
+    "midi": 57,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 266113,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel03Pick_As3_01.wav",
+    "source_sha256": "a2c3c6965dc05699e060590cc86844dacabf65bbb28daa02454618b0604c6a10",
+    "midi": 58,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 273673,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringG_Vel03Pick_B3_01.wav",
+    "source_sha256": "7ab57737b1d45250470ad3a7347015ab6b2a9c9347cb78e8694869c4856aef98",
+    "midi": 59,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 316739,
+    "source_subtype": "PCM_24",
+    "string": "G"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel01Finger_C4_01.wav",
+    "source_sha256": "8e126a801ea6d30ea46e2cb52b3ac714eb0aa60f67401c14f281e44a000ed84c",
+    "midi": 60,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 207687,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel01Finger_Cs4_01.wav",
+    "source_sha256": "d548d8c63b677932f6a6833d151d4e5be6aa2b49827f0833f632449693d77fc5",
+    "midi": 61,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 178990,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel01Finger_D4_01.wav",
+    "source_sha256": "a51ca264d3ede3a1c08e9da8078bb6b2663c8003d7171c2b639180db466a9cd0",
+    "midi": 62,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 263892,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel01Finger_Ds4_01.wav",
+    "source_sha256": "c0a6c8767e6b6e188b78b2f1abeb6f88797fe8e72df6945176641e410ec692c3",
+    "midi": 63,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 293633,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel02Pick_C4_01.wav",
+    "source_sha256": "50e4e7d1a4ca1efff169a3052d798a70bc76076590528b681a4ebb13a5104a66",
+    "midi": 60,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 198196,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel02Pick_Cs4_01.wav",
+    "source_sha256": "ae7876d42d0a99a6fa12687ba9000b076eddaf3922939e6ed1b8c98fb9f7d2c6",
+    "midi": 61,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 171945,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel02Pick_D4_01.wav",
+    "source_sha256": "269014837360258878771fbf78941bf6bdadf9e8ce42601a3a106f092f086616",
+    "midi": 62,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 230052,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel02Pick_Ds4_01.wav",
+    "source_sha256": "cf5149ca13318df5b9259d71e904b369b21fa1153fb67b6420013686957c3882",
+    "midi": 63,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 280335,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel03Pick_C4_01.wav",
+    "source_sha256": "65dd841b97e5e5c692ea222dbcac29a32f13fefd75d8713f5ead00b3745d7e51",
+    "midi": 60,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 186670,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel03Pick_Cs4_01.wav",
+    "source_sha256": "73541aa2a1113ae20c369037dcd4d4fc926cc7af87642db0196a427a0e0d5574",
+    "midi": 61,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 190556,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel03Pick_D4_01.wav",
+    "source_sha256": "603183271b2b1baf118ca0e48bc11796a9ba657eb1a096221a4974cc7f68f753",
+    "midi": 62,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 258803,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringB_Vel03Pick_Ds4_01.wav",
+    "source_sha256": "8dc9a205874083bbcbca19ad8806afbf2f580ed7536cdf1c3097ece8a736a6d8",
+    "midi": 63,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 300110,
+    "source_subtype": "PCM_24",
+    "string": "B"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_E4_01.wav",
+    "source_sha256": "c4d25d2b5b03e48ad0b30d3ad3d7579bc77f16deb124c2ee6a0f343473a6ab3d",
+    "midi": 64,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 243060,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_F4_01.wav",
+    "source_sha256": "2ec01e617a3e1521481f323c975004a3605c64449a5fccf7f3e7b36539a97214",
+    "midi": 65,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 210893,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Fs4_01.wav",
+    "source_sha256": "2ec688dc3fe9dc88ca23da36d07ce57e6f382a6d7e13a011487fb18093009f64",
+    "midi": 66,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 173108,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_G4_01.wav",
+    "source_sha256": "b60da68aed9161ae752dcd778d5d1fe0d8b8b1f66c566ed397bc115a6db11574",
+    "midi": 67,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 188239,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Gs4_01.wav",
+    "source_sha256": "956621698554ad11ea877caa8fbbb291aa8fd812c9f464cb71789a009dbaa6ec",
+    "midi": 68,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 170464,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_A4_01.wav",
+    "source_sha256": "aa8a0e4039a917d9d8efb5828ebef17691a0ca2cb21c3102bc995346ba7d58b6",
+    "midi": 69,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 180933,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_As4_01.wav",
+    "source_sha256": "3bb6a95498be2bf407c054f67fd76fda59c9349e8dccd1531be3240ca1dd9a32",
+    "midi": 70,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 100036,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_B4_01.wav",
+    "source_sha256": "962ce03365f758d8c35f1333f6d068b3f8b219672968faaf60fa6e20325d68c0",
+    "midi": 71,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 109960,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_C5_01.wav",
+    "source_sha256": "184337d5dd1efed6e6fcd25bd4f5b5923c855a8606b063db9f21f94c509b7f21",
+    "midi": 72,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 100374,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Cs5_01.wav",
+    "source_sha256": "b26a9c12ab306d6842fd6b047e9b52c6586d849553c236ec7928efdaead9b069",
+    "midi": 73,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 112882,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_D5_01.wav",
+    "source_sha256": "1d1e00604cb3e13487ddb5afaebb9011c8a0a659cac14883c1054691b5cf3a65",
+    "midi": 74,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 72754,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Ds5_01.wav",
+    "source_sha256": "647c2e5d0e446bf5be4c1bfc532ca876460f0e6436cd134b3dd1b0dd4bb11101",
+    "midi": 75,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 94843,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_E5_01.wav",
+    "source_sha256": "ffc6b72f3a0c7eefa74c5232001f69da62bb9ddaaf5d36546216f9a99e72bb5e",
+    "midi": 76,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 78468,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_F5_01.wav",
+    "source_sha256": "15c2605d9619c532146c4b485bb5294a632504a9b8b831824080528f52813c86",
+    "midi": 77,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 82272,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Fs5_01.wav",
+    "source_sha256": "b75be55dcb55c407627eb2e0fc3fc2ea34014e5b18bcc5173cc0077b0a15c7a1",
+    "midi": 78,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 89511,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_G5_01.wav",
+    "source_sha256": "32942666f9bfe8a9be03e09f826d093cdbb5f41c582d9a0b9bda9ef7fdcc90e2",
+    "midi": 79,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 87075,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_Gs5_01.wav",
+    "source_sha256": "c81def0648654bd80ee3e6c491b0bb7c280965b7bc56d63846676379a3d1e5ca",
+    "midi": 80,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 58230,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_A5_01.wav",
+    "source_sha256": "433702bda4f0a9d5eb06e5cce122800f56cb0c09c35740cb43e8bf6cd9c24d45",
+    "midi": 81,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 86048,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_As5_01.wav",
+    "source_sha256": "90719ac483f261c9511167e2d8a15231731efdea93454e4b36fcf6ac21f8ca77",
+    "midi": 82,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 82309,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel01Finger_B5_01.wav",
+    "source_sha256": "32b4c9346dbddfe703dcf5e1411984e9cc0100b6f062318f98937c2ffb2155ab",
+    "midi": 83,
+    "layer": 1,
+    "velocity_range": [
+      1,
+      42
+    ],
+    "frames": 80516,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_E4_01.wav",
+    "source_sha256": "36c3b9116cd02d7adce8779a82e7d651cca581ec470bed8367bc36696aea5200",
+    "midi": 64,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 254718,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_F4_01.wav",
+    "source_sha256": "73413c7688a44c9e5bd33fca79e266b8c48c211ea91eb5091c9f2253c0b2a368",
+    "midi": 65,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 208533,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Fs4_01.wav",
+    "source_sha256": "3e46df7915749f8d6c6d9088b22c91227e308b29ed62f5100c2dc865b81ba0a3",
+    "midi": 66,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 185560,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_G4_01.wav",
+    "source_sha256": "1e48533019c7f9c184e70093315cfadea4b7f58161b226c6a1672715cf2d6024",
+    "midi": 67,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 208004,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Gs4_01.wav",
+    "source_sha256": "8d6bb5f6e9c8549a1cdbee8ad70d071ea9a0087c195054b09093a2330952a4c3",
+    "midi": 68,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 180827,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_A4_01.wav",
+    "source_sha256": "ae48ae21a2b2f9781ee7702fa9c565d67fd370abe5857ef4a3be0a7b2f44ed3b",
+    "midi": 69,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 135197,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_As4_01.wav",
+    "source_sha256": "48951635f9121e5935e8bdf711aea4198aec093d622407c3c3c4795c6f6a6fae",
+    "midi": 70,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 162744,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_B4_01.wav",
+    "source_sha256": "3cbd991bf351e2b7e4245bf2358e9b9a36bfd87a0b07adcfdd7565471a4838c5",
+    "midi": 71,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 146910,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_C5_01.wav",
+    "source_sha256": "889e3c9123fd94ba8aad3a874292df00e380e8160b257e7369b2726031a21539",
+    "midi": 72,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 124395,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Cs5_01.wav",
+    "source_sha256": "6d3c44ffe99564f07591dd7bc61ec4a8b116d44b35200064e5593eaa2ad0cd26",
+    "midi": 73,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 125741,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_D5_01.wav",
+    "source_sha256": "972f884ce5b1594c017b61e67b024c5cb25fb14b2b97849c63c84310a8143a13",
+    "midi": 74,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 120447,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Ds5_01.wav",
+    "source_sha256": "d18f1f3309b0e0fc5c54b96c5bdc667fa6fbfe66b88f1c64c40338755a8abc05",
+    "midi": 75,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 119801,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_E5_01.wav",
+    "source_sha256": "829fc3b0a5980b766cb2f0c545327a0ba00bdbb4ecec2e6fca9f4bbf18cd99cc",
+    "midi": 76,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 120578,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_F5_01.wav",
+    "source_sha256": "c4cc79d62850d1c48558baa4d52bb48dc844c9e6aa63c003fec45082ffe6a46d",
+    "midi": 77,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 98057,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Fs5_01.wav",
+    "source_sha256": "c6cd673c59c542ac115b6af0c97c819049d77f27b7cac09b0ed2da31ce436fa3",
+    "midi": 78,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 108161,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_G5_01.wav",
+    "source_sha256": "ae939aecd6498eba7f154346a2211aa8270afa3564da4cb948d6a1359b702ffc",
+    "midi": 79,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 98968,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_Gs5_01.wav",
+    "source_sha256": "c4ef198e5cabc6e62581afa00fd67ac7829dcbebf2b442d0256c84ea440c9180",
+    "midi": 80,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 100558,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_A5_01.wav",
+    "source_sha256": "4fc6d6e498ae685445170e15b864a98d90d3750b19e570bd8fe7c485ccd6922c",
+    "midi": 81,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 84492,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_As5_01.wav",
+    "source_sha256": "6577c9400d25b2254c4bfbe215835853b22e45808e343d34d0609e4a4ad208f2",
+    "midi": 82,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 83742,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel02Pick_B5_01.wav",
+    "source_sha256": "762e9b96c51e9b097833c198efdc1e83ab6ede5db83f54b9b8827a1b3a638234",
+    "midi": 83,
+    "layer": 2,
+    "velocity_range": [
+      43,
+      85
+    ],
+    "frames": 85443,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_E4_01.wav",
+    "source_sha256": "455a1a6127fb4809539af8bb4621420d8b313c047c509929e545c6d73615fa1a",
+    "midi": 64,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 275904,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_F4_01.wav",
+    "source_sha256": "55f22689bed332d330811fcb985fc5c86b0ae760325343249d7681fbfe9c4cd6",
+    "midi": 65,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 212763,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Fs4_01.wav",
+    "source_sha256": "1bd5ff40738c08633ecd4bf11a6bc65c48be26be193b54fd82b1c8e888cd473c",
+    "midi": 66,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 193632,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_G4_01.wav",
+    "source_sha256": "0f62aa3f8958f599cedabca49f558cff0e21579eca537b1a7ad2cfe0f9bb832e",
+    "midi": 67,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 229841,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Gs4_01.wav",
+    "source_sha256": "250fb43380e3ae6049b898caa7e19e7283e5830e71a5b8ba0c5d397e8080d829",
+    "midi": 68,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 198170,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_A4_01.wav",
+    "source_sha256": "9fe5826686575f60771d1323de1c7dc7468c42709e595de8ed67312812b98c05",
+    "midi": 69,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 168085,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_As4_01.wav",
+    "source_sha256": "8aae15b03919d51ff7a57ee51f19e4afea8ea2c6862d9d01c318d385b6fab10a",
+    "midi": 70,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 158620,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_B4_01.wav",
+    "source_sha256": "5e5c73c47ecd955bf89c97f56dd95dbd767605fbf8d71b506b362cf7c499df0a",
+    "midi": 71,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 155183,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_C5_01.wav",
+    "source_sha256": "6e6c5a7222a87c518a5de86794cb6a19a9e84f70c2eb9a98d88865c6f1fbff73",
+    "midi": 72,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 126495,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Cs5_01.wav",
+    "source_sha256": "91dce63c863eccff5b3f9f2cb39034a032b334db0504e393da391a498eb30148",
+    "midi": 73,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 155918,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_D5_01.wav",
+    "source_sha256": "f702afdc5b67353af79107a12ba46d882666b9f5466d47dfc388f44973c013e1",
+    "midi": 74,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 128219,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Ds5_01.wav",
+    "source_sha256": "a2b35a5223b96a4208b52acce0abb1569648828290ba7b97483adbe3d14b82c2",
+    "midi": 75,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 105958,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_E5_01.wav",
+    "source_sha256": "09dce0ec6171be057a149aab4539679360de80949b67f95a5f8220378ef2b133",
+    "midi": 76,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 109635,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_F5_01.wav",
+    "source_sha256": "3e4a0eee9fc785d6349fc1e4bae39f9c5089f0028e63dd93608f5be69802b867",
+    "midi": 77,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 126262,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Fs5_01.wav",
+    "source_sha256": "5684709666e9bfe0a7aaf6517144e83f7a9e21afd8bec405de00cbf1c90f23a9",
+    "midi": 78,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 101094,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_G5_01.wav",
+    "source_sha256": "9649035d32f99fa368fa8fd607896834693ac75e1bbdddc2aa5a7cb45db65a0d",
+    "midi": 79,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 102121,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_Gs5_01.wav",
+    "source_sha256": "d5cdbfc35ac99ee7a95abac3186a9267e784d3cf6fa276c070a815bddd70454d",
+    "midi": 80,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 110992,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_A5_01.wav",
+    "source_sha256": "8992cff504b36402437412935951444ba5a4b52f909f9a34d100a7ee22afc57a",
+    "midi": 81,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 136647,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_As5_01.wav",
+    "source_sha256": "99bed0c183549c9ad357da6b2e8f0d322f32bbc0f73f85e09bc691c512e3df54",
+    "midi": 82,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 94253,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  },
+  {
+    "source": "INSGuitarNylon_StringHighE_Vel03Pick_B5_01.wav",
+    "source_sha256": "d5243788bfb3558ece4a14158fe3702308be09b2f6856566ff2a7f80beb1d2f3",
+    "midi": 83,
+    "layer": 3,
+    "velocity_range": [
+      86,
+      127
+    ],
+    "frames": 96539,
+    "source_subtype": "PCM_24",
+    "string": "HighE"
+  }
+]

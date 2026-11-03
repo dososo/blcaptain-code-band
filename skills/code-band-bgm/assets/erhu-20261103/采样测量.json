@@ -1,0 +1,2356 @@
+{
+ "bank": "Aliexpress Erhu CC0 v2",
+ "presets": [
+  {
+   "name": "Erhu Long",
+   "programs": [
+    0,
+    1
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "Erhu Tasto",
+   "programs": [
+    2,
+    3
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "Erhu Short",
+   "programs": [
+    4,
+    5,
+    6,
+    7
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "erhu_d5_sus_rr1.wav",
+   "name": "s0000",
+   "instrument": "Erhu Long",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -4.7,
+   "seconds": 2.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    79285,
+    121218
+   ],
+   "loop_similarity": 0.624
+  },
+  {
+   "sample": "erhu_d5_sus_rr2.wav",
+   "name": "s0001",
+   "instrument": "Erhu Long",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -4.8,
+   "seconds": 2.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    48798,
+    103844
+   ],
+   "loop_similarity": 0.961
+  },
+  {
+   "sample": "erhu_eb5_sus_rr1.wav",
+   "name": "s0002",
+   "instrument": "Erhu Long",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": -4.4,
+   "seconds": 2.15,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    58215,
+    94589
+   ],
+   "loop_similarity": 0.941
+  },
+  {
+   "sample": "erhu_eb5_sus_rr2.wav",
+   "name": "s0003",
+   "instrument": "Erhu Long",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": -9.8,
+   "seconds": 2.12,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    43073,
+    93597
+   ],
+   "loop_similarity": 0.986
+  },
+  {
+   "sample": "erhu_e5_sus_rr1.wav",
+   "name": "s0004",
+   "instrument": "Erhu Long",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": -4.9,
+   "seconds": 2.47,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    89864,
+    108731
+   ],
+   "loop_similarity": 0.837
+  },
+  {
+   "sample": "erhu_e5_sus_rr2.wav",
+   "name": "s0005",
+   "instrument": "Erhu Long",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": -3.9,
+   "seconds": 2.32,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    83902,
+    102383
+   ],
+   "loop_similarity": 0.873
+  },
+  {
+   "sample": "erhu_f5_sus_rr1.wav",
+   "name": "s0006",
+   "instrument": "Erhu Long",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 4.0,
+   "seconds": 2.36,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    57804,
+    104022
+   ],
+   "loop_similarity": 0.848
+  },
+  {
+   "sample": "erhu_f5_sus_rr2.wav",
+   "name": "s0007",
+   "instrument": "Erhu Long",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 2.3,
+   "seconds": 2.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    79676,
+    92634
+   ],
+   "loop_similarity": 0.861
+  },
+  {
+   "sample": "erhu_gb5_sus_rr1.wav",
+   "name": "s0008",
+   "instrument": "Erhu Long",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": -4.0,
+   "seconds": 2.11,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    71857,
+    93168
+   ],
+   "loop_similarity": 0.984
+  },
+  {
+   "sample": "erhu_gb5_sus_rr2.wav",
+   "name": "s0009",
+   "instrument": "Erhu Long",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": -7.2,
+   "seconds": 2.26,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    70055,
+    99461
+   ],
+   "loop_similarity": 0.83
+  },
+  {
+   "sample": "erhu_g5_sus_rr1.wav",
+   "name": "s0010",
+   "instrument": "Erhu Long",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 15.8,
+   "seconds": 1.93,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    72309,
+    84966
+   ],
+   "loop_similarity": 0.985
+  },
+  {
+   "sample": "erhu_g5_sus_rr2.wav",
+   "name": "s0011",
+   "instrument": "Erhu Long",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": -0.7,
+   "seconds": 1.85,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    70255,
+    81731
+   ],
+   "loop_similarity": 0.965
+  },
+  {
+   "sample": "erhu_ab5_sus_rr1.wav",
+   "name": "s0012",
+   "instrument": "Erhu Long",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 10.6,
+   "seconds": 1.99,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    74841,
+    87542
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "erhu_ab5_sus_rr2.wav",
+   "name": "s0013",
+   "instrument": "Erhu Long",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 10.5,
+   "seconds": 2.38,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    87032,
+    105072
+   ],
+   "loop_similarity": 0.99
+  },
+  {
+   "sample": "erhu_a5_sus_rr1.wav",
+   "name": "s0014",
+   "instrument": "Erhu Long",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 11.8,
+   "seconds": 1.86,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    70485,
+    81901
+   ],
+   "loop_similarity": 0.931
+  },
+  {
+   "sample": "erhu_a5_sus_rr2.wav",
+   "name": "s0015",
+   "instrument": "Erhu Long",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 10.7,
+   "seconds": 1.9,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    72085,
+    83910
+   ],
+   "loop_similarity": 0.92
+  },
+  {
+   "sample": "erhu_bb5_sus_rr1.wav",
+   "name": "s0016",
+   "instrument": "Erhu Long",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": 6.6,
+   "seconds": 1.71,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    62195,
+    75418
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "erhu_bb5_sus_rr2.wav",
+   "name": "s0017",
+   "instrument": "Erhu Long",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": 4.1,
+   "seconds": 1.99,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    40747,
+    87552
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "erhu_b5_sus_rr1.wav",
+   "name": "s0018",
+   "instrument": "Erhu Long",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 3.6,
+   "seconds": 1.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    68772,
+    79944
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "erhu_b5_sus_rr2.wav",
+   "name": "s0019",
+   "instrument": "Erhu Long",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 12.1,
+   "seconds": 1.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    68001,
+    86014
+   ],
+   "loop_similarity": 0.969
+  },
+  {
+   "sample": "erhu_c6_sus_rr1.wav",
+   "name": "s0020",
+   "instrument": "Erhu Long",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 7.8,
+   "seconds": 1.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    57266,
+    81056
+   ],
+   "loop_similarity": 0.991
+  },
+  {
+   "sample": "erhu_c6_sus_rr2.wav",
+   "name": "s0021",
+   "instrument": "Erhu Long",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": -0.1,
+   "seconds": 2.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    79794,
+    92760
+   ],
+   "loop_similarity": 0.959
+  },
+  {
+   "sample": "erhu_db6_sus_rr1.wav",
+   "name": "s0022",
+   "instrument": "Erhu Long",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": -6.1,
+   "seconds": 2.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    69282,
+    88242
+   ],
+   "loop_similarity": 0.882
+  },
+  {
+   "sample": "erhu_db6_sus_rr2.wav",
+   "name": "s0023",
+   "instrument": "Erhu Long",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": -5.5,
+   "seconds": 1.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    41194,
+    83439
+   ],
+   "loop_similarity": 0.935
+  },
+  {
+   "sample": "erhu_d6_sus_rr1.wav",
+   "name": "s0024",
+   "instrument": "Erhu Long",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 22.3,
+   "seconds": 1.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    60125,
+    80956
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "erhu_d6_sus_rr2.wav",
+   "name": "s0025",
+   "instrument": "Erhu Long",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 10.6,
+   "seconds": 1.7,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    31833,
+    75066
+   ],
+   "loop_similarity": 0.816
+  },
+  {
+   "sample": "erhu_eb6_sus_rr1.wav",
+   "name": "s0026",
+   "instrument": "Erhu Long",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": -2.1,
+   "seconds": 1.41,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    47427,
+    61964
+   ],
+   "loop_similarity": 0.968
+  },
+  {
+   "sample": "erhu_eb6_sus_rr2.wav",
+   "name": "s0027",
+   "instrument": "Erhu Long",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": -6.8,
+   "seconds": 1.69,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    59898,
+    74287
+   ],
+   "loop_similarity": 0.907
+  },
+  {
+   "sample": "erhu_e6_sus_rr1.wav",
+   "name": "s0028",
+   "instrument": "Erhu Long",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 1.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    45634,
+    68828
+   ],
+   "loop_similarity": 0.978
+  },
+  {
+   "sample": "erhu_e6_sus_rr2.wav",
+   "name": "s0029",
+   "instrument": "Erhu Long",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 1.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    44335,
+    79599
+   ],
+   "loop_similarity": 0.952
+  },
+  {
+   "sample": "erhu_f6_sus_rr1.wav",
+   "name": "s0030",
+   "instrument": "Erhu Long",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 12.0,
+   "seconds": 1.57,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    28158,
+    68998
+   ],
+   "loop_similarity": 0.916
+  },
+  {
+   "sample": "erhu_f6_sus_rr2.wav",
+   "name": "s0031",
+   "instrument": "Erhu Long",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 18.3,
+   "seconds": 1.74,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    35490,
+    76765
+   ],
+   "loop_similarity": 0.963
+  },
+  {
+   "sample": "erhu_gb6_sus_rr1.wav",
+   "name": "s0032",
+   "instrument": "Erhu Long",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 0.4,
+   "seconds": 1.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    73810,
+    85764
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "erhu_gb6_sus_rr2.wav",
+   "name": "s0033",
+   "instrument": "Erhu Long",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 7.7,
+   "seconds": 1.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    62434,
+    79752
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "erhu_g6_sus_rr1.wav",
+   "name": "s0034",
+   "instrument": "Erhu Long",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": -6.6,
+   "seconds": 2.16,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    59882,
+    95258
+   ],
+   "loop_similarity": 0.818
+  },
+  {
+   "sample": "erhu_g6_sus_rr2.wav",
+   "name": "s0035",
+   "instrument": "Erhu Long",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": -7.9,
+   "seconds": 2.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    77401,
+    100365
+   ],
+   "loop_similarity": 0.747
+  },
+  {
+   "sample": "erhu_ab6_sus_rr1.wav",
+   "name": "s0036",
+   "instrument": "Erhu Long",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 0.6,
+   "seconds": 1.68,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    63847,
+    74194
+   ],
+   "loop_similarity": 0.87
+  },
+  {
+   "sample": "erhu_ab6_sus_rr2.wav",
+   "name": "s0037",
+   "instrument": "Erhu Long",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 1.69,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    59774,
+    74671
+   ],
+   "loop_similarity": 0.878
+  },
+  {
+   "sample": "erhu_a6_sus_rr1.wav",
+   "name": "s0038",
+   "instrument": "Erhu Long",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 29.5,
+   "seconds": 2.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    65772,
+    91024
+   ],
+   "loop_similarity": 0.985
+  },
+  {
+   "sample": "erhu_a6_sus_rr2.wav",
+   "name": "s0039",
+   "instrument": "Erhu Long",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 22.7,
+   "seconds": 1.56,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    50242,
+    68671
+   ],
+   "loop_similarity": 0.922
+  },
+  {
+   "sample": "erhu_d5_st_rr1.wav",
+   "name": "s0040",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -13.4,
+   "seconds": 3.06,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    109486,
+    134972
+   ],
+   "loop_similarity": 0.909
+  },
+  {
+   "sample": "erhu_d5_st_rr2.wav",
+   "name": "s0041",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -13.1,
+   "seconds": 3.41,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    94040,
+    150148
+   ],
+   "loop_similarity": 0.848
+  },
+  {
+   "sample": "erhu_eb5_st_rr1.wav",
+   "name": "s0042",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 12.3,
+   "seconds": 4.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    151774,
+    211224
+   ],
+   "loop_similarity": 0.972
+  },
+  {
+   "sample": "erhu_eb5_st_rr2.wav",
+   "name": "s0043",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 9.1,
+   "seconds": 4.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    121251,
+    176905
+   ],
+   "loop_similarity": 0.946
+  },
+  {
+   "sample": "erhu_e5_st_rr1.wav",
+   "name": "s0044",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 4.11,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    96922,
+    181360
+   ],
+   "loop_similarity": 0.813
+  },
+  {
+   "sample": "erhu_e5_st_rr2.wav",
+   "name": "s0045",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 3.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    109640,
+    135348
+   ],
+   "loop_similarity": 0.811
+  },
+  {
+   "sample": "erhu_f5_st_rr1.wav",
+   "name": "s0046",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": -1.6,
+   "seconds": 3.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    105518,
+    155363
+   ],
+   "loop_similarity": 0.905
+  },
+  {
+   "sample": "erhu_f5_st_rr2.wav",
+   "name": "s0047",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 0.0,
+   "seconds": 3.24,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    82427,
+    142850
+   ],
+   "loop_similarity": 0.959
+  },
+  {
+   "sample": "erhu_gb5_st_rr1.wav",
+   "name": "s0048",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": 3.0,
+   "seconds": 3.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117591,
+    159375
+   ],
+   "loop_similarity": 0.748
+  },
+  {
+   "sample": "erhu_gb5_st_rr2.wav",
+   "name": "s0049",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": -3.3,
+   "seconds": 2.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    58512,
+    115560
+   ],
+   "loop_similarity": 0.754
+  },
+  {
+   "sample": "erhu_g5_st_rr1.wav",
+   "name": "s0050",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": -4.8,
+   "seconds": 2.85,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    99644,
+    125596
+   ],
+   "loop_similarity": 0.784
+  },
+  {
+   "sample": "erhu_g5_st_rr2.wav",
+   "name": "s0051",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 0.9,
+   "seconds": 3.41,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    91822,
+    150393
+   ],
+   "loop_similarity": 0.868
+  },
+  {
+   "sample": "erhu_ab5_st_rr1.wav",
+   "name": "s0052",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 2.4,
+   "seconds": 2.98,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    83237,
+    131542
+   ],
+   "loop_similarity": 0.977
+  },
+  {
+   "sample": "erhu_ab5_st_rr2.wav",
+   "name": "s0053",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": -0.1,
+   "seconds": 2.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    72040,
+    105249
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "erhu_a5_st_rr1.wav",
+   "name": "s0054",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 11.0,
+   "seconds": 3.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    86525,
+    137862
+   ],
+   "loop_similarity": 0.991
+  },
+  {
+   "sample": "erhu_a5_st_rr2.wav",
+   "name": "s0055",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 18.9,
+   "seconds": 2.39,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    66171,
+    105261
+   ],
+   "loop_similarity": 0.989
+  },
+  {
+   "sample": "erhu_bb5_st_rr1.wav",
+   "name": "s0056",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": -1.2,
+   "seconds": 3.85,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    131435,
+    169859
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "erhu_bb5_st_rr2.wav",
+   "name": "s0057",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": -3.7,
+   "seconds": 3.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    116346,
+    137886
+   ],
+   "loop_similarity": 0.996
+  },
+  {
+   "sample": "erhu_b5_st_rr1.wav",
+   "name": "s0058",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 10.9,
+   "seconds": 3.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    96042,
+    134247
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "erhu_b5_st_rr2.wav",
+   "name": "s0059",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 6.9,
+   "seconds": 3.16,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    112338,
+    139209
+   ],
+   "loop_similarity": 0.977
+  },
+  {
+   "sample": "erhu_c6_st_rr1.wav",
+   "name": "s0060",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 8.3,
+   "seconds": 2.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    105646,
+    130061
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "erhu_c6_st_rr2.wav",
+   "name": "s0061",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 5.8,
+   "seconds": 3.37,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    92670,
+    148436
+   ],
+   "loop_similarity": 0.902
+  },
+  {
+   "sample": "erhu_db6_st_rr1.wav",
+   "name": "s0062",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": -7.9,
+   "seconds": 2.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    82210,
+    126774
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "erhu_db6_st_rr2.wav",
+   "name": "s0063",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": -4.8,
+   "seconds": 2.31,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    76052,
+    101935
+   ],
+   "loop_similarity": 0.992
+  },
+  {
+   "sample": "erhu_d6_st_rr1.wav",
+   "name": "s0064",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": -13.5,
+   "seconds": 2.02,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    63602,
+    89017
+   ],
+   "loop_similarity": 0.977
+  },
+  {
+   "sample": "erhu_d6_st_rr2.wav",
+   "name": "s0065",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": -19.3,
+   "seconds": 2.13,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    67416,
+    93708
+   ],
+   "loop_similarity": 0.969
+  },
+  {
+   "sample": "erhu_eb6_st_rr1.wav",
+   "name": "s0066",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": 0.4,
+   "seconds": 2.49,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    87139,
+    109764
+   ],
+   "loop_similarity": 0.954
+  },
+  {
+   "sample": "erhu_eb6_st_rr2.wav",
+   "name": "s0067",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": 2.4,
+   "seconds": 1.91,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    70573,
+    84386
+   ],
+   "loop_similarity": 0.969
+  },
+  {
+   "sample": "erhu_e6_st_rr1.wav",
+   "name": "s0068",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": -2.6,
+   "seconds": 2.48,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    94022,
+    109217
+   ],
+   "loop_similarity": 0.978
+  },
+  {
+   "sample": "erhu_e6_st_rr2.wav",
+   "name": "s0069",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": -4.1,
+   "seconds": 2.33,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    87831,
+    102485
+   ],
+   "loop_similarity": 0.986
+  },
+  {
+   "sample": "erhu_f6_st_rr1.wav",
+   "name": "s0070",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 8.8,
+   "seconds": 1.71,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    51195,
+    75193
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "erhu_f6_st_rr2.wav",
+   "name": "s0071",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 13.6,
+   "seconds": 1.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    65304,
+    84479
+   ],
+   "loop_similarity": 0.986
+  },
+  {
+   "sample": "erhu_gb6_st_rr1.wav",
+   "name": "s0072",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": -0.3,
+   "seconds": 2.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    65387,
+    88127
+   ],
+   "loop_similarity": 0.985
+  },
+  {
+   "sample": "erhu_gb6_st_rr2.wav",
+   "name": "s0073",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": -16.6,
+   "seconds": 1.7,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    35925,
+    74824
+   ],
+   "loop_similarity": 0.966
+  },
+  {
+   "sample": "erhu_g6_st_rr1.wav",
+   "name": "s0074",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 7.4,
+   "seconds": 2.07,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    68020,
+    91183
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "erhu_g6_st_rr2.wav",
+   "name": "s0075",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": -0.2,
+   "seconds": 1.94,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    54911,
+    85604
+   ],
+   "loop_similarity": 0.995
+  },
+  {
+   "sample": "erhu_ab6_st_rr1.wav",
+   "name": "s0076",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 9.7,
+   "seconds": 2.35,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    59592,
+    103490
+   ],
+   "loop_similarity": 0.979
+  },
+  {
+   "sample": "erhu_ab6_st_rr2.wav",
+   "name": "s0077",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 7.6,
+   "seconds": 2.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    42191,
+    106572
+   ],
+   "loop_similarity": 0.973
+  },
+  {
+   "sample": "erhu_a6_st_rr1.wav",
+   "name": "s0078",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 12.2,
+   "seconds": 1.72,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    59094,
+    75870
+   ],
+   "loop_similarity": 0.997
+  },
+  {
+   "sample": "erhu_a6_st_rr2.wav",
+   "name": "s0079",
+   "instrument": "Erhu Tasto",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 11.1,
+   "seconds": 1.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    58213,
+    82829
+   ],
+   "loop_similarity": 0.994
+  },
+  {
+   "sample": "erhu_d5_stac_rr1.wav",
+   "name": "s0080",
+   "instrument": "Erhu Short",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -9.0,
+   "seconds": 1.66,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d5_stac_rr2.wav",
+   "name": "s0081",
+   "instrument": "Erhu Short",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -11.4,
+   "seconds": 1.41,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d5_stac_rr3.wav",
+   "name": "s0082",
+   "instrument": "Erhu Short",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -23.2,
+   "seconds": 1.43,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d5_stac_rr4.wav",
+   "name": "s0083",
+   "instrument": "Erhu Short",
+   "sfz_key": 50,
+   "octave_shift": 12,
+   "measured_cents": -18.8,
+   "seconds": 1.42,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb5_stac_rr1.wav",
+   "name": "s0084",
+   "instrument": "Erhu Short",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 10.3,
+   "seconds": 1.03,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb5_stac_rr2.wav",
+   "name": "s0085",
+   "instrument": "Erhu Short",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 8.7,
+   "seconds": 0.98,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb5_stac_rr3.wav",
+   "name": "s0086",
+   "instrument": "Erhu Short",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 8.7,
+   "seconds": 1.1,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb5_stac_rr4.wav",
+   "name": "s0087",
+   "instrument": "Erhu Short",
+   "sfz_key": 51,
+   "octave_shift": 12,
+   "measured_cents": 11.9,
+   "seconds": 0.86,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e5_stac_rr1.wav",
+   "name": "s0088",
+   "instrument": "Erhu Short",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": 2.6,
+   "seconds": 1.28,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e5_stac_rr2.wav",
+   "name": "s0089",
+   "instrument": "Erhu Short",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": -0.2,
+   "seconds": 1.22,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e5_stac_rr3.wav",
+   "name": "s0090",
+   "instrument": "Erhu Short",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": 6.5,
+   "seconds": 1.19,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e5_stac_rr4.wav",
+   "name": "s0091",
+   "instrument": "Erhu Short",
+   "sfz_key": 52,
+   "octave_shift": 12,
+   "measured_cents": 0.8,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f5_stac_rr1.wav",
+   "name": "s0092",
+   "instrument": "Erhu Short",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 5.3,
+   "seconds": 1.06,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f5_stac_rr2.wav",
+   "name": "s0093",
+   "instrument": "Erhu Short",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 4.8,
+   "seconds": 0.95,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f5_stac_rr3.wav",
+   "name": "s0094",
+   "instrument": "Erhu Short",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 8.1,
+   "seconds": 1.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f5_stac_rr4.wav",
+   "name": "s0095",
+   "instrument": "Erhu Short",
+   "sfz_key": 53,
+   "octave_shift": 12,
+   "measured_cents": 7.5,
+   "seconds": 1.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb5_stac_rr1.wav",
+   "name": "s0096",
+   "instrument": "Erhu Short",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": 5.0,
+   "seconds": 1.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb5_stac_rr2.wav",
+   "name": "s0097",
+   "instrument": "Erhu Short",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": 5.3,
+   "seconds": 0.91,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb5_stac_rr3.wav",
+   "name": "s0098",
+   "instrument": "Erhu Short",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": 6.4,
+   "seconds": 0.99,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb5_stac_rr4.wav",
+   "name": "s0099",
+   "instrument": "Erhu Short",
+   "sfz_key": 54,
+   "octave_shift": 12,
+   "measured_cents": 3.3,
+   "seconds": 0.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g5_stac_rr1.wav",
+   "name": "s0100",
+   "instrument": "Erhu Short",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 34.3,
+   "seconds": 0.76,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g5_stac_rr2.wav",
+   "name": "s0101",
+   "instrument": "Erhu Short",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 36.7,
+   "seconds": 0.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g5_stac_rr3.wav",
+   "name": "s0102",
+   "instrument": "Erhu Short",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 34.8,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g5_stac_rr4.wav",
+   "name": "s0103",
+   "instrument": "Erhu Short",
+   "sfz_key": 55,
+   "octave_shift": 12,
+   "measured_cents": 33.3,
+   "seconds": 0.82,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab5_stac_rr1.wav",
+   "name": "s0104",
+   "instrument": "Erhu Short",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 15.0,
+   "seconds": 1.05,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab5_stac_rr2.wav",
+   "name": "s0105",
+   "instrument": "Erhu Short",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 19.7,
+   "seconds": 0.9,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab5_stac_rr3.wav",
+   "name": "s0106",
+   "instrument": "Erhu Short",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 13.0,
+   "seconds": 0.79,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab5_stac_rr4.wav",
+   "name": "s0107",
+   "instrument": "Erhu Short",
+   "sfz_key": 56,
+   "octave_shift": 12,
+   "measured_cents": 13.7,
+   "seconds": 0.9,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a5_stac_rr1.wav",
+   "name": "s0108",
+   "instrument": "Erhu Short",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 12.4,
+   "seconds": 0.82,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a5_stac_rr2.wav",
+   "name": "s0109",
+   "instrument": "Erhu Short",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 14.3,
+   "seconds": 0.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a5_stac_rr3.wav",
+   "name": "s0110",
+   "instrument": "Erhu Short",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 13.6,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a5_stac_rr4.wav",
+   "name": "s0111",
+   "instrument": "Erhu Short",
+   "sfz_key": 57,
+   "octave_shift": 12,
+   "measured_cents": 16.0,
+   "seconds": 0.97,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_bb5_stac_rr1.wav",
+   "name": "s0112",
+   "instrument": "Erhu Short",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": -3.7,
+   "seconds": 1.09,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_bb5_stac_rr2.wav",
+   "name": "s0113",
+   "instrument": "Erhu Short",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": -14.6,
+   "seconds": 1.09,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_bb5_stac_rr3.wav",
+   "name": "s0114",
+   "instrument": "Erhu Short",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": -4.3,
+   "seconds": 1.06,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_bb5_stac_rr4.wav",
+   "name": "s0115",
+   "instrument": "Erhu Short",
+   "sfz_key": 58,
+   "octave_shift": 12,
+   "measured_cents": 0.6,
+   "seconds": 0.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_b5_stac_rr1.wav",
+   "name": "s0116",
+   "instrument": "Erhu Short",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 10.3,
+   "seconds": 0.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_b5_stac_rr2.wav",
+   "name": "s0117",
+   "instrument": "Erhu Short",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": -13.6,
+   "seconds": 1.12,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_b5_stac_rr3.wav",
+   "name": "s0118",
+   "instrument": "Erhu Short",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": 22.6,
+   "seconds": 1.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_b5_stac_rr4.wav",
+   "name": "s0119",
+   "instrument": "Erhu Short",
+   "sfz_key": 59,
+   "octave_shift": 12,
+   "measured_cents": -2.3,
+   "seconds": 0.93,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_c6_stac_rr1.wav",
+   "name": "s0120",
+   "instrument": "Erhu Short",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 4.9,
+   "seconds": 0.98,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_c6_stac_rr2.wav",
+   "name": "s0121",
+   "instrument": "Erhu Short",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 16.4,
+   "seconds": 0.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_c6_stac_rr3.wav",
+   "name": "s0122",
+   "instrument": "Erhu Short",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 10.7,
+   "seconds": 0.96,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_c6_stac_rr4.wav",
+   "name": "s0123",
+   "instrument": "Erhu Short",
+   "sfz_key": 60,
+   "octave_shift": 12,
+   "measured_cents": 0.7,
+   "seconds": 1.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_db6_stac_rr1.wav",
+   "name": "s0124",
+   "instrument": "Erhu Short",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": 5.8,
+   "seconds": 0.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_db6_stac_rr2.wav",
+   "name": "s0125",
+   "instrument": "Erhu Short",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": -5.2,
+   "seconds": 0.96,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_db6_stac_rr3.wav",
+   "name": "s0126",
+   "instrument": "Erhu Short",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": 3.7,
+   "seconds": 0.97,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_db6_stac_rr4.wav",
+   "name": "s0127",
+   "instrument": "Erhu Short",
+   "sfz_key": 61,
+   "octave_shift": 12,
+   "measured_cents": 0.1,
+   "seconds": 0.78,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d6_stac_rr1.wav",
+   "name": "s0128",
+   "instrument": "Erhu Short",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 2.1,
+   "seconds": 0.9,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d6_stac_rr2.wav",
+   "name": "s0129",
+   "instrument": "Erhu Short",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 5.1,
+   "seconds": 0.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d6_stac_rr3.wav",
+   "name": "s0130",
+   "instrument": "Erhu Short",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 12.4,
+   "seconds": 0.86,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_d6_stac_rr4.wav",
+   "name": "s0131",
+   "instrument": "Erhu Short",
+   "sfz_key": 62,
+   "octave_shift": 12,
+   "measured_cents": 14.4,
+   "seconds": 0.83,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb6_stac_rr1.wav",
+   "name": "s0132",
+   "instrument": "Erhu Short",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": -1.4,
+   "seconds": 0.99,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb6_stac_rr2.wav",
+   "name": "s0133",
+   "instrument": "Erhu Short",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": 0.7,
+   "seconds": 1.11,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb6_stac_rr3.wav",
+   "name": "s0134",
+   "instrument": "Erhu Short",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": 12.1,
+   "seconds": 0.94,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_eb6_stac_rr4.wav",
+   "name": "s0135",
+   "instrument": "Erhu Short",
+   "sfz_key": 63,
+   "octave_shift": 12,
+   "measured_cents": 18.9,
+   "seconds": 1.11,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e6_stac_rr1.wav",
+   "name": "s0136",
+   "instrument": "Erhu Short",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": -4.7,
+   "seconds": 0.78,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e6_stac_rr2.wav",
+   "name": "s0137",
+   "instrument": "Erhu Short",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": 9.0,
+   "seconds": 0.85,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e6_stac_rr3.wav",
+   "name": "s0138",
+   "instrument": "Erhu Short",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": 3.6,
+   "seconds": 0.94,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_e6_stac_rr4.wav",
+   "name": "s0139",
+   "instrument": "Erhu Short",
+   "sfz_key": 64,
+   "octave_shift": 12,
+   "measured_cents": 4.3,
+   "seconds": 0.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f6_stac_rr1.wav",
+   "name": "s0140",
+   "instrument": "Erhu Short",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 15.1,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f6_stac_rr2.wav",
+   "name": "s0141",
+   "instrument": "Erhu Short",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": -0.7,
+   "seconds": 0.87,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f6_stac_rr3.wav",
+   "name": "s0142",
+   "instrument": "Erhu Short",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": null,
+   "seconds": 0.89,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_f6_stac_rr4.wav",
+   "name": "s0143",
+   "instrument": "Erhu Short",
+   "sfz_key": 65,
+   "octave_shift": 12,
+   "measured_cents": 3.7,
+   "seconds": 0.7,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb6_stac_rr1.wav",
+   "name": "s0144",
+   "instrument": "Erhu Short",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 21.0,
+   "seconds": 0.77,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb6_stac_rr2.wav",
+   "name": "s0145",
+   "instrument": "Erhu Short",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 25.4,
+   "seconds": 0.81,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb6_stac_rr3.wav",
+   "name": "s0146",
+   "instrument": "Erhu Short",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 24.9,
+   "seconds": 0.67,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_gb6_stac_rr4.wav",
+   "name": "s0147",
+   "instrument": "Erhu Short",
+   "sfz_key": 66,
+   "octave_shift": 12,
+   "measured_cents": 24.5,
+   "seconds": 0.73,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g6_stac_rr1.wav",
+   "name": "s0148",
+   "instrument": "Erhu Short",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 15.0,
+   "seconds": 0.64,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g6_stac_rr2.wav",
+   "name": "s0149",
+   "instrument": "Erhu Short",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 18.8,
+   "seconds": 0.6,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g6_stac_rr3.wav",
+   "name": "s0150",
+   "instrument": "Erhu Short",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 7.1,
+   "seconds": 0.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_g6_stac_rr4.wav",
+   "name": "s0151",
+   "instrument": "Erhu Short",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 20.2,
+   "seconds": 0.61,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab6_stac_rr1.wav",
+   "name": "s0152",
+   "instrument": "Erhu Short",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 48.2,
+   "seconds": 0.58,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab6_stac_rr2.wav",
+   "name": "s0153",
+   "instrument": "Erhu Short",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 44.9,
+   "seconds": 0.74,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab6_stac_rr3.wav",
+   "name": "s0154",
+   "instrument": "Erhu Short",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 44.6,
+   "seconds": 0.67,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_ab6_stac_rr4.wav",
+   "name": "s0155",
+   "instrument": "Erhu Short",
+   "sfz_key": 68,
+   "octave_shift": 12,
+   "measured_cents": 54.4,
+   "seconds": 0.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a6_stac_rr1.wav",
+   "name": "s0156",
+   "instrument": "Erhu Short",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 33.2,
+   "seconds": 0.7,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a6_stac_rr2.wav",
+   "name": "s0157",
+   "instrument": "Erhu Short",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 33.9,
+   "seconds": 0.71,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a6_stac_rr3.wav",
+   "name": "s0158",
+   "instrument": "Erhu Short",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 35.7,
+   "seconds": 0.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "erhu_a6_stac_rr4.wav",
+   "name": "s0159",
+   "instrument": "Erhu Short",
+   "sfz_key": 69,
+   "octave_shift": 12,
+   "measured_cents": 16.7,
+   "seconds": 0.64,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  }
+ ]
+}

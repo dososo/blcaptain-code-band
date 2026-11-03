@@ -1,0 +1,145 @@
+{
+ "bank": "vsco_marimba",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 0,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "Marimba_hit_Outrigger_B2_loud_01.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 59,
+   "octave_shift": 0,
+   "measured_cents": 2.0,
+   "seconds": 5.99,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_B4_loud_01.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 83,
+   "octave_shift": 0,
+   "measured_cents": 1.0,
+   "seconds": 2.62,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_C2_loud_01.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 48,
+   "octave_shift": 0,
+   "measured_cents": 13.3,
+   "seconds": 8.0,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_C4_loud_01.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 0,
+   "measured_cents": 9.1,
+   "seconds": 3.84,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_C6_loud_01.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 96,
+   "octave_shift": 0,
+   "measured_cents": 4.8,
+   "seconds": 1.78,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_F1_loud_01.wav",
+   "name": "s0005",
+   "instrument": "normal",
+   "sfz_key": 41,
+   "octave_shift": 0,
+   "measured_cents": 2.4,
+   "seconds": 3.67,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_F3_loud_01.wav",
+   "name": "s0006",
+   "instrument": "normal",
+   "sfz_key": 65,
+   "octave_shift": 0,
+   "measured_cents": 1.3,
+   "seconds": 6.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_F5_loud_01.wav",
+   "name": "s0007",
+   "instrument": "normal",
+   "sfz_key": 89,
+   "octave_shift": 0,
+   "measured_cents": -1.7,
+   "seconds": 2.08,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_G2_loud_01.wav",
+   "name": "s0008",
+   "instrument": "normal",
+   "sfz_key": 55,
+   "octave_shift": 0,
+   "measured_cents": 13.0,
+   "seconds": 7.01,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "Marimba_hit_Outrigger_G4_loud_01.wav",
+   "name": "s0009",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 0,
+   "measured_cents": -2.4,
+   "seconds": 3.02,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  }
+ ]
+}

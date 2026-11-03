@@ -1,0 +1,20 @@
+{
+  "来源": "Qiuqiang Kong等PANNs官方实现，原文未修改",
+  "commit": "d2f4b8c18eab44737fcc0de1248ae21eb43f6aa4",
+  "source_url": "https://github.com/qiuqiangkong/audioset_tagging_cnn/tree/d2f4b8c18eab44737fcc0de1248ae21eb43f6aa4",
+  "代码许可": "MIT，随附原始LICENSE.MIT；不被项目许可覆盖",
+  "用途": "可选Cnn10候选后端实际模型与标签实现，不加载其他网络、不自动下载权重",
+  "原始路径": {
+    "models.py": "pytorch/models.py",
+    "pytorch_utils.py": "pytorch/pytorch_utils.py",
+    "class_labels_indices.csv": "metadata/class_labels_indices.csv",
+    "LICENSE.MIT": "LICENSE.MIT"
+  },
+  "SHA256": {
+    "models.py": "7f9af440395ace5160bbb51d654a0dc35fb887fbf5edecb12da61ff6efb306d9",
+    "pytorch_utils.py": "1464fcfbfc0fe4c55f690f6b39e1c80eeed5de1e7fd1b7fd30334d304de7dbe9",
+    "class_labels_indices.csv": "cdd1049833c4b86127c2773ac0d14a2754b6a6d0d1798002ed5c66e699708429",
+    "LICENSE.MIT": "7e540655d851d9737fafaa9f0cbd064c3a29bdfe5e937ee07a09360f85161975"
+  },
+  "模型权重": "不随vendor代码复制；操作者显式取得官方Cnn10权重并登记，权重发布元数据CC-BY4另记"
+}

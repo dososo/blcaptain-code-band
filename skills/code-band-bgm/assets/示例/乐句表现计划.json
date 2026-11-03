@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "start_tick": 0,
+  "end_tick": 7680,
+  "edits": [
+    {
+      "part_id": "piano",
+      "note_ids": ["demo_note_001"],
+      "offset_ticks": 12,
+      "velocity_delta": 2
+    }
+  ]
+}

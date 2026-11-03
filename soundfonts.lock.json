@@ -1,0 +1,739 @@
+{
+ "schema_version": "1.0.0",
+ "base_url": "https://github.com/dososo/blcaptain-code-band/releases/download/soundfonts-v1",
+ "files": [
+  {
+   "asset": "Aurora-Oud-Ney-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/aurora-world-cc0-20261102/Aurora-Oud-Ney-CC0.sf2",
+   "bytes": 5358430,
+   "sha256": "284eccd992af8f66ac887e169a36655737ed17cb1b2fb7c0c79783fa3d72d95e",
+   "pack_ids": [
+    "aurora-world-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Hulusi-CC0-5keys.sf2",
+   "path": "skills/code-band-bgm/assets/china-hulusi-cc0/Hulusi-CC0-5keys.sf2",
+   "bytes": 278310,
+   "sha256": "016b802e9cee29e58d0086751ed290be48204c05b90ea184be0f54495fcb5bca",
+   "pack_ids": [
+    "hulusi_cc0_five_keys_v1"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Muyu-CCBY4-4hits.sf2",
+   "path": "skills/code-band-bgm/assets/china-muyu-ccby4/Muyu-CCBY4-4hits.sf2",
+   "bytes": 170128,
+   "sha256": "f4e8a682453836e5171e1edb50856133f60c12a8cc9a93426cafd58cf35d77f9",
+   "pack_ids": [
+    "muyu_ccby4_four_hits_v1"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Xun-CCBY4-3keys.sf2",
+   "path": "skills/code-band-bgm/assets/china-xun-ccby4/Xun-CCBY4-3keys.sf2",
+   "bytes": 132392,
+   "sha256": "caf0a71ca57c31d7ca6368ad66151379a36b15972aca63663336c4a1a9d6d636",
+   "pack_ids": [
+    "xun_ccby4_three_keys_v1"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Chinese-Erhu-Guqin-v1.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/Chinese-Erhu-Guqin-v1.sf2",
+   "bytes": 41648264,
+   "sha256": "cc31a55f6be0aa257a39618018754ecaadb33454e5a71cfb8b2cd5275e918d2f",
+   "pack_ids": [
+    "chinese_erhu_guqin_20261031_v1"
+   ],
+   "license_ids": [
+    "CC0-1.0 AND CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Dizi-SUTD-Membrane-v2.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/Dizi-SUTD-Membrane-v2.sf2",
+   "bytes": 34259748,
+   "sha256": "a9469ecfe876066aac9f914ffca1f1a2295aff67dc07bdc39d9d7560c4317ff0",
+   "pack_ids": [
+    "dizi_sutd_membrane_20261031_v2"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Jingju-Percussion-CCBY3-v2.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/Jingju-Percussion-CCBY3-v2.sf2",
+   "bytes": 38821208,
+   "sha256": "4d4e15484ef2f30ee34ac451a33d361cb93973c5c3c6d6091a589cc11d6b49b8",
+   "pack_ids": [
+    "jingju_percussion_20261031_v2"
+   ],
+   "license_ids": [
+    "CC-BY-3.0"
+   ]
+  },
+  {
+   "asset": "PipaSet-CCBY4-v1.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/PipaSet-CCBY4-v1.sf2",
+   "bytes": 79025764,
+   "sha256": "7602e84289151904a5f56df5209408c3fbb3d89bbd34cf603152709279e8bfea",
+   "pack_ids": [
+    "pipaset_20261031_v1"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Sheng-Old-CCBY4-v1.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/Sheng-Old-CCBY4-v1.sf2",
+   "bytes": 11822604,
+   "sha256": "a587f0aa07de4322cf805f169f01291ee21cd38cefc42c959a057996f489c0d9",
+   "pack_ids": [
+    "sheng_old_ccby4_20261031_v1"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Xiao-CC0-HQ-v1.sf2",
+   "path": "skills/code-band-bgm/assets/chinese-expansion-20261031/Xiao-CC0-HQ-v1.sf2",
+   "bytes": 1898044,
+   "sha256": "4e941fc93fc15150d19fd21f5625e54756432cfdc7cb815b334b1592c1fcbe3e",
+   "pack_ids": [
+    "xiao_20261031_hq_v1"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "ClintGoss-NativeFlute-CC-BY-4.0.sf2",
+   "path": "skills/code-band-bgm/assets/clintgoss-nativeflute-20261102/ClintGoss-NativeFlute-CC-BY-4.0.sf2",
+   "bytes": 1728374,
+   "sha256": "cfe3e7d04b54df2ee328d58f8036f0738bdf8663e5a197f7e7f190b46947d149",
+   "pack_ids": [
+    "clintgoss-nativeflute-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Edinburgh-Clavichord-BY.sf2",
+   "path": "skills/code-band-bgm/assets/edinburgh-clavichord-20261102/Edinburgh-Clavichord-BY.sf2",
+   "bytes": 6979834,
+   "sha256": "50fde354a227abc78ee0948abd1c1ba5f81fb724e76b2303bedbebae21a3360a",
+   "pack_ids": [
+    "edinburgh-clavichord-by-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Erhu-Aliexpress-CC0-v2.sf2",
+   "path": "skills/code-band-bgm/assets/erhu-20261103/Erhu-Aliexpress-CC0-v2.sf2",
+   "bytes": 46329610,
+   "sha256": "783140064a368521b38886992a4b42f49bf5fa86716bdd3623817432fefb5a7a",
+   "pack_ids": [
+    "erhu_aliexpress_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Etherealwinds-Lever-Harp-CC-BY.sf2",
+   "path": "skills/code-band-bgm/assets/etherealwinds-lever-harp-20261102/Etherealwinds-Lever-Harp-CC-BY.sf2",
+   "bytes": 159992784,
+   "sha256": "418618e91389558f35afcd11d751c7f8ef270c81a921befda5f7cc5bdcdb8aaf",
+   "pack_ids": [
+    "etherealwinds-lever-harp-by-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Freesound-World-Perc-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/freesound-world-perc-20261102/Freesound-World-Perc-CC0.sf2",
+   "bytes": 739712,
+   "sha256": "42287db5ef9984c5127f972f7f8de2465da72c718984293d3b9815b71c1961c3",
+   "pack_ids": [
+    "freesound-world-perc-cc0-hq-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "FSD-Sarangi-CCBY3.sf2",
+   "path": "skills/code-band-bgm/assets/fsd-sarangi-by3-20261102/FSD-Sarangi-CCBY3.sf2",
+   "bytes": 19106,
+   "sha256": "792b839dbc2a7b740ae465589ef0f8a93f0564cc508bacbf88f7b5a5d3e594f9",
+   "pack_ids": [
+    "fsd-sarangi-by3-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-3.0"
+   ]
+  },
+  {
+   "asset": "Guqin-GuqinSonGest-v2.sf2",
+   "path": "skills/code-band-bgm/assets/guqin-20261103/Guqin-GuqinSonGest-v2.sf2",
+   "bytes": 24878094,
+   "sha256": "54978f017696d07e42c90475870a352a20ce3d2b7ae3beeea6448956dc0265a1",
+   "pack_ids": [
+    "guqin_songest_v2"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Guzheng-Pufermufin-Sliced-v3.sf2",
+   "path": "skills/code-band-bgm/assets/guzheng-20261103/Guzheng-Pufermufin-Sliced-v3.sf2",
+   "bytes": 9594500,
+   "sha256": "b4b732618321d4725739595b713a58dc94b13e8e061ea4824f2da88b92a21ca2",
+   "pack_ids": [
+    "guzheng_pufermufin_sliced_v3"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "JustMog-Bouzouki-Verified.sf2",
+   "path": "skills/code-band-bgm/assets/justmog-bouzouki-20261102/JustMog-Bouzouki-Verified.sf2",
+   "bytes": 2790360,
+   "sha256": "7538ccf92fef40422c48975da1a2cbce88c202365f92adddae1db60ff7f9c08d",
+   "pack_ids": [
+    "justmog-bouzouki-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Melodica-DFeltch-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/melodica-cc0-20261102/Melodica-DFeltch-CC0.sf2",
+   "bytes": 100870,
+   "sha256": "32c03fa84be663c86979278fab85d78942fd7ac520a220f95878900d6c6d8fe0",
+   "pack_ids": [
+    "melodica_dfeltch_cc0_single"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "MetaNylon-v1-48k16.sf2",
+   "path": "skills/code-band-bgm/assets/meta-nylon-guitar-20261102/MetaNylon-v1-48k16.sf2",
+   "bytes": 135207260,
+   "sha256": "f183c860e08d3d14ba5d056b8b4da6b60a481a8fcf5a5aea1b72d329039c5688",
+   "pack_ids": [
+    "meta-nylon-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "MetaPiano-v1-48k16.sf2",
+   "path": "skills/code-band-bgm/assets/meta-piano/MetaPiano-v1-48k16.sf2",
+   "bytes": 591072702,
+   "sha256": "51854f2afaf4f73e338101992bd4402158d0505f0990242a4776e0a3d91f7402",
+   "pack_ids": [
+    "meta-piano-v1-cc0-48k16"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Orchidea-Bass-Viol-BY.sf2",
+   "path": "skills/code-band-bgm/assets/orchidea-bass-viol-20261102/Orchidea-Bass-Viol-BY.sf2",
+   "bytes": 8695408,
+   "sha256": "8c6bcf8c5d44cc1797c606e3335a0da20cf7318fcb64f521b2da48b9d3a5bba5",
+   "pack_ids": [
+    "orchidea-bass-viol-by-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-4.0"
+   ]
+  },
+  {
+   "asset": "Piermic-Sopranino-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/piermic-sopranino-20261102/Piermic-Sopranino-CC0.sf2",
+   "bytes": 122536,
+   "sha256": "76e89d50eec847d3e3bdbb5c04c0af1835d38241c2bff4eead5f02e1380c603e",
+   "pack_ids": [
+    "piermic-sopranino-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "PJCohen-Orchestral-TamTam.sf2",
+   "path": "skills/code-band-bgm/assets/pjcohen-orchestral-tamtam-bya-20261102/PJCohen-Orchestral-TamTam.sf2",
+   "bytes": 3298000,
+   "sha256": "bbbec10e3f9ffcd17ad64b8d784bba85140787ba5fb7ec71aa333360312088e3",
+   "pack_ids": [
+    "pjcohen-orchestral-tamtam-bya-20261102"
+   ],
+   "license_ids": [
+    "CC-BY-3.0"
+   ]
+  },
+  {
+   "asset": "SonicPi-Tabla-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/sonicpi-tabla-20261102/SonicPi-Tabla-CC0.sf2",
+   "bytes": 2775800,
+   "sha256": "a7bc37d14eb3dc0af07ede41a3875f5c442e910cf66a29ae82eb1066e874c1dc",
+   "pack_ids": [
+    "sonicpi-tabla-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "MuseScore_General.sf3",
+   "path": "skills/code-band-bgm/assets/soundfonts/MuseScore_General.sf3",
+   "bytes": 39900972,
+   "sha256": "5b85b6c2c61d10b2b91cddd41efcce7b25cd31c8271d511c73afafbef20b6fa3",
+   "pack_ids": [
+    "musescore_general_default",
+    "musescore-dedicated-percussion-20261031"
+   ],
+   "license_ids": [
+    "MIT"
+   ]
+  },
+  {
+   "asset": "SP-Kora-CC0.sf2",
+   "path": "skills/code-band-bgm/assets/sp-kora-20261102/SP-Kora-CC0.sf2",
+   "bytes": 60750,
+   "sha256": "cf0ab01774b7a91c1e13d53d55fa6cd3f385a56d0193babeba9555190e92a891",
+   "pack_ids": [
+    "sp-kora-cc0-20261102"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "VCSL-BassDrum-Gong-v1.sf2",
+   "path": "skills/code-band-bgm/assets/vcsl-bassdrum-gong-20261103/VCSL-BassDrum-Gong-v1.sf2",
+   "bytes": 42405234,
+   "sha256": "8a73d496d23a3259ab1738b30a984d6ea83e68a34e733b4de9e80ec525e7f23f",
+   "pack_ids": [
+    "vcsl_bassdrum_gong_v1"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_bassoon.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_bassoon.sf2",
+   "bytes": 30283864,
+   "sha256": "ca64ab5e0e91c8bfd4d67d96ce7a01a34ce27a793d4b5b358b67bed7d69601de",
+   "pack_ids": [
+    "vsco_bassoon"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_bassoon_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_bassoon_v2.sf2",
+   "bytes": 51395050,
+   "sha256": "d270fdc4ea1d588a9718e50969a19d8b3c24470a1cdd05937f8fb2a183233ff7",
+   "pack_ids": [
+    "vsco_bassoon_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_cello_section.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_cello_section.sf2",
+   "bytes": 99602318,
+   "sha256": "e64703541411486bfd39dfeb33ad2eddb05f195e4913f8b2326b709398ac6d39",
+   "pack_ids": [
+    "vsco_cello_section"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_clarinet.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_clarinet.sf2",
+   "bytes": 42458804,
+   "sha256": "95b3b801e516cb18e9504bc4b90631e6b4598c9949d7e5391893d2e67c22dadc",
+   "pack_ids": [
+    "vsco_clarinet"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_contrabass_solo.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_contrabass_solo.sf2",
+   "bytes": 79161840,
+   "sha256": "92cb9487dd1b4e1109da0b2a9938d1bef5335f83590e96b152c57dab396bc6b1",
+   "pack_ids": [
+    "vsco_contrabass_solo"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_contrabass_solo_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_contrabass_solo_v2.sf2",
+   "bytes": 110294926,
+   "sha256": "0deca109b1d070fcbb3df4134c067e8b698e8f4fb625e1f6120012f69d39f993",
+   "pack_ids": [
+    "vsco_contrabass_solo_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_flute.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_flute.sf2",
+   "bytes": 19543830,
+   "sha256": "289703aa736e95e8fd9f6f951c73f0cccd3fa5c6150bce3e2ddf29a0006805c2",
+   "pack_ids": [
+    "vsco_flute"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_flute_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_flute_v2.sf2",
+   "bytes": 54531912,
+   "sha256": "c05021e77a7e7330c0e2953dfbd7423806c57fb42367d0eb4e172bd21a47ad67",
+   "pack_ids": [
+    "vsco_flute_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_french_horn.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_french_horn.sf2",
+   "bytes": 41756144,
+   "sha256": "baca05ae5a022a649eabb63608baa3cb38007fda667d09d3823ecda08a13aad4",
+   "pack_ids": [
+    "vsco_french_horn"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_french_horn_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_french_horn_v2.sf2",
+   "bytes": 55425926,
+   "sha256": "a917b2613eaf9cc33b478035e1d9b7aae593e6123f46606208fd593d6062328d",
+   "pack_ids": [
+    "vsco_french_horn_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_glockenspiel.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_glockenspiel.sf2",
+   "bytes": 6378340,
+   "sha256": "13abe6d4f63c99b60c687341242991044082dbc661ae82d023ff9c14ad093adb",
+   "pack_ids": [
+    "vsco_glockenspiel"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_harp.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_harp.sf2",
+   "bytes": 25319880,
+   "sha256": "d9dd5f94610cb839c560083aed512edb396a6c464631e2bde998fa20e379edd0",
+   "pack_ids": [
+    "vsco_harp"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_marimba.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_marimba.sf2",
+   "bytes": 7773432,
+   "sha256": "43710b89e867d24123b7104c7f6d2d8798b2fe676af44afca0b14a0916815d26",
+   "pack_ids": [
+    "vsco_marimba"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_oboe.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_oboe.sf2",
+   "bytes": 24699112,
+   "sha256": "8fb3c8ff8324d734c59d6bc9721189f195fbf12b189c90f0373b35d13dbab41a",
+   "pack_ids": [
+    "vsco_oboe"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_oboe_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_oboe_v2.sf2",
+   "bytes": 45511000,
+   "sha256": "2d106aa7fae30ce66415aae30cd7c92afab35e93e5489a9370ca4be4923fdac0",
+   "pack_ids": [
+    "vsco_oboe_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_piccolo.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_piccolo.sf2",
+   "bytes": 6196072,
+   "sha256": "b3808e816bc768b283a95a32afff3a309f6c3344e205179d38b0a150ad5eed4b",
+   "pack_ids": [
+    "vsco_piccolo"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_timpani.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_timpani.sf2",
+   "bytes": 32054368,
+   "sha256": "3a2ba34a8eba1c6e7a2d4ddec524e6fc35c79fb3579cac5434607fe445d91763",
+   "pack_ids": [
+    "vsco_timpani"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_timpani_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_timpani_v2.sf2",
+   "bytes": 46169838,
+   "sha256": "d3d5ea14dea35c07a19109ea475642b2c33946f8b115e5b7b18a94e4d19cc71e",
+   "pack_ids": [
+    "vsco_timpani_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_trombone.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_trombone.sf2",
+   "bytes": 43918616,
+   "sha256": "9d0de58442e6bcef2e5003f29ea93bb7b6f3595a99ff801a8e6783c7ed39cfd4",
+   "pack_ids": [
+    "vsco_trombone"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_trombone_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_trombone_v2.sf2",
+   "bytes": 52630116,
+   "sha256": "0f155296e4f1a8b6187fb02be17732733e8c64791a76dafe4bdf6208cae6b4e7",
+   "pack_ids": [
+    "vsco_trombone_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_trumpet.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_trumpet.sf2",
+   "bytes": 35528824,
+   "sha256": "9b645303d80f8866fd1fce816db0debdc72da67b0b16e71cec690220ed93c322",
+   "pack_ids": [
+    "vsco_trumpet"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_trumpet_v2.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_trumpet_v2.sf2",
+   "bytes": 83907434,
+   "sha256": "98d8f2e03b6ab6f864522abff3c3e1f6e3a98d743d2e3cf4e6f069b4e01a842e",
+   "pack_ids": [
+    "vsco_trumpet_v2"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_tuba.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_tuba.sf2",
+   "bytes": 29764284,
+   "sha256": "ce9948b984d9f4375deecb0feef14a9a20092f02fba123b20349c09e1dcf28a7",
+   "pack_ids": [
+    "vsco_tuba"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_viola_section.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_viola_section.sf2",
+   "bytes": 78417858,
+   "sha256": "c82cec240ea0ec22e37cfc3a42b9e61d2aaca40b7d8e593f48523696cc6baad5",
+   "pack_ids": [
+    "vsco_viola_section"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_violin_section.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_violin_section.sf2",
+   "bytes": 68407122,
+   "sha256": "bb12660bbe047b3e8f33a15893d29aa440b42ae853b52c39b464d8520189ff51",
+   "pack_ids": [
+    "vsco_violin_section"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_violin_solo.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_violin_solo.sf2",
+   "bytes": 86654140,
+   "sha256": "725f6e5df3681d3c6af053ac1fae89c10bf1b90bf5c69ff4f329a7ea01de040f",
+   "pack_ids": [
+    "vsco_violin_solo"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "vsco_xylophone.sf2",
+   "path": "skills/code-band-bgm/assets/vsco2-20261103/vsco_xylophone.sf2",
+   "bytes": 3002026,
+   "sha256": "a415958b4ef986b4ab179c29219ed404dd5a3d14036aa8bd2a3756df24e3a6d7",
+   "pack_ids": [
+    "vsco_xylophone"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "VCSL-World-Selected.sf2",
+   "path": "skills/code-band-bgm/assets/world-expansion-20261031/VCSL-World-Selected.sf2",
+   "bytes": 172703498,
+   "sha256": "a5f223c7a587cf646fa4aef094bc132ee2d1eb1291bceb18527e78dcebe03052",
+   "pack_ids": [
+    "vcsl-world-selected-20261031"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "VCSL-World-Selected-v2.sf2",
+   "path": "skills/code-band-bgm/assets/world-expansion-20261031/v2/VCSL-World-Selected-v2.sf2",
+   "bytes": 258137294,
+   "sha256": "a592dd0d001a63a37f6bf8e7a1a42722eed7f7a5c5102ebc22aff86c074700dd",
+   "pack_ids": [
+    "vcsl-world-second-20261031"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "FreePats-Ukulele-v1.sf2",
+   "path": "skills/code-band-bgm/assets/world-expansion-20261031/v3/FreePats-Ukulele-v1.sf2",
+   "bytes": 2659694,
+   "sha256": "dba85fc2a2366514590968070abd4cbff06c0bf022e83e35105efc68741a84f3",
+   "pack_ids": [
+    "freepats-ukulele-20261031"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Mandolin-Short-CC0-v1.sf2",
+   "path": "skills/code-band-bgm/assets/world-expansion-20261031/v4/Mandolin-Short-CC0-v1.sf2",
+   "bytes": 3211726,
+   "sha256": "d638c8c030ba74f07e2682cb8fafbd6c76c99600ccfe1bf969ba81c5465ef2c2",
+   "pack_ids": [
+    "owner-mandolin-short-20261031"
+   ],
+   "license_ids": [
+    "CC0-1.0"
+   ]
+  },
+  {
+   "asset": "Iowa-MIS-Selected-v1.sf2",
+   "path": "skills/code-band-bgm/assets/world-expansion-20261031/v5/Iowa-MIS-Selected-v1.sf2",
+   "bytes": 35977978,
+   "sha256": "a50a03e7ed8cb7e73b036684dbf9b60e3f0ad3b7d8ee3eb0098297b1b49be43c",
+   "pack_ids": [
+    "iowa-mis-selected-20261031"
+   ],
+   "license_ids": [
+    "LicenseRef-Iowa-MIS"
+   ]
+  }
+ ]
+}

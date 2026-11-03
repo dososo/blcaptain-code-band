@@ -1,0 +1,84 @@
+{
+  "source_id": "ctis_sheng_zenodo5654924_v1_20211109",
+  "source_page": "https://zenodo.org/records/5654924",
+  "authors": [
+    {
+      "name": "Zhaorui Liu",
+      "affiliation": "China Conservatory of Music"
+    },
+    {
+      "name": "Zijin Li",
+      "affiliation": "Central Conservatory of Music"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "record_version": "1.0",
+  "record_publication_date": "2021-11-09",
+  "files": [
+    {
+      "record_id": 5654924,
+      "version": "1.0",
+      "source_url": "https://zenodo.org/api/records/5654924/files/ccmusic-database-demo.zip/content",
+      "archive_declared_md5": "md5:e89cb6519708dda5bbcc3ea83506483a",
+      "archive_size": 238114528,
+      "whole_archive_downloaded": false,
+      "zip_member": "ccmusic-database-demo/ctis/[Traditional Sheng] Scales_Low speed_f_first pass.wav",
+      "zip_crc32": 942349438,
+      "extracted_file": "旧版笙-5654924/[Traditional Sheng] Scales_Low speed_f_first pass.wav",
+      "bytes": 2471632,
+      "sha256": "87507ad6d0e443ddab21697d0f8e473e5209661e3b45e8e48baff7d301ba23d6",
+      "license": "CC-BY-4.0",
+      "file": "sheng-old-2021/[Traditional Sheng] Scales_Low speed_f_first pass.wav"
+    },
+    {
+      "record_id": 5654924,
+      "version": "1.0",
+      "source_url": "https://zenodo.org/api/records/5654924/files/ccmusic-database-demo.zip/content",
+      "archive_declared_md5": "md5:e89cb6519708dda5bbcc3ea83506483a",
+      "archive_size": 238114528,
+      "whole_archive_downloaded": false,
+      "zip_member": "ccmusic-database-demo/ctis/[Traditional Sheng] Scales_Low speed_mf_second pass.wav",
+      "zip_crc32": 2107103002,
+      "extracted_file": "旧版笙-5654924/[Traditional Sheng] Scales_Low speed_mf_second pass.wav",
+      "bytes": 2414106,
+      "sha256": "46f6239d99befd0cd80270a9713b84902daa18c6f4765b14236957c519acbd44",
+      "license": "CC-BY-4.0",
+      "file": "sheng-old-2021/[Traditional Sheng] Scales_Low speed_mf_second pass.wav"
+    },
+    {
+      "record_id": 5654924,
+      "version": "1.0",
+      "source_url": "https://zenodo.org/api/records/5654924/files/ccmusic-database-demo.zip/content",
+      "archive_declared_md5": "md5:e89cb6519708dda5bbcc3ea83506483a",
+      "archive_size": 238114528,
+      "whole_archive_downloaded": false,
+      "zip_member": "ccmusic-database-demo/ctis/[Traditional Sheng] Scales_Low speed_p_first pass.wav",
+      "zip_crc32": 120106713,
+      "extracted_file": "旧版笙-5654924/[Traditional Sheng] Scales_Low speed_p_first pass.wav",
+      "bytes": 2451538,
+      "sha256": "41bc04520d378f17e022c428278393f52ff2d88b8b9073543d26f664975a4942",
+      "license": "CC-BY-4.0",
+      "file": "sheng-old-2021/[Traditional Sheng] Scales_Low speed_p_first pass.wav"
+    },
+    {
+      "record_id": 5654924,
+      "version": "1.0",
+      "source_url": "https://zenodo.org/api/records/5654924/files/ccmusic-database-demo.zip/content",
+      "archive_declared_md5": "md5:e89cb6519708dda5bbcc3ea83506483a",
+      "archive_size": 238114528,
+      "whole_archive_downloaded": false,
+      "zip_member": "ccmusic-database-demo/ctis/[Traditional Sheng] Scales_Natural decay_mf_first pass.wav",
+      "zip_crc32": 3876416787,
+      "extracted_file": "旧版笙-5654924/[Traditional Sheng] Scales_Natural decay_mf_first pass.wav",
+      "bytes": 3587970,
+      "sha256": "f49bf7c498564213dfc15ed8c4ee98b16dfc4a8869c3c6bbaa68c50803177951",
+      "license": "CC-BY-4.0",
+      "file": "sheng-old-2021/[Traditional Sheng] Scales_Natural decay_mf_first pass.wav"
+    }
+  ],
+  "scope": "仅旧DOI原文件中的传统笙专业团队自录音阶；无流行歌/曲目/第三方录像",
+  "newer_license_scope": "2025官网与当前HF的NC-ND不作为本次来源，也不改变本包依赖的特定旧CCBY4记录；没有取得受限新版音频做改作",
+  "same_mf_file_in_old_v1_1": "46f6239d99befd0cd80270a9713b84902daa18c6f4765b14236957c519acbd44",
+  "provenance": "官网CTIS声学校准/消声室32麦/专业演奏者录制规范；机构团队页与网站署名Liu Zhaorui；旧20211109README自录声明；未见旧包中仅授权标注的排除条款"
+}

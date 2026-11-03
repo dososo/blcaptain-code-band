@@ -1,0 +1,3486 @@
+{
+  "schema_version": "1.0.0",
+  "score_id": "toward_light_ensemble_20261101_v15",
+  "document_state": "composition_candidate",
+  "intent": {
+    "title": "向光行进·持续织体与鼓层",
+    "brief": "20秒含尾音。连续复音承载跨越短键触发，键类和弦顶声形成自有旋律；短鼓多拍位推动，少数开放噪声音体、独立高频空间；后半句变化及收束。",
+    "use_case": "有节奏、比较昂扬的无人声配乐方向短验收",
+    "mood_tags": [
+      "有节奏",
+      "比较昂扬",
+      "复音键盘",
+      "重复后发展",
+      "无人声"
+    ],
+    "notes": "依据原窗可观察的层次关系写新作，不猜原具体琴名；撤回v14自订吉他间奏方案。本脚本不读取参考音符、转录旋律或音频。新曲音色/主题是有界表达假说，音乐待队长。",
+    "reference_policy": {
+      "mode": "abstract_features_only",
+      "source_ids": [
+        "reference_f3b3e284f1df49af"
+      ],
+      "reuse_reference_audio": false,
+      "reuse_transcribed_melody": false
+    }
+  },
+  "timeline": {
+    "ppq": 960,
+    "tempo_map": [
+      {
+        "start_tick": 0,
+        "bpm": {
+          "numerator": 14099,
+          "denominator": 125
+        }
+      }
+    ],
+    "meter_map": [
+      {
+        "start_tick": 0,
+        "numerator": 4,
+        "denominator": 4
+      }
+    ],
+    "music_end_tick": 30720
+  },
+  "randomness": {
+    "master_seed": "2026103113",
+    "algorithm": "sha256_counter_v1",
+    "namespace_version": "1",
+    "sample_selection": "seeded_choice",
+    "notes": "原种子保留；新score_id与明确写定的独立主题，无随机人性化。"
+  },
+  "sections": [
+    {
+      "section_id": "a",
+      "label": "复音底层与短击主题",
+      "function": "main",
+      "start_tick": 0,
+      "end_tick": 15360,
+      "notes": "持续和声与短键顶声同时配合，鼓各层独立发音。"
+    },
+    {
+      "section_id": "b",
+      "label": "主题呼应、密度变化与收束",
+      "function": "variation",
+      "start_tick": 15360,
+      "end_tick": 30720,
+      "notes": "第五小节先减短键和低鼓，持续载体/高频仍在；随后恢复并变尾，不全体同退同进。"
+    }
+  ],
+  "parts": [
+    {
+      "part_id": "keys",
+      "label": "短键复音顶声主题",
+      "instrument_role": "衰减键类短击与旋律顶声",
+      "musical_function": "harmony",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "piano",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 4,
+      "pan": 0,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "keys_0000",
+          "onset_tick": 0,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0001",
+          "onset_tick": 0,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0002",
+          "onset_tick": 0,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0003",
+          "onset_tick": 480,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0004",
+          "onset_tick": 720,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0005",
+          "onset_tick": 720,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0006",
+          "onset_tick": 720,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0007",
+          "onset_tick": 1440,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0008",
+          "onset_tick": 2400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0009",
+          "onset_tick": 2400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0010",
+          "onset_tick": 2400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0011",
+          "onset_tick": 3360,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0012",
+          "onset_tick": 4080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0013",
+          "onset_tick": 4080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0014",
+          "onset_tick": 4080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0015",
+          "onset_tick": 4560,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0016",
+          "onset_tick": 5280,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 70,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0017",
+          "onset_tick": 5280,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0018",
+          "onset_tick": 5280,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0019",
+          "onset_tick": 5760,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0020",
+          "onset_tick": 6480,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0021",
+          "onset_tick": 6480,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0022",
+          "onset_tick": 6480,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0023",
+          "onset_tick": 7200,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0024",
+          "onset_tick": 7680,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0025",
+          "onset_tick": 7680,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0026",
+          "onset_tick": 7680,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0027",
+          "onset_tick": 8160,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0028",
+          "onset_tick": 8880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 81,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0029",
+          "onset_tick": 8880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0030",
+          "onset_tick": 8880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0031",
+          "onset_tick": 9600,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0032",
+          "onset_tick": 10080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0033",
+          "onset_tick": 10080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0034",
+          "onset_tick": 10080,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0035",
+          "onset_tick": 10800,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0036",
+          "onset_tick": 11520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0037",
+          "onset_tick": 11520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 57,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0038",
+          "onset_tick": 11520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 60,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0039",
+          "onset_tick": 12240,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 76,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0040",
+          "onset_tick": 12960,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0041",
+          "onset_tick": 12960,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 57,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0042",
+          "onset_tick": 12960,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 60,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0043",
+          "onset_tick": 13680,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0044",
+          "onset_tick": 14400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 69,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0045",
+          "onset_tick": 14400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 57,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0046",
+          "onset_tick": 14400,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 60,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0047",
+          "onset_tick": 14880,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0048",
+          "onset_tick": 15600,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0049",
+          "onset_tick": 15600,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0050",
+          "onset_tick": 15600,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0051",
+          "onset_tick": 16320,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0052",
+          "onset_tick": 17520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0053",
+          "onset_tick": 17520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0054",
+          "onset_tick": 17520,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0055",
+          "onset_tick": 18480,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0056",
+          "onset_tick": 19440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0057",
+          "onset_tick": 19440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0058",
+          "onset_tick": 19440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0059",
+          "onset_tick": 19920,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0060",
+          "onset_tick": 20640,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0061",
+          "onset_tick": 20640,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0062",
+          "onset_tick": 20640,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0063",
+          "onset_tick": 21120,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 82,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0064",
+          "onset_tick": 21840,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 81,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0065",
+          "onset_tick": 21840,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0066",
+          "onset_tick": 21840,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0067",
+          "onset_tick": 22560,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0068",
+          "onset_tick": 23040,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 81,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0069",
+          "onset_tick": 23040,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0070",
+          "onset_tick": 23040,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0071",
+          "onset_tick": 23520,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 79,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0072",
+          "onset_tick": 24240,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 77,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0073",
+          "onset_tick": 24240,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0074",
+          "onset_tick": 24240,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0075",
+          "onset_tick": 24960,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0076",
+          "onset_tick": 25440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0077",
+          "onset_tick": 25440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0078",
+          "onset_tick": 25440,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 62,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0079",
+          "onset_tick": 26160,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0080",
+          "onset_tick": 26880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 74,
+            "cents": 0
+          },
+          "velocity": 86,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0081",
+          "onset_tick": 26880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0082",
+          "onset_tick": 26880,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0083",
+          "onset_tick": 27600,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 72,
+            "cents": 0
+          },
+          "velocity": 70,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0084",
+          "onset_tick": 28320,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 70,
+            "cents": 0
+          },
+          "velocity": 79,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0085",
+          "onset_tick": 28320,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0086",
+          "onset_tick": 28320,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0087",
+          "onset_tick": 29040,
+          "duration_ticks": 269,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 69,
+            "cents": 0
+          },
+          "velocity": 84,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0088",
+          "onset_tick": 29760,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 67,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0089",
+          "onset_tick": 29760,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 55,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "keys_0090",
+          "onset_tick": 29760,
+          "duration_ticks": 403,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 58,
+            "cents": 0
+          },
+          "velocity": 68,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "sub",
+      "label": "持续超低频，跨鼓点局部让位",
+      "instrument_role": "持续超低频，跨鼓点局部让位",
+      "musical_function": "bass",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "sine_wave",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 8,
+      "pan": 0,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "sub_0000",
+          "onset_tick": 0,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 31,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0001",
+          "onset_tick": 3840,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 27,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0002",
+          "onset_tick": 7680,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 34,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0003",
+          "onset_tick": 11520,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 29,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0004",
+          "onset_tick": 15360,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 31,
+            "cents": 0
+          },
+          "velocity": 72,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0005",
+          "onset_tick": 19200,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 27,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0006",
+          "onset_tick": 23040,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 34,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "sub_0007",
+          "onset_tick": 26880,
+          "duration_ticks": 3600,
+          "pitch": {
+            "kind": "pitched",
+            "midi": 31,
+            "cents": 0
+          },
+          "velocity": 78,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "kick",
+      "label": "低体冲击与局部267ms双击",
+      "instrument_role": "前半低冲击",
+      "musical_function": "rhythm",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "tr808_drums",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 8,
+      "pan": 0,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "kick_0000",
+          "onset_tick": 0,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0001",
+          "onset_tick": 1440,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0002",
+          "onset_tick": 4320,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0003",
+          "onset_tick": 4800,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0004",
+          "onset_tick": 7200,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 76,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0005",
+          "onset_tick": 7680,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0006",
+          "onset_tick": 9120,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0007",
+          "onset_tick": 11520,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0008",
+          "onset_tick": 12480,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0009",
+          "onset_tick": 12960,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 76,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0010",
+          "onset_tick": 15360,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0011",
+          "onset_tick": 19680,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0012",
+          "onset_tick": 20160,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0013",
+          "onset_tick": 22560,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 76,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0014",
+          "onset_tick": 23040,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0015",
+          "onset_tick": 24480,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0016",
+          "onset_tick": 26880,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 90,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0017",
+          "onset_tick": 27840,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 83,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "kick_0018",
+          "onset_tick": 28320,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "kick"
+          },
+          "velocity": 76,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "backbeat",
+      "label": "快第3拍主重音与中高鼓串",
+      "instrument_role": "快第3拍主重音",
+      "musical_function": "rhythm",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "tr808_drums",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 7,
+      "pan": 0,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "backbeat_0000",
+          "onset_tick": 1920,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0001",
+          "onset_tick": 1920,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0002",
+          "onset_tick": 5760,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0003",
+          "onset_tick": 5760,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0004",
+          "onset_tick": 9600,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0005",
+          "onset_tick": 9600,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0006",
+          "onset_tick": 13440,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0007",
+          "onset_tick": 13440,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0008",
+          "onset_tick": 14400,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 42,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0009",
+          "onset_tick": 14640,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0010",
+          "onset_tick": 14880,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 60,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0011",
+          "onset_tick": 15120,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 69,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0012",
+          "onset_tick": 17280,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 65,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0013",
+          "onset_tick": 17280,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 43,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0014",
+          "onset_tick": 21120,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0015",
+          "onset_tick": 21120,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0016",
+          "onset_tick": 24960,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0017",
+          "onset_tick": 24960,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0018",
+          "onset_tick": 28800,
+          "duration_ticks": 144,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "hand_clap"
+          },
+          "velocity": 80,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0019",
+          "onset_tick": 28800,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 54,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0020",
+          "onset_tick": 29760,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 42,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0021",
+          "onset_tick": 30000,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0022",
+          "onset_tick": 30240,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 60,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "backbeat_0023",
+          "onset_tick": 30480,
+          "duration_ticks": 108,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "snare"
+          },
+          "velocity": 69,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "hats",
+      "label": "独立高频细分与减法",
+      "instrument_role": "有间隙的高频细节",
+      "musical_function": "rhythm",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "tr808_drums",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 9,
+      "pan": -0.05,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "hats_0000",
+          "onset_tick": 0,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0001",
+          "onset_tick": 480,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0002",
+          "onset_tick": 960,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0003",
+          "onset_tick": 1680,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0004",
+          "onset_tick": 2400,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0005",
+          "onset_tick": 3120,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0006",
+          "onset_tick": 3360,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0007",
+          "onset_tick": 3840,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0008",
+          "onset_tick": 4320,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0009",
+          "onset_tick": 4800,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0010",
+          "onset_tick": 5520,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0011",
+          "onset_tick": 6240,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0012",
+          "onset_tick": 6960,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0013",
+          "onset_tick": 7200,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0014",
+          "onset_tick": 7680,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0015",
+          "onset_tick": 8160,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0016",
+          "onset_tick": 8640,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0017",
+          "onset_tick": 9360,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0018",
+          "onset_tick": 10080,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0019",
+          "onset_tick": 10800,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0020",
+          "onset_tick": 11040,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0021",
+          "onset_tick": 11520,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0022",
+          "onset_tick": 12000,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0023",
+          "onset_tick": 12480,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0024",
+          "onset_tick": 13200,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0025",
+          "onset_tick": 13920,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0026",
+          "onset_tick": 14640,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0027",
+          "onset_tick": 14880,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0028",
+          "onset_tick": 15360,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0029",
+          "onset_tick": 15840,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0030",
+          "onset_tick": 16320,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0031",
+          "onset_tick": 17040,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0032",
+          "onset_tick": 17760,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0033",
+          "onset_tick": 18480,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0034",
+          "onset_tick": 18720,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0035",
+          "onset_tick": 19200,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0036",
+          "onset_tick": 19680,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0037",
+          "onset_tick": 20160,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0038",
+          "onset_tick": 20880,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0039",
+          "onset_tick": 21600,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0040",
+          "onset_tick": 22320,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0041",
+          "onset_tick": 22560,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0042",
+          "onset_tick": 23040,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0043",
+          "onset_tick": 23520,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0044",
+          "onset_tick": 24000,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0045",
+          "onset_tick": 24720,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0046",
+          "onset_tick": 25440,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0047",
+          "onset_tick": 26160,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0048",
+          "onset_tick": 26400,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0049",
+          "onset_tick": 26880,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0050",
+          "onset_tick": 27360,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 39,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0051",
+          "onset_tick": 27840,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 58,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0052",
+          "onset_tick": 28560,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 45,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0053",
+          "onset_tick": 29280,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 61,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0054",
+          "onset_tick": 30000,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 40,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "hats_0055",
+          "onset_tick": 30240,
+          "duration_ticks": 53,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "closed_hat"
+          },
+          "velocity": 53,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "air",
+      "label": "少数延展高频音体",
+      "instrument_role": "开放噪声音体与高频空间",
+      "musical_function": "rhythm",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "tr808_drums",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 8,
+      "pan": 0.24,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "air_0000",
+          "onset_tick": 1440,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0001",
+          "onset_tick": 2880,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0002",
+          "onset_tick": 5280,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0003",
+          "onset_tick": 9120,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0004",
+          "onset_tick": 10560,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0005",
+          "onset_tick": 12960,
+          "duration_ticks": 480,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0006",
+          "onset_tick": 14400,
+          "duration_ticks": 480,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0007",
+          "onset_tick": 16800,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 55,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0008",
+          "onset_tick": 20640,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0009",
+          "onset_tick": 22080,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0010",
+          "onset_tick": 24480,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0011",
+          "onset_tick": 25920,
+          "duration_ticks": 288,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "air_0012",
+          "onset_tick": 28320,
+          "duration_ticks": 480,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "open_hat"
+          },
+          "velocity": 62,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    },
+    {
+      "part_id": "shaker",
+      "label": "交错高频细分",
+      "instrument_role": "错拍噪声细分，非持续满铺",
+      "musical_function": "rhythm",
+      "resource_binding": {
+        "state": "resolved",
+        "engine_id": "fluidsynth",
+        "capability_id": "fluidsynth_local_v1",
+        "instrument_id": "tr808_drums",
+        "mapping_version": "1.0.0",
+        "substitution_policy": "report_only"
+      },
+      "articulation_map": {
+        "normal": {
+          "state": "resolved",
+          "engine_articulation_id": "normal"
+        }
+      },
+      "gain_db": 9,
+      "pan": -0.3,
+      "humanize": {
+        "enabled": false,
+        "profile_id": "disabled_structure_demo"
+      },
+      "notes": [
+        {
+          "note_id": "shaker_0000",
+          "onset_tick": 240,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0001",
+          "onset_tick": 1200,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0002",
+          "onset_tick": 2640,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0003",
+          "onset_tick": 4080,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0004",
+          "onset_tick": 5040,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0005",
+          "onset_tick": 6480,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0006",
+          "onset_tick": 7920,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0007",
+          "onset_tick": 8880,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0008",
+          "onset_tick": 10320,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0009",
+          "onset_tick": 11760,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0010",
+          "onset_tick": 12720,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0011",
+          "onset_tick": 14160,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0012",
+          "onset_tick": 15600,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0013",
+          "onset_tick": 16560,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0014",
+          "onset_tick": 18000,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0015",
+          "onset_tick": 19440,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0016",
+          "onset_tick": 20400,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0017",
+          "onset_tick": 21840,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0018",
+          "onset_tick": 23280,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0019",
+          "onset_tick": 24240,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0020",
+          "onset_tick": 25680,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0021",
+          "onset_tick": 27120,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 47,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0022",
+          "onset_tick": 28080,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 59,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        },
+        {
+          "note_id": "shaker_0023",
+          "onset_tick": 29520,
+          "duration_ticks": 77,
+          "pitch": {
+            "kind": "unpitched",
+            "hit_key": "shaker"
+          },
+          "velocity": 51,
+          "articulation": "normal",
+          "timing_locked": true,
+          "accent": "none"
+        }
+      ]
+    }
+  ],
+  "mix": {
+    "master_gain_db": -3,
+    "effects": [
+      {
+        "effect_id": "short_depth",
+        "kind": "reverb",
+        "target_part_ids": [
+          "keys",
+          "backbeat"
+        ],
+        "parameters": {
+          "room_size": 0.3,
+          "damp": 0.4,
+          "width": 1,
+          "level": 0.1,
+          "send": 30
+        },
+        "required": true,
+        "notes": "短键与主重音少量深度，非原效果识别。"
+      },
+      {
+        "effect_id": "high_detail_space",
+        "kind": "chorus",
+        "target_part_ids": [
+          "air",
+          "shaker"
+        ],
+        "parameters": {},
+        "required": true,
+        "notes": "按高频噪声层职责路由，不将总宽度相似当通过。"
+      },
+      {
+        "effect_id": "sub_yield",
+        "kind": "duck",
+        "target_part_ids": [
+          "sub"
+        ],
+        "parameters": {
+          "trigger_part_id": "kick",
+          "attack_ms": 4,
+          "hold_ms": 40,
+          "release_ms": 180,
+          "depth_db": -7
+        },
+        "required": true,
+        "notes": "持续低音按低击让位，独立于高频细分。"
+      }
+    ],
+    "notes": "连续和声载体单独由真实Poly插件承担；新主题/音色选择非原配器真值，无限幅/自动归一。"
+  },
+  "render": {
+    "sample_rate_hz": 48000,
+    "sample_format": "pcm_s24",
+    "channels": 2,
+    "duration_mode": "exact_file",
+    "target_file_frames": 960000,
+    "tail_policy": "append",
+    "tail_frames": 142921,
+    "end_fade_frames": 9600,
+    "loop": {
+      "enabled": false
+    }
+  }
+}

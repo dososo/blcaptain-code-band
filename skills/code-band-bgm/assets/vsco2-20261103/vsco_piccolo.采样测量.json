@@ -1,0 +1,168 @@
+{
+ "bank": "vsco_piccolo",
+ "presets": [
+  {
+   "name": "normal",
+   "programs": [
+    0
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  },
+  {
+   "name": "staccato",
+   "programs": [
+    16
+   ],
+   "octave_shift": 12,
+   "pitch_conflicts": []
+  }
+ ],
+ "samples": [
+  {
+   "sample": "piccolo_C5_sustain1.wav",
+   "name": "s0000",
+   "instrument": "normal",
+   "sfz_key": 72,
+   "octave_shift": 12,
+   "measured_cents": 5.4,
+   "seconds": 6.72,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    193218,
+    296352
+   ],
+   "loop_similarity": 0.993
+  },
+  {
+   "sample": "piccolo_C6_sustain1.wav",
+   "name": "s0001",
+   "instrument": "normal",
+   "sfz_key": 84,
+   "octave_shift": 12,
+   "measured_cents": 4.9,
+   "seconds": 5.92,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    132118,
+    261072
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "piccolo_G4_sustain1.wav",
+   "name": "s0002",
+   "instrument": "normal",
+   "sfz_key": 67,
+   "octave_shift": 12,
+   "measured_cents": 2.4,
+   "seconds": 5.75,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    99789,
+    253629
+   ],
+   "loop_similarity": 0.99
+  },
+  {
+   "sample": "piccolo_G5_sustain1.wav",
+   "name": "s0003",
+   "instrument": "normal",
+   "sfz_key": 79,
+   "octave_shift": 12,
+   "measured_cents": -1.3,
+   "seconds": 7.52,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    117931,
+    331632
+   ],
+   "loop_similarity": 0.998
+  },
+  {
+   "sample": "piccolo_G6_sustain1.wav",
+   "name": "s0004",
+   "instrument": "normal",
+   "sfz_key": 91,
+   "octave_shift": 12,
+   "measured_cents": 2.2,
+   "seconds": 6.88,
+   "rate": 44100,
+   "channels": 2,
+   "loop": [
+    206429,
+    303408
+   ],
+   "loop_similarity": 0.987
+  },
+  {
+   "sample": "piccolo_A#4_staccato1.wav",
+   "name": "s0005",
+   "instrument": "staccato",
+   "sfz_key": 70,
+   "octave_shift": 12,
+   "measured_cents": -1.4,
+   "seconds": 0.44,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "piccolo_A#5_staccato1.wav",
+   "name": "s0006",
+   "instrument": "staccato",
+   "sfz_key": 82,
+   "octave_shift": 12,
+   "measured_cents": 0.7,
+   "seconds": 0.43,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "piccolo_A#6_staccato1.wav",
+   "name": "s0007",
+   "instrument": "staccato",
+   "sfz_key": 94,
+   "octave_shift": 12,
+   "measured_cents": 14.5,
+   "seconds": 0.54,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "piccolo_G5_staccato1.wav",
+   "name": "s0008",
+   "instrument": "staccato",
+   "sfz_key": 79,
+   "octave_shift": 12,
+   "measured_cents": 6.4,
+   "seconds": 0.45,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  },
+  {
+   "sample": "piccolo_G6_staccato1.wav",
+   "name": "s0009",
+   "instrument": "staccato",
+   "sfz_key": 91,
+   "octave_shift": 12,
+   "measured_cents": 7.6,
+   "seconds": 0.44,
+   "rate": 44100,
+   "channels": 2,
+   "loop": null,
+   "loop_similarity": null
+  }
+ ]
+}

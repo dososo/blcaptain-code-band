@@ -1,0 +1,14 @@
+{
+  "name": "blcaptain-code-band",
+  "description": "代码乐团 · Code Band 配乐 skill",
+  "owner": {
+    "name": "爆裂队长NEXT（BLCaptain）"
+  },
+  "plugins": [
+    {
+      "name": "code-band",
+      "source": "./",
+      "description": "Agent 写谱、本地采样演奏的无人声配乐 skill"
+    }
+  ]
+}

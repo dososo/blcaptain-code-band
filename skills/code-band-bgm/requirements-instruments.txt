@@ -1,0 +1,7 @@
+# 可选多标签候选环境，本机以 Python 3.12 验证；默认渲染不安装这些依赖。
+torch==2.9.1
+numpy==2.2.6
+scipy==1.15.3
+soundfile==0.13.1
+librosa==0.11.0
+# torchlibrosa==0.1.0 另按 references/合奏与段落分析.md 安装到显式独立 target 并登记摘要。
