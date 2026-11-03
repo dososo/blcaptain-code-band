@@ -4,6 +4,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) ![Agent Skill](https://img.shields.io/badge/Agent-Skill-9e4b3b.svg) ![Python](https://img.shields.io/badge/Python-%E2%89%A5%203.10-2b2622.svg)
 
+![代码乐团：一句话创作背景音乐](docs/images/code-band-hero.png)
+
 > 让 Claude Code、Codex 给你写配乐：Agent 读需求、写乐谱，本地的真实乐器采样逐音演奏，交付**可编辑的乐谱工程**和 **WAV**。不调用生成式音频模型，不上传你的文件。
 
 > **▶ 在线试听页**：<https://dososo.github.io/blcaptain-code-band/site/>：五段作品，覆盖中西合奏、管弦、钢琴和电子。
