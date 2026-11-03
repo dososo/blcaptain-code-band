@@ -6,7 +6,7 @@
 
 > 让 Claude Code、Codex 给你写配乐：Agent 读需求、写乐谱，本地的真实乐器采样逐音演奏，交付**可编辑的乐谱工程**和 **WAV**。不调用生成式音频模型，不上传你的文件。
 
-> **▶ 在线试听页**：<https://dososo.github.io/blcaptain-code-band/site/>：八段作品，覆盖中西合奏、古琴、古筝、管弦、钢琴和电子。
+> **▶ 在线试听页**：<https://dososo.github.io/blcaptain-code-band/site/>：五段作品，覆盖中西合奏、管弦、钢琴和电子。
 
 ---
 

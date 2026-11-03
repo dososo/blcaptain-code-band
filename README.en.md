@@ -6,7 +6,7 @@
 
 > An agent skill for Claude Code and Codex that writes instrumental background music as code: the agent composes a score, a local sampler plays real recorded instruments note by note, and you get an **editable score project** plus a **WAV**. No generative audio model, no uploads.
 
-**▶ Listen**: <https://dososo.github.io/blcaptain-code-band/site/>. Eight pieces, covering Chinese–Western ensemble, guqin, guzheng, orchestra, piano and electronic.
+**▶ Listen**: <https://dososo.github.io/blcaptain-code-band/site/>. Five pieces, covering Chinese–Western ensemble, orchestra, piano and electronic.
 
 ## What it does
 

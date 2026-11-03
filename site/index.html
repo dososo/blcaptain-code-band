@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>代码乐团 · 试听</title>
-<meta name="description" content="代码乐团：用 Agent 写谱、本地真实采样演奏的无人声配乐。八段试听。">
+<meta name="description" content="代码乐团：用 Agent 写谱、本地真实采样演奏的无人声配乐。五段试听。">
 <style>
   :root {
     --paper: #f4e9dc;      /* 米纸暖底 */
@@ -33,51 +33,28 @@
   .tag { display: inline-block; margin-right: 8px; font-size: 13px; color: var(--celadon); }
   .note { font-size: 14px; color: var(--ink-soft); }
   audio { display: block; width: 100%; margin-top: 20px; }
-  .ab { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-top: 20px; }
-  .ab figure { margin: 0; }
-  .ab figcaption { font-size: 14px; color: var(--ink-soft); }
-  .ab audio { margin-top: 8px; }
   footer { margin-top: 96px; font-size: 13px; color: var(--ink-soft); }
   footer p { margin: 8px 0; }
   @media (max-width: 560px) {
     main { padding: 64px 16px 96px; }
     h1 { font-size: 34px; }
-    .ab { grid-template-columns: 1fr; }
   }
 </style>
 </head>
 <body>
 <main>
   <h1>代码乐团</h1>
-  <p class="lead">给编码 Agent 用的配乐技能：Agent 读需求、写乐谱，本地的真实乐器采样逐音演奏，交付可编辑的工程和 WAV。下面八段都是这样做出来的，没有使用生成式音频模型。</p>
+  <p class="lead">给编码 Agent 用的配乐技能：Agent 读需求、写乐谱，本地的真实乐器采样逐音演奏，交付可编辑的工程和 WAV。下面五段都是这样做出来的，没有使用生成式音频模型。</p>
   <p class="meta">无人声配乐 · Claude Code / Codex · 代码 Apache-2.0 · <a href="https://github.com/dososo/blcaptain-code-band">GitHub 仓库</a></p>
 
   <section>
-    <h2>中西合奏与民族乐器</h2>
+    <h2>中西合奏</h2>
 
     <article class="work">
       <h3>远山回声</h3>
       <p class="spec">29 秒 · D 宫五声 · 72 BPM</p>
       <p>古琴起句，二胡唱主题，古筝八分音符流动；圆号应答，弦乐组托住高潮，定音鼓收尾。先写编排计划，再用 <code>arrange-check</code> 核对声部关系和唯一高峰。</p>
       <audio controls preload="none" src="audio/yuanshan-huisheng.mp3"></audio>
-    </article>
-
-    <article class="work">
-      <h3>松下</h3>
-      <p class="spec">36 秒 · 古琴独奏</p>
-      <p>古琴两声部：按音走旋律，散音作低音。采样来自 GuqinSonGest 古琴录音集（CC BY 4.0）。</p>
-      <audio controls preload="none" src="audio/songxia-guqin.mp3"></audio>
-      <p class="note">这段用的是古琴音色第一版；公开版附带的是第二版，补了泛音和吟猱绰注。</p>
-    </article>
-
-    <article class="work">
-      <h3>古筝：修复前后</h3>
-      <p class="spec">各 12 秒 · 等响度对照（−23 LUFS）</p>
-      <p>同一段《霜河》。旧版古筝切片混进了前一个音的余振，听起来发浑；重新切片后，每个音的起止干净了。</p>
-      <div class="ab">
-        <figure><figcaption>修复前</figcaption><audio controls preload="none" src="audio/guzheng-ab-before.mp3"></audio></figure>
-        <figure><figcaption>修复后</figcaption><audio controls preload="none" src="audio/guzheng-ab-after.mp3"></audio></figure>
-      </div>
     </article>
   </section>
 
